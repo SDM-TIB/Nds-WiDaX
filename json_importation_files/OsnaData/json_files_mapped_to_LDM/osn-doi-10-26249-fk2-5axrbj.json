@@ -1,0 +1,83 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Lange, Silke",
+            "givenName": "Silke",
+            "familyName": "Lange",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/5AXRBJ",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-5axrbj",
+    "notes": "Die Daten stammen aus einer L\u00e4ngsschnittstudie zur professionsbezogenen Entwicklung von Studierenden in Studieng\u00e4ngen f\u00fcr das Lehramt an berufsbildenden Schulen (LBS-Monitor). Die Studie wird durchgef\u00fchrt im Rahmen des Projektes \"DEIN LBS-Campus\", das vom Bundesministerium f\u00fcr Bildung und Forschung gef\u00f6rdert wird (Laufzeit: 01.03.2020-31.12.2023). \u00dcber Onlinebefragungen an mehreren Standorten der hochschulischen beruflichen Lehrerbildung werden soziodemographische Merkmale der Studierenden, Angaben zum Studium und zu den Studienvoraussetzungen, Merkmale der professionsbezogenen Entwicklung, verschiedene Studien- und berufsbezogene Aspekte und ausgew\u00e4hlte Qualit\u00e4tsaspekte sowie formale Leistungsindikatoren erfasst. Die 4. Welle wurde im Wintersemester 2022/23 durchgef\u00fchrt. Zur Verf\u00fcgung gestellt werden eine Scientific-Use-File (SUF) des Wellendatensatzes und des Gesamtdatensatzes. Beide stehen im SPSS-Format zur Verf\u00fcgung. Die bereinigte SUF des Wellendatensatzes umfasst 223 F\u00e4lle und 382 Variablen. Die SUF Gesamtdatensatzes umfasst 1.191 F\u00e4lle und 1.168 Variablen. Die Daten werden \u00fcber verschiedene Berichte dokumentiert. Das Skalenhandbuch enth\u00e4lt eine Dokumentation des Gesamtdatensatzes und wird \u00fcber die Erhebungswellen fortgeschrieben. Das Codebook, der Datenbericht und der Wellenbericht beziehen sich auf die 4. Erhebungswelle. Das Codebook dokumentiert die erhobenen Variablen hinsichtlich Fragestellung und Codierung, im Datenbericht werden statistische Kennwerte berichtet. Die Erhebung und ausgew\u00e4hlte Analyseergebnisse sind im Wellenbericht zu finden.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Suf lbs-monitor: 4. erhebungswelle",
+    "url": "https://doi.org/10.26249/FK2/5AXRBJ",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Social Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Lehrerbildung"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Lehramtsstudium"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "berufliche Lehrerbildung"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "370 - Education"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "Lehrerbildung",
+            "name": "Lehrerbildung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lehramtsstudium",
+            "name": "Lehramtsstudium",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "berufliche Lehrerbildung",
+            "name": "berufliche Lehrerbildung",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

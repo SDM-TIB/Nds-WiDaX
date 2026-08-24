@@ -1,0 +1,67 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Storch, Marcel",
+            "givenName": "Marcel",
+            "familyName": "Storch",
+            "orcid": "0000-0001-5726-6297"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/VCLSLK",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-vclslk",
+    "notes": "Digital terrain model of an agricultural area near Linne, Bissendorf (Lower Saxony, Germany) calculated from drone laser scanning. Height reference system: Ellipsoidal heights. Coordinate reference system: UTM zone 32 related to ETRS89. Unit: metres.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Digital terrain model (dtm) agricultural field near linne, bissendorf",
+    "url": "https://doi.org/10.26249/FK2/VCLSLK",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Agricultural Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "333.7 - Natural resources, energy and environment"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "500 - Natural sciences & mathematics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "550 - Earth sciences"
+        }
+    ],
+    "resource_type": "Dataset"
+}

@@ -1,0 +1,137 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2022",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Schnieders, Kathrin",
+            "givenName": "Kathrin",
+            "familyName": "Schnieders",
+            "orcid": "0000-0002-1149-9623"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/ADQVEK",
+    "doi_date_published": "2022",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-adqvek",
+    "notes": "This dataset was created as part of the TAPIR project to identify internal ORCID coverage at Osnabr\u00fcck University and to investigate external ORCID Coverage/Intersection in selected external open data sources (FREYA, ORCID, OpenAlex). Only researchers employed at Osnabr\u00fcck University in June 2021 and with status full professor or project manager in third-party funded projects are considered (264 persons in total). The dataset contains additional information about researchers\u2019 field and research topic retrieved by local Current Information System (CRIS). Personal data was anonymized for further processing via an internally resolvable identifier (primary key).\nThe present dataset is the result of mapping and anonymized aggregation of the internally compiled list and externally queried lists from FREYA, ORCID, and OpenAlex generated via the query tool \"pidgraph-notebooks\" (https://doi.org/10.5281/zenodo.6373245). The context of the data collection and analysis is described in more detail in the related publication.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Tapir - dataset for identifying internal and external orcid coverage for osnabr\u00fcck university",
+    "url": "https://doi.org/10.26249/FK2/ADQVEK",
+    "citation": [],
+    "publication_year": "2022",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Persistent Identifier (PID)"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "linked open metadata"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Current Research Information System (CRIS)"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "(semi-)automated research reporting"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "ORCID"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "OpenAlex"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "ROR"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "FREYA"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "020 - Library & information science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "350 - Public administration"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "Persistent Identifier PID",
+            "name": "Persistent Identifier PID",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "linked open metadata",
+            "name": "linked open metadata",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Current Research Information System CRIS",
+            "name": "Current Research Information System CRIS",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "semi-automated research reporting",
+            "name": "semi-automated research reporting",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ORCID",
+            "name": "ORCID",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "OpenAlex",
+            "name": "OpenAlex",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ROR",
+            "name": "ROR",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "FREYA",
+            "name": "FREYA",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

@@ -1,0 +1,623 @@
+{
+    "header": {
+        "identifier": "doi:10.26249/FK2/5BT1IQ",
+        "datestamp": "2022-09-24T00:00:00Z",
+        "setSpecs": [],
+        "status": null
+    },
+    "metadata": {
+        "metadataFormat": "oai_datacite",
+        "identifier": {
+            "value": "10.26249/FK2/5BT1IQ",
+            "identifierType": "DOI"
+        },
+        "creators": [
+            {
+                "creatorName": {
+                    "value": "Vanessa Opladen",
+                    "nameType": "Personal"
+                },
+                "givenName": "Vanessa",
+                "familyName": "Opladen",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0002-9916-2469",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": [
+                    {
+                        "value": "Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Vivell, Maj-Britt",
+                    "nameType": "Personal"
+                },
+                "givenName": "Maj-Britt",
+                "familyName": "Vivell",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0002-9503-5112",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": [
+                    {
+                        "value": "University of Konstanz",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Kroemeke, Antonia",
+                    "nameType": "Personal"
+                },
+                "givenName": "Antonia",
+                "familyName": "Kroemeke",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Heithoff, Sarah",
+                    "nameType": "Personal"
+                },
+                "givenName": "Sarah",
+                "familyName": "Heithoff",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Lucht, Antonia",
+                    "nameType": "Personal"
+                },
+                "givenName": "Antonia",
+                "familyName": "Lucht",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Hartmann, Andrea S.",
+                    "nameType": "Personal"
+                },
+                "givenName": "Andrea S.",
+                "familyName": "Hartmann",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0002-6251-3763",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": [
+                    {
+                        "value": "University of Konstanz",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Vocks, Silja",
+                    "nameType": "Personal"
+                },
+                "givenName": "Silja",
+                "familyName": "Vocks",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0001-8498-9466",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": [
+                    {
+                        "value": "Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "titles": [
+            {
+                "value": "Validating the Induction of Neutral Mood from Videos",
+                "titleType": null,
+                "lang": null
+            }
+        ],
+        "publisher": {
+            "value": "osnaData",
+            "publisherIdentifier": null,
+            "publisherIdentifierScheme": null,
+            "schemeURI": null,
+            "lang": null
+        },
+        "publicationYear": "2022",
+        "resourceType": {
+            "value": "experimentelle Daten",
+            "resourceTypeGeneral": "Dataset"
+        },
+        "subjects": [
+            {
+                "value": "Medicine, Health and Life Sciences",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Other",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            }
+        ],
+        "contributors": [
+            {
+                "contributorType": "ContactPerson",
+                "contributorName": {
+                    "value": "Vanessa Opladen",
+                    "nameType": "Personal"
+                },
+                "givenName": "Vanessa",
+                "familyName": "Opladen",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "dates": [
+            {
+                "value": "2022-09-09",
+                "dateType": "Created",
+                "dateInformation": null
+            },
+            {
+                "value": "2022-09-19",
+                "dateType": "Submitted",
+                "dateInformation": null
+            },
+            {
+                "value": "2022-09-23",
+                "dateType": "Updated",
+                "dateInformation": null
+            }
+        ],
+        "language": null,
+        "alternateIdentifiers": [],
+        "relatedIdentifiers": [
+            {
+                "value": "https://www.drks.de/drks_web/navigate.do?navigationId=trial.HTML&TRIAL_ID=DRKS00025780",
+                "relationType": "IsCitedBy",
+                "relatedIdentifierType": "URL",
+                "relatedMetadataScheme": null,
+                "schemeURI": null,
+                "schemeType": null,
+                "resourceTypeGeneral": null
+            }
+        ],
+        "sizes": [
+            "48588",
+            "1062941",
+            "5821"
+        ],
+        "formats": [
+            "application/x-spss-sav",
+            "image/png",
+            "text/plain"
+        ],
+        "version": "1.0",
+        "rightsList": [
+            {
+                "value": null,
+                "rightsURI": "info:eu-repo/semantics/openAccess",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            },
+            {
+                "value": "CC0 Waiver",
+                "rightsURI": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            }
+        ],
+        "descriptions": [
+            {
+                "value": "In this experimental study, we aimed at validating the induction of neutral mood by means of participants rating of four 10-minute video sequences showing landscape scenes. The induction of neutral mood is part of a larger experiment (preregistration: drks.de. ID: DRKS00025780) funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG).",
+                "descriptionType": "Abstract",
+                "lang": null
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "Osnabrueck, Lower-Saxony, Germany",
+                "geoLocationPoint": null,
+                "geoLocationBox": null,
+                "geoLocationPolygons": []
+            }
+        ],
+        "fundingReferences": [],
+        "relatedItems": [],
+        "citation": {
+            "displayName": "Citation Metadata",
+            "fields": [
+                {
+                    "typeName": "title",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Validating the Induction of Neutral Mood from Videos"
+                },
+                {
+                    "typeName": "author",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Vanessa Opladen"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Osnabrueck University"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0002-9916-2469"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Vivell, Maj-Britt"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "University of Konstanz"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0002-9503-5112"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Kroemeke, Antonia"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Osnabrueck University"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Heithoff, Sarah"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Osnabrueck University"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Lucht, Antonia"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Osnabrueck University"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Hartmann, Andrea S."
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "University of Konstanz"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0002-6251-3763"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Vocks, Silja"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Osnabrueck University"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0001-8498-9466"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "datasetContact",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "datasetContactName": {
+                                "typeName": "datasetContactName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Vanessa Opladen"
+                            },
+                            "datasetContactAffiliation": {
+                                "typeName": "datasetContactAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Osnabrueck University"
+                            },
+                            "datasetContactEmail": {
+                                "typeName": "datasetContactEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "vanessa.opladen@uni-osnabrueck.de"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "dsDescription",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "dsDescriptionValue": {
+                                "typeName": "dsDescriptionValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "In this experimental study, we aimed at validating the induction of neutral mood by means of participants rating of four 10-minute video sequences showing landscape scenes. The induction of neutral mood is part of a larger experiment (preregistration: drks.de. ID: DRKS00025780) funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)."
+                            },
+                            "dsDescriptionDate": {
+                                "typeName": "dsDescriptionDate",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "2022-09-09"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "subject",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "Medicine, Health and Life Sciences",
+                        "Other"
+                    ]
+                },
+                {
+                    "typeName": "ddc",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "150 - Psychology"
+                    ]
+                },
+                {
+                    "typeName": "publication",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "publicationCitation": {
+                                "typeName": "publicationCitation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "The induction of neutral mood is part of a larger experiment (preregistration: drks.de. ID: DRKS00025780) funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG), resulting publications are in preparation."
+                            },
+                            "publicationIDType": {
+                                "typeName": "publicationIDType",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "url"
+                            },
+                            "publicationIDNumber": {
+                                "typeName": "publicationIDNumber",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "DRKS00025780"
+                            },
+                            "publicationURL": {
+                                "typeName": "publicationURL",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "https://www.drks.de/drks_web/navigate.do?navigationId=trial.HTML&TRIAL_ID=DRKS00025780"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "language",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "English"
+                    ]
+                },
+                {
+                    "typeName": "productionDate",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2022-09-09"
+                },
+                {
+                    "typeName": "productionPlace",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Osnabrueck, Lower-Saxony, Germany"
+                },
+                {
+                    "typeName": "depositor",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Opladen, Vanessa"
+                },
+                {
+                    "typeName": "dateOfDeposit",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2022-09-19"
+                },
+                {
+                    "typeName": "kindOfData",
+                    "multiple": true,
+                    "typeClass": "primitive",
+                    "value": [
+                        "experimentelle Daten"
+                    ]
+                },
+                {
+                    "typeName": "relatedMaterial",
+                    "multiple": true,
+                    "typeClass": "primitive",
+                    "value": [
+                        "1. Dataset.sav.\n2. Read_me_data: Description of the study.\n3. Figure 1, Procedure of the study.\n\nThe video material supporting the findings of this study is available upon request from the corresponding author, Vanessa Opladen, for unrestricted use in terms of scientific purposes."
+                    ]
+                },
+                {
+                    "typeName": "licenseApproval",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "on 2022-09-23, user vanessa.opladen@uni-osnabrueck.de approved the following license text: <p><h3>Lizenzvereinbarung \u2013 Deposit License</h3></p><p>Hiermit gestatte ich der Universit\u00e4t Osnabr\u00fcck, vertreten durch die Pr\u00e4sidentin/den Pr\u00e4sidenten, durchf\u00fchrende Organisationseinheit: Universit\u00e4tsbibliothek (UB), vertreten durch die Leitende Bibliotheksdirektorin/den Leitenden Bibliotheksdirektor, meine digitalen Forschungsdaten einschlie\u00dflich Abstract und Metadaten zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzerinnen und Nutzer berechtigt, Forschungsdaten nach Ma\u00dfgabe des Urheberrechts unentgeltlich zu nutzen, insbesondere, Forschungsdaten zum privaten und sonstigen eigenen Gebrauch herunter zu laden oder zu speichern. </p> <h4>Rechteeinr\u00e4umung </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck an seinen/ihren Forschungsdaten einschlie\u00dflich Abstract und Metadaten zeitlich unbegrenzt und unwiderruflich das nicht ausschlie\u00dfliche Recht zur \u00f6ffentlichen Zug\u00e4nglichmachung, zur langfristigen Speicherung auf dem institutionellem Forschungsdatenrepositorium <i>osnaData</i> der Universit\u00e4t Osnabr\u00fcck und zur Vervielf\u00e4ltigung zu diesen Zwecken ein. Der urheberrechtliche Schutz bleibt durch diese Lizenz unber\u00fchrt. Die Universit\u00e4t Osnabr\u00fcck beh\u00e4lt sich vor, Forschungsdaten wegen inhaltlicher oder technischer M\u00e4ngel oder eines ungekl\u00e4rten rechtlichen Status abzulehnen. </p> <h4>Rechte Dritter </h4> <p>Der Urheber/die Urheberin der Forschungsdaten erkl\u00e4rt, dass mit der Bereitstellung seiner/ihrer Forschungsdaten und jedes Bestandteils (z. B. beschreibende Dokumentationen) keine Rechte Dritter (z. B. Miturheber, Co-Autoren, Verlage, Drittmittelgeber) verletzt werden. Insbesondere hat bisher kein Verlag oder sonstiger Dritter (z. B. Drittmittelgeber) ein ausschlie\u00dfliches Nutzungsrecht. </p> <p>Der Urheber/die Urheberin der Forschungsdaten verpflichtet sich, die Universit\u00e4t Osnabr\u00fcck von solchen Anspr\u00fcchen Dritter freizustellen, die sich daraus ergeben, dass es aufgrund schuldhafter falscher Angaben des Urhebers/der Urheberin bez\u00fcglich des Nichtbestehens von Rechten Dritter oder sonstiger von ihm/ihr zu vertretenden Umst\u00e4nden durch die Ver\u00f6ffentlichung seines/ihres Werkes auf <i>osnaData</i> zu einer Verletzung von Urheberrechten oder ausschlie\u00dflichen Nutzungsrechten kommt. Das gilt nicht, wenn die Verletzung auf einem vors\u00e4tzlichen oder grob fahrl\u00e4ssigen Verhalten der Universit\u00e4t Osnabr\u00fcck als Betreiberin von <i>osnaData</i> beruht und dem Urheber/der Urheberin der Forschungsdaten nicht in gleicher Weise Vorsatz oder grobe Fahrl\u00e4ssigkeit zu Last f\u00e4llt. Im letzteren Fall erfolgt eine Aufteilung des Schadens insbesondere unter Abw\u00e4gung der Verschuldensanteile. </p> <p>Die Vertragsparteien verpflichten sich, einander unverz\u00fcglich zu informieren, wenn Dritte Anspr\u00fcche aufgrund der ihnen zustehenden Urheber- bzw. Nutzungsrechte an den digitalen Forschungsdaten gegen sie erheben. </p> <p>Die Universit\u00e4t Osnabr\u00fcck ist berechtigt, den Zugriff auf die Forschungsdaten zu sperren, soweit konkrete Anhaltspunkte f\u00fcr eine Verletzung von Rechten Dritter bestehen oder andere rechtliche Vorschriften dies erfordern. </p> <h4>Langzeitarchivierung und Transformation in andere Formate </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, seine/ihre bereitgestellten Forschungsdaten in einem Langzeitarchiv zu speichern und bei Bedarf (z. B. technische Nutzbarkeit, Migration, Barrierefreiheit, bessere Zug\u00e4nglichkeit oder Erschlie\u00dfung) in andere elektronische Formate zu \u00fcberf\u00fchren (Formatkonvertierung). </p> <h4>Weitergabe von Metadaten und Dokumenten </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, die Metadaten einschlie\u00dflich Abstract seiner/ihrer Forschungsdaten anderen Datenbanken gem\u00e4\u00df den FAIR-Prinzipien  unentgeltlich unter der Lizenz CC0 zur Verf\u00fcgung zu stellen. Dar\u00fcber hinaus r\u00e4umt er/sie der Universit\u00e4t Osnabr\u00fcck das Recht ein, seine/ihre Forschungsdaten Dritten im Rahmen nationaler Sammelauftr\u00e4ge zur Online-Bereitstellung oder Archivierung zur Verf\u00fcgung zu stellen. </p> <p>Die durch diesen Vertrag einger\u00e4umten Rechte k\u00f6nnen ganz oder teilweise auf Dritte \u00fcbertragen und einfache Nutzungsrechte an andere Repositorien vergeben bzw. ein Dritter mit der Bereitstellung des Dokuments beauftragt werden, ohne dass es hierzu einer gesonderten Zustimmung des Urhebers/der Urheberin der Forschungsdaten bedarf. </p> <p><b>Ansprechpartner f\u00fcr alle <i>osnaData</i> betreffenden technischen und inhaltlichen Fragen ist die Administration von <i>osnaData</i>. Email: <a class=\"mail\" href=\"mailto:osnadata@ub.uni-osnabrueck.de\">osnadata@ub.uni-osnabrueck.de</a><b></p> "
+                },
+                {
+                    "typeName": "externalFile",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "externalFileEmail": {
+                                "typeName": "externalFileEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "vanessa.opladen@uni-osnabrueck.de"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "license": "CC0"
+    }
+}

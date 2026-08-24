@@ -1,0 +1,397 @@
+{
+    "header": {
+        "identifier": "doi:10.26249/FK2/ZGVJAJ",
+        "datestamp": "2022-09-17T00:00:00Z",
+        "setSpecs": [],
+        "status": null
+    },
+    "metadata": {
+        "metadataFormat": "oai_datacite",
+        "identifier": {
+            "value": "10.26249/FK2/ZGVJAJ",
+            "identifierType": "DOI"
+        },
+        "creators": [
+            {
+                "creatorName": {
+                    "value": "Schnieders, Kathrin",
+                    "nameType": "Personal"
+                },
+                "givenName": "Kathrin",
+                "familyName": "Schnieders",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0002-1149-9623",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": [
+                    {
+                        "value": "Osnabr\u00fcck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "titles": [
+            {
+                "value": "TAPIR - Dataset for identifying internal and external ORCID Coverage for Leibniz Information Centre for Science and Technology Hannover",
+                "titleType": null,
+                "lang": null
+            }
+        ],
+        "publisher": {
+            "value": "osnaData",
+            "publisherIdentifier": null,
+            "publisherIdentifierScheme": null,
+            "schemeURI": null,
+            "lang": null
+        },
+        "publicationYear": "2022",
+        "resourceType": {
+            "value": null,
+            "resourceTypeGeneral": "Dataset"
+        },
+        "subjects": [
+            {
+                "value": "Computer and Information Science",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "(Semi-)automated research reporting",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "linked open metadata",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Current Research Information System (CRIS)",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Persistent Identifier (PID)",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "ORCID",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "FREYA",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "ROR",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "OpenAlex",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            }
+        ],
+        "contributors": [
+            {
+                "contributorType": "ContactPerson",
+                "contributorName": {
+                    "value": "Schnieders, Kathrin",
+                    "nameType": "Personal"
+                },
+                "givenName": "Kathrin",
+                "familyName": "Schnieders",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Osnabr\u00fcck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "dates": [
+            {
+                "value": "2022-07-29",
+                "dateType": "Submitted",
+                "dateInformation": null
+            },
+            {
+                "value": "2022-09-16",
+                "dateType": "Updated",
+                "dateInformation": null
+            }
+        ],
+        "language": null,
+        "alternateIdentifiers": [],
+        "relatedIdentifiers": [],
+        "sizes": [
+            "433196",
+            "3165",
+            "14730"
+        ],
+        "formats": [
+            "application/pdf",
+            "text/csv",
+            "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        ],
+        "version": "2.0",
+        "rightsList": [
+            {
+                "value": null,
+                "rightsURI": "info:eu-repo/semantics/openAccess",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            },
+            {
+                "value": "CC0 Waiver",
+                "rightsURI": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            }
+        ],
+        "descriptions": [
+            {
+                "value": "This dataset was created as part of the TAPIR project to identify internal ORCID coverage at TIB \u2013 Leibniz Information Centre for Science and Technology Hannover \u2014 and to investigate external ORCID Coverage/Intersection in selected external open data sources (FREYA, ORCID, OpenAlex).\nOnly researchers employed at TIB in June 2021 are considered (93 persons in total). Personal data was anonymized for further processing via an internally resolvable identifier (primary key).\nThe present dataset is the result of mapping and anonymized aggregation of the internally compiled list and externally queried lists from FREYA, ORCID, and OpenAlex generated via the query tool \"pidgraph-notebooks\" (https://doi.org/10.5281/zenodo.6373245). The context of the data collection and analysis is described in more detail in the related publication.",
+                "descriptionType": "Abstract",
+                "lang": null
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "relatedItems": [],
+        "citation": {
+            "displayName": "Citation Metadata",
+            "fields": [
+                {
+                    "typeName": "title",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "TAPIR - Dataset for identifying internal and external ORCID Coverage for Leibniz Information Centre for Science and Technology Hannover"
+                },
+                {
+                    "typeName": "author",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Schnieders, Kathrin"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Osnabr\u00fcck University"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0002-1149-9623"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "datasetContact",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "datasetContactName": {
+                                "typeName": "datasetContactName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Schnieders, Kathrin"
+                            },
+                            "datasetContactAffiliation": {
+                                "typeName": "datasetContactAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Osnabr\u00fcck University"
+                            },
+                            "datasetContactEmail": {
+                                "typeName": "datasetContactEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "kathrin.schnieders@uni-osnabrueck.de"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "dsDescription",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "dsDescriptionValue": {
+                                "typeName": "dsDescriptionValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "This dataset was created as part of the TAPIR project to identify internal ORCID coverage at TIB \u2013 Leibniz Information Centre for Science and Technology Hannover \u2014 and to investigate external ORCID Coverage/Intersection in selected external open data sources (FREYA, ORCID, OpenAlex).\nOnly researchers employed at TIB in June 2021 are considered (93 persons in total). Personal data was anonymized for further processing via an internally resolvable identifier (primary key).\nThe present dataset is the result of mapping and anonymized aggregation of the internally compiled list and externally queried lists from FREYA, ORCID, and OpenAlex generated via the query tool \"pidgraph-notebooks\" (https://doi.org/10.5281/zenodo.6373245). The context of the data collection and analysis is described in more detail in the related publication."
+                            },
+                            "dsDescriptionDate": {
+                                "typeName": "dsDescriptionDate",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "2022-07-29"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "subject",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "Computer and Information Science"
+                    ]
+                },
+                {
+                    "typeName": "ddc",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "020 - Library & information science",
+                        "350 - Public administration"
+                    ]
+                },
+                {
+                    "typeName": "keyword",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "(Semi-)automated research reporting"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "linked open metadata"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Current Research Information System (CRIS)"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Persistent Identifier (PID)"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "ORCID"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "FREYA"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "ROR"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "OpenAlex"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "depositor",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Schnieders, Kathrin"
+                },
+                {
+                    "typeName": "dateOfDeposit",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2022-07-29"
+                },
+                {
+                    "typeName": "licenseApproval",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "on 2022-09-16, user marco.gronwald@uni-osnabrueck.de approved the following license text: <p><h3>Lizenzvereinbarung \u2013 Deposit License</h3></p><p>Hiermit gestatte ich der Universit\u00e4t Osnabr\u00fcck, vertreten durch die Pr\u00e4sidentin/den Pr\u00e4sidenten, durchf\u00fchrende Organisationseinheit: Universit\u00e4tsbibliothek (UB), vertreten durch die Leitende Bibliotheksdirektorin/den Leitenden Bibliotheksdirektor, meine digitalen Forschungsdaten einschlie\u00dflich Abstract und Metadaten zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzerinnen und Nutzer berechtigt, Forschungsdaten nach Ma\u00dfgabe des Urheberrechts unentgeltlich zu nutzen, insbesondere, Forschungsdaten zum privaten und sonstigen eigenen Gebrauch herunter zu laden oder zu speichern. </p> <h4>Rechteeinr\u00e4umung </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck an seinen/ihren Forschungsdaten einschlie\u00dflich Abstract und Metadaten zeitlich unbegrenzt und unwiderruflich das nicht ausschlie\u00dfliche Recht zur \u00f6ffentlichen Zug\u00e4nglichmachung, zur langfristigen Speicherung auf dem institutionellem Forschungsdatenrepositorium <i>osnaData</i> der Universit\u00e4t Osnabr\u00fcck und zur Vervielf\u00e4ltigung zu diesen Zwecken ein. Der urheberrechtliche Schutz bleibt durch diese Lizenz unber\u00fchrt. Die Universit\u00e4t Osnabr\u00fcck beh\u00e4lt sich vor, Forschungsdaten wegen inhaltlicher oder technischer M\u00e4ngel oder eines ungekl\u00e4rten rechtlichen Status abzulehnen. </p> <h4>Rechte Dritter </h4> <p>Der Urheber/die Urheberin der Forschungsdaten erkl\u00e4rt, dass mit der Bereitstellung seiner/ihrer Forschungsdaten und jedes Bestandteils (z. B. beschreibende Dokumentationen) keine Rechte Dritter (z. B. Miturheber, Co-Autoren, Verlage, Drittmittelgeber) verletzt werden. Insbesondere hat bisher kein Verlag oder sonstiger Dritter (z. B. Drittmittelgeber) ein ausschlie\u00dfliches Nutzungsrecht. </p> <p>Der Urheber/die Urheberin der Forschungsdaten verpflichtet sich, die Universit\u00e4t Osnabr\u00fcck von solchen Anspr\u00fcchen Dritter freizustellen, die sich daraus ergeben, dass es aufgrund schuldhafter falscher Angaben des Urhebers/der Urheberin bez\u00fcglich des Nichtbestehens von Rechten Dritter oder sonstiger von ihm/ihr zu vertretenden Umst\u00e4nden durch die Ver\u00f6ffentlichung seines/ihres Werkes auf <i>osnaData</i> zu einer Verletzung von Urheberrechten oder ausschlie\u00dflichen Nutzungsrechten kommt. Das gilt nicht, wenn die Verletzung auf einem vors\u00e4tzlichen oder grob fahrl\u00e4ssigen Verhalten der Universit\u00e4t Osnabr\u00fcck als Betreiberin von <i>osnaData</i> beruht und dem Urheber/der Urheberin der Forschungsdaten nicht in gleicher Weise Vorsatz oder grobe Fahrl\u00e4ssigkeit zu Last f\u00e4llt. Im letzteren Fall erfolgt eine Aufteilung des Schadens insbesondere unter Abw\u00e4gung der Verschuldensanteile. </p> <p>Die Vertragsparteien verpflichten sich, einander unverz\u00fcglich zu informieren, wenn Dritte Anspr\u00fcche aufgrund der ihnen zustehenden Urheber- bzw. Nutzungsrechte an den digitalen Forschungsdaten gegen sie erheben. </p> <p>Die Universit\u00e4t Osnabr\u00fcck ist berechtigt, den Zugriff auf die Forschungsdaten zu sperren, soweit konkrete Anhaltspunkte f\u00fcr eine Verletzung von Rechten Dritter bestehen oder andere rechtliche Vorschriften dies erfordern. </p> <h4>Langzeitarchivierung und Transformation in andere Formate </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, seine/ihre bereitgestellten Forschungsdaten in einem Langzeitarchiv zu speichern und bei Bedarf (z. B. technische Nutzbarkeit, Migration, Barrierefreiheit, bessere Zug\u00e4nglichkeit oder Erschlie\u00dfung) in andere elektronische Formate zu \u00fcberf\u00fchren (Formatkonvertierung). </p> <h4>Weitergabe von Metadaten und Dokumenten </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, die Metadaten einschlie\u00dflich Abstract seiner/ihrer Forschungsdaten anderen Datenbanken gem\u00e4\u00df den FAIR-Prinzipien  unentgeltlich unter der Lizenz CC0 zur Verf\u00fcgung zu stellen. Dar\u00fcber hinaus r\u00e4umt er/sie der Universit\u00e4t Osnabr\u00fcck das Recht ein, seine/ihre Forschungsdaten Dritten im Rahmen nationaler Sammelauftr\u00e4ge zur Online-Bereitstellung oder Archivierung zur Verf\u00fcgung zu stellen. </p> <p>Die durch diesen Vertrag einger\u00e4umten Rechte k\u00f6nnen ganz oder teilweise auf Dritte \u00fcbertragen und einfache Nutzungsrechte an andere Repositorien vergeben bzw. ein Dritter mit der Bereitstellung des Dokuments beauftragt werden, ohne dass es hierzu einer gesonderten Zustimmung des Urhebers/der Urheberin der Forschungsdaten bedarf. </p> <p><b>Ansprechpartner f\u00fcr alle <i>osnaData</i> betreffenden technischen und inhaltlichen Fragen ist die Administration von <i>osnaData</i>. Email: <a class=\"mail\" href=\"mailto:osnadata@ub.uni-osnabrueck.de\">osnadata@ub.uni-osnabrueck.de</a><b></p> "
+                }
+            ]
+        },
+        "license": "CC0"
+    }
+}

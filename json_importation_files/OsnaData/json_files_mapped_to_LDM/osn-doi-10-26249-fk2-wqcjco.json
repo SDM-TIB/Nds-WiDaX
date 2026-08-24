@@ -1,0 +1,115 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Pfannstiel, Anton",
+            "givenName": "Anton",
+            "familyName": "Pfannstiel",
+            "orcid": ""
+        },
+        {
+            "author": "Hehemann, Tobias",
+            "givenName": "Tobias",
+            "familyName": "Hehemann",
+            "orcid": ""
+        },
+        {
+            "author": "Sch\u00e4fer, Nils A.",
+            "givenName": "Nils A.",
+            "familyName": "Sch\u00e4fer",
+            "orcid": ""
+        },
+        {
+            "author": "Sanna, Simone",
+            "givenName": "Simone",
+            "familyName": "Sanna",
+            "orcid": ""
+        },
+        {
+            "author": "Suhak, Yuriy",
+            "givenName": "Yuriy",
+            "familyName": "Suhak",
+            "orcid": ""
+        },
+        {
+            "author": "Vittadello, Laura",
+            "givenName": "Laura",
+            "familyName": "Vittadello",
+            "orcid": ""
+        },
+        {
+            "author": "Sauerwein, Felix",
+            "givenName": "Felix",
+            "familyName": "Sauerwein",
+            "orcid": ""
+        },
+        {
+            "author": "D\u00f6mer, Niklas",
+            "givenName": "Niklas",
+            "familyName": "D\u00f6mer",
+            "orcid": ""
+        },
+        {
+            "author": "Koelmann, Julian",
+            "givenName": "Julian",
+            "familyName": "Koelmann",
+            "orcid": ""
+        },
+        {
+            "author": "Fritze, Holger",
+            "givenName": "Holger",
+            "familyName": "Fritze",
+            "orcid": ""
+        },
+        {
+            "author": "Imlau, Mirco",
+            "givenName": "Mirco",
+            "familyName": "Imlau",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/WQCJCO",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-wqcjco",
+    "notes": "The absorption features of optically generated, short-lived small bound electron polarons are inspected in congruent lithium tantalate, LiTaO<sub>3</sub> (LT), in order to address the question whether it is possible to localize electrons at interstitial Ta<sub>V</sub>:V<sub>Li</sub> defect pairs by strong, short-range electron-phonon coupling. Solid-state photoabsorption spectroscopy under light exposure and density functional theory are used for an experimental and theoretical access to the spectral features of small bound polaron states and to calculate the binding energies of the small bound Ta<sub>Li</sub><sup>4+</sup> (antisite) and Ta<sub>V</sub><sup>4+</sup>:V<sub>Li</sub> (interstitial site) electron polarons. As a result, two energetically well separated (\u2206E \u2248 0.5 eV) absorption features with a distinct dependence on the probe light polarization and peaking at 1.6 eV and 2.1 eV are discovered. We contrast our results to the interpretation of a single small bound Ta<sub>Li</sub><sup>4+</sup> electron state with strong anisotropy of the lattice distortion and discuss the optical generation of interstitial Ta<sub>V</sub><sup>4+</sup>:V<sub>Li</sub> small polarons in the framework of optical gating of Ta<sub>V</sub><sup>4+</sup>:Ta<sub>Ta</sub><sup>4+</sup> bipolarons. We can conclude that the appearance of carrier localization at Ta<sub>V</sub>:V<sub>Li</sub> must be considered as additional intermediate state for the 3D hopping transport mechanisms at room temperature in addition to Ta<sub>Li</sub>, as well, and, thus, impacts a variety of optical, photoelectrical and electrical applications of LT in nonlinear photonics. Furthermore, it is envisaged that LT represents a promising model system for the further examination of the small-polaron based photogalvanic effect in polar oxides with the unique feature of two, energetically well separated small polaron states.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Small electron polarons bound to interstitial tantalum defects in lithium tantalate",
+    "url": "https://doi.org/10.26249/FK2/WQCJCO",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Physics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "500 - Natural sciences & mathematics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "530 - Physics"
+        }
+    ],
+    "resource_type": "Dataset"
+}

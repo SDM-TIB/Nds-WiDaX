@@ -1,0 +1,63 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Toschke, Yannic",
+            "givenName": "Yannic",
+            "familyName": "Toschke",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/QO3ASW",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-qo3asw",
+    "notes": "Non-destructive, specular laser-reflectometry and X-ray fluorescence (XRF) analysis are applied to coins of the Gallic Roman Empire with the objective of allocation of mints and/or the identification of different minting techniques. For this purpose, laser-reflectometric fingerprints of three series of coins, each consisting of five antoniniani (or radiates) of the Gallic Roman Empire originating from two mints - Trier and Cologne-, are systematically determined, analyzed and correlated with the corresponding XRF element analysis. The results show that the use of an inexpensive red-emitting laser system (wavelength 632.8 nm) with a beam diameter d < 0.5 mm and a sample mount that can be adapted to the individual shape and thickness of the coins leads to signal intensities that can be systematically recorded over a large angular range with a very good signal-to-noise ratio (SNR > 10). Although clear characteristics of the mints cannot be derived or recognized from the individual signals, the averaged values of each set of coins enable to distinguish between the sets, to correlate the signal with the silver content of the surface layer and to estimate the refractive index n.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Non-destructive, specular laser-reflectometry and x-ray fluorescence analysis applied to coins of the gallic roman empire",
+    "url": "https://doi.org/10.26249/FK2/QO3ASW",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Physics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Other"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "500 - Natural sciences & mathematics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "530 - Physics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "930 - History of the ancient world"
+        }
+    ],
+    "resource_type": "Dataset"
+}

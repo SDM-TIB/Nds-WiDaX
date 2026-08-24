@@ -1,0 +1,51 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Oswald, Tom",
+            "givenName": "Tom",
+            "familyName": "Oswald",
+            "orcid": "0009-0009-9085-2349"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/TSVDUS",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-tsvdus",
+    "notes": "As part of the master's thesis \"Comparison of the diversity of prokaryotic communities between agricultural and uncultivated soils in the Osnabr\u00fcck region\" (Oswald, 2025), a total of 60 soil samples were taken from 20 agricultural and uncultivated sites (one triplicate each). The samples were analysed to identify similarities and differences in microbial and functional composition. Nanopore sequencing from Oxford Nanopore Technologies (ONT) and subsequent bioinformatic analyses were used to characterise the microbiome at each site. Agricultural practices (soil movement, type of usage), physico-chemical parameters (e.g. C/N ratio, pH) and climatic factors (soil moisture level) were included to identify explanatory factors for differences in \u03b1- and \u03b2-diversity and functional composition between sites. The most influential factor on microbial composition was found to be pH. In addition, a change in \u03b1-diversity was observed between tilled and no-tilled soils. While the composition of the microbiome and consequently the functional composition is similar between sites, hierarchical cluster analysis in combination with \u03b1-diversity and relative abundances of individual functions gives an indication of the formation of stable microbial communities in undisturbed soils. \n\nThe dataset provided here contains the recorded metadata for the sites, the microbiome data and the R script used to process the data, perform statistical tests and create graphics. It is recommended to read the readme.pdf first.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Replikationsdaten f\u00fcr: comparison of the diversity of prokaryotic communities between agricultural and uncultivated soils in the osnabr\u00fcck region",
+    "url": "https://doi.org/10.26249/FK2/TSVDUS",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "570 - Life sciences"
+        }
+    ],
+    "resource_type": "Dataset"
+}

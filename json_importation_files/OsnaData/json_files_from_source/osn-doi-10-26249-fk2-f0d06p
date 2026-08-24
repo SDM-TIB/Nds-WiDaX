@@ -1,0 +1,427 @@
+{
+    "header": {
+        "identifier": "doi:10.26249/FK2/F0D06P",
+        "datestamp": "2022-12-20T01:00:00Z",
+        "setSpecs": [],
+        "status": null
+    },
+    "metadata": {
+        "metadataFormat": "oai_datacite",
+        "identifier": {
+            "value": "10.26249/FK2/F0D06P",
+            "identifierType": "DOI"
+        },
+        "creators": [
+            {
+                "creatorName": {
+                    "value": "Kruse, Nadia-Yasmine",
+                    "nameType": null
+                },
+                "givenName": null,
+                "familyName": null,
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Universit\u00e4t Osnabr\u00fcck",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "titles": [
+            {
+                "value": "Replikationsdaten f\u00fcr die Dissertation: Three experimental investigations of individual decision-making behaviour",
+                "titleType": null,
+                "lang": null
+            }
+        ],
+        "publisher": {
+            "value": "osnaData",
+            "publisherIdentifier": null,
+            "publisherIdentifierScheme": null,
+            "schemeURI": null,
+            "lang": null
+        },
+        "publicationYear": "2022",
+        "resourceType": {
+            "value": null,
+            "resourceTypeGeneral": "Dataset"
+        },
+        "subjects": [
+            {
+                "value": "Business and Management",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Behavioural economics",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Experimental economics",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Endowment effect",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Multiple-unit holdings",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Splitting effects",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Replication crisis",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Online experiments",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Normativity of the sure-thing principle",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Individual decision-making",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Allais Paradox",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            }
+        ],
+        "contributors": [
+            {
+                "contributorType": "ContactPerson",
+                "contributorName": {
+                    "value": "Kruse, Nadia-Yasmine",
+                    "nameType": "Organizational"
+                },
+                "givenName": null,
+                "familyName": null,
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Universit\u00e4t Osnabr\u00fcck",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "dates": [
+            {
+                "value": "2022-12-19",
+                "dateType": "Submitted",
+                "dateInformation": null
+            },
+            {
+                "value": "2022-12-19",
+                "dateType": "Updated",
+                "dateInformation": null
+            }
+        ],
+        "language": null,
+        "alternateIdentifiers": [],
+        "relatedIdentifiers": [],
+        "sizes": [],
+        "formats": [],
+        "version": "1.0",
+        "rightsList": [
+            {
+                "value": null,
+                "rightsURI": "info:eu-repo/semantics/openAccess",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            },
+            {
+                "value": "<a href=\"http://creativecommons.org/licenses/by/3.0/de\"><img src=\"https://osnadata.ub.uni-osnabrueck.de/resources/images/cc-icons/by.png\" height=\"31\"/>\u00a0\u00a0http://creativecommons.org/licenses/by/3.0/de</a>",
+                "rightsURI": null,
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            }
+        ],
+        "descriptions": [
+            {
+                "value": "This dissertation is a collection of three experimental investigations of individual decision-making behaviour. The data reported in thesis were collected with the informed consent of subjects according to the ethical guidelines of LaER. Data are stored electronically at Osnabr\u00fcck University according to the provisions of the GDPR. Enquiries regarding data availability and use should be addressed to the Department of Microeconomics in Economics Faculty at Osnabr\u00fcck University.",
+                "descriptionType": "Abstract",
+                "lang": null
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "relatedItems": [],
+        "citation": {
+            "displayName": "Citation Metadata",
+            "fields": [
+                {
+                    "typeName": "title",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Replikationsdaten f\u00fcr die Dissertation: Three experimental investigations of individual decision-making behaviour"
+                },
+                {
+                    "typeName": "author",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Kruse, Nadia-Yasmine"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Universit\u00e4t Osnabr\u00fcck"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "datasetContact",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "datasetContactName": {
+                                "typeName": "datasetContactName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Kruse, Nadia-Yasmine"
+                            },
+                            "datasetContactAffiliation": {
+                                "typeName": "datasetContactAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Universit\u00e4t Osnabr\u00fcck"
+                            },
+                            "datasetContactEmail": {
+                                "typeName": "datasetContactEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "nadia.yasmine.kruse@uni-osnabrueck.de"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "dsDescription",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "dsDescriptionValue": {
+                                "typeName": "dsDescriptionValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "This dissertation is a collection of three experimental investigations of individual decision-making behaviour. The data reported in thesis were collected with the informed consent of subjects according to the ethical guidelines of LaER. Data are stored electronically at Osnabr\u00fcck University according to the provisions of the GDPR. Enquiries regarding data availability and use should be addressed to the Department of Microeconomics in Economics Faculty at Osnabr\u00fcck University."
+                            },
+                            "dsDescriptionDate": {
+                                "typeName": "dsDescriptionDate",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "2022-12-15"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "subject",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "Business and Management"
+                    ]
+                },
+                {
+                    "typeName": "ddc",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "330 - Economics"
+                    ]
+                },
+                {
+                    "typeName": "keyword",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Behavioural economics"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Experimental economics"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Endowment effect"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Multiple-unit holdings"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Splitting effects"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Replication crisis"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Online experiments"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Normativity of the sure-thing principle"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Individual decision-making"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Allais Paradox"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "publication",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "publicationCitation": {
+                                "typeName": "publicationCitation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Kruse, Nadia-Yasmine (2022): Three experimental investigations of individual decision-making behaviour. Dissertation. Universit\u00e4t Osnabr\u00fcck."
+                            },
+                            "publicationIDType": {
+                                "typeName": "publicationIDType",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "doi"
+                            },
+                            "publicationURL": {
+                                "typeName": "publicationURL",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "https://doi.org/10.48693/221"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "depositor",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Gronwald, Marco"
+                },
+                {
+                    "typeName": "dateOfDeposit",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2022-12-19"
+                },
+                {
+                    "typeName": "licenseApproval",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "on 2022-12-19, user marco.gronwald@uni-osnabrueck.de approved the following license text: <p><h3>Lizenzvereinbarung \u2013 Deposit License</h3></p><p>Hiermit gestatte ich der Universit\u00e4t Osnabr\u00fcck, vertreten durch die Pr\u00e4sidentin/den Pr\u00e4sidenten, durchf\u00fchrende Organisationseinheit: Universit\u00e4tsbibliothek (UB), vertreten durch die Leitende Bibliotheksdirektorin/den Leitenden Bibliotheksdirektor, meine digitalen Forschungsdaten einschlie\u00dflich Abstract und Metadaten zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzerinnen und Nutzer berechtigt, Forschungsdaten nach Ma\u00dfgabe des Urheberrechts unentgeltlich zu nutzen, insbesondere, Forschungsdaten zum privaten und sonstigen eigenen Gebrauch herunter zu laden oder zu speichern. </p> <h4>Rechteeinr\u00e4umung </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck an seinen/ihren Forschungsdaten einschlie\u00dflich Abstract und Metadaten zeitlich unbegrenzt und unwiderruflich das nicht ausschlie\u00dfliche Recht zur \u00f6ffentlichen Zug\u00e4nglichmachung, zur langfristigen Speicherung auf dem institutionellem Forschungsdatenrepositorium <i>osnaData</i> der Universit\u00e4t Osnabr\u00fcck und zur Vervielf\u00e4ltigung zu diesen Zwecken ein. Der urheberrechtliche Schutz bleibt durch diese Lizenz unber\u00fchrt. Die Universit\u00e4t Osnabr\u00fcck beh\u00e4lt sich vor, Forschungsdaten wegen inhaltlicher oder technischer M\u00e4ngel oder eines ungekl\u00e4rten rechtlichen Status abzulehnen. </p> <h4>Rechte Dritter </h4> <p>Der Urheber/die Urheberin der Forschungsdaten erkl\u00e4rt, dass mit der Bereitstellung seiner/ihrer Forschungsdaten und jedes Bestandteils (z. B. beschreibende Dokumentationen) keine Rechte Dritter (z. B. Miturheber, Co-Autoren, Verlage, Drittmittelgeber) verletzt werden. Insbesondere hat bisher kein Verlag oder sonstiger Dritter (z. B. Drittmittelgeber) ein ausschlie\u00dfliches Nutzungsrecht. </p> <p>Der Urheber/die Urheberin der Forschungsdaten verpflichtet sich, die Universit\u00e4t Osnabr\u00fcck von solchen Anspr\u00fcchen Dritter freizustellen, die sich daraus ergeben, dass es aufgrund schuldhafter falscher Angaben des Urhebers/der Urheberin bez\u00fcglich des Nichtbestehens von Rechten Dritter oder sonstiger von ihm/ihr zu vertretenden Umst\u00e4nden durch die Ver\u00f6ffentlichung seines/ihres Werkes auf <i>osnaData</i> zu einer Verletzung von Urheberrechten oder ausschlie\u00dflichen Nutzungsrechten kommt. Das gilt nicht, wenn die Verletzung auf einem vors\u00e4tzlichen oder grob fahrl\u00e4ssigen Verhalten der Universit\u00e4t Osnabr\u00fcck als Betreiberin von <i>osnaData</i> beruht und dem Urheber/der Urheberin der Forschungsdaten nicht in gleicher Weise Vorsatz oder grobe Fahrl\u00e4ssigkeit zu Last f\u00e4llt. Im letzteren Fall erfolgt eine Aufteilung des Schadens insbesondere unter Abw\u00e4gung der Verschuldensanteile. </p> <p>Die Vertragsparteien verpflichten sich, einander unverz\u00fcglich zu informieren, wenn Dritte Anspr\u00fcche aufgrund der ihnen zustehenden Urheber- bzw. Nutzungsrechte an den digitalen Forschungsdaten gegen sie erheben. </p> <p>Die Universit\u00e4t Osnabr\u00fcck ist berechtigt, den Zugriff auf die Forschungsdaten zu sperren, soweit konkrete Anhaltspunkte f\u00fcr eine Verletzung von Rechten Dritter bestehen oder andere rechtliche Vorschriften dies erfordern. </p> <h4>Langzeitarchivierung und Transformation in andere Formate </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, seine/ihre bereitgestellten Forschungsdaten in einem Langzeitarchiv zu speichern und bei Bedarf (z. B. technische Nutzbarkeit, Migration, Barrierefreiheit, bessere Zug\u00e4nglichkeit oder Erschlie\u00dfung) in andere elektronische Formate zu \u00fcberf\u00fchren (Formatkonvertierung). </p> <h4>Weitergabe von Metadaten und Dokumenten </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, die Metadaten einschlie\u00dflich Abstract seiner/ihrer Forschungsdaten anderen Datenbanken gem\u00e4\u00df den FAIR-Prinzipien  unentgeltlich unter der Lizenz CC0 zur Verf\u00fcgung zu stellen. Dar\u00fcber hinaus r\u00e4umt er/sie der Universit\u00e4t Osnabr\u00fcck das Recht ein, seine/ihre Forschungsdaten Dritten im Rahmen nationaler Sammelauftr\u00e4ge zur Online-Bereitstellung oder Archivierung zur Verf\u00fcgung zu stellen. </p> <p>Die durch diesen Vertrag einger\u00e4umten Rechte k\u00f6nnen ganz oder teilweise auf Dritte \u00fcbertragen und einfache Nutzungsrechte an andere Repositorien vergeben bzw. ein Dritter mit der Bereitstellung des Dokuments beauftragt werden, ohne dass es hierzu einer gesonderten Zustimmung des Urhebers/der Urheberin der Forschungsdaten bedarf. </p> <p><b>Ansprechpartner f\u00fcr alle <i>osnaData</i> betreffenden technischen und inhaltlichen Fragen ist die Administration von <i>osnaData</i>. Email: <a class=\"mail\" href=\"mailto:osnadata@ub.uni-osnabrueck.de\">osnadata@ub.uni-osnabrueck.de</a><b></p> "
+                }
+            ]
+        },
+        "license": "NONE"
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2023",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Bourdon, Bjoern",
+            "givenName": "Bjoern",
+            "familyName": "Bourdon",
+            "orcid": "0000-0002-4559-4522"
+        },
+        {
+            "author": "Toschke, Yannic",
+            "givenName": "Yannic",
+            "familyName": "Toschke",
+            "orcid": "0000-0002-7009-372X"
+        },
+        {
+            "author": "Osterheider, Mattis",
+            "givenName": "Mattis",
+            "familyName": "Osterheider",
+            "orcid": "0000-0001-6121-0210"
+        },
+        {
+            "author": "Imlau, Mirco",
+            "givenName": "Mirco",
+            "familyName": "Imlau",
+            "orcid": "0000-0002-5343-5636"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/WOFNVD",
+    "doi_date_published": "2023",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-wofnvd",
+    "notes": "This data-set includes the innovation and respective developments of the modular construction framework of the Optocubes project. Construction of modular and scalable, low cost prototype breadboards and enclosures for agile prototype development of (laser-based) optical assemblies in many engineering processes is realized. Industrial aluminum extrusions and tailored, self-developed 3D-printed enclosure components are combined with commercially available hardware store components. \n\nThe data-set comprises the documentation of the ideas, concepts and construction principles, detailed technical drawings, construction manuals, component lists, CAD-files, etc., of the modular construction framework. \n\nThe research project 'Optocubes' is funded by the German Federal Ministry of Education and research (BMBF) within the funding program 'Photonics Research Germany' with contract number 13N15230.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "The optocubes project: modular construction framework",
+    "url": "https://doi.org/10.26249/FK2/WOFNVD",
+    "citation": [],
+    "publication_year": "2023",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Engineering"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Physics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "optocubes"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "photonics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "optics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "open-source"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "prototyping"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "3D printing"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "additive manufacturing"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "530 - Physics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "600 - Technology (Applied sciences)"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "optocubes",
+            "name": "optocubes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "photonics",
+            "name": "photonics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "optics",
+            "name": "optics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "open-source",
+            "name": "open-source",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "prototyping",
+            "name": "prototyping",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "3D printing",
+            "name": "3D printing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "additive manufacturing",
+            "name": "additive manufacturing",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

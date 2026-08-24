@@ -1,0 +1,82 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Zimmermann, Till",
+            "givenName": "Till",
+            "familyName": "Zimmermann",
+            "orcid": "0000-0003-2404-182X"
+        },
+        {
+            "author": "Lanfer, Eric",
+            "givenName": "Eric",
+            "familyName": "Lanfer",
+            "orcid": "0000-0001-9763-4613"
+        },
+        {
+            "author": "Laniewski, Dominic",
+            "givenName": "Dominic",
+            "familyName": "Laniewski",
+            "orcid": "0009-0004-4782-8224"
+        },
+        {
+            "author": "Brinkmann, Simon",
+            "givenName": "Simon",
+            "familyName": "Brinkmann",
+            "orcid": "0009-0009-6568-3897"
+        },
+        {
+            "author": "Aschenbruck, Nils",
+            "givenName": "Nils",
+            "familyName": "Aschenbruck",
+            "orcid": "0000-0002-5861-8896"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/I7BANY",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-i7bany",
+    "notes": "This dataset contains the measured Starlink Frames observed during the measurements for the Paper <a href=\"https://doi.org/10.1145/3748749.3749089 \"><em>Better Fill Up Your Pipe \u2013 Revisiting Starlink's Burst Characterization</em></a>. The original Inter-Packet-Delays can be handed out on request, but are too large to be publicly served.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Starframe-udp: starlink frame timings at full utilization",
+    "url": "https://doi.org/10.26249/FK2/I7BANY",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "10.1145/3748749.3749089",
+            "identifier_type": "DOI",
+            "relation_type": "IsCitedBy"
+        }
+    ]
+}

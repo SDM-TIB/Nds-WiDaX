@@ -1,0 +1,85 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Wolf, Eugen",
+            "givenName": "Eugen",
+            "familyName": "Wolf",
+            "orcid": ""
+        },
+        {
+            "author": "Wolke, Steffen",
+            "givenName": "Steffen",
+            "familyName": "Wolke",
+            "orcid": ""
+        },
+        {
+            "author": "Potulski, Dominik",
+            "givenName": "Dominik",
+            "familyName": "Potulski",
+            "orcid": ""
+        },
+        {
+            "author": "Imlau, Mirco",
+            "givenName": "Mirco",
+            "familyName": "Imlau",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/V5SRYW",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-v5sryw",
+    "notes": "In quantumexpedition, einem Virtual-Reality-Wissenschaftsabenteuer, tauchen die Spieler in eine realistische Laborumgebung ein und erkunden die Grundlagen modernster Forschung. Das Spiel vermittelt auf spielerische Weise zentrale Konzepte aus Biologie, Chemie und Physik durch interaktive Experimente und spannende Herausforderungen. Schritt f\u00fcr Schritt wird deutlich, wie eng diese Disziplinen heute miteinander verkn\u00fcpft sind \u2013 von molekularen Wechselwirkungen bis hin zu Quanteneffekten. quantumexpedition macht komplexe Wissenschaft zug\u00e4nglich, visuell eindrucksvoll und erlebbar. Entdecken Sie, wie die Grenzen zwischen den Wissenschaften verschwimmen \u2013 und wie die Zukunft der Forschung bereits begonnen hat.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Quantumexpedition - a scientific vr experience",
+    "url": "https://doi.org/10.26249/FK2/V5SRYW",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Physics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "530 - Physics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "570 - Life sciences"
+        }
+    ],
+    "resource_type": "Dataset"
+}

@@ -1,0 +1,969 @@
+{
+    "header": {
+        "identifier": "doi:10.26249/FK2/WOFNVD",
+        "datestamp": "2023-10-11T00:00:00Z",
+        "setSpecs": [],
+        "status": null
+    },
+    "metadata": {
+        "metadataFormat": "oai_datacite",
+        "identifier": {
+            "value": "10.26249/FK2/WOFNVD",
+            "identifierType": "DOI"
+        },
+        "creators": [
+            {
+                "creatorName": {
+                    "value": "Bourdon, Bjoern",
+                    "nameType": "Personal"
+                },
+                "givenName": "Bjoern",
+                "familyName": "Bourdon",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0002-4559-4522",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": [
+                    {
+                        "value": "School of Mathematics/Computer Science/Physics, Osnabrueck University, Barbarastrasse 7, 49076 Osnabrueck, Germany",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Toschke, Yannic",
+                    "nameType": "Personal"
+                },
+                "givenName": "Yannic",
+                "familyName": "Toschke",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0002-7009-372X",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": [
+                    {
+                        "value": "School of Mathematics/Computer Science/Physics, Osnabrueck University, Barbarastrasse 7, 49076 Osnabrueck, Germany",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Osterheider, Mattis",
+                    "nameType": "Personal"
+                },
+                "givenName": "Mattis",
+                "familyName": "Osterheider",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0001-6121-0210",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": [
+                    {
+                        "value": "School of Mathematics/Computer Science/Physics, Osnabrueck University, Barbarastrasse 7, 49076 Osnabrueck, Germany",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Imlau, Mirco",
+                    "nameType": "Personal"
+                },
+                "givenName": "Mirco",
+                "familyName": "Imlau",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0002-5343-5636",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": [
+                    {
+                        "value": "School of Mathematics/Computer Science/Physics, Osnabrueck University, Barbarastrasse 7, 49076 Osnabrueck, Germany",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "titles": [
+            {
+                "value": "The Optocubes Project: Modular Construction Framework",
+                "titleType": null,
+                "lang": null
+            }
+        ],
+        "publisher": {
+            "value": "osnaData",
+            "publisherIdentifier": null,
+            "publisherIdentifierScheme": null,
+            "schemeURI": null,
+            "lang": null
+        },
+        "publicationYear": "2023",
+        "resourceType": {
+            "value": null,
+            "resourceTypeGeneral": "Dataset"
+        },
+        "subjects": [
+            {
+                "value": "Engineering",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Physics",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "optocubes",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "photonics",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "optics",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "open-source",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "prototyping",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "3D printing",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "additive manufacturing",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            }
+        ],
+        "contributors": [
+            {
+                "contributorType": "ContactPerson",
+                "contributorName": {
+                    "value": "Imlau, Mirco",
+                    "nameType": "Personal"
+                },
+                "givenName": "Mirco",
+                "familyName": "Imlau",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "School of Mathematics/Computer Science/Physics, Osnabrueck University, Barbarastrasse 7, 49076 Osnabrueck, Germany",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "dates": [
+            {
+                "value": "2023-06-20",
+                "dateType": "Submitted",
+                "dateInformation": null
+            },
+            {
+                "value": "2023-10-10",
+                "dateType": "Updated",
+                "dateInformation": null
+            }
+        ],
+        "language": null,
+        "alternateIdentifiers": [],
+        "relatedIdentifiers": [],
+        "sizes": [
+            "275337",
+            "231399",
+            "349384",
+            "154755",
+            "489484",
+            "158652",
+            "535684",
+            "2910713",
+            "2382868",
+            "628684",
+            "1941898",
+            "1527784",
+            "861652",
+            "731203",
+            "983584",
+            "1036692",
+            "707715",
+            "986984",
+            "1492319",
+            "2360865",
+            "1546584",
+            "6093492",
+            "4538764",
+            "495744",
+            "5365971",
+            "1365684",
+            "249485",
+            "2965013",
+            "775884",
+            "2336659",
+            "774584",
+            "48299113",
+            "4616065",
+            "3701584",
+            "2620124",
+            "1197060",
+            "962284",
+            "2818075",
+            "3893744",
+            "3886575",
+            "3472615",
+            "190953",
+            "325657",
+            "3645511",
+            "1368084",
+            "188185",
+            "2079797",
+            "754484",
+            "2136965",
+            "937084",
+            "2538625",
+            "1163771",
+            "778684",
+            "2705226",
+            "1246967",
+            "947584",
+            "1196912",
+            "962284",
+            "1775460",
+            "971184",
+            "2175833",
+            "1342984",
+            "1799334",
+            "982384",
+            "172902",
+            "167584",
+            "662290",
+            "796584",
+            "1193741",
+            "2242485",
+            "417084",
+            "771812",
+            "1985756",
+            "415884",
+            "1162667",
+            "2081280",
+            "404884",
+            "2399338",
+            "1660884",
+            "2168472",
+            "1543839",
+            "223018",
+            "2648395",
+            "935884",
+            "201584",
+            "2506849",
+            "384284",
+            "1986352",
+            "394284",
+            "1503553",
+            "2054794",
+            "383484",
+            "769699",
+            "1120769",
+            "97902",
+            "97271",
+            "1253791",
+            "674584",
+            "1267844",
+            "838384",
+            "964350",
+            "510984",
+            "99940",
+            "155123",
+            "367284",
+            "79923",
+            "139039",
+            "144884",
+            "14479",
+            "355325",
+            "345614",
+            "276984",
+            "651418",
+            "1507301",
+            "641084",
+            "285733",
+            "15746",
+            "36231",
+            "30884",
+            "764618",
+            "276284",
+            "94635",
+            "148641",
+            "133284",
+            "3374171",
+            "1984082",
+            "1149884",
+            "703432",
+            "968178",
+            "640084",
+            "1018131",
+            "2021204",
+            "1922906",
+            "1749409",
+            "163909",
+            "270267",
+            "3227110",
+            "725684",
+            "161006",
+            "1853892",
+            "432884",
+            "1898527",
+            "614884",
+            "1216516",
+            "939826",
+            "456484",
+            "889167",
+            "995948",
+            "617584",
+            "968026",
+            "640084",
+            "9835",
+            "14620",
+            "484",
+            "332711",
+            "207014",
+            "367984",
+            "345802",
+            "309419",
+            "199673",
+            "91721540",
+            "465444",
+            "1149068",
+            "718484",
+            "306147",
+            "242692",
+            "300691",
+            "465284",
+            "294212",
+            "464884",
+            "3094310",
+            "517253",
+            "963812",
+            "436184",
+            "867790",
+            "693974",
+            "926284",
+            "110890",
+            "142747",
+            "248284",
+            "129303",
+            "160693",
+            "266484",
+            "142857",
+            "436076",
+            "217084",
+            "205991",
+            "168074",
+            "249284",
+            "492650",
+            "382928",
+            "804584",
+            "396524",
+            "511084",
+            "58727",
+            "77918",
+            "141284",
+            "234604",
+            "1015784",
+            "36881",
+            "59118",
+            "156984",
+            "175141",
+            "166095",
+            "468584",
+            "209085",
+            "548784",
+            "193193",
+            "166809",
+            "468584",
+            "209083",
+            "548784",
+            "323574",
+            "331531",
+            "758784",
+            "328722",
+            "274339",
+            "2019784"
+        ],
+        "formats": [
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/pdf",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/pdf",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/pdf",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/pdf",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl",
+            "application/x-zip-compressed",
+            "application/octet-stream",
+            "application/vnd.ms-pki.stl"
+        ],
+        "version": "4.0",
+        "rightsList": [
+            {
+                "value": null,
+                "rightsURI": "info:eu-repo/semantics/openAccess",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            },
+            {
+                "value": "<a href=\"http://creativecommons.org/licenses/by-sa/4.0/\"><img src=\"https://osnadata.ub.uni-osnabrueck.de/resources/images/cc-icons/by-sa.png\" height=\"31\"/>\u00a0\u00a0http://creativecommons.org/licenses/by-sa/4.0/</a>",
+                "rightsURI": null,
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            }
+        ],
+        "descriptions": [
+            {
+                "value": "This data-set includes the innovation and respective developments of the modular construction framework of the Optocubes project. Construction of modular and scalable, low cost prototype breadboards and enclosures for agile prototype development of (laser-based) optical assemblies in many engineering processes is realized. Industrial aluminum extrusions and tailored, self-developed 3D-printed enclosure components are combined with commercially available hardware store components. \n\nThe data-set comprises the documentation of the ideas, concepts and construction principles, detailed technical drawings, construction manuals, component lists, CAD-files, etc., of the modular construction framework. \n\nThe research project 'Optocubes' is funded by the German Federal Ministry of Education and research (BMBF) within the funding program 'Photonics Research Germany' with contract number 13N15230.",
+                "descriptionType": "Abstract",
+                "lang": null
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "relatedItems": [],
+        "citation": {
+            "displayName": "Citation Metadata",
+            "fields": [
+                {
+                    "typeName": "title",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "The Optocubes Project: Modular Construction Framework"
+                },
+                {
+                    "typeName": "author",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Bourdon, Bjoern"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "School of Mathematics/Computer Science/Physics, Osnabrueck University, Barbarastrasse 7, 49076 Osnabrueck, Germany"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0002-4559-4522"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Toschke, Yannic"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "School of Mathematics/Computer Science/Physics, Osnabrueck University, Barbarastrasse 7, 49076 Osnabrueck, Germany"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0002-7009-372X"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Osterheider, Mattis"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "School of Mathematics/Computer Science/Physics, Osnabrueck University, Barbarastrasse 7, 49076 Osnabrueck, Germany"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0001-6121-0210"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Imlau, Mirco"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "School of Mathematics/Computer Science/Physics, Osnabrueck University, Barbarastrasse 7, 49076 Osnabrueck, Germany"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0002-5343-5636"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "datasetContact",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "datasetContactName": {
+                                "typeName": "datasetContactName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Imlau, Mirco"
+                            },
+                            "datasetContactAffiliation": {
+                                "typeName": "datasetContactAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "School of Mathematics/Computer Science/Physics, Osnabrueck University, Barbarastrasse 7, 49076 Osnabrueck, Germany"
+                            },
+                            "datasetContactEmail": {
+                                "typeName": "datasetContactEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "mirco.imlau@uni-osnabrueck.de"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "dsDescription",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "dsDescriptionValue": {
+                                "typeName": "dsDescriptionValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "This data-set includes the innovation and respective developments of the modular construction framework of the Optocubes project. Construction of modular and scalable, low cost prototype breadboards and enclosures for agile prototype development of (laser-based) optical assemblies in many engineering processes is realized. Industrial aluminum extrusions and tailored, self-developed 3D-printed enclosure components are combined with commercially available hardware store components. \n\nThe data-set comprises the documentation of the ideas, concepts and construction principles, detailed technical drawings, construction manuals, component lists, CAD-files, etc., of the modular construction framework. \n\nThe research project 'Optocubes' is funded by the German Federal Ministry of Education and research (BMBF) within the funding program 'Photonics Research Germany' with contract number 13N15230."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "subject",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "Engineering",
+                        "Physics"
+                    ]
+                },
+                {
+                    "typeName": "ddc",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "530 - Physics",
+                        "600 - Technology (Applied sciences)"
+                    ]
+                },
+                {
+                    "typeName": "keyword",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "optocubes"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "photonics"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "optics"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "open-source"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "prototyping"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "3D printing"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "additive manufacturing"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "language",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "English"
+                    ]
+                },
+                {
+                    "typeName": "depositor",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Bourdon, Bjoern"
+                },
+                {
+                    "typeName": "dateOfDeposit",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2023-06-20"
+                },
+                {
+                    "typeName": "licenseApproval",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "on 2023-10-10, user marco.gronwald@uni-osnabrueck.de approved the following license text: <p><h3>Lizenzvereinbarung \u2013 Deposit License</h3></p><p>Hiermit gestatte ich der Universit\u00e4t Osnabr\u00fcck, vertreten durch die Pr\u00e4sidentin/den Pr\u00e4sidenten, durchf\u00fchrende Organisationseinheit: Universit\u00e4tsbibliothek (UB), vertreten durch die Leitende Bibliotheksdirektorin/den Leitenden Bibliotheksdirektor, meine digitalen Forschungsdaten einschlie\u00dflich Abstract und Metadaten zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzerinnen und Nutzer berechtigt, Forschungsdaten nach Ma\u00dfgabe des Urheberrechts unentgeltlich zu nutzen, insbesondere, Forschungsdaten zum privaten und sonstigen eigenen Gebrauch herunter zu laden oder zu speichern. </p> <h4>Rechteeinr\u00e4umung </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck an seinen/ihren Forschungsdaten einschlie\u00dflich Abstract und Metadaten zeitlich unbegrenzt und unwiderruflich das nicht ausschlie\u00dfliche Recht zur \u00f6ffentlichen Zug\u00e4nglichmachung, zur langfristigen Speicherung auf dem institutionellem Forschungsdatenrepositorium <i>osnaData</i> der Universit\u00e4t Osnabr\u00fcck und zur Vervielf\u00e4ltigung zu diesen Zwecken ein. Der urheberrechtliche Schutz bleibt durch diese Lizenz unber\u00fchrt. Die Universit\u00e4t Osnabr\u00fcck beh\u00e4lt sich vor, Forschungsdaten wegen inhaltlicher oder technischer M\u00e4ngel oder eines ungekl\u00e4rten rechtlichen Status abzulehnen. </p> <h4>Rechte Dritter </h4> <p>Der Urheber/die Urheberin der Forschungsdaten erkl\u00e4rt, dass mit der Bereitstellung seiner/ihrer Forschungsdaten und jedes Bestandteils (z. B. beschreibende Dokumentationen) keine Rechte Dritter (z. B. Miturheber, Co-Autoren, Verlage, Drittmittelgeber) verletzt werden. Insbesondere hat bisher kein Verlag oder sonstiger Dritter (z. B. Drittmittelgeber) ein ausschlie\u00dfliches Nutzungsrecht. </p> <p>Der Urheber/die Urheberin der Forschungsdaten verpflichtet sich, die Universit\u00e4t Osnabr\u00fcck von solchen Anspr\u00fcchen Dritter freizustellen, die sich daraus ergeben, dass es aufgrund schuldhafter falscher Angaben des Urhebers/der Urheberin bez\u00fcglich des Nichtbestehens von Rechten Dritter oder sonstiger von ihm/ihr zu vertretenden Umst\u00e4nden durch die Ver\u00f6ffentlichung seines/ihres Werkes auf <i>osnaData</i> zu einer Verletzung von Urheberrechten oder ausschlie\u00dflichen Nutzungsrechten kommt. Das gilt nicht, wenn die Verletzung auf einem vors\u00e4tzlichen oder grob fahrl\u00e4ssigen Verhalten der Universit\u00e4t Osnabr\u00fcck als Betreiberin von <i>osnaData</i> beruht und dem Urheber/der Urheberin der Forschungsdaten nicht in gleicher Weise Vorsatz oder grobe Fahrl\u00e4ssigkeit zu Last f\u00e4llt. Im letzteren Fall erfolgt eine Aufteilung des Schadens insbesondere unter Abw\u00e4gung der Verschuldensanteile. </p> <p>Die Vertragsparteien verpflichten sich, einander unverz\u00fcglich zu informieren, wenn Dritte Anspr\u00fcche aufgrund der ihnen zustehenden Urheber- bzw. Nutzungsrechte an den digitalen Forschungsdaten gegen sie erheben. </p> <p>Die Universit\u00e4t Osnabr\u00fcck ist berechtigt, den Zugriff auf die Forschungsdaten zu sperren, soweit konkrete Anhaltspunkte f\u00fcr eine Verletzung von Rechten Dritter bestehen oder andere rechtliche Vorschriften dies erfordern. </p> <h4>Langzeitarchivierung und Transformation in andere Formate </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, seine/ihre bereitgestellten Forschungsdaten in einem Langzeitarchiv zu speichern und bei Bedarf (z. B. technische Nutzbarkeit, Migration, Barrierefreiheit, bessere Zug\u00e4nglichkeit oder Erschlie\u00dfung) in andere elektronische Formate zu \u00fcberf\u00fchren (Formatkonvertierung). </p> <h4>Weitergabe von Metadaten und Dokumenten </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, die Metadaten einschlie\u00dflich Abstract seiner/ihrer Forschungsdaten anderen Datenbanken gem\u00e4\u00df den FAIR-Prinzipien  unentgeltlich unter der Lizenz CC0 zur Verf\u00fcgung zu stellen. Dar\u00fcber hinaus r\u00e4umt er/sie der Universit\u00e4t Osnabr\u00fcck das Recht ein, seine/ihre Forschungsdaten Dritten im Rahmen nationaler Sammelauftr\u00e4ge zur Online-Bereitstellung oder Archivierung zur Verf\u00fcgung zu stellen. </p> <p>Die durch diesen Vertrag einger\u00e4umten Rechte k\u00f6nnen ganz oder teilweise auf Dritte \u00fcbertragen und einfache Nutzungsrechte an andere Repositorien vergeben bzw. ein Dritter mit der Bereitstellung des Dokuments beauftragt werden, ohne dass es hierzu einer gesonderten Zustimmung des Urhebers/der Urheberin der Forschungsdaten bedarf. </p> <p><b>Ansprechpartner f\u00fcr alle <i>osnaData</i> betreffenden technischen und inhaltlichen Fragen ist die Administration von <i>osnaData</i>. Email: <a class=\"mail\" href=\"mailto:osnadata@ub.uni-osnabrueck.de\">osnadata@ub.uni-osnabrueck.de</a><b></p> "
+                }
+            ]
+        },
+        "license": "NONE"
+    }
+}

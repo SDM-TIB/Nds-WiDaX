@@ -1,0 +1,95 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2023",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Westkemper, M.",
+            "givenName": null,
+            "familyName": null,
+            "orcid": ""
+        },
+        {
+            "author": "Schwarzbauer, P.",
+            "givenName": null,
+            "familyName": null,
+            "orcid": ""
+        },
+        {
+            "author": "Zwi\u00dfler, F.",
+            "givenName": null,
+            "familyName": null,
+            "orcid": ""
+        },
+        {
+            "author": "Rau, A.",
+            "givenName": null,
+            "familyName": null,
+            "orcid": ""
+        },
+        {
+            "author": "Junker, T.",
+            "givenName": null,
+            "familyName": null,
+            "orcid": ""
+        },
+        {
+            "author": "Bruns, L.",
+            "givenName": null,
+            "familyName": null,
+            "orcid": ""
+        },
+        {
+            "author": "Oehler, M.",
+            "givenName": null,
+            "familyName": null,
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/TGEHMR",
+    "doi_date_published": "2023",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-tgehmr",
+    "notes": "Ontologie f\u00fcr Elektronische Musik, entstanden in dem von der DFG gef\u00f6rderten Forschungsprojekt PRESET (Prinzipien elektronischer Klangerzeugung: Systematisierung und Entwicklung einer Terminologie)",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Emon - electronic music ontology",
+    "url": "https://doi.org/10.26249/FK2/TGEHMR",
+    "citation": [],
+    "publication_year": "2023",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Arts and Humanities"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "780 - Music"
+        }
+    ],
+    "resource_type": "Dataset"
+}

@@ -1,0 +1,51 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Br\u00fcggemann, Leonhard",
+            "givenName": "Leonhard",
+            "familyName": "Br\u00fcggemann",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/VORDOF",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-vordof",
+    "notes": "<p>This dataset is provided to replicate the results from the paper titled \n    <strong>\"A Classifier-Deduced Signal Extraction Approach for Time Difference Estimation in Acoustic Sensor Network.\"</strong> \n    The data consists of multiple parts, each packaged into a separate zip-file. To use the data, you will need to download all parts and recombine them into a single archive. The file README.yaml desribes the structure.</p>\n\n<p>The final <strong>.zip</strong> file is limited to <strong>36 GB</strong>, while the unzipped directory requires <strong>136.7 GB</strong> of storage space.</p>\n\n<br><br>\n\n<p>In Ubuntu, you can reassemble the parts using the Terminal:</p>\n\n<pre>user@computer$ cat cdse_data_part_* > cdse_data.zip</pre>",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Replication data for: a classifier-deduced signal extraction approach for time difference estimation in acoustic sensor network",
+    "url": "https://doi.org/10.26249/FK2/VORDOF",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        }
+    ],
+    "resource_type": "Dataset"
+}

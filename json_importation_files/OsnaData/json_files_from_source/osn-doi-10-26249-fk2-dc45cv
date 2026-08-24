@@ -1,0 +1,263 @@
+{
+    "header": {
+        "identifier": "doi:10.26249/FK2/DC45CV",
+        "datestamp": "2023-02-03T01:00:00Z",
+        "setSpecs": [],
+        "status": null
+    },
+    "metadata": {
+        "metadataFormat": "oai_datacite",
+        "identifier": {
+            "value": "10.26249/FK2/DC45CV",
+            "identifierType": "DOI"
+        },
+        "creators": [
+            {
+                "creatorName": {
+                    "value": "Hensel, Michael",
+                    "nameType": "Personal"
+                },
+                "givenName": "Michael",
+                "familyName": "Hensel",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0001-6604-6253",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": []
+            }
+        ],
+        "titles": [
+            {
+                "value": "Single molecule analyses reveal dynamics of Salmonella translocated effector proteins in host cell endomembranes",
+                "titleType": null,
+                "lang": null
+            }
+        ],
+        "publisher": {
+            "value": "osnaData",
+            "publisherIdentifier": null,
+            "publisherIdentifierScheme": null,
+            "schemeURI": null,
+            "lang": null
+        },
+        "publicationYear": "2023",
+        "resourceType": {
+            "value": null,
+            "resourceTypeGeneral": "Dataset"
+        },
+        "subjects": [
+            {
+                "value": "Medicine, Health and Life Sciences",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            }
+        ],
+        "contributors": [
+            {
+                "contributorType": "ContactPerson",
+                "contributorName": {
+                    "value": "Hensel, Michael",
+                    "nameType": "Personal"
+                },
+                "givenName": "Michael",
+                "familyName": "Hensel",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Abteilung Mikrobiologie",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "dates": [
+            {
+                "value": "2023-02-02",
+                "dateType": "Submitted",
+                "dateInformation": null
+            },
+            {
+                "value": "2023-02-02",
+                "dateType": "Updated",
+                "dateInformation": null
+            }
+        ],
+        "language": null,
+        "alternateIdentifiers": [],
+        "relatedIdentifiers": [],
+        "sizes": [],
+        "formats": [],
+        "version": "1.0",
+        "rightsList": [
+            {
+                "value": null,
+                "rightsURI": "info:eu-repo/semantics/openAccess",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            },
+            {
+                "value": "CC0 Waiver",
+                "rightsURI": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            }
+        ],
+        "descriptions": [
+            {
+                "value": "The facultative intracellular pathogen Salmonella enterica remodels the host endosomal system for survival and proliferation inside host cells. Salmonella resides within the Salmonella-containing vacuole (SCV) and by Salmonella-induced fusions of host endomembranes, the SCV is connected with extensive tubular structures termed Salmonella-induced filaments (SIF). The intracellular lifestyle of Salmonella critically depends on effector proteins translocated into host cells. A subset of effectors is associated with, or integral in SCV and SIF membranes. How effectors reach their subcellular destination, and how they interact with endomembranes remodeled by Salmonella remains to be determined. We deployed self-labeling enzyme tags to label translocated effectors in living host cells, and analyzed their single molecule dynamics. Translocated effectors diffuse in membranes of SIF with mobility comparable to membrane-integral host proteins in endomembranes. Dynamics differ between various effectors investigated and is dependent on membrane architecture of SIF. In the early infection, host endosomal vesicles are associated with Salmonella effectors. Effector-positive vesicles continuously fuse with SCV and SIF membranes, providing a route of effector delivery by translocation, interaction with endosomal vesicles, and ultimately fusion with the continuum of SCV/SIF membranes. This novel mechanism controls membrane deformation and vesicular fusion to generate the specific intracellular niche for bacterial survival and proliferation.",
+                "descriptionType": "Abstract",
+                "lang": null
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "relatedItems": [],
+        "citation": {
+            "displayName": "Citation Metadata",
+            "fields": [
+                {
+                    "typeName": "title",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Single molecule analyses reveal dynamics of Salmonella translocated effector proteins in host cell endomembranes"
+                },
+                {
+                    "typeName": "author",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Hensel, Michael"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0001-6604-6253"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "datasetContact",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "datasetContactName": {
+                                "typeName": "datasetContactName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Hensel, Michael"
+                            },
+                            "datasetContactAffiliation": {
+                                "typeName": "datasetContactAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Abteilung Mikrobiologie"
+                            },
+                            "datasetContactEmail": {
+                                "typeName": "datasetContactEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "michael.hensel@uni-osnabrueck.de"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "dsDescription",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "dsDescriptionValue": {
+                                "typeName": "dsDescriptionValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "The facultative intracellular pathogen Salmonella enterica remodels the host endosomal system for survival and proliferation inside host cells. Salmonella resides within the Salmonella-containing vacuole (SCV) and by Salmonella-induced fusions of host endomembranes, the SCV is connected with extensive tubular structures termed Salmonella-induced filaments (SIF). The intracellular lifestyle of Salmonella critically depends on effector proteins translocated into host cells. A subset of effectors is associated with, or integral in SCV and SIF membranes. How effectors reach their subcellular destination, and how they interact with endomembranes remodeled by Salmonella remains to be determined. We deployed self-labeling enzyme tags to label translocated effectors in living host cells, and analyzed their single molecule dynamics. Translocated effectors diffuse in membranes of SIF with mobility comparable to membrane-integral host proteins in endomembranes. Dynamics differ between various effectors investigated and is dependent on membrane architecture of SIF. In the early infection, host endosomal vesicles are associated with Salmonella effectors. Effector-positive vesicles continuously fuse with SCV and SIF membranes, providing a route of effector delivery by translocation, interaction with endosomal vesicles, and ultimately fusion with the continuum of SCV/SIF membranes. This novel mechanism controls membrane deformation and vesicular fusion to generate the specific intracellular niche for bacterial survival and proliferation."
+                            },
+                            "dsDescriptionDate": {
+                                "typeName": "dsDescriptionDate",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "2023-02-02"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "subject",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "Medicine, Health and Life Sciences"
+                    ]
+                },
+                {
+                    "typeName": "ddc",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "570 - Life sciences"
+                    ]
+                },
+                {
+                    "typeName": "publication",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "publicationURL": {
+                                "typeName": "publicationURL",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "https://omero.cellnanos.uni-osnabrueck.de/webclient/?show=project-13973"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "depositor",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Hensel, Michael"
+                },
+                {
+                    "typeName": "dateOfDeposit",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2023-02-02"
+                },
+                {
+                    "typeName": "licenseApproval",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "license not yet approved"
+                }
+            ]
+        },
+        "license": "CC0"
+    }
+}

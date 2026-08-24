@@ -1,0 +1,58 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Reitzner, Matthias",
+            "givenName": "Matthias",
+            "familyName": "Reitzner",
+            "orcid": "0000-0002-7922-6429"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/VKE9Z1",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-vke9z1",
+    "notes": "This dataset is provided to replicate the correlation results from \n\nM. Reitzner: Excess Mortality in Austria during the COVID-19 Pandemic\n\nThe impact of the COVID-19 pandemic on the mortality in Austria is investigated. Excess mortality for Austria and all Austrian federal states in the years 2020 to 2023 is computed. The results are discussed against some COVID-19 specific quantities, yielding correlations of excess mortality with COVID-19 infections, COVID-19 deaths and vaccination rates.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Replikationsdaten f\u00fcr: excess mortality in austria during the covid-19 pandemic",
+    "url": "https://doi.org/10.26249/FK2/VKE9Z1",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Mathematical Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "510 - Mathematics"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "10.17713/ajs.v54i4.2032",
+            "identifier_type": "DOI",
+            "relation_type": "IsCitedBy"
+        }
+    ]
+}

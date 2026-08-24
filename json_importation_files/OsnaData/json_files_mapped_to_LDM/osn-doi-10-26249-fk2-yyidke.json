@@ -1,0 +1,115 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2022",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Weber, Felix",
+            "givenName": "Felix",
+            "familyName": "Weber",
+            "orcid": "0000-0002-7012-3378"
+        },
+        {
+            "author": "Schrumpf, Johannes",
+            "givenName": "Johannes",
+            "familyName": "Schrumpf",
+            "orcid": "0000-0002-0068-273X"
+        },
+        {
+            "author": "Dettmer, Niklas",
+            "givenName": "Niklas",
+            "familyName": "Dettmer",
+            "orcid": "0000-0001-9944-1671"
+        },
+        {
+            "author": "Schurz, Katharina",
+            "givenName": "Katharina",
+            "familyName": "Schurz",
+            "orcid": "0000-0003-3804-1134"
+        },
+        {
+            "author": "Thelen, Tobias",
+            "givenName": "Tobias",
+            "familyName": "Thelen",
+            "orcid": "0000-0002-3337-6093"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/YYIDKE",
+    "doi_date_published": "2022",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-yyidke",
+    "notes": "We collected these data from user interaction with version 2.0 of the SIDDATA study assistant software. Students from three German universities used the software, and the dataset contains data from all three universities, only from those students who explicitly agreed to donate their data. Data aggregation occurred over the course of 11 months, from December 2020 to November 2021.\nThe dataset consists of one .csv file with 41.520 rows representing one activity. The semantics and the context of data acquisition are described in detail in the related publication.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Siddata study assistant dataset from prototpye 2.0",
+    "url": "https://doi.org/10.26249/FK2/YYIDKE",
+    "citation": [],
+    "publication_year": "2022",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Data-Driven Study Assistant"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "AI in Higher Education"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Innovative Learning Technologies"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "370 - Education"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "600 - Technology (Applied sciences)"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "Data-Driven Study Assistant",
+            "name": "Data-Driven Study Assistant",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "AI in Higher Education",
+            "name": "AI in Higher Education",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Innovative Learning Technologies",
+            "name": "Innovative Learning Technologies",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

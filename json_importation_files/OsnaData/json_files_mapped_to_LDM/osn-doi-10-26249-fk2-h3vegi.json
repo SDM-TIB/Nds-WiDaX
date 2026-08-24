@@ -1,0 +1,51 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Rensing, Zina",
+            "givenName": "Zina",
+            "familyName": "Rensing",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/H3VEGI",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-h3vegi",
+    "notes": "Ver\u00e4nderungen im subjektiv berichteten Kompetenzerleben durch die Studierenden vor und nach der Berufsqualifizierenden T\u00e4tigkeit III im Masterstudiengang \u201cPsychologie: Schwerpunkt Klinische Psychologie und Psychotherapie\u201d",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Kompetenzentwicklung der studierenden in der bqt iii",
+    "url": "https://doi.org/10.26249/FK2/H3VEGI",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "150 - Psychology"
+        }
+    ],
+    "resource_type": "Dataset"
+}

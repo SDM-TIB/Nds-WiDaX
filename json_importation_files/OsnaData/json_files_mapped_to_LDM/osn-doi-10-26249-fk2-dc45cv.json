@@ -1,0 +1,51 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2023",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Hensel, Michael",
+            "givenName": "Michael",
+            "familyName": "Hensel",
+            "orcid": "0000-0001-6604-6253"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/DC45CV",
+    "doi_date_published": "2023",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-dc45cv",
+    "notes": "The facultative intracellular pathogen Salmonella enterica remodels the host endosomal system for survival and proliferation inside host cells. Salmonella resides within the Salmonella-containing vacuole (SCV) and by Salmonella-induced fusions of host endomembranes, the SCV is connected with extensive tubular structures termed Salmonella-induced filaments (SIF). The intracellular lifestyle of Salmonella critically depends on effector proteins translocated into host cells. A subset of effectors is associated with, or integral in SCV and SIF membranes. How effectors reach their subcellular destination, and how they interact with endomembranes remodeled by Salmonella remains to be determined. We deployed self-labeling enzyme tags to label translocated effectors in living host cells, and analyzed their single molecule dynamics. Translocated effectors diffuse in membranes of SIF with mobility comparable to membrane-integral host proteins in endomembranes. Dynamics differ between various effectors investigated and is dependent on membrane architecture of SIF. In the early infection, host endosomal vesicles are associated with Salmonella effectors. Effector-positive vesicles continuously fuse with SCV and SIF membranes, providing a route of effector delivery by translocation, interaction with endosomal vesicles, and ultimately fusion with the continuum of SCV/SIF membranes. This novel mechanism controls membrane deformation and vesicular fusion to generate the specific intracellular niche for bacterial survival and proliferation.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Single molecule analyses reveal dynamics of salmonella translocated effector proteins in host cell endomembranes",
+    "url": "https://doi.org/10.26249/FK2/DC45CV",
+    "citation": [],
+    "publication_year": "2023",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "570 - Life sciences"
+        }
+    ],
+    "resource_type": "Dataset"
+}

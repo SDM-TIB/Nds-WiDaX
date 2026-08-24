@@ -1,0 +1,72 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Kurre, Rainer",
+            "givenName": "Rainer",
+            "familyName": "Kurre",
+            "orcid": "0000-0002-6872-6567"
+        },
+        {
+            "author": "Winkelmann, Hauke",
+            "givenName": "Hauke",
+            "familyName": "Winkelmann",
+            "orcid": "0000-0003-3688-6854"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/V8HWWH",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-v8hwwh",
+    "notes": "Total internal reflection fluorescence (TIRF) microscopy offers powerful means to uncover the functional organization of proteins in the plasma membrane with very high spatial and temporal resolution. Traditional TIRF illumination, however, shows a Gaussian intensity profile, which is typically deteriorated by overlaying interference fringes hampering precise quantification of intensities \u2013 an important requisite for quantitative analyses in single-molecule localization microscopy (SMLM). Here, we combine flat-field illumination by using a standard \u03c0Shaper with multi-angular TIR illumination by incorporating a spatial light modulator compatible with fast super-resolution structured illumination microscopy (SIM). This unique combination enables quantitative multi-color SMLM with a highly homogenous illumination. By using a dual camera setup with optimized image splitting optics, we achieve versatile combination of SMLM and SIM with up to three channels. We deploy this setup for establishing robust detection of receptor stoichiometries based on single-molecule intensity analysis and single-molecule F\u00f6rster resonance energy transfer (smFRET). Homogeneous illumination furthermore enables long-term tracking and localization microscopy (TALM) of cell surface receptors identifying spatial heterogeneity of mobility and accessibility in the plasma membrane. By combination of TALM and SIM, spatially and molecularly heterogenous diffusion properties can be correlated with nanoscale cytoskeletal organization and dynamics.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Raw microscopy data for: correlative single-molecule and structured illumination microscopy of fast dynamics at the plasma membrane.",
+    "url": "https://doi.org/10.26249/FK2/V8HWWH",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Physics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "530 - Physics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "570 - Life sciences"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "https://omero.cellnanos.uni-osnabrueck.de/webclient/?show=project-18606",
+            "identifier_type": "URL",
+            "relation_type": "IsCitedBy"
+        }
+    ]
+}

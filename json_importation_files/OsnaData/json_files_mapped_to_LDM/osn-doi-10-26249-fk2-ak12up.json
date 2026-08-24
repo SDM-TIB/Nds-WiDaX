@@ -1,0 +1,62 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Sch\u00f6ning, Julius",
+            "givenName": "Julius",
+            "familyName": "Sch\u00f6ning",
+            "orcid": "0000-0003-4921-5179"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/AK12UP",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-ak12up",
+    "notes": "Retrieving the 3D shape of an object from a collection of images or a video is currently realized with multiple view geometry algorithms, most commonly Structure from Motion (SfM) methods. With the aim of introducing artificial neuronal networks (ANN) into the domain of image-based 3D reconstruction of unknown object categories, we developed a scalable voxel-based dataset in which one can choose different training and testing subsets. We show that image-based 3D shape reconstruction by ANNs is possible, and we evaluate the aspect of scalability by examining the correlation between the complexity of the reconstructed object and the required amount of training samples. Along with our dataset, we are introducing, in this paper, a first baseline achieved by an only five-layer ANN. For capturing life\u2019s complexity, the ANNs trained on our dataset can be used a as pre-trained starting point and adapted for further investigation. Finally, we conclude with a discussion of open issues and further work empowering 3D reconstruction on real world images or video sequences by a CAD-model based ANN training data set.\n\n<h2>Data Sets</h2>\n<ul>\n<li>\n3x3x3 - 100 000 cubes  cf. cube3by3by3TBP.tar.bz2 for views and cubes_3x3x3_random_200000.tar.gz for 3D objects\n</li>\n<li>\n4x4x4 - 300 000 cubes cf. cube4by4by4TBP.tar.bz2 for views  and cubes_4x4x4_random_325000.tar.gz for 3D objects\n</li>\n<li>\n8x8x8 430 000 cubes cf. cube8by8by8TBP.tar.bz2 for views  and cubes_8x8x8_random_430000.tar.gz for 3D objects\n</li>\n</ul>\n\n<h2>Generator Tools</h2>\n<h3>Python Voxelizer</h3>\nThis python script create voxelized objects incl. a voxel set list out of ply, off or stl 3D object files. (cf. model2VoxelCloud.py)\n\n<h3>Cube Generator</h3>\nThis generator, written in Matlab, randomly generates n 3D objects. Each such object is created by taking a unit cube in R\u00b3 and subdividing it into a r x r x r sub cubes. The parameter r can be defined by the user. By ensuring the uniqueness of the cube distribution in the voxel grid, this generator is able to generate 2^(r\u00b3) different 3D objects and export them as 3D *.obj object files. \n\n<h3>Views Generator</h3>\nThis generator, written in Matlab, (can be optionally used for voxelization of 3D objects and) renders w input images with a pixel resolution x by x. Where the w different viewpoints are uniformly distributed around the object by using the Fibonacci lattice.\n<br>",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Osnabr\u00fcck \u2014 synthetic scalable cube dataset",
+    "url": "https://doi.org/10.26249/FK2/AK12UP",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Engineering"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "10.1007/978-3-319-59126-1_13",
+            "identifier_type": "DOI",
+            "relation_type": "IsCitedBy"
+        }
+    ]
+}

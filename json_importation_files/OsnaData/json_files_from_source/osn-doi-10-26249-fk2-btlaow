@@ -1,0 +1,413 @@
+{
+    "header": {
+        "identifier": "doi:10.26249/FK2/BTLAOW",
+        "datestamp": "2021-11-25T09:53:22Z",
+        "setSpecs": [],
+        "status": null
+    },
+    "metadata": {
+        "metadataFormat": "oai_datacite",
+        "identifier": {
+            "value": "10.26249/FK2/BTLAOW",
+            "identifierType": "DOI"
+        },
+        "creators": [
+            {
+                "creatorName": {
+                    "value": "Ko\u00dfmann, Cosima",
+                    "nameType": "Personal"
+                },
+                "givenName": "Cosima",
+                "familyName": "Ko\u00dfmann",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0001-6615-5185",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": []
+            },
+            {
+                "creatorName": {
+                    "value": "Straatmann, Tammo",
+                    "nameType": "Personal"
+                },
+                "givenName": "Tammo",
+                "familyName": "Straatmann",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0001-7439-6165",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": []
+            },
+            {
+                "creatorName": {
+                    "value": "M\u00fcller, Karsten",
+                    "nameType": "Personal"
+                },
+                "givenName": "Karsten",
+                "familyName": "M\u00fcller",
+                "nameIdentifiers": [],
+                "affiliations": []
+            },
+            {
+                "creatorName": {
+                    "value": "Hamborg, Kai-Christoph",
+                    "nameType": "Personal"
+                },
+                "givenName": "Kai-Christoph",
+                "familyName": "Hamborg",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0002-5868-755X",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": []
+            }
+        ],
+        "titles": [
+            {
+                "value": "Replikationsdaten f\u00fcr: Effects of Enactment in Virtual Reality \u2013  A Comparative Experiment on Memory for Action",
+                "titleType": null,
+                "lang": null
+            }
+        ],
+        "publisher": {
+            "value": "osnaData",
+            "publisherIdentifier": null,
+            "publisherIdentifierScheme": null,
+            "schemeURI": null,
+            "lang": null
+        },
+        "publicationYear": "2021",
+        "resourceType": {
+            "value": null,
+            "resourceTypeGeneral": "Dataset"
+        },
+        "subjects": [
+            {
+                "value": "Other",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Virtual Reality",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Enactment effect",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Memory of action",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Learning by enactment",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Experimental design",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            }
+        ],
+        "contributors": [
+            {
+                "contributorType": "ContactPerson",
+                "contributorName": {
+                    "value": "Ko\u00dfmann, Cosima",
+                    "nameType": "Personal"
+                },
+                "givenName": "Cosima",
+                "familyName": "Ko\u00dfmann",
+                "nameIdentifiers": [],
+                "affiliations": []
+            }
+        ],
+        "dates": [
+            {
+                "value": "2021-09-14",
+                "dateType": "Submitted",
+                "dateInformation": null
+            },
+            {
+                "value": "2021-09-16",
+                "dateType": "Updated",
+                "dateInformation": null
+            }
+        ],
+        "language": null,
+        "alternateIdentifiers": [],
+        "relatedIdentifiers": [],
+        "sizes": [
+            "9641",
+            "10673"
+        ],
+        "formats": [
+            "application/x-spss-sav",
+            "application/x-spss-sav"
+        ],
+        "version": "1.0",
+        "rightsList": [
+            {
+                "value": null,
+                "rightsURI": "info:eu-repo/semantics/openAccess",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            },
+            {
+                "value": "CC0 Waiver",
+                "rightsURI": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            }
+        ],
+        "descriptions": [
+            {
+                "value": "Virtual Reality (VR) is predicted to be a promising learning medium, especially for actions by enabling learning by enactment. Learning by enactment is based on the enactment effect, which assumes that learning by enactment leads to better memory performance than learning without enactment. To date little is known about whether the enactment effect appears in VR like in real reality. The study takes up this topic as a first research question and additionally explores in a second research question to what extent the memory performance of learning by enactment in VR can be compared to learning by enactment in real reality. We conducted a VR-experiment with four groups (n=112) that differed in terms of learning condition or environment. Participants were asked to remember short actions for a later memory test. The results indicate that learning by enactment in VR outperforms passive verbal learning in VR but does not exceed observational learning in VR. Furthermore, the results demonstrate that the memory performance of learning by enactment in VR is similar to the learning by enactment in real reality. These findings are highly relevant as the potential of VR as a new learning medium supporting learning by enactment has been demonstrated.",
+                "descriptionType": "Abstract",
+                "lang": null
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "relatedItems": [],
+        "citation": {
+            "displayName": "Citation Metadata",
+            "fields": [
+                {
+                    "typeName": "title",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Replikationsdaten f\u00fcr: Effects of Enactment in Virtual Reality \u2013  A Comparative Experiment on Memory for Action"
+                },
+                {
+                    "typeName": "author",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Ko\u00dfmann, Cosima"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0001-6615-5185"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Straatmann, Tammo"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0001-7439-6165"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "M\u00fcller, Karsten"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Hamborg, Kai-Christoph"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0002-5868-755X"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "datasetContact",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "datasetContactName": {
+                                "typeName": "datasetContactName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Ko\u00dfmann, Cosima"
+                            },
+                            "datasetContactEmail": {
+                                "typeName": "datasetContactEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "cosima.kossmann@uni-osnabrueck.de"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "dsDescription",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "dsDescriptionValue": {
+                                "typeName": "dsDescriptionValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Virtual Reality (VR) is predicted to be a promising learning medium, especially for actions by enabling learning by enactment. Learning by enactment is based on the enactment effect, which assumes that learning by enactment leads to better memory performance than learning without enactment. To date little is known about whether the enactment effect appears in VR like in real reality. The study takes up this topic as a first research question and additionally explores in a second research question to what extent the memory performance of learning by enactment in VR can be compared to learning by enactment in real reality. We conducted a VR-experiment with four groups (n=112) that differed in terms of learning condition or environment. Participants were asked to remember short actions for a later memory test. The results indicate that learning by enactment in VR outperforms passive verbal learning in VR but does not exceed observational learning in VR. Furthermore, the results demonstrate that the memory performance of learning by enactment in VR is similar to the learning by enactment in real reality. These findings are highly relevant as the potential of VR as a new learning medium supporting learning by enactment has been demonstrated."
+                            },
+                            "dsDescriptionDate": {
+                                "typeName": "dsDescriptionDate",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "2021-09-14"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "subject",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "Other"
+                    ]
+                },
+                {
+                    "typeName": "ddc",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "150 - Psychology"
+                    ]
+                },
+                {
+                    "typeName": "keyword",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Virtual Reality"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Enactment effect"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Memory of action"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Learning by enactment"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Experimental design"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "depositor",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Ko\u00dfmann, Cosima"
+                },
+                {
+                    "typeName": "dateOfDeposit",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2021-09-14"
+                },
+                {
+                    "typeName": "licenseApproval",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "on 2021-09-16, user cosima.kossmann@uni-osnabrueck.de approved the following license text: <p><h3>Lizenzvereinbarung \u2013 Deposit License</h3></p><p>Hiermit gestatte ich der Universit\u00e4t Osnabr\u00fcck, vertreten durch die Pr\u00e4sidentin/den Pr\u00e4sidenten, durchf\u00fchrende Organisationseinheit: Universit\u00e4tsbibliothek (UB), vertreten durch die Leitende Bibliotheksdirektorin/den Leitenden Bibliotheksdirektor, meine digitalen Forschungsdaten einschlie\u00dflich Abstract und Metadaten zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzerinnen und Nutzer berechtigt, Forschungsdaten nach Ma\u00dfgabe des Urheberrechts unentgeltlich zu nutzen, insbesondere, Forschungsdaten zum privaten und sonstigen eigenen Gebrauch herunter zu laden oder zu speichern. </p> <h4>Rechteeinr\u00e4umung </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck an seinen/ihren Forschungsdaten einschlie\u00dflich Abstract und Metadaten zeitlich unbegrenzt und unwiderruflich das nicht ausschlie\u00dfliche Recht zur \u00f6ffentlichen Zug\u00e4nglichmachung, zur langfristigen Speicherung auf dem institutionellem Forschungsdatenrepositorium <i>osnaData</i> der Universit\u00e4t Osnabr\u00fcck und zur Vervielf\u00e4ltigung zu diesen Zwecken ein. Der urheberrechtliche Schutz bleibt durch diese Lizenz unber\u00fchrt. Die Universit\u00e4t Osnabr\u00fcck beh\u00e4lt sich vor, Forschungsdaten wegen inhaltlicher oder technischer M\u00e4ngel oder eines ungekl\u00e4rten rechtlichen Status abzulehnen. </p> <h4>Rechte Dritter </h4> <p>Der Urheber/die Urheberin der Forschungsdaten erkl\u00e4rt, dass mit der Bereitstellung seiner/ihrer Forschungsdaten und jedes Bestandteils (z. B. beschreibende Dokumentationen) keine Rechte Dritter (z. B. Miturheber, Co-Autoren, Verlage, Drittmittelgeber) verletzt werden. Insbesondere hat bisher kein Verlag oder sonstiger Dritter (z. B. Drittmittelgeber) ein ausschlie\u00dfliches Nutzungsrecht. </p> <p>Der Urheber/die Urheberin der Forschungsdaten verpflichtet sich, die Universit\u00e4t Osnabr\u00fcck von solchen Anspr\u00fcchen Dritter freizustellen, die sich daraus ergeben, dass es aufgrund schuldhafter falscher Angaben des Urhebers/der Urheberin bez\u00fcglich des Nichtbestehens von Rechten Dritter oder sonstiger von ihm/ihr zu vertretenden Umst\u00e4nden durch die Ver\u00f6ffentlichung seines/ihres Werkes auf <i>osnaData</i> zu einer Verletzung von Urheberrechten oder ausschlie\u00dflichen Nutzungsrechten kommt. Das gilt nicht, wenn die Verletzung auf einem vors\u00e4tzlichen oder grob fahrl\u00e4ssigen Verhalten der Universit\u00e4t Osnabr\u00fcck als Betreiberin von <i>osnaData</i> beruht und dem Urheber/der Urheberin der Forschungsdaten nicht in gleicher Weise Vorsatz oder grobe Fahrl\u00e4ssigkeit zu Last f\u00e4llt. Im letzteren Fall erfolgt eine Aufteilung des Schadens insbesondere unter Abw\u00e4gung der Verschuldensanteile. </p> <p>Die Vertragsparteien verpflichten sich, einander unverz\u00fcglich zu informieren, wenn Dritte Anspr\u00fcche aufgrund der ihnen zustehenden Urheber- bzw. Nutzungsrechte an den digitalen Forschungsdaten gegen sie erheben. </p> <p>Die Universit\u00e4t Osnabr\u00fcck ist berechtigt, den Zugriff auf die Forschungsdaten zu sperren, soweit konkrete Anhaltspunkte f\u00fcr eine Verletzung von Rechten Dritter bestehen oder andere rechtliche Vorschriften dies erfordern. </p> <h4>Langzeitarchivierung und Transformation in andere Formate </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, seine/ihre bereitgestellten Forschungsdaten in einem Langzeitarchiv zu speichern und bei Bedarf (z. B. technische Nutzbarkeit, Migration, Barrierefreiheit, bessere Zug\u00e4nglichkeit oder Erschlie\u00dfung) in andere elektronische Formate zu \u00fcberf\u00fchren (Formatkonvertierung). </p> <h4>Weitergabe von Metadaten und Dokumenten </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, die Metadaten einschlie\u00dflich Abstract seiner/ihrer Forschungsdaten anderen Datenbanken gem\u00e4\u00df den FAIR-Prinzipien  unentgeltlich unter der Lizenz CC0 zur Verf\u00fcgung zu stellen. Dar\u00fcber hinaus r\u00e4umt er/sie der Universit\u00e4t Osnabr\u00fcck das Recht ein, seine/ihre Forschungsdaten Dritten im Rahmen nationaler Sammelauftr\u00e4ge zur Online-Bereitstellung oder Archivierung zur Verf\u00fcgung zu stellen. </p> <p>Die durch diesen Vertrag einger\u00e4umten Rechte k\u00f6nnen ganz oder teilweise auf Dritte \u00fcbertragen und einfache Nutzungsrechte an andere Repositorien vergeben bzw. ein Dritter mit der Bereitstellung des Dokuments beauftragt werden, ohne dass es hierzu einer gesonderten Zustimmung des Urhebers/der Urheberin der Forschungsdaten bedarf. </p> <p><b>Ansprechpartner f\u00fcr alle <i>osnaData</i> betreffenden technischen und inhaltlichen Fragen ist die Administration von <i>osnaData</i>. Email: <a class=\"mail\" href=\"mailto:osnadata@ub.uni-osnabrueck.de\">osnadata@ub.uni-osnabrueck.de</a><b></p> "
+                }
+            ]
+        },
+        "license": "CC0"
+    }
+}

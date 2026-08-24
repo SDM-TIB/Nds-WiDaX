@@ -1,0 +1,76 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Zimmermann, Till",
+            "givenName": "Till",
+            "familyName": "Zimmermann",
+            "orcid": "0000-0003-2404-182X"
+        },
+        {
+            "author": "Laniewski, Dominic",
+            "givenName": "Dominic",
+            "familyName": "Laniewski",
+            "orcid": "0009-0004-4782-8224"
+        },
+        {
+            "author": "Lanfer, Eric",
+            "givenName": "Eric",
+            "familyName": "Lanfer",
+            "orcid": "0000-0001-9763-4613"
+        },
+        {
+            "author": "Aschenbruck, Nils",
+            "givenName": "Nils",
+            "familyName": "Aschenbruck",
+            "orcid": "0000-0002-5861-8896"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/YXPS4G",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-yxps4g",
+    "notes": "This dataset contains the preprocessed traces of 35 test drives on the highway with two car-roof mounted Starlink dishes with active loss/delay measurements using ICMP. The dataset is described in the paper: The More We Measure, The Less We See: On the Replicability and Repeatability of Mobile Starlink Measurements. In 4th Workshop on LEOIn 4th Workshop on LEO Networking and Communication (LEO-NET \u201926), August 17\u201321, 2026, Denver, CO, USA. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3789240.3827586",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Dataset for: the more we measure, the less we see: on the replicability and repeatability of mobile starlink measurements",
+    "url": "https://doi.org/10.26249/FK2/YXPS4G",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "10.1145/3789240.3827586",
+            "identifier_type": "DOI",
+            "relation_type": "IsCitedBy"
+        }
+    ]
+}

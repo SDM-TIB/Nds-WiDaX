@@ -1,0 +1,103 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "D\u00f6mer, Niklas",
+            "givenName": "Niklas",
+            "familyName": "D\u00f6mer",
+            "orcid": ""
+        },
+        {
+            "author": "Koelmann, Julian",
+            "givenName": "Julian",
+            "familyName": "Koelmann",
+            "orcid": ""
+        },
+        {
+            "author": "Hesselink, Mira",
+            "givenName": "Mira",
+            "familyName": "Hesselink",
+            "orcid": ""
+        },
+        {
+            "author": "Hehemann, Tobias",
+            "givenName": "Tobias",
+            "familyName": "Hehemann",
+            "orcid": ""
+        },
+        {
+            "author": "Pfannstiel, Anton",
+            "givenName": "Anton",
+            "familyName": "Pfannstiel",
+            "orcid": ""
+        },
+        {
+            "author": "Sauerwein, Felix",
+            "givenName": "Felix",
+            "familyName": "Sauerwein",
+            "orcid": ""
+        },
+        {
+            "author": "Vittadello, Laura",
+            "givenName": "Laura",
+            "familyName": "Vittadello",
+            "orcid": ""
+        },
+        {
+            "author": "Ganschow, Steffen",
+            "givenName": "Steffen",
+            "familyName": "Ganschow",
+            "orcid": ""
+        },
+        {
+            "author": "Imlau, Mirco",
+            "givenName": "Mirco",
+            "familyName": "Imlau",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/NBRSHM",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-nbrshm",
+    "notes": "Femto-/nanosecond pulse-induced, red and near-infrared absorption is studied in LiNb<sub>1-x</sub>Ta<sub>x</sub>O<sub>3</sub> (LNT) solid solutions with the goal to probe the intrinsic defect structure via the formation, transport and recombination of optically generated small bound electron polarons with strong coupling to the lattice. As a result, long-lived transients are uncovered for LNT which exceed lifetimes of LN and LT by a factor of up to 100 over the entire range of investigated compositions. At the same time, the starting amplitude varies in the range of \u03b1<sub>li</sub><sup>0</sup> \u2248 10 \u2212 100 m<sup>\u22121</sup> as a function of x and exceed the ones of LN and LT by a factor of up to ten. The results are interpreted in the model of three-dimensional small polaron hopping transport considering the simultaneous presence of three different types of small bound polarons, in particular of small electron Nb<sub> Li</sub><sup>4+</sup> and Ta<sub> Li</sub><sup>4+</sup> antisite polarons, and of small electron Ta<sub> V</sub><sup>4+</sup> interstitial polarons. We conclude that the differences between LNT, LN, and LT may point to model systems that consist of one (LN), two (LT) and three (LNT) intrinsic defect centers for electron localization.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Long-lived, pulse-induced absorption in linb1\u2212xtaxo3 solid solutions: the case of three intrinsic defect sites for electron localization with strong coupling",
+    "url": "https://doi.org/10.26249/FK2/NBRSHM",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Physics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "500 - Natural sciences & mathematics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "530 - Physics"
+        }
+    ],
+    "resource_type": "Dataset"
+}

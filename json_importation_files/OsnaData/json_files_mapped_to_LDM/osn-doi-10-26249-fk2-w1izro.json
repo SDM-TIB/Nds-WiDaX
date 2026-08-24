@@ -1,0 +1,123 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2021",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Toschke, Yannic",
+            "givenName": "Yannic",
+            "familyName": "Toschke",
+            "orcid": "0000-0002-7009-372X"
+        },
+        {
+            "author": "Lusmoeller, Janet",
+            "givenName": "Janet",
+            "familyName": "Lusmoeller",
+            "orcid": ""
+        },
+        {
+            "author": "Otte, Lars",
+            "givenName": "Lars",
+            "familyName": "Otte",
+            "orcid": ""
+        },
+        {
+            "author": "Schmidt, Johann",
+            "givenName": "Johann",
+            "familyName": "Schmidt",
+            "orcid": ""
+        },
+        {
+            "author": "Meyer, Svenja",
+            "givenName": "Svenja",
+            "familyName": "Meyer",
+            "orcid": ""
+        },
+        {
+            "author": "Tessmer, Alexander",
+            "givenName": "Alexander",
+            "familyName": "Tessmer",
+            "orcid": ""
+        },
+        {
+            "author": "Brockmann, Christian",
+            "givenName": "Christian",
+            "familyName": "Brockmann",
+            "orcid": ""
+        },
+        {
+            "author": "Ahuis, Milena",
+            "givenName": "Milena",
+            "familyName": "Ahuis",
+            "orcid": ""
+        },
+        {
+            "author": "H\u00fcer, Emma",
+            "givenName": "Emma",
+            "familyName": "H\u00fcer",
+            "orcid": ""
+        },
+        {
+            "author": "Kirberger, Christian",
+            "givenName": "Christian",
+            "familyName": "Kirberger",
+            "orcid": ""
+        },
+        {
+            "author": "Berben, Dirk",
+            "givenName": "Dirk",
+            "familyName": "Berben",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/W1IZRO",
+    "doi_date_published": "2021",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-w1izro",
+    "notes": "We here present the .stl files, source code and libraries that supplement the open access article \"Distributed LoRa based CO2 monitoring network - A standalone open source system for contagion prevention by controlled ventilation\" (under review).",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Distributed lora based co2 monitoring network - a standalone open source system for contagion prevention by controlled ventilation",
+    "url": "https://doi.org/10.26249/FK2/W1IZRO",
+    "citation": [],
+    "publication_year": "2021",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "CO2 monitoring network, general protective equipment, contagion prevention, 3D-Printing, SARS-CoV-2, COVID-19"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "610 - Medical sciences, medicine"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "CO2 monitoring network general protective equipment contagion prevention 3D-Printing SARS-CoV-2 COVI",
+            "name": "CO2 monitoring network general protective equipment contagion prevention 3D-Printing SARS-CoV-2 COVI",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

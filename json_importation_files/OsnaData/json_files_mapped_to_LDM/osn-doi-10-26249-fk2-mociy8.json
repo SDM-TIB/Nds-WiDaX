@@ -1,0 +1,70 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Lanfer, Eric",
+            "givenName": "Eric",
+            "familyName": "Lanfer",
+            "orcid": "0000-0001-9763-4613"
+        },
+        {
+            "author": "Brockmann, Dominik",
+            "givenName": "Dominik",
+            "familyName": "Brockmann",
+            "orcid": "0009-0004-2162-8873"
+        },
+        {
+            "author": "Aschenbruck, Nils",
+            "givenName": "Nils",
+            "familyName": "Aschenbruck",
+            "orcid": "0000-0002-5861-8896"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/MOCIY8",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-mociy8",
+    "notes": "<h1 id=\"web-ids23\">WEB-IDS23</h1>\n<p>WEB-IDS23 is a network intrusion detection dataset that includes over 12 million flows, categorizing 20 attack types across FTP, HTTP/S, SMTP, SSH, and network scanning activities. This dataset is documented in the paper \"Technical Report: Generating the WEB-IDS23 Dataset,\" which provides insights into the generation, structure, and key characteristics of the dataset.</p>\n<h2 id=\"data\">Data</h2>\n<p>The dataset is available as CSV files under web-ids23. Each file includes the data of one class, and each row corresponds to a flow extracted using Zeek FlowMeter. In total, the dataset includes over 12 million samples.</p>\n\n<h2 id=\"data\">Short Documentation</h2>\n<p>A short documentation of the data and the according labels can be found in the files readme.md or readme.pdf</p>",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Web-ids23 dataset",
+    "url": "https://doi.org/10.26249/FK2/MOCIY8",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "500 - Natural sciences & mathematics"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "arXiv:2502.03909",
+            "identifier_type": "arXiv",
+            "relation_type": "IsCitedBy"
+        }
+    ]
+}

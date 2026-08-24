@@ -1,0 +1,73 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Pfannstiel, Anton",
+            "givenName": "Anton",
+            "familyName": "Pfannstiel",
+            "orcid": ""
+        },
+        {
+            "author": "Imlau, Mirco",
+            "givenName": "Mirco",
+            "familyName": "Imlau",
+            "orcid": ""
+        },
+        {
+            "author": "Bazzan, Marco",
+            "givenName": "Marco",
+            "familyName": "Bazzan",
+            "orcid": ""
+        },
+        {
+            "author": "Vittadello, Laura",
+            "givenName": "Laura",
+            "familyName": "Vittadello",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/VAGUFZ",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-vagufz",
+    "notes": "Polarons play a major role in the description of optical, electrical and dielectrical properties of several ferroelectric oxides. The motion of those particles occur by elementary hops among the material lattice sites. In order to compute macroscopic transport parameters such as charge mobility, normal (i.e. Fickian) diffusion laws are generally assumed. In this paper we show that when defect states able to trap the polarons for long times are considered, significant deviations from the normal diffusion behaviour arise. As an example of this behavior, we consider here the case of lithium niobate (LN). This can be considered as a prototypical system, having a rich landscape of interacting polaron types and for which a significant wealth of information is available in literature. Our analysis considers the case of a stoichiometric, defect free lithium niobate containing a certain concentration of small electron polarons hopping on regular Nb sites, and compares it to the material in congruent composition, which is generally found in real-life applications and which is characterized by a large concentration of antisite Nb<sub>Li</sub> defects. While in the first case the charge carriers are free polarons hopping on a regular Nb sublattice, in the second case a fraction of polarons is trapped on antisite defects. Thus, in the congruent material, a range of different hopping possibilities arises, depending on the type of starting and destination sites. We develop a formalism encompassing all these microscopic processes in the framework of a switching diffusion model which can be well approximated by a mobile\u2013immobile transport model providing explicit expressions for the polaron mobility. Finally, starting from the\nMarcus\u2013Holstein\u2019s model for the polaron hopping frequency we verify by means of a Monte Carlo approach the diffusion/mobility of the different polarons species showing that, while free polarons\nobey the laws for normal diffusion as expected, bound polarons follow an anomalous diffusion behaviour and that in the case of the congruent crystal where mixed free and bound polaron transport is involved, our expressions indeed provide a satisfactory description.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Defect related anomalous mobility of small polarons in dielectric oxides at the example of congruent lithium niobate",
+    "url": "https://doi.org/10.26249/FK2/VAGUFZ",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Physics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "500 - Natural sciences & mathematics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "530 - Physics"
+        }
+    ],
+    "resource_type": "Dataset"
+}

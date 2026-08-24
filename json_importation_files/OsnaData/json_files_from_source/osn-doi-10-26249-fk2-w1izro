@@ -1,0 +1,617 @@
+{
+    "header": {
+        "identifier": "doi:10.26249/FK2/W1IZRO",
+        "datestamp": "2021-11-25T09:53:22Z",
+        "setSpecs": [],
+        "status": null
+    },
+    "metadata": {
+        "metadataFormat": "oai_datacite",
+        "identifier": {
+            "value": "10.26249/FK2/W1IZRO",
+            "identifierType": "DOI"
+        },
+        "creators": [
+            {
+                "creatorName": {
+                    "value": "Toschke, Yannic",
+                    "nameType": "Personal"
+                },
+                "givenName": "Yannic",
+                "familyName": "Toschke",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0002-7009-372X",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": [
+                    {
+                        "value": "Department of Physics, Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Lusmoeller, Janet",
+                    "nameType": "Personal"
+                },
+                "givenName": "Janet",
+                "familyName": "Lusmoeller",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Department of Chemistry Education, Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Otte, Lars",
+                    "nameType": "Personal"
+                },
+                "givenName": "Lars",
+                "familyName": "Otte",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Department of Chemistry Education, Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Schmidt, Johann",
+                    "nameType": "Personal"
+                },
+                "givenName": "Johann",
+                "familyName": "Schmidt",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Department of Chemistry Education, Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Meyer, Svenja",
+                    "nameType": "Personal"
+                },
+                "givenName": "Svenja",
+                "familyName": "Meyer",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Fachhochschule Suedwestfalen",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Tessmer, Alexander",
+                    "nameType": "Personal"
+                },
+                "givenName": "Alexander",
+                "familyName": "Tessmer",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Institute of Computer Science, Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Brockmann, Christian",
+                    "nameType": "Personal"
+                },
+                "givenName": "Christian",
+                "familyName": "Brockmann",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Evangelisches Gymnasium Nordhorn",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Ahuis, Milena",
+                    "nameType": "Personal"
+                },
+                "givenName": "Milena",
+                "familyName": "Ahuis",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Evangelisches Gymnasium Nordhorn",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "H\u00fcer, Emma",
+                    "nameType": "Personal"
+                },
+                "givenName": "Emma",
+                "familyName": "H\u00fcer",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Evangelisches Gymnasium Nordhorn",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Kirberger, Christian",
+                    "nameType": "Personal"
+                },
+                "givenName": "Christian",
+                "familyName": "Kirberger",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Evangelisches Gymnasium Nordhorn",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            },
+            {
+                "creatorName": {
+                    "value": "Berben, Dirk",
+                    "nameType": "Personal"
+                },
+                "givenName": "Dirk",
+                "familyName": "Berben",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Fachhochschule Suedwestfalen",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "titles": [
+            {
+                "value": "Distributed LoRa based CO2 monitoring network - A standalone open source system for contagion prevention by controlled ventilation",
+                "titleType": null,
+                "lang": null
+            }
+        ],
+        "publisher": {
+            "value": "osnaData",
+            "publisherIdentifier": null,
+            "publisherIdentifierScheme": null,
+            "schemeURI": null,
+            "lang": null
+        },
+        "publicationYear": "2021",
+        "resourceType": {
+            "value": null,
+            "resourceTypeGeneral": "Dataset"
+        },
+        "subjects": [
+            {
+                "value": "Medicine, Health and Life Sciences",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "CO2 monitoring network, general protective equipment, contagion prevention, 3D-Printing, SARS-CoV-2, COVID-19",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            }
+        ],
+        "contributors": [
+            {
+                "contributorType": "ContactPerson",
+                "contributorName": {
+                    "value": "Toschke, Yannic",
+                    "nameType": "Personal"
+                },
+                "givenName": "Yannic",
+                "familyName": "Toschke",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Department of Physics, Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "dates": [
+            {
+                "value": "2021-07-07",
+                "dateType": "Submitted",
+                "dateInformation": null
+            },
+            {
+                "value": "2021-07-07",
+                "dateType": "Updated",
+                "dateInformation": null
+            }
+        ],
+        "language": null,
+        "alternateIdentifiers": [],
+        "relatedIdentifiers": [],
+        "sizes": [
+            "355749",
+            "36033",
+            "47484",
+            "53084",
+            "3008",
+            "18976",
+            "2483764",
+            "26659",
+            "2361983",
+            "41601",
+            "93"
+        ],
+        "formats": [
+            "application/zip",
+            "application/zip",
+            "application/vnd.ms-pki.stl",
+            "application/vnd.ms-pki.stl",
+            "application/json",
+            "application/octet-stream",
+            "application/zip",
+            "application/zip",
+            "application/zip",
+            "application/zip",
+            "text/plain"
+        ],
+        "version": "1.0",
+        "rightsList": [
+            {
+                "value": null,
+                "rightsURI": "info:eu-repo/semantics/openAccess",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            },
+            {
+                "value": "<a href=\"http://creativecommons.org/licenses/by-sa/4.0/\"><img src=\"https://licensebuttons.net/l/by-sa/4.0/88x31.png\" height=\"31\"/>\u00a0\u00a0http://creativecommons.org/licenses/by-sa/4.0/</a>",
+                "rightsURI": null,
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            }
+        ],
+        "descriptions": [
+            {
+                "value": "We here present the .stl files, source code and libraries that supplement the open access article \"Distributed LoRa based CO2 monitoring network - A standalone open source system for contagion prevention by controlled ventilation\" (under review).",
+                "descriptionType": "Abstract",
+                "lang": null
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "relatedItems": [],
+        "citation": {
+            "displayName": "Citation Metadata",
+            "fields": [
+                {
+                    "typeName": "title",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Distributed LoRa based CO2 monitoring network - A standalone open source system for contagion prevention by controlled ventilation"
+                },
+                {
+                    "typeName": "author",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Toschke, Yannic"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Department of Physics, Osnabrueck University"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0002-7009-372X"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Lusmoeller, Janet"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Department of Chemistry Education, Osnabrueck University"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Otte, Lars"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Department of Chemistry Education, Osnabrueck University"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Schmidt, Johann"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Department of Chemistry Education, Osnabrueck University"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Meyer, Svenja"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Fachhochschule Suedwestfalen"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Tessmer, Alexander"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Institute of Computer Science, Osnabrueck University"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Brockmann, Christian"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Evangelisches Gymnasium Nordhorn"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Ahuis, Milena"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Evangelisches Gymnasium Nordhorn"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "H\u00fcer, Emma"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Evangelisches Gymnasium Nordhorn"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Kirberger, Christian"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Evangelisches Gymnasium Nordhorn"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Berben, Dirk"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Fachhochschule Suedwestfalen"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "datasetContact",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "datasetContactName": {
+                                "typeName": "datasetContactName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Toschke, Yannic"
+                            },
+                            "datasetContactAffiliation": {
+                                "typeName": "datasetContactAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Department of Physics, Osnabrueck University"
+                            },
+                            "datasetContactEmail": {
+                                "typeName": "datasetContactEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "ytoschke@uni-osnabrueck.de"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "dsDescription",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "dsDescriptionValue": {
+                                "typeName": "dsDescriptionValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "We here present the .stl files, source code and libraries that supplement the open access article \"Distributed LoRa based CO2 monitoring network - A standalone open source system for contagion prevention by controlled ventilation\" (under review)."
+                            },
+                            "dsDescriptionDate": {
+                                "typeName": "dsDescriptionDate",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "2021-07-07"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "subject",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "Medicine, Health and Life Sciences"
+                    ]
+                },
+                {
+                    "typeName": "ddc",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "610 - Medical sciences, medicine"
+                    ]
+                },
+                {
+                    "typeName": "keyword",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "CO2 monitoring network, general protective equipment, contagion prevention, 3D-Printing, SARS-CoV-2, COVID-19"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "depositor",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Toschke, Yannic"
+                },
+                {
+                    "typeName": "dateOfDeposit",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2021-07-07"
+                },
+                {
+                    "typeName": "licenseApproval",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "on 2021-07-07, user ytoschke@uni-osnabrueck.de approved the following license text: <p><h3>Lizenzvereinbarung \u2013 Deposit License</h3></p><p>Hiermit gestatte ich der Universit\u00e4t Osnabr\u00fcck, vertreten durch die Pr\u00e4sidentin/den Pr\u00e4sidenten, durchf\u00fchrende Organisationseinheit: Universit\u00e4tsbibliothek (UB), vertreten durch die Leitende Bibliotheksdirektorin/den Leitenden Bibliotheksdirektor, meine digitalen Forschungsdaten einschlie\u00dflich Abstract und Metadaten zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzerinnen und Nutzer berechtigt, Forschungsdaten nach Ma\u00dfgabe des Urheberrechts unentgeltlich zu nutzen, insbesondere, Forschungsdaten zum privaten und sonstigen eigenen Gebrauch herunter zu laden oder zu speichern. </p> <h4>Rechteeinr\u00e4umung </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck an seinen/ihren Forschungsdaten einschlie\u00dflich Abstract und Metadaten zeitlich unbegrenzt und unwiderruflich das nicht ausschlie\u00dfliche Recht zur \u00f6ffentlichen Zug\u00e4nglichmachung, zur langfristigen Speicherung auf dem institutionellem Forschungsdatenrepositorium <i>osnaData</i> der Universit\u00e4t Osnabr\u00fcck und zur Vervielf\u00e4ltigung zu diesen Zwecken ein. Der urheberrechtliche Schutz bleibt durch diese Lizenz unber\u00fchrt. Die Universit\u00e4t Osnabr\u00fcck beh\u00e4lt sich vor, Forschungsdaten wegen inhaltlicher oder technischer M\u00e4ngel oder eines ungekl\u00e4rten rechtlichen Status abzulehnen. </p> <h4>Rechte Dritter </h4> <p>Der Urheber/die Urheberin der Forschungsdaten erkl\u00e4rt, dass mit der Bereitstellung seiner/ihrer Forschungsdaten und jedes Bestandteils (z. B. beschreibende Dokumentationen) keine Rechte Dritter (z. B. Miturheber, Co-Autoren, Verlage, Drittmittelgeber) verletzt werden. Insbesondere hat bisher kein Verlag oder sonstiger Dritter (z. B. Drittmittelgeber) ein ausschlie\u00dfliches Nutzungsrecht. </p> <p>Der Urheber/die Urheberin der Forschungsdaten verpflichtet sich, die Universit\u00e4t Osnabr\u00fcck von solchen Anspr\u00fcchen Dritter freizustellen, die sich daraus ergeben, dass es aufgrund schuldhafter falscher Angaben des Urhebers/der Urheberin bez\u00fcglich des Nichtbestehens von Rechten Dritter oder sonstiger von ihm/ihr zu vertretenden Umst\u00e4nden durch die Ver\u00f6ffentlichung seines/ihres Werkes auf <i>osnaData</i> zu einer Verletzung von Urheberrechten oder ausschlie\u00dflichen Nutzungsrechten kommt. Das gilt nicht, wenn die Verletzung auf einem vors\u00e4tzlichen oder grob fahrl\u00e4ssigen Verhalten der Universit\u00e4t Osnabr\u00fcck als Betreiberin von <i>osnaData</i> beruht und dem Urheber/der Urheberin der Forschungsdaten nicht in gleicher Weise Vorsatz oder grobe Fahrl\u00e4ssigkeit zu Last f\u00e4llt. Im letzteren Fall erfolgt eine Aufteilung des Schadens insbesondere unter Abw\u00e4gung der Verschuldensanteile. </p> <p>Die Vertragsparteien verpflichten sich, einander unverz\u00fcglich zu informieren, wenn Dritte Anspr\u00fcche aufgrund der ihnen zustehenden Urheber- bzw. Nutzungsrechte an den digitalen Forschungsdaten gegen sie erheben. </p> <p>Die Universit\u00e4t Osnabr\u00fcck ist berechtigt, den Zugriff auf die Forschungsdaten zu sperren, soweit konkrete Anhaltspunkte f\u00fcr eine Verletzung von Rechten Dritter bestehen oder andere rechtliche Vorschriften dies erfordern. </p> <h4>Langzeitarchivierung und Transformation in andere Formate </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, seine/ihre bereitgestellten Forschungsdaten in einem Langzeitarchiv zu speichern und bei Bedarf (z. B. technische Nutzbarkeit, Migration, Barrierefreiheit, bessere Zug\u00e4nglichkeit oder Erschlie\u00dfung) in andere elektronische Formate zu \u00fcberf\u00fchren (Formatkonvertierung). </p> <h4>Weitergabe von Metadaten und Dokumenten </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, die Metadaten einschlie\u00dflich Abstract seiner/ihrer Forschungsdaten anderen Datenbanken gem\u00e4\u00df den FAIR-Prinzipien  unentgeltlich unter der Lizenz CC0 zur Verf\u00fcgung zu stellen. Dar\u00fcber hinaus r\u00e4umt er/sie der Universit\u00e4t Osnabr\u00fcck das Recht ein, seine/ihre Forschungsdaten Dritten im Rahmen nationaler Sammelauftr\u00e4ge zur Online-Bereitstellung oder Archivierung zur Verf\u00fcgung zu stellen. </p> <p>Die durch diesen Vertrag einger\u00e4umten Rechte k\u00f6nnen ganz oder teilweise auf Dritte \u00fcbertragen und einfache Nutzungsrechte an andere Repositorien vergeben bzw. ein Dritter mit der Bereitstellung des Dokuments beauftragt werden, ohne dass es hierzu einer gesonderten Zustimmung des Urhebers/der Urheberin der Forschungsdaten bedarf. </p> <p><b>Ansprechpartner f\u00fcr alle <i>osnaData</i> betreffenden technischen und inhaltlichen Fragen ist die Administration von <i>osnaData</i>. Email: <a class=\"mail\" href=\"mailto:osnadata@ub.uni-osnabrueck.de\">osnadata@ub.uni-osnabrueck.de</a><b></p> "
+                }
+            ]
+        },
+        "license": "NONE"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Pollmann, Christoph",
+            "givenName": "Christoph",
+            "familyName": "Pollmann",
+            "orcid": "0000-0002-1473-0288"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/3VMZ67",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-3vmz67",
+    "notes": "Raw data files for single-molecule FRET experiments presented in the article \"Structural Rewiring of IL-7R Dimerization by an Oncogenic Transmembrane Mutation Can Be Reversed by Rational Design\" by Wang et al.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Raw smfret data - structural rewiring of il-7r dimerization by an oncogenic transmembrane mutation can be reversed by rational design",
+    "url": "https://doi.org/10.26249/FK2/3VMZ67",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "570 - Life sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "610 - Medical sciences, medicine"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "https://omero.cellnanos.uni-osnabrueck.de/webclient/?show=project-25052",
+            "identifier_type": "URL",
+            "relation_type": "IsCitedBy"
+        }
+    ]
+}

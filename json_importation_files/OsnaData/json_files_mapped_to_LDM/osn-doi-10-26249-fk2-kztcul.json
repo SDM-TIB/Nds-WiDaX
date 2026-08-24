@@ -1,0 +1,80 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Lohmann, Sven",
+            "givenName": "Sven",
+            "familyName": "Lohmann",
+            "orcid": "0009-0005-1506-1345"
+        },
+        {
+            "author": "Fischer, Quinn Emilia",
+            "givenName": "Quinn Emilia",
+            "familyName": "Fischer",
+            "orcid": "0009-0008-3056-3572"
+        },
+        {
+            "author": "Leiber, Justus",
+            "givenName": "Justus",
+            "familyName": "Leiber",
+            "orcid": "0009-0005-6077-6833"
+        },
+        {
+            "author": "Maass, Philipp",
+            "givenName": "Philipp",
+            "familyName": "Maass",
+            "orcid": "0000-0002-1268-8688"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/KZTCUL",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-kztcul",
+    "notes": "Here we offer the datasets for Figures 1\u20136 presented in  \t\n<a href=\"https://doi.org/10.48550/arXiv.2601.07731\">https://doi.org/10.48550/arXiv.2601.07731</a>",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Data for universal time-temperature scaling of conductivities in random site energy and associated random barrier models",
+    "url": "https://doi.org/10.26249/FK2/KZTCUL",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Physics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "500 - Natural sciences & mathematics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "530 - Physics"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "2601.07731v2",
+            "identifier_type": "arXiv",
+            "relation_type": "IsCitedBy"
+        }
+    ]
+}

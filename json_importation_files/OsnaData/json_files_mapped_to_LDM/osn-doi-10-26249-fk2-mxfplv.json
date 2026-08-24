@@ -1,0 +1,83 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2022",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Schmidt, Jonas",
+            "givenName": "Jonas",
+            "familyName": "Schmidt",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/MXFPLV",
+    "doi_date_published": "2022",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-mxfplv",
+    "notes": "This repository contains the computed runtimes of state-of-the-art horizontal visibility algorithms for synthetic and empirical time series. The provided Python code was used to compute the runtime data and includes implementations of various horizontal visibility algorithms. The main contribution is a newly developed algorithm that extends the fast weighted horizontal visibility algorithm of Zhu et al. . The proposed algorithm works efficiently on streamed data, is multi-processing capable, and has linear runtime in the worst case.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Runtime data of horizontal visibility algorithms for synthetic and empirical time series",
+    "url": "https://doi.org/10.26249/FK2/MXFPLV",
+    "citation": [],
+    "publication_year": "2022",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Graph Theory"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computational Complexity Theory"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Horizontal Visibility Graphs"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "Graph Theory",
+            "name": "Graph Theory",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Computational Complexity Theory",
+            "name": "Computational Complexity Theory",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Horizontal Visibility Graphs",
+            "name": "Horizontal Visibility Graphs",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

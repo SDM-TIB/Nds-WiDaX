@@ -1,0 +1,51 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2023",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Borchert, Christoph",
+            "givenName": "Christoph",
+            "familyName": "Borchert",
+            "orcid": "0009-0000-8811-8537"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/GJFUON",
+    "doi_date_published": "2023",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-gjfuon",
+    "notes": "This data set contains the source code for the compiler-implemented differential checksums as described in the following publication:\n\nChristoph Borchert, Horst Schirmeier, and Olaf Spinczyk.\nCompiler-Implemented Differential Checksums: Effective Detection and Correction of Transient and Permanent Memory Errors.\nIn Proceedings of the 53rd IEEE/IFIP International Conference on Dependable Systems and Networks (DSN '23).\nPiscataway, NJ, USA, June 2023. IEEE Press.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Source code for: compiler-implemented differential checksums: effective detection and correction of transient and permanent memory errors",
+    "url": "https://doi.org/10.26249/FK2/GJFUON",
+    "citation": [],
+    "publication_year": "2023",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        }
+    ],
+    "resource_type": "Dataset"
+}

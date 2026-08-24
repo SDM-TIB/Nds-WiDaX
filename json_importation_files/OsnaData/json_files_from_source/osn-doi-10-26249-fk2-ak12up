@@ -1,0 +1,399 @@
+{
+    "header": {
+        "identifier": "doi:10.26249/FK2/AK12UP",
+        "datestamp": "2025-10-15T00:00:01Z",
+        "setSpecs": [],
+        "status": null
+    },
+    "metadata": {
+        "metadataFormat": "oai_datacite",
+        "identifier": {
+            "value": "10.26249/FK2/AK12UP",
+            "identifierType": "DOI"
+        },
+        "creators": [
+            {
+                "creatorName": {
+                    "value": "Sch\u00f6ning, Julius",
+                    "nameType": "Personal"
+                },
+                "givenName": "Julius",
+                "familyName": "Sch\u00f6ning",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0003-4921-5179",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": []
+            }
+        ],
+        "titles": [
+            {
+                "value": "Osnabr\u00fcck \u2014 Synthetic Scalable Cube Dataset",
+                "titleType": null,
+                "lang": null
+            }
+        ],
+        "publisher": {
+            "value": "osnaData",
+            "publisherIdentifier": null,
+            "publisherIdentifierScheme": null,
+            "schemeURI": null,
+            "lang": null
+        },
+        "publicationYear": "2025",
+        "resourceType": {
+            "value": null,
+            "resourceTypeGeneral": "Dataset"
+        },
+        "subjects": [
+            {
+                "value": "Computer and Information Science",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Engineering",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            }
+        ],
+        "contributors": [
+            {
+                "contributorType": "ContactPerson",
+                "contributorName": {
+                    "value": "Sch\u00f6ning, Julius",
+                    "nameType": "Personal"
+                },
+                "givenName": "Julius",
+                "familyName": "Sch\u00f6ning",
+                "nameIdentifiers": [],
+                "affiliations": []
+            },
+            {
+                "contributorType": "ContactPerson",
+                "contributorName": {
+                    "value": "Sch\u00f6ning, Julius",
+                    "nameType": "Personal"
+                },
+                "givenName": "Julius",
+                "familyName": "Sch\u00f6ning",
+                "nameIdentifiers": [],
+                "affiliations": []
+            },
+            {
+                "contributorType": "Producer",
+                "contributorName": {
+                    "value": "Sch\u00f6ning, Julius",
+                    "nameType": "Personal"
+                },
+                "givenName": "Julius",
+                "familyName": "Sch\u00f6ning",
+                "nameIdentifiers": [],
+                "affiliations": []
+            }
+        ],
+        "dates": [
+            {
+                "value": "2017-06-12",
+                "dateType": "Created",
+                "dateInformation": null
+            },
+            {
+                "value": "2025-10-13",
+                "dateType": "Submitted",
+                "dateInformation": null
+            },
+            {
+                "value": "2025-10-14",
+                "dateType": "Updated",
+                "dateInformation": null
+            }
+        ],
+        "language": null,
+        "alternateIdentifiers": [],
+        "relatedIdentifiers": [
+            {
+                "value": "10.1007/978-3-319-59126-1_13",
+                "relationType": "IsCitedBy",
+                "relatedIdentifierType": "DOI",
+                "relatedMetadataScheme": null,
+                "schemeURI": null,
+                "schemeType": null,
+                "resourceTypeGeneral": null
+            }
+        ],
+        "sizes": [
+            "1121803974",
+            "2554806272",
+            "8640675961",
+            "92792421",
+            "293387263",
+            "3639441208",
+            "3093",
+            "1137",
+            "12077",
+            "1945",
+            "1623",
+            "5059",
+            "1811",
+            "1370",
+            "3168",
+            "34",
+            "29",
+            "14274",
+            "2543",
+            "2865",
+            "8180"
+        ],
+        "formats": [
+            "application/x-compressed",
+            "application/x-compressed",
+            "application/x-compressed",
+            "application/x-gzip",
+            "application/x-gzip",
+            "application/x-gzip",
+            "text/x-matlab",
+            "text/x-matlab",
+            "text/x-matlab",
+            "text/x-python",
+            "text/x-matlab",
+            "text/x-matlab",
+            "text/x-matlab",
+            "text/x-matlab",
+            "text/x-matlab",
+            "text/troff",
+            "text/troff",
+            "text/x-matlab",
+            "text/x-matlab",
+            "text/x-matlab",
+            "text/x-matlab"
+        ],
+        "version": "1.0",
+        "rightsList": [
+            {
+                "value": null,
+                "rightsURI": "info:eu-repo/semantics/openAccess",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            },
+            {
+                "value": "<a href=\"http://creativecommons.org/licenses/by/4.0/\"><img src=\"https://osnadata.ub.uni-osnabrueck.de/resources/images/cc-icons/by.png\" height=\"31\"/>\u00a0\u00a0http://creativecommons.org/licenses/by/4.0/</a>",
+                "rightsURI": null,
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            }
+        ],
+        "descriptions": [
+            {
+                "value": "Retrieving the 3D shape of an object from a collection of images or a video is currently realized with multiple view geometry algorithms, most commonly Structure from Motion (SfM) methods. With the aim of introducing artificial neuronal networks (ANN) into the domain of image-based 3D reconstruction of unknown object categories, we developed a scalable voxel-based dataset in which one can choose different training and testing subsets. We show that image-based 3D shape reconstruction by ANNs is possible, and we evaluate the aspect of scalability by examining the correlation between the complexity of the reconstructed object and the required amount of training samples. Along with our dataset, we are introducing, in this paper, a first baseline achieved by an only five-layer ANN. For capturing life\u2019s complexity, the ANNs trained on our dataset can be used a as pre-trained starting point and adapted for further investigation. Finally, we conclude with a discussion of open issues and further work empowering 3D reconstruction on real world images or video sequences by a CAD-model based ANN training data set.\n\n<h2>Data Sets</h2>\n<ul>\n<li>\n3x3x3 - 100 000 cubes  cf. cube3by3by3TBP.tar.bz2 for views and cubes_3x3x3_random_200000.tar.gz for 3D objects\n</li>\n<li>\n4x4x4 - 300 000 cubes cf. cube4by4by4TBP.tar.bz2 for views  and cubes_4x4x4_random_325000.tar.gz for 3D objects\n</li>\n<li>\n8x8x8 430 000 cubes cf. cube8by8by8TBP.tar.bz2 for views  and cubes_8x8x8_random_430000.tar.gz for 3D objects\n</li>\n</ul>\n\n<h2>Generator Tools</h2>\n<h3>Python Voxelizer</h3>\nThis python script create voxelized objects incl. a voxel set list out of ply, off or stl 3D object files. (cf. model2VoxelCloud.py)\n\n<h3>Cube Generator</h3>\nThis generator, written in Matlab, randomly generates n 3D objects. Each such object is created by taking a unit cube in R\u00b3 and subdividing it into a r x r x r sub cubes. The parameter r can be defined by the user. By ensuring the uniqueness of the cube distribution in the voxel grid, this generator is able to generate 2^(r\u00b3) different 3D objects and export them as 3D *.obj object files. \n\n<h3>Views Generator</h3>\nThis generator, written in Matlab, (can be optionally used for voxelization of 3D objects and) renders w input images with a pixel resolution x by x. Where the w different viewpoints are uniformly distributed around the object by using the Fibonacci lattice.\n<br>",
+                "descriptionType": "Abstract",
+                "lang": null
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "Osnabr\u00fcck",
+                "geoLocationPoint": null,
+                "geoLocationBox": null,
+                "geoLocationPolygons": []
+            }
+        ],
+        "fundingReferences": [],
+        "relatedItems": [],
+        "citation": {
+            "displayName": "Citation Metadata",
+            "fields": [
+                {
+                    "typeName": "title",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Osnabr\u00fcck \u2014 Synthetic Scalable Cube Dataset"
+                },
+                {
+                    "typeName": "author",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Sch\u00f6ning, Julius"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0003-4921-5179"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "datasetContact",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "datasetContactName": {
+                                "typeName": "datasetContactName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Sch\u00f6ning, Julius"
+                            },
+                            "datasetContactEmail": {
+                                "typeName": "datasetContactEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "julius.schoening@uni-osnabrueck.de"
+                            }
+                        },
+                        {
+                            "datasetContactName": {
+                                "typeName": "datasetContactName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Sch\u00f6ning, Julius"
+                            },
+                            "datasetContactEmail": {
+                                "typeName": "datasetContactEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "j.schoening@hs-osnabrueck.de"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "dsDescription",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "dsDescriptionValue": {
+                                "typeName": "dsDescriptionValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Retrieving the 3D shape of an object from a collection of images or a video is currently realized with multiple view geometry algorithms, most commonly Structure from Motion (SfM) methods. With the aim of introducing artificial neuronal networks (ANN) into the domain of image-based 3D reconstruction of unknown object categories, we developed a scalable voxel-based dataset in which one can choose different training and testing subsets. We show that image-based 3D shape reconstruction by ANNs is possible, and we evaluate the aspect of scalability by examining the correlation between the complexity of the reconstructed object and the required amount of training samples. Along with our dataset, we are introducing, in this paper, a first baseline achieved by an only five-layer ANN. For capturing life\u2019s complexity, the ANNs trained on our dataset can be used a as pre-trained starting point and adapted for further investigation. Finally, we conclude with a discussion of open issues and further work empowering 3D reconstruction on real world images or video sequences by a CAD-model based ANN training data set.\n\n<h2>Data Sets</h2>\n<ul>\n<li>\n3x3x3 - 100 000 cubes  cf. cube3by3by3TBP.tar.bz2 for views and cubes_3x3x3_random_200000.tar.gz for 3D objects\n</li>\n<li>\n4x4x4 - 300 000 cubes cf. cube4by4by4TBP.tar.bz2 for views  and cubes_4x4x4_random_325000.tar.gz for 3D objects\n</li>\n<li>\n8x8x8 430 000 cubes cf. cube8by8by8TBP.tar.bz2 for views  and cubes_8x8x8_random_430000.tar.gz for 3D objects\n</li>\n</ul>\n\n<h2>Generator Tools</h2>\n<h3>Python Voxelizer</h3>\nThis python script create voxelized objects incl. a voxel set list out of ply, off or stl 3D object files. (cf. model2VoxelCloud.py)\n\n<h3>Cube Generator</h3>\nThis generator, written in Matlab, randomly generates n 3D objects. Each such object is created by taking a unit cube in R\u00b3 and subdividing it into a r x r x r sub cubes. The parameter r can be defined by the user. By ensuring the uniqueness of the cube distribution in the voxel grid, this generator is able to generate 2^(r\u00b3) different 3D objects and export them as 3D *.obj object files. \n\n<h3>Views Generator</h3>\nThis generator, written in Matlab, (can be optionally used for voxelization of 3D objects and) renders w input images with a pixel resolution x by x. Where the w different viewpoints are uniformly distributed around the object by using the Fibonacci lattice.\n<br>"
+                            },
+                            "dsDescriptionDate": {
+                                "typeName": "dsDescriptionDate",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "2017-06-12"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "subject",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "Computer and Information Science",
+                        "Engineering"
+                    ]
+                },
+                {
+                    "typeName": "ddc",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "004 - Data processing, computer science"
+                    ]
+                },
+                {
+                    "typeName": "publication",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "publicationCitation": {
+                                "typeName": "publicationCitation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "J. Sch\u00f6ning, T. Behrens, P. Faion, P. Kheiri, G. Heidemann & U. Krumnack. Structure from Motion by Artificial Neural Networks.\nIn Scandinavian Conference on Image Analysis (SCIA), pages: 146-158, ISBN: 978-3-319-59126-1, 2017. Springer International Publishing."
+                            },
+                            "publicationIDType": {
+                                "typeName": "publicationIDType",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "doi"
+                            },
+                            "publicationIDNumber": {
+                                "typeName": "publicationIDNumber",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "10.1007/978-3-319-59126-1_13"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "producer",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "producerName": {
+                                "typeName": "producerName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Sch\u00f6ning, Julius"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "productionDate",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2017-06-12"
+                },
+                {
+                    "typeName": "productionPlace",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Osnabr\u00fcck"
+                },
+                {
+                    "typeName": "depositor",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Sch\u00f6ning, Julius"
+                },
+                {
+                    "typeName": "dateOfDeposit",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2025-10-13"
+                },
+                {
+                    "typeName": "licenseApproval",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "on 2025-10-14, user julius.schoening@uni-osnabrueck.de approved the following license text: <p><h3>Lizenzvereinbarung \u2013 Deposit License</h3></p><p>Hiermit gestatte ich der Universit\u00e4t Osnabr\u00fcck, vertreten durch die Pr\u00e4sidentin/den Pr\u00e4sidenten, durchf\u00fchrende Organisationseinheit: Universit\u00e4tsbibliothek (UB), vertreten durch die Leitende Bibliotheksdirektorin/den Leitenden Bibliotheksdirektor, meine digitalen Forschungsdaten einschlie\u00dflich Abstract und Metadaten zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzerinnen und Nutzer berechtigt, Forschungsdaten nach Ma\u00dfgabe des Urheberrechts unentgeltlich zu nutzen, insbesondere, Forschungsdaten zum privaten und sonstigen eigenen Gebrauch herunter zu laden oder zu speichern. </p> <h4>Rechteeinr\u00e4umung </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck an seinen/ihren Forschungsdaten einschlie\u00dflich Abstract und Metadaten zeitlich unbegrenzt und unwiderruflich das nicht ausschlie\u00dfliche Recht zur \u00f6ffentlichen Zug\u00e4nglichmachung, zur langfristigen Speicherung auf dem institutionellem Forschungsdatenrepositorium <i>osnaData</i> der Universit\u00e4t Osnabr\u00fcck und zur Vervielf\u00e4ltigung zu diesen Zwecken ein. Der urheberrechtliche Schutz bleibt durch diese Lizenz unber\u00fchrt. Die Universit\u00e4t Osnabr\u00fcck beh\u00e4lt sich vor, Forschungsdaten wegen inhaltlicher oder technischer M\u00e4ngel oder eines ungekl\u00e4rten rechtlichen Status abzulehnen. </p> <h4>Rechte Dritter </h4> <p>Der Urheber/die Urheberin der Forschungsdaten erkl\u00e4rt, dass mit der Bereitstellung seiner/ihrer Forschungsdaten und jedes Bestandteils (z. B. beschreibende Dokumentationen) keine Rechte Dritter (z. B. Miturheber, Co-Autoren, Verlage, Drittmittelgeber) verletzt werden. Insbesondere hat bisher kein Verlag oder sonstiger Dritter (z. B. Drittmittelgeber) ein ausschlie\u00dfliches Nutzungsrecht. </p> <p>Der Urheber/die Urheberin der Forschungsdaten verpflichtet sich, die Universit\u00e4t Osnabr\u00fcck von solchen Anspr\u00fcchen Dritter freizustellen, die sich daraus ergeben, dass es aufgrund schuldhafter falscher Angaben des Urhebers/der Urheberin bez\u00fcglich des Nichtbestehens von Rechten Dritter oder sonstiger von ihm/ihr zu vertretenden Umst\u00e4nden durch die Ver\u00f6ffentlichung seines/ihres Werkes auf <i>osnaData</i> zu einer Verletzung von Urheberrechten oder ausschlie\u00dflichen Nutzungsrechten kommt. Das gilt nicht, wenn die Verletzung auf einem vors\u00e4tzlichen oder grob fahrl\u00e4ssigen Verhalten der Universit\u00e4t Osnabr\u00fcck als Betreiberin von <i>osnaData</i> beruht und dem Urheber/der Urheberin der Forschungsdaten nicht in gleicher Weise Vorsatz oder grobe Fahrl\u00e4ssigkeit zu Last f\u00e4llt. Im letzteren Fall erfolgt eine Aufteilung des Schadens insbesondere unter Abw\u00e4gung der Verschuldensanteile. </p> <p>Die Vertragsparteien verpflichten sich, einander unverz\u00fcglich zu informieren, wenn Dritte Anspr\u00fcche aufgrund der ihnen zustehenden Urheber- bzw. Nutzungsrechte an den digitalen Forschungsdaten gegen sie erheben. </p> <p>Die Universit\u00e4t Osnabr\u00fcck ist berechtigt, den Zugriff auf die Forschungsdaten zu sperren, soweit konkrete Anhaltspunkte f\u00fcr eine Verletzung von Rechten Dritter bestehen oder andere rechtliche Vorschriften dies erfordern. </p> <h4>Langzeitarchivierung und Transformation in andere Formate </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, seine/ihre bereitgestellten Forschungsdaten in einem Langzeitarchiv zu speichern und bei Bedarf (z. B. technische Nutzbarkeit, Migration, Barrierefreiheit, bessere Zug\u00e4nglichkeit oder Erschlie\u00dfung) in andere elektronische Formate zu \u00fcberf\u00fchren (Formatkonvertierung). </p> <h4>Weitergabe von Metadaten und Dokumenten </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, die Metadaten einschlie\u00dflich Abstract seiner/ihrer Forschungsdaten anderen Datenbanken gem\u00e4\u00df den FAIR-Prinzipien  unentgeltlich unter der Lizenz CC0 zur Verf\u00fcgung zu stellen. Dar\u00fcber hinaus r\u00e4umt er/sie der Universit\u00e4t Osnabr\u00fcck das Recht ein, seine/ihre Forschungsdaten Dritten im Rahmen nationaler Sammelauftr\u00e4ge zur Online-Bereitstellung oder Archivierung zur Verf\u00fcgung zu stellen. </p> <p>Die durch diesen Vertrag einger\u00e4umten Rechte k\u00f6nnen ganz oder teilweise auf Dritte \u00fcbertragen und einfache Nutzungsrechte an andere Repositorien vergeben bzw. ein Dritter mit der Bereitstellung des Dokuments beauftragt werden, ohne dass es hierzu einer gesonderten Zustimmung des Urhebers/der Urheberin der Forschungsdaten bedarf. </p> <p><b>Ansprechpartner f\u00fcr alle <i>osnaData</i> betreffenden technischen und inhaltlichen Fragen ist die Administration von <i>osnaData</i>. Email: <a class=\"mail\" href=\"mailto:osnadata@ub.uni-osnabrueck.de\">osnadata@ub.uni-osnabrueck.de</a><b></p> "
+                }
+            ]
+        },
+        "license": "NONE"
+    }
+}

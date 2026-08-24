@@ -1,0 +1,97 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2022",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Weber, Felix",
+            "givenName": "Felix",
+            "familyName": "Weber",
+            "orcid": "0000-0002-7012-3378"
+        },
+        {
+            "author": "Thelen, Tobias",
+            "givenName": "Tobias",
+            "familyName": "Thelen",
+            "orcid": "0000-0002-3337-6093"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/5OOKN8",
+    "doi_date_published": "2022",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-5ookn8",
+    "notes": "The data in this set stems from online studies in which students generated hierarchical goals systems (HGS) in two \nonline studies, and compared four types of visualizations for HGS. The technical setup consisted of a Django web application, publicly available under MIT license at \nGitHub: https://github.com/fweber/GoalTrees",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Hierarchical goal system diagram comparison",
+    "url": "https://doi.org/10.26249/FK2/5OOKN8",
+    "citation": [],
+    "publication_year": "2022",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Arts and Humanities"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Hierarchical Goal Systems"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Data Visualization"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Digital Study Assistant"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "150 - Psychology"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "370 - Education"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "Hierarchical Goal Systems",
+            "name": "Hierarchical Goal Systems",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Data Visualization",
+            "name": "Data Visualization",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Digital Study Assistant",
+            "name": "Digital Study Assistant",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

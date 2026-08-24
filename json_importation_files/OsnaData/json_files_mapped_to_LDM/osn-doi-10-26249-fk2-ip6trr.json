@@ -1,0 +1,119 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Leinigen, Vanessa",
+            "givenName": "Vanessa",
+            "familyName": "Leinigen",
+            "orcid": "0009-0000-1066-0094"
+        },
+        {
+            "author": "Sonsmann, Flora",
+            "givenName": "Flora",
+            "familyName": "Sonsmann",
+            "orcid": "0000-0002-2863-4641"
+        },
+        {
+            "author": "Schmidt, Lisa",
+            "givenName": "Lisa",
+            "familyName": "Schmidt",
+            "orcid": "0000-0001-6063-3983"
+        },
+        {
+            "author": "Gill, Carina",
+            "givenName": "Carina",
+            "familyName": "Gill",
+            "orcid": "0000-0001-7632-0076"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/IP6TRR",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-ip6trr",
+    "notes": "Diese Videos sind dem Bewegungs- und Entspannungsportfolio der Projektgruppe JOY@university (Join Our AcitivitY) der Universit\u00e4t Osnabr\u00fcck zugeordnet. Das Portfolio enth\u00e4lt verschiedene, ca. 5-min\u00fctige Bewegungs- und Enstpannungspausen (i.S. Pausen zur Bewegung und Entspannung, um die k\u00f6rperliche und mentale Leistungsf\u00e4higkeit sowie Wohlbefinden herzustellen) verschiedener Kategorien. Mithilfe der Videos k\u00f6nnen die \u00dcbungen in Echtzeit zum Mitmachen in Lehrveranstaltungen, im B\u00fcro oder zuhause durchgef\u00fchrt oder als Anleitung genutzt werden.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Videomaterial zum joy@university bewegungs- und entspannungsportfolio",
+    "url": "https://doi.org/10.26249/FK2/IP6TRR",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Bewegungspause"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Bewegte Pause"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Entspannungspause"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "studentische Gesundheitsf\u00f6rderung"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "610 - Medical sciences, medicine"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "793 - Indoor games & amusements"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "796 - Athletic & outdoor sports & games"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "Bewegungspause",
+            "name": "Bewegungspause",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Bewegte Pause",
+            "name": "Bewegte Pause",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Entspannungspause",
+            "name": "Entspannungspause",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "studentische Gesundheitsfrderung",
+            "name": "studentische Gesundheitsfrderung",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

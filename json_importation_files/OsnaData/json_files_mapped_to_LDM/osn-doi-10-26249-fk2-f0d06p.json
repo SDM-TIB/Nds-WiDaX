@@ -1,0 +1,153 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2022",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Kruse, Nadia-Yasmine",
+            "givenName": null,
+            "familyName": null,
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/F0D06P",
+    "doi_date_published": "2022",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-f0d06p",
+    "notes": "This dissertation is a collection of three experimental investigations of individual decision-making behaviour. The data reported in thesis were collected with the informed consent of subjects according to the ethical guidelines of LaER. Data are stored electronically at Osnabr\u00fcck University according to the provisions of the GDPR. Enquiries regarding data availability and use should be addressed to the Department of Microeconomics in Economics Faculty at Osnabr\u00fcck University.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Replikationsdaten f\u00fcr die dissertation: three experimental investigations of individual decision-making behaviour",
+    "url": "https://doi.org/10.26249/FK2/F0D06P",
+    "citation": [],
+    "publication_year": "2022",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Business and Management"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Behavioural economics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Experimental economics"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Endowment effect"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Multiple-unit holdings"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Splitting effects"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Replication crisis"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Online experiments"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Normativity of the sure-thing principle"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Individual decision-making"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Allais Paradox"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "330 - Economics"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "Behavioural economics",
+            "name": "Behavioural economics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Experimental economics",
+            "name": "Experimental economics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Endowment effect",
+            "name": "Endowment effect",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Multiple-unit holdings",
+            "name": "Multiple-unit holdings",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Splitting effects",
+            "name": "Splitting effects",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Replication crisis",
+            "name": "Replication crisis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Online experiments",
+            "name": "Online experiments",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Normativity of the sure-thing principle",
+            "name": "Normativity of the sure-thing principle",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Individual decision-making",
+            "name": "Individual decision-making",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Allais Paradox",
+            "name": "Allais Paradox",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

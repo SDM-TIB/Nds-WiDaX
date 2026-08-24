@@ -1,0 +1,58 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Kaiser, Lennart",
+            "givenName": "Lennart",
+            "familyName": "Kaiser",
+            "orcid": "0000-0002-5282-9086"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/PPCURE",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-ppcure",
+    "notes": "This dataset contains multiple-month time series data of various radio technology parameters, such as the Received Signal Strength Indicator (RSSI) value, in combination with soil and environmental data captured by a local sensor. Also take a look at the data from the Froggit DP2000 local weather station, which is placed directly next to our deployment.\nOur sensor node pairs were deployed in Potsdam, Germany, near Berlin.\n\nFurther information in the README Document and the manuscript.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Replication data for: a long-term evaluation of soil moisture sensing based on wireless communication",
+    "url": "https://doi.org/10.26249/FK2/PPCURE",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "10.1016/j.compag.2025.111054",
+            "identifier_type": "DOI",
+            "relation_type": "IsCitedBy"
+        }
+    ]
+}

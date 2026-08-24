@@ -1,0 +1,278 @@
+{
+    "header": {
+        "identifier": "doi:10.26249/FK2/YL0JR6",
+        "datestamp": "2023-12-16T01:00:00Z",
+        "setSpecs": [],
+        "status": null
+    },
+    "metadata": {
+        "metadataFormat": "oai_datacite",
+        "identifier": {
+            "value": "10.26249/FK2/YL0JR6",
+            "identifierType": "DOI"
+        },
+        "creators": [
+            {
+                "creatorName": {
+                    "value": "Pollmann, Christoph",
+                    "nameType": "Personal"
+                },
+                "givenName": "Christoph",
+                "familyName": "Pollmann",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0002-1473-0288",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": [
+                    {
+                        "value": "Department of Biophysics, Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "titles": [
+            {
+                "value": "Structure of the Interleukin-5 receptor complex exemplifies the organizing principle of common beta cytokine signaling",
+                "titleType": null,
+                "lang": null
+            }
+        ],
+        "publisher": {
+            "value": "osnaData",
+            "publisherIdentifier": null,
+            "publisherIdentifierScheme": null,
+            "schemeURI": null,
+            "lang": null
+        },
+        "publicationYear": "2023",
+        "resourceType": {
+            "value": null,
+            "resourceTypeGeneral": "Dataset"
+        },
+        "subjects": [
+            {
+                "value": "Medicine, Health and Life Sciences",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            }
+        ],
+        "contributors": [
+            {
+                "contributorType": "ContactPerson",
+                "contributorName": {
+                    "value": "Pollmann, Christoph",
+                    "nameType": "Personal"
+                },
+                "givenName": "Christoph",
+                "familyName": "Pollmann",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Department of Biophysics, Osnabrueck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "dates": [
+            {
+                "value": "2023-12-14",
+                "dateType": "Submitted",
+                "dateInformation": null
+            },
+            {
+                "value": "2023-12-15",
+                "dateType": "Updated",
+                "dateInformation": null
+            }
+        ],
+        "language": null,
+        "alternateIdentifiers": [],
+        "relatedIdentifiers": [],
+        "sizes": [],
+        "formats": [],
+        "version": "1.0",
+        "rightsList": [
+            {
+                "value": null,
+                "rightsURI": "info:eu-repo/semantics/openAccess",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            },
+            {
+                "value": "CC0 Waiver",
+                "rightsURI": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            }
+        ],
+        "descriptions": [
+            {
+                "value": "Cytokines play a crucial role in immune system communication, by binding to cell surface receptors to initiate signaling cascades and regulate gene expression. The cytokine receptor common subunit beta (\u03b2c) mediates signaling for granulocyte-macrophage colony-stimulating factor (GM-CSF), interleukin-3 (IL-3), and interleukin-5 (IL-5). While the role of IL-5 in inflammation and disease is well-established, the structural basis of IL-5 receptor activation is yet undetermined. Here, we report the cryoEM structure of the IL-5 ternary receptor complex at 3.6 \u00c5 resolution. The complex consists of two \u03b2c and two IL-5 receptor alpha (IL-5R\u03b1) molecules bound to two IL-5 dimers, revealing fundamental architectural oligomerization principles for IL-5 and its family members GM-CSF and IL-3. Single-molecule imaging confirms the formation of a minimal hexameric unit of IL-5 complexes on the surface of live cell, with negligible tendency to form higher oligomers. Furthermore, we use engineered chimeric receptors to demonstrate that IL-5 signaling, as well as IL-3 and GM-CSF can occur through receptor heterodimerization between \u03b2c and their private receptors, obviating the requirement for higher order assemblies to homodimerize \u03b2c. This study provides important insights into the structural principles and signaling mechanisms of IL-5 and the common beta receptor family, which can inform the development of therapies to interfere with this signaling axis in diseases involving deranged \u03b2c signaling",
+                "descriptionType": "Abstract",
+                "lang": null
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "relatedItems": [],
+        "citation": {
+            "displayName": "Citation Metadata",
+            "fields": [
+                {
+                    "typeName": "title",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Structure of the Interleukin-5 receptor complex exemplifies the organizing principle of common beta cytokine signaling"
+                },
+                {
+                    "typeName": "author",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Pollmann, Christoph"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Department of Biophysics, Osnabrueck University"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "0000-0002-1473-0288"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "datasetContact",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "datasetContactName": {
+                                "typeName": "datasetContactName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Pollmann, Christoph"
+                            },
+                            "datasetContactAffiliation": {
+                                "typeName": "datasetContactAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Department of Biophysics, Osnabrueck University"
+                            },
+                            "datasetContactEmail": {
+                                "typeName": "datasetContactEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "cpollmann@uni-osnabrueck.de"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "dsDescription",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "dsDescriptionValue": {
+                                "typeName": "dsDescriptionValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Cytokines play a crucial role in immune system communication, by binding to cell surface receptors to initiate signaling cascades and regulate gene expression. The cytokine receptor common subunit beta (\u03b2c) mediates signaling for granulocyte-macrophage colony-stimulating factor (GM-CSF), interleukin-3 (IL-3), and interleukin-5 (IL-5). While the role of IL-5 in inflammation and disease is well-established, the structural basis of IL-5 receptor activation is yet undetermined. Here, we report the cryoEM structure of the IL-5 ternary receptor complex at 3.6 \u00c5 resolution. The complex consists of two \u03b2c and two IL-5 receptor alpha (IL-5R\u03b1) molecules bound to two IL-5 dimers, revealing fundamental architectural oligomerization principles for IL-5 and its family members GM-CSF and IL-3. Single-molecule imaging confirms the formation of a minimal hexameric unit of IL-5 complexes on the surface of live cell, with negligible tendency to form higher oligomers. Furthermore, we use engineered chimeric receptors to demonstrate that IL-5 signaling, as well as IL-3 and GM-CSF can occur through receptor heterodimerization between \u03b2c and their private receptors, obviating the requirement for higher order assemblies to homodimerize \u03b2c. This study provides important insights into the structural principles and signaling mechanisms of IL-5 and the common beta receptor family, which can inform the development of therapies to interfere with this signaling axis in diseases involving deranged \u03b2c signaling"
+                            },
+                            "dsDescriptionDate": {
+                                "typeName": "dsDescriptionDate",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "2023-12-14"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "subject",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "Medicine, Health and Life Sciences"
+                    ]
+                },
+                {
+                    "typeName": "ddc",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "000 - Generalities, science",
+                        "570 - Life sciences",
+                        "610 - Medical sciences, medicine"
+                    ]
+                },
+                {
+                    "typeName": "publication",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "publicationURL": {
+                                "typeName": "publicationURL",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "https://omero.cellnanos.uni-osnabrueck.de/webclient/?show=project-17108"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "depositor",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Pollmann, Christoph"
+                },
+                {
+                    "typeName": "dateOfDeposit",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2023-12-14"
+                },
+                {
+                    "typeName": "licenseApproval",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "license not yet approved"
+                }
+            ]
+        },
+        "license": "CC0"
+    }
+}

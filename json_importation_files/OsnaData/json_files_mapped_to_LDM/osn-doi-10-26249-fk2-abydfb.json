@@ -1,0 +1,63 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2023",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Rappeneau, Virginie",
+            "givenName": "Virginie",
+            "familyName": "Rappeneau",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/ABYDFB",
+    "doi_date_published": "2023",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-abydfb",
+    "notes": "Affective disorders, such as major depression, are frequently associated with metabolic disturbances involving mitochondria. Although dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis is known to alter energy metabolism, the precise mechanisms linking stress and metabolic disturbances are not sufficiently understood. We used a mouse model of affective disorders to investigate the impact of a genetic predisposition for extremes in stress reactivity on behavioural and metabolic phenotypes as well as energy metabolism. Adult males of three independent mouse lines selectively bred for high, intermediate or low HPA axis reactivity were tested for exploratory and locomotor activity as well as stress-coping behaviour. Additionally, basal and stress-induced plasma corticosterone levels, body weight, food intake and body composition were measured. At the molecular level, the hippocampal transcriptome was analysed using microarray, serial analysis of gene expression and qRT-PCR. Finally, mitochondrial DNA copy number, damages and mitochondrial respiration were assessed. We found clear effects of the differential stress reactivity on the behavioural, morphometric and metabolic measures. Remarkably, the hyperactive behavioural and neuroendocrine stress-coping style of high-reactivity mice was associated with significant changes in the expression of an extended list of genes involved in energy metabolism and several mitochondrial functions. Yet, only minor changes were found in mitochondrial DNA copy number, damages and respiration. Thus, our findings support a prominent role of glucocorticoids in shaping the major endophenotypes of the stress reactivity mouse model and contribute towards understanding the important role of HPA axis dysregulation and changes in energy metabolism in the pathophysiology of affective disorders.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Molecular changes in hippocampal energy metabolism in mice selectively bred for extremes in stress reactivity: relevance of mitochondrial dysfunction for affective disorders.",
+    "url": "https://doi.org/10.26249/FK2/ABYDFB",
+    "citation": [],
+    "publication_year": "2023",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "energy metabolism; hippocampus; major depression; mitochondria; mouse model; stress"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "570 - Life sciences"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "energy metabolism hippocampus major depression mitochondria mouse model stress",
+            "name": "energy metabolism hippocampus major depression mitochondria mouse model stress",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

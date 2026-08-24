@@ -1,0 +1,57 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Margheritis, Eleonora Germana",
+            "givenName": "Eleonora Germana",
+            "familyName": "Margheritis",
+            "orcid": "0000-0003-0571-3563"
+        },
+        {
+            "author": "Cosentino, Katia",
+            "givenName": "Katia",
+            "familyName": "Cosentino",
+            "orcid": "0000-0002-3796-3500"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/48FTWW",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-48ftww",
+    "notes": "Gasdermin D (GSDMD) executes cell death program pyroptosis by assembling into oligomers that permeabilize the plasma membrane. Here, by single-molecule imaging, we elucidate the yet elusive mechanism of GSDMD pore assembly and the role of cysteines in GSDMD oligomerization. We show that GSDMD preassembles at the membrane into dimeric and trimeric building blocks that can either insert the membrane or further assemble into higher-order oligomers, prior to membrane insertion. Cys39, Cys57, and Cys192 are the only relevant cysteines in GSDMD oligomerization. S-palmitoylation of Cys192 controls GSDMD membrane targeting together with negatively charged lipids. Importantly, simultaneous Cys39/57/192-to-Ala mutations, but not Cys192 or the Cys39/57 pair individually, completely abolish GSDMD insertion into artificial membranes and the plasma membrane in cells. Finally, either Cys192 or the Cys39/Cys57 pair are sufficient to form dimers/trimers, but they are all required for functional higher-order oligomer formation. Overall, our study unveils a cooperative role of Cys192 palmitoylation-mediated membrane binding and Cys39/57/192-mediated oligomerization in GSDMD pore assembly. This study supports a model where GSDMD oligomerization relies on a two-step mechanism mediated by cysteines.\nRaw and Source data can be accessed via the link.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Cooperativity of cysteines governs gsdmd palmitoylation-mediated membrane targeting and assembly",
+    "url": "https://doi.org/10.26249/FK2/48FTWW",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "570 - Life sciences"
+        }
+    ],
+    "resource_type": "Dataset"
+}

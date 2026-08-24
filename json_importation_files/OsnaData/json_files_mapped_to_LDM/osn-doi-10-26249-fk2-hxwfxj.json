@@ -1,0 +1,69 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Schmeiduch, Lena",
+            "givenName": "Lena",
+            "familyName": "Schmeiduch",
+            "orcid": "0000-0002-7796-0558"
+        },
+        {
+            "author": "M\u00fcller, Karsten",
+            "givenName": "Karsten",
+            "familyName": "M\u00fcller",
+            "orcid": "0000-0001-7389-8024"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/HXWFXJ",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-hxwfxj",
+    "notes": "Time is a central variable in organizational life. Many time-related phenomena that are relevant in organizational contexts have been suggested. This stresses the need to consider the complexity of time in organizations. Hence, an overview that conceptualizes a broad range of time-related dimensions can guide researchers and practitioners in understanding organizational phenomena from a temporal perspective, investigating interdependencies between time-related dimensions and outcome variables, or comparing time-related dimensions between organizations, sectors, or broader social entities. The present research aims to contribute to previous research on time in organizations by suggesting a broader, multi-dimensional framework and questionnaire of organizational time-related dimensions. This framework differentiates abstraction levels of time-related dimensions, specifies relations to work-related tasks and activities, and allows for a meaningful categorization of organizational time-related dimensions. The final framework consists of 21 time-related dimensions within six categories on three different levels of abstraction. Based on this framework, a questionnaire for the measurement of 20 of these time-related dimensions is developed demonstrating good overall fit. Relationships between selected time-related dimensions and job attitudes, health-related variables, and occupational characteristics are tested to evaluate nomological validity and gain first insights into relations between organizational time profiles and important organizational outcomes.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Replikationsdaten f\u00fcr: the many dimensions of time: conceptualizing and measuring temporal aspects in organizations",
+    "url": "https://doi.org/10.26249/FK2/HXWFXJ",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Other"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "time, time-related dimensions, time conceptualization, time measurement, organizational time profile"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "150 - Psychology"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "time time-related dimensions time conceptualization time measurement organizational time profile",
+            "name": "time time-related dimensions time conceptualization time measurement organizational time profile",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

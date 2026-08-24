@@ -1,0 +1,446 @@
+{
+    "header": {
+        "identifier": "doi:10.26249/FK2/BFDUZO",
+        "datestamp": "2021-11-25T09:53:22Z",
+        "setSpecs": [],
+        "status": null
+    },
+    "metadata": {
+        "metadataFormat": "oai_datacite",
+        "identifier": {
+            "value": "10.26249/FK2/BFDUZO",
+            "identifierType": "DOI"
+        },
+        "creators": [
+            {
+                "creatorName": {
+                    "value": "Clay, Viviane",
+                    "nameType": "Personal"
+                },
+                "givenName": "Viviane",
+                "familyName": "Clay",
+                "nameIdentifiers": [
+                    {
+                        "value": "0000-0001-9152-0666",
+                        "nameIdentifierScheme": "ORCID",
+                        "schemeURI": null
+                    }
+                ],
+                "affiliations": [
+                    {
+                        "value": "Osnabr\u00fcck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "titles": [
+            {
+                "value": "Data from Neural Network Training in the Obstacle Tower Environment to Investigate Embodied, Weakly Supervised Learning",
+                "titleType": null,
+                "lang": null
+            }
+        ],
+        "publisher": {
+            "value": "osnaData",
+            "publisherIdentifier": null,
+            "publisherIdentifierScheme": null,
+            "schemeURI": null,
+            "lang": null
+        },
+        "publicationYear": "2021",
+        "resourceType": {
+            "value": null,
+            "resourceTypeGeneral": "Dataset"
+        },
+        "subjects": [
+            {
+                "value": "Computer and Information Science",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Artificial Neural Networks",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Reinforcement Learning",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Cognitive Science",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            },
+            {
+                "value": "Cognitive Representation",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            }
+        ],
+        "contributors": [
+            {
+                "contributorType": "ContactPerson",
+                "contributorName": {
+                    "value": "Clay, Viviane",
+                    "nameType": "Personal"
+                },
+                "givenName": "Viviane",
+                "familyName": "Clay",
+                "nameIdentifiers": [],
+                "affiliations": [
+                    {
+                        "value": "Osnabr\u00fcck University",
+                        "affiliationIdentifier": null,
+                        "affiliationIdentifierScheme": null,
+                        "schemeURI": null
+                    }
+                ]
+            }
+        ],
+        "dates": [
+            {
+                "value": "2021-05-06",
+                "dateType": "Submitted",
+                "dateInformation": null
+            },
+            {
+                "value": "2021-05-10",
+                "dateType": "Updated",
+                "dateInformation": null
+            }
+        ],
+        "language": null,
+        "alternateIdentifiers": [],
+        "relatedIdentifiers": [
+            {
+                "value": "10.17632/zdh4d5ws2z.2",
+                "relationType": "IsCitedBy",
+                "relatedIdentifierType": "DOI",
+                "relatedMetadataScheme": null,
+                "schemeURI": null,
+                "schemeType": null,
+                "resourceTypeGeneral": null
+            },
+            {
+                "value": "10.1016/j.neunet.2020.11.004",
+                "relationType": "IsCitedBy",
+                "relatedIdentifierType": "DOI",
+                "relatedMetadataScheme": null,
+                "schemeURI": null,
+                "schemeType": null,
+                "resourceTypeGeneral": null
+            }
+        ],
+        "sizes": [],
+        "formats": [],
+        "version": "1.0",
+        "rightsList": [
+            {
+                "value": null,
+                "rightsURI": "info:eu-repo/semantics/openAccess",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            },
+            {
+                "value": "<a href=\"http://creativecommons.org/licenses/by/4.0/\"><img src=\"https://licensebuttons.net/l/by/4.0/88x31.png\" height=\"31\"/>\u00a0\u00a0http://creativecommons.org/licenses/by/4.0/</a>",
+                "rightsURI": null,
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            }
+        ],
+        "descriptions": [
+            {
+                "value": "<b>Description:</b><br>\nThis repository presents data collected to investigate the role of embodiment and supervision in learning. This is done inside a simulated 3D maze world with a navigation task using mainly visual input in the form of RGB images. The main contribution of this data repository is to provide a network model trained in this environment with weak supervision and a closed loop between action and perception. Additionally, control networks are provided which were trained with varying degrees of supervision and embodiment. In the corresponding paper <a href=\"https://doi.org/10.1016/j.neunet.2020.11.004\" target=\"_blank\"> [1] </a> the representations of these networks are compared based on sparsity measures and well as content of the encodings and the possibility to extract semantic labels. For the training of the control conditions several new data sets were created which are also included here. They contain a collection of images from the simulated world with corresponding semantic labels. Overall, they provide a good basis for further analysis and a more in-depth investigation of representation learning and the effect of embodiment and supervision on representations.",
+                "descriptionType": "Abstract",
+                "lang": null
+            },
+            {
+                "value": "<br><b>Steps to reproduce:</b><br>\nData was generated through a 3D simulation of a maze environment called Obstacle Tower. The data of interest are the trained neural network weights and the networks activations corresponding with different input frames. Three main networks were trained. A reinforcement learning agent which trained through interaction with the simulated environment, an autoencoder trained to reconstruct images collected by the agent and a classifier, trained to classify objects in the images. Exact training and testing conditions, hyperparameter and network structure are provided in the corresponding paper.<br>\n\nFor the training of the reinforcement learning agent the Unity ml-agents toolkit PPO implementation is used with small modifications for extra data collection and control experiments. The code we used can be found here: <a href=\"https://github.com/vkakerbeck/ml-agents-dev/\" target=\"_blank\"> https://github.com/vkakerbeck/ml-agents-dev </a>. Model checkpoint files are saved for different points in training but mostly the final version of the network is analysed in the corresponding paper <a href=\"https://doi.org/10.1016/j.neunet.2020.11.004\" target=\"_blank\"> [1] </a>. The autoencoder and classifier are trained using Python with TensorFlow and Keras. The corresponding code can be found here: <a href=\"https://github.com/vkakerbeck/Learning-World-Representations/tree/master/DataAnalysis\" target=\"_blank\"> https://github.com/vkakerbeck/Learning-World-Representations/tree/master/DataAnalysis </a>. The data also contains activations in the hidden layer of the network corresponding to 4000 test images for all three networks. Code for this can be found in the same GitHub repository. The datasets used for training the autoencoder and classifier were created by collecting observations in the Obstacle Tower environment using the trained agent. These observations were then labelled automatically, and the labels were cross checked by hand.<br>\n\nA Description of the individual files is included in the data folder (Description.txt). Due to storage constraints no all model checkpoint files used to create figure 6 of the paper could be uploaded. However, feel free to contact me (vkakerbeck[at]uos.de)  if you are intrested in these detailed checkpoint files of the controll runs and I will make them available to you.",
+                "descriptionType": "Abstract",
+                "lang": null
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "relatedItems": [],
+        "citation": {
+            "displayName": "Citation Metadata",
+            "fields": [
+                {
+                    "typeName": "title",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Data from Neural Network Training in the Obstacle Tower Environment to Investigate Embodied, Weakly Supervised Learning"
+                },
+                {
+                    "typeName": "author",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Clay, Viviane"
+                            },
+                            "authorAffiliation": {
+                                "typeName": "authorAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Osnabr\u00fcck University"
+                            },
+                            "authorIdentifierScheme": {
+                                "typeName": "authorIdentifierScheme",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "ORCID"
+                            },
+                            "authorIdentifier": {
+                                "typeName": "authorIdentifier",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "http://orcid.org/0000-0001-9152-0666"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "datasetContact",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "datasetContactName": {
+                                "typeName": "datasetContactName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Clay, Viviane"
+                            },
+                            "datasetContactAffiliation": {
+                                "typeName": "datasetContactAffiliation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Osnabr\u00fcck University"
+                            },
+                            "datasetContactEmail": {
+                                "typeName": "datasetContactEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "vkakerbeck@uni-osnabrueck.de"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "dsDescription",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "dsDescriptionValue": {
+                                "typeName": "dsDescriptionValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "<b>Description:</b><br>\nThis repository presents data collected to investigate the role of embodiment and supervision in learning. This is done inside a simulated 3D maze world with a navigation task using mainly visual input in the form of RGB images. The main contribution of this data repository is to provide a network model trained in this environment with weak supervision and a closed loop between action and perception. Additionally, control networks are provided which were trained with varying degrees of supervision and embodiment. In the corresponding paper <a href=\"https://doi.org/10.1016/j.neunet.2020.11.004\" target=\"_blank\"> [1] </a> the representations of these networks are compared based on sparsity measures and well as content of the encodings and the possibility to extract semantic labels. For the training of the control conditions several new data sets were created which are also included here. They contain a collection of images from the simulated world with corresponding semantic labels. Overall, they provide a good basis for further analysis and a more in-depth investigation of representation learning and the effect of embodiment and supervision on representations."
+                            },
+                            "dsDescriptionDate": {
+                                "typeName": "dsDescriptionDate",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "2020-12-05"
+                            }
+                        },
+                        {
+                            "dsDescriptionValue": {
+                                "typeName": "dsDescriptionValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "<br><b>Steps to reproduce:</b><br>\nData was generated through a 3D simulation of a maze environment called Obstacle Tower. The data of interest are the trained neural network weights and the networks activations corresponding with different input frames. Three main networks were trained. A reinforcement learning agent which trained through interaction with the simulated environment, an autoencoder trained to reconstruct images collected by the agent and a classifier, trained to classify objects in the images. Exact training and testing conditions, hyperparameter and network structure are provided in the corresponding paper.<br>\n\nFor the training of the reinforcement learning agent the Unity ml-agents toolkit PPO implementation is used with small modifications for extra data collection and control experiments. The code we used can be found here: <a href=\"https://github.com/vkakerbeck/ml-agents-dev/\" target=\"_blank\"> https://github.com/vkakerbeck/ml-agents-dev </a>. Model checkpoint files are saved for different points in training but mostly the final version of the network is analysed in the corresponding paper <a href=\"https://doi.org/10.1016/j.neunet.2020.11.004\" target=\"_blank\"> [1] </a>. The autoencoder and classifier are trained using Python with TensorFlow and Keras. The corresponding code can be found here: <a href=\"https://github.com/vkakerbeck/Learning-World-Representations/tree/master/DataAnalysis\" target=\"_blank\"> https://github.com/vkakerbeck/Learning-World-Representations/tree/master/DataAnalysis </a>. The data also contains activations in the hidden layer of the network corresponding to 4000 test images for all three networks. Code for this can be found in the same GitHub repository. The datasets used for training the autoencoder and classifier were created by collecting observations in the Obstacle Tower environment using the trained agent. These observations were then labelled automatically, and the labels were cross checked by hand.<br>\n\nA Description of the individual files is included in the data folder (Description.txt). Due to storage constraints no all model checkpoint files used to create figure 6 of the paper could be uploaded. However, feel free to contact me (vkakerbeck[at]uos.de)  if you are intrested in these detailed checkpoint files of the controll runs and I will make them available to you."
+                            },
+                            "dsDescriptionDate": {
+                                "typeName": "dsDescriptionDate",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "2020-12-05"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "subject",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "Computer and Information Science"
+                    ]
+                },
+                {
+                    "typeName": "ddc",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "004 - Data processing, computer science"
+                    ]
+                },
+                {
+                    "typeName": "keyword",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Artificial Neural Networks"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Reinforcement Learning"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Cognitive Science"
+                            }
+                        },
+                        {
+                            "keywordValue": {
+                                "typeName": "keywordValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Cognitive Representation"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "publication",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "publicationCitation": {
+                                "typeName": "publicationCitation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Clay, Viviane (2020), \u201cData from Neural Network Training in the Obstacle Tower Environment to Investigate Embodied, Weakly Supervised Learning\u201d, Mendeley Data, V2."
+                            },
+                            "publicationIDType": {
+                                "typeName": "publicationIDType",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "doi"
+                            },
+                            "publicationIDNumber": {
+                                "typeName": "publicationIDNumber",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "10.17632/zdh4d5ws2z.2"
+                            },
+                            "publicationURL": {
+                                "typeName": "publicationURL",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "http://dx.doi.org/10.17632/zdh4d5ws2z.2"
+                            }
+                        },
+                        {
+                            "publicationCitation": {
+                                "typeName": "publicationCitation",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Clay, V., K\u00f6nig, P., K\u00fchnberger, K.-U. & Pipa, G. Learning sparse and meaningful representations through embodiment. Neural Networks (2020)."
+                            },
+                            "publicationIDType": {
+                                "typeName": "publicationIDType",
+                                "multiple": false,
+                                "typeClass": "controlledVocabulary",
+                                "value": "doi"
+                            },
+                            "publicationIDNumber": {
+                                "typeName": "publicationIDNumber",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "10.1016/j.neunet.2020.11.004"
+                            },
+                            "publicationURL": {
+                                "typeName": "publicationURL",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "https://doi.org/10.1016/j.neunet.2020.11.004"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "depositor",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Gronwald, Marco"
+                },
+                {
+                    "typeName": "dateOfDeposit",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2021-05-06"
+                },
+                {
+                    "typeName": "licenseApproval",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "on 2021-05-10, user marco.gronwald@uni-osnabrueck.de approved the following license text: <p><h3>Lizenzvereinbarung \u2013 Deposit License</h3></p><p>Hiermit gestatte ich der Universit\u00e4t Osnabr\u00fcck, vertreten durch die Pr\u00e4sidentin/den Pr\u00e4sidenten, durchf\u00fchrende Organisationseinheit: Universit\u00e4tsbibliothek (UB), vertreten durch die Leitende Bibliotheksdirektorin/den Leitenden Bibliotheksdirektor, meine digitalen Forschungsdaten einschlie\u00dflich Abstract und Metadaten zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzerinnen und Nutzer berechtigt, Forschungsdaten nach Ma\u00dfgabe des Urheberrechts unentgeltlich zu nutzen, insbesondere, Forschungsdaten zum privaten und sonstigen eigenen Gebrauch herunter zu laden oder zu speichern. </p> <h4>Rechteeinr\u00e4umung </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck an seinen/ihren Forschungsdaten einschlie\u00dflich Abstract und Metadaten zeitlich unbegrenzt und unwiderruflich das nicht ausschlie\u00dfliche Recht zur \u00f6ffentlichen Zug\u00e4nglichmachung, zur langfristigen Speicherung auf dem institutionellem Forschungsdatenrepositorium <i>osnaData</i> der Universit\u00e4t Osnabr\u00fcck und zur Vervielf\u00e4ltigung zu diesen Zwecken ein. Der urheberrechtliche Schutz bleibt durch diese Lizenz unber\u00fchrt. Die Universit\u00e4t Osnabr\u00fcck beh\u00e4lt sich vor, Forschungsdaten wegen inhaltlicher oder technischer M\u00e4ngel oder eines ungekl\u00e4rten rechtlichen Status abzulehnen. </p> <h4>Rechte Dritter </h4> <p>Der Urheber/die Urheberin der Forschungsdaten erkl\u00e4rt, dass mit der Bereitstellung seiner/ihrer Forschungsdaten und jedes Bestandteils (z. B. beschreibende Dokumentationen) keine Rechte Dritter (z. B. Miturheber, Co-Autoren, Verlage, Drittmittelgeber) verletzt werden. Insbesondere hat bisher kein Verlag oder sonstiger Dritter (z. B. Drittmittelgeber) ein ausschlie\u00dfliches Nutzungsrecht. </p> <p>Der Urheber/die Urheberin der Forschungsdaten verpflichtet sich, die Universit\u00e4t Osnabr\u00fcck von solchen Anspr\u00fcchen Dritter freizustellen, die sich daraus ergeben, dass es aufgrund schuldhafter falscher Angaben des Urhebers/der Urheberin bez\u00fcglich des Nichtbestehens von Rechten Dritter oder sonstiger von ihm/ihr zu vertretenden Umst\u00e4nden durch die Ver\u00f6ffentlichung seines/ihres Werkes auf <i>osnaData</i> zu einer Verletzung von Urheberrechten oder ausschlie\u00dflichen Nutzungsrechten kommt. Das gilt nicht, wenn die Verletzung auf einem vors\u00e4tzlichen oder grob fahrl\u00e4ssigen Verhalten der Universit\u00e4t Osnabr\u00fcck als Betreiberin von <i>osnaData</i> beruht und dem Urheber/der Urheberin der Forschungsdaten nicht in gleicher Weise Vorsatz oder grobe Fahrl\u00e4ssigkeit zu Last f\u00e4llt. Im letzteren Fall erfolgt eine Aufteilung des Schadens insbesondere unter Abw\u00e4gung der Verschuldensanteile. </p> <p>Die Vertragsparteien verpflichten sich, einander unverz\u00fcglich zu informieren, wenn Dritte Anspr\u00fcche aufgrund der ihnen zustehenden Urheber- bzw. Nutzungsrechte an den digitalen Forschungsdaten gegen sie erheben. </p> <p>Die Universit\u00e4t Osnabr\u00fcck ist berechtigt, den Zugriff auf die Forschungsdaten zu sperren, soweit konkrete Anhaltspunkte f\u00fcr eine Verletzung von Rechten Dritter bestehen oder andere rechtliche Vorschriften dies erfordern. </p> <h4>Langzeitarchivierung und Transformation in andere Formate </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, seine/ihre bereitgestellten Forschungsdaten in einem Langzeitarchiv zu speichern und bei Bedarf (z. B. technische Nutzbarkeit, Migration, Barrierefreiheit, bessere Zug\u00e4nglichkeit oder Erschlie\u00dfung) in andere elektronische Formate zu \u00fcberf\u00fchren (Formatkonvertierung). </p> <h4>Weitergabe von Metadaten und Dokumenten </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, die Metadaten einschlie\u00dflich Abstract seiner/ihrer Forschungsdaten anderen Datenbanken gem\u00e4\u00df den FAIR-Prinzipien  unentgeltlich unter der Lizenz CC0 zur Verf\u00fcgung zu stellen. Dar\u00fcber hinaus r\u00e4umt er/sie der Universit\u00e4t Osnabr\u00fcck das Recht ein, seine/ihre Forschungsdaten Dritten im Rahmen nationaler Sammelauftr\u00e4ge zur Online-Bereitstellung oder Archivierung zur Verf\u00fcgung zu stellen. </p> <p>Die durch diesen Vertrag einger\u00e4umten Rechte k\u00f6nnen ganz oder teilweise auf Dritte \u00fcbertragen und einfache Nutzungsrechte an andere Repositorien vergeben bzw. ein Dritter mit der Bereitstellung des Dokuments beauftragt werden, ohne dass es hierzu einer gesonderten Zustimmung des Urhebers/der Urheberin der Forschungsdaten bedarf. </p> <p><b>Ansprechpartner f\u00fcr alle <i>osnaData</i> betreffenden technischen und inhaltlichen Fragen ist die Administration von <i>osnaData</i>. Email: <a class=\"mail\" href=\"mailto:osnadata@ub.uni-osnabrueck.de\">osnadata@ub.uni-osnabrueck.de</a><b></p> "
+                },
+                {
+                    "typeName": "externalFile",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "externalFileName": {
+                                "typeName": "externalFileName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Original dataset can be found here:"
+                            },
+                            "externalFileURL": {
+                                "typeName": "externalFileURL",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "http://dx.doi.org/10.17632/zdh4d5ws2z.2"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "license": "NONE"
+    }
+}

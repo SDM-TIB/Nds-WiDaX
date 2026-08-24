@@ -1,0 +1,121 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2021",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Ko\u00dfmann, Cosima",
+            "givenName": "Cosima",
+            "familyName": "Ko\u00dfmann",
+            "orcid": "0000-0001-6615-5185"
+        },
+        {
+            "author": "Straatmann, Tammo",
+            "givenName": "Tammo",
+            "familyName": "Straatmann",
+            "orcid": "0000-0001-7439-6165"
+        },
+        {
+            "author": "M\u00fcller, Karsten",
+            "givenName": "Karsten",
+            "familyName": "M\u00fcller",
+            "orcid": ""
+        },
+        {
+            "author": "Hamborg, Kai-Christoph",
+            "givenName": "Kai-Christoph",
+            "familyName": "Hamborg",
+            "orcid": "0000-0002-5868-755X"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/BTLAOW",
+    "doi_date_published": "2021",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-btlaow",
+    "notes": "Virtual Reality (VR) is predicted to be a promising learning medium, especially for actions by enabling learning by enactment. Learning by enactment is based on the enactment effect, which assumes that learning by enactment leads to better memory performance than learning without enactment. To date little is known about whether the enactment effect appears in VR like in real reality. The study takes up this topic as a first research question and additionally explores in a second research question to what extent the memory performance of learning by enactment in VR can be compared to learning by enactment in real reality. We conducted a VR-experiment with four groups (n=112) that differed in terms of learning condition or environment. Participants were asked to remember short actions for a later memory test. The results indicate that learning by enactment in VR outperforms passive verbal learning in VR but does not exceed observational learning in VR. Furthermore, the results demonstrate that the memory performance of learning by enactment in VR is similar to the learning by enactment in real reality. These findings are highly relevant as the potential of VR as a new learning medium supporting learning by enactment has been demonstrated.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Replikationsdaten f\u00fcr: effects of enactment in virtual reality \u2013  a comparative experiment on memory for action",
+    "url": "https://doi.org/10.26249/FK2/BTLAOW",
+    "citation": [],
+    "publication_year": "2021",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Other"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Virtual Reality"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Enactment effect"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Memory of action"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Learning by enactment"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Experimental design"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "150 - Psychology"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "Virtual Reality",
+            "name": "Virtual Reality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Enactment effect",
+            "name": "Enactment effect",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Memory of action",
+            "name": "Memory of action",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Learning by enactment",
+            "name": "Learning by enactment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Experimental design",
+            "name": "Experimental design",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

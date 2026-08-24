@@ -1,0 +1,125 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2021",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Hofschroeer, Patrick",
+            "givenName": "Patrick",
+            "familyName": "Hofschroeer",
+            "orcid": "0000-0001-5583-5468"
+        },
+        {
+            "author": "Schumacher, Svenja Kristina",
+            "givenName": "Svenja Kristina",
+            "familyName": "Schumacher",
+            "orcid": "0000-0002-7158-3309"
+        },
+        {
+            "author": "Mueller, Karsten",
+            "givenName": "Karsten",
+            "familyName": "Mueller",
+            "orcid": "0000-0001-7389-8024"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/OEXOJH",
+    "doi_date_published": "2021",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-oexojh",
+    "notes": "Employee attitude surveys are important tools for organizational development. To gain insights into employees\u2019 attitudes, surveys most often use Likert-type items. Measures assessing these attitudes frequently use intensifiers (e.g., extremely, very) in item stems. To date little is known about the effects of intensifiers in the item stem on response behavior. They are frequently used inconsistently, which potentially has implications for the comparability of results in the context of benchmarking. Also, results often suffer from left-skewed distributions limiting data quality for which the use of intensifiers potentially offers a remedy. Therefore, we systematically examine the effects of intensifiers\u2019 on response behavior in employee attitude surveys and their potential to remedy the issue of left-skewed distributions. In three studies, we assess effects on level, skewness and nomological structure. Study 1 examines the effects of intensifier strength in the item stem, while Studies 2 and 3 assess whether intensifier salience would increase these effects further. Interestingly, results did not show systematic effects. Future research ideas in regards to item design and processing as well as practical implications for the design of employee attitude surveys are discussed.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Replication data for: does \u201cvery\u201d make a difference? effects of intensifiers in item stems of employee attitude surveys on response behavior",
+    "url": "https://doi.org/10.26249/FK2/OEXOJH",
+    "citation": [],
+    "publication_year": "2021",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "employee attitude survey"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "item stem"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "ceiling effect"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "left-skewed distribution"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "intensifier salience"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "intensifier strength"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "150 - Psychology"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "employee attitude survey",
+            "name": "employee attitude survey",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "item stem",
+            "name": "item stem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ceiling effect",
+            "name": "ceiling effect",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "left-skewed distribution",
+            "name": "left-skewed distribution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "intensifier salience",
+            "name": "intensifier salience",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "intensifier strength",
+            "name": "intensifier strength",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

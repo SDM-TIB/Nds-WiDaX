@@ -1,0 +1,67 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Sch\u00f6n, Laura Noemi",
+            "givenName": "Laura Noemi",
+            "familyName": "Sch\u00f6n",
+            "orcid": ""
+        },
+        {
+            "author": "Barlag, Kira",
+            "givenName": "Kira",
+            "familyName": "Barlag",
+            "orcid": ""
+        },
+        {
+            "author": "Meister, Robin",
+            "givenName": "Robin",
+            "familyName": "Meister",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/4H48UZ",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-4h48uz",
+    "notes": "<p>Der Datensatz umfasst vier leitfadengest\u00fctzte Interviews mit Schulleitungen beruflicher Schulen aus \u00f6ffentlicher und privater Tr\u00e4gerschaft in drei Bundesl\u00e4ndern. Er ist Teil der explorativen Vorstudie des Projekts TOGET DiBS und untersucht die Fragestellung, wie Schulleitungen die Zusammenarbeit mit ihren Schultr\u00e4gern im Kontext von Digitalisierung und Schulentwicklung erleben und gestalten. Die Datenerhebung erfolgte im Zeitraum von Mai bis August 2025.</p>",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Interviews mit schulleitungen zur zusammenarbeit mit schultr\u00e4gern im kontext der digitalisierung (toget dibs-vorstudie)",
+    "url": "https://doi.org/10.26249/FK2/4H48UZ",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Social Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "000 - Generalities, science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "370 - Education"
+        }
+    ],
+    "resource_type": "Dataset"
+}

@@ -1,0 +1,98 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2022",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Vanessa Opladen",
+            "givenName": "Vanessa",
+            "familyName": "Opladen",
+            "orcid": "0000-0002-9916-2469"
+        },
+        {
+            "author": "Vivell, Maj-Britt",
+            "givenName": "Maj-Britt",
+            "familyName": "Vivell",
+            "orcid": "0000-0002-9503-5112"
+        },
+        {
+            "author": "Kroemeke, Antonia",
+            "givenName": "Antonia",
+            "familyName": "Kroemeke",
+            "orcid": ""
+        },
+        {
+            "author": "Heithoff, Sarah",
+            "givenName": "Sarah",
+            "familyName": "Heithoff",
+            "orcid": ""
+        },
+        {
+            "author": "Lucht, Antonia",
+            "givenName": "Antonia",
+            "familyName": "Lucht",
+            "orcid": ""
+        },
+        {
+            "author": "Hartmann, Andrea S.",
+            "givenName": "Andrea S.",
+            "familyName": "Hartmann",
+            "orcid": "0000-0002-6251-3763"
+        },
+        {
+            "author": "Vocks, Silja",
+            "givenName": "Silja",
+            "familyName": "Vocks",
+            "orcid": "0000-0001-8498-9466"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/5BT1IQ",
+    "doi_date_published": "2022",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-5bt1iq",
+    "notes": "In this experimental study, we aimed at validating the induction of neutral mood by means of participants rating of four 10-minute video sequences showing landscape scenes. The induction of neutral mood is part of a larger experiment (preregistration: drks.de. ID: DRKS00025780) funded by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG).",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Validating the induction of neutral mood from videos",
+    "url": "https://doi.org/10.26249/FK2/5BT1IQ",
+    "citation": [],
+    "publication_year": "2022",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Other"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "150 - Psychology"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "https://www.drks.de/drks_web/navigate.do?navigationId=trial.HTML&TRIAL_ID=DRKS00025780",
+            "identifier_type": "URL",
+            "relation_type": "IsCitedBy"
+        }
+    ]
+}

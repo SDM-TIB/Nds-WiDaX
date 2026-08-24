@@ -1,0 +1,105 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2021",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Clay, Viviane",
+            "givenName": "Viviane",
+            "familyName": "Clay",
+            "orcid": "0000-0001-9152-0666"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/BFDUZO",
+    "doi_date_published": "2021",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-bfduzo",
+    "notes": "<b>Description:</b><br>\nThis repository presents data collected to investigate the role of embodiment and supervision in learning. This is done inside a simulated 3D maze world with a navigation task using mainly visual input in the form of RGB images. The main contribution of this data repository is to provide a network model trained in this environment with weak supervision and a closed loop between action and perception. Additionally, control networks are provided which were trained with varying degrees of supervision and embodiment. In the corresponding paper <a href=\"https://doi.org/10.1016/j.neunet.2020.11.004\" target=\"_blank\"> [1] </a> the representations of these networks are compared based on sparsity measures and well as content of the encodings and the possibility to extract semantic labels. For the training of the control conditions several new data sets were created which are also included here. They contain a collection of images from the simulated world with corresponding semantic labels. Overall, they provide a good basis for further analysis and a more in-depth investigation of representation learning and the effect of embodiment and supervision on representations.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Data from neural network training in the obstacle tower environment to investigate embodied, weakly supervised learning",
+    "url": "https://doi.org/10.26249/FK2/BFDUZO",
+    "citation": [],
+    "publication_year": "2021",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Artificial Neural Networks"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Reinforcement Learning"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Cognitive Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Cognitive Representation"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "10.17632/zdh4d5ws2z.2",
+            "identifier_type": "DOI",
+            "relation_type": "IsCitedBy"
+        },
+        {
+            "identifier": "10.1016/j.neunet.2020.11.004",
+            "identifier_type": "DOI",
+            "relation_type": "IsCitedBy"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Artificial Neural Networks",
+            "name": "Artificial Neural Networks",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Reinforcement Learning",
+            "name": "Reinforcement Learning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Cognitive Science",
+            "name": "Cognitive Science",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Cognitive Representation",
+            "name": "Cognitive Representation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

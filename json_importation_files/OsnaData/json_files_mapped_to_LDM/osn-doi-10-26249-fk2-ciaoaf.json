@@ -1,0 +1,69 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Schmeiduch, Lena",
+            "givenName": "Lena",
+            "familyName": "Schmeiduch",
+            "orcid": "0000-0002-7796-0558"
+        },
+        {
+            "author": "Betzler, Shirin",
+            "givenName": "Shirin",
+            "familyName": "Betzler",
+            "orcid": "0000-0002-4238-9590"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/CIAOAF",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-ciaoaf",
+    "notes": "Individual consumption orientations influence various domains on an individual, but also on a societal level. The present research investigates the relation between materialistic and sufficiency orientation and their effects on subjective well-being, sufficiency behavior, and support of sufficiency policies. In particular, these relations are considered from a temporal perspective by including time wealth and temporal autonomy as mediators. Results reveal sufficiency and materialistic as opposing consumption orientations. A materialistic orientation further seems to impede well-being through reducing perceptions of time wealth. Further, materialistic orientation reduces sufficiency behavior while sufficiency orientation shows positive effects on sufficiency behavior and support of sufficiency policies. These results underline the personal and sustainability-related benefits of transforming current modes of consumption towards economic structures focused on sufficiency and time wealth. An important lever to create structural conditions for a shift in consumer culture could be sufficiency policies that relate to sufficiency orientation and behavior.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Replikationsdaten f\u00fcr: between materialism and sufficiency: influences of consumption orientations on sufficiency behavior, well-being, and policy support considering the role of time wealth",
+    "url": "https://doi.org/10.26249/FK2/CIAOAF",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Other"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "sufficiency orientation, materialistic orientation, time wealth, policy support, well-being"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "150 - Psychology"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "sufficiency orientation materialistic orientation time wealth policy support well-being",
+            "name": "sufficiency orientation materialistic orientation time wealth policy support well-being",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

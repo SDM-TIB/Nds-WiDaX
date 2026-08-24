@@ -1,0 +1,143 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2023",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Wehking, Katharina",
+            "givenName": "Katharina",
+            "familyName": "Wehking",
+            "orcid": "0000-0001-5724-0708"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/AMWVWU",
+    "doi_date_published": "2023",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-amwvwu",
+    "notes": "Der Datensatz umfasst 23 Interviews mit jungen Gefl\u00fcchteten, die im Rahmen des von der DFG gef\u00f6rderten Projekts \"Auswirkungen der Ausbildungsduldung auf die Bildungsintegration gefl\u00fcchteter Jugendlicher\" (GZ: WE 7027/1-1) befragt wurden. Das Projekt zielte darauf ab, das bisher kaum beforschte juristische Novum der Ausbildungsduldung vor dem Hintergrund seiner Wirkm\u00e4chtigkeit auf die Bildungsverl\u00e4ufe junger Gefl\u00fcchteter zu beleuchten. Da die Perspektive bisheriger Forschungen prim\u00e4r auf den \u00dcbergang in die Ausbildung von Gefl\u00fcchteten lag, fokussierte die vorliegende Studie nun den sich daran anschlie\u00dfenden Ausbildungsweg der Auszubildenden. Hierbei wurde die Frage adressiert, inwiefern sich die Ausbildungsduldung, die alleine an die Absolvierung einer Berufsausbildung und damit an das erfolgreiche Erbringen von Integrationsleistungen gekoppelt wird, auf die Ausbildungsverl\u00e4ufe junger Gefl\u00fcchteter auswirkt.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Qualitative interviewdaten des dfg projekts: auswirkungen der ausbildungsduldung auf die bildungsintegration gefl\u00fcchteter jugendlicher",
+    "url": "https://doi.org/10.26249/FK2/AMWVWU",
+    "citation": [],
+    "publication_year": "2023",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Arts and Humanities"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Social Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Gefl\u00fcchtete"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Ausbildung"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Ausbildungsduldung"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Integration"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Ausbildungsverl\u00e4ufe"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Berufliche Bildung"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Berufsp\u00e4dagogik"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "300 - Social sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "370 - Education"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "10.1080",
+            "identifier_type": "DOI",
+            "relation_type": "IsCitedBy"
+        },
+        {
+            "identifier": "1618-8543",
+            "identifier_type": "ISSN",
+            "relation_type": "IsCitedBy"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Geflchtete",
+            "name": "Geflchtete",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ausbildung",
+            "name": "Ausbildung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ausbildungsduldung",
+            "name": "Ausbildungsduldung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Integration",
+            "name": "Integration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ausbildungsverlufe",
+            "name": "Ausbildungsverlufe",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Berufliche Bildung",
+            "name": "Berufliche Bildung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Berufspdagogik",
+            "name": "Berufspdagogik",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}

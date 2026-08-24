@@ -1,0 +1,55 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Franzkoch, Rico",
+            "givenName": "Rico",
+            "familyName": "Franzkoch",
+            "orcid": "0000-0002-8447-518X"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/7OU7KW",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-7ou7kw",
+    "notes": "Video documentation of general procedures for advanced electron microscopy performed within the integrated Bioimaging facility Osnabrueck. Part of chapter 4.4 of PhD thesis \"Development and application of advanced correlative light and electron microscopy methods for biological samples\"by Rico Franzkoch.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Have you seen this? video documentation of advanced electron microscopy workflows",
+    "url": "https://doi.org/10.26249/FK2/7OU7KW",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "570 - Life sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "600 - Technology (Applied sciences)"
+        }
+    ],
+    "resource_type": "Dataset"
+}

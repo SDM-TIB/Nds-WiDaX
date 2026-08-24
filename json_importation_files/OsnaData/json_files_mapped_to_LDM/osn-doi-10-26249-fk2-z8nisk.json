@@ -1,0 +1,63 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Janzen, Bennet",
+            "givenName": "Bennet",
+            "familyName": "Janzen",
+            "orcid": "0009-0008-0449-6660"
+        },
+        {
+            "author": "Richardt, Leon",
+            "givenName": "Leon",
+            "familyName": "Richardt",
+            "orcid": "0009-0003-7867-0370"
+        },
+        {
+            "author": "Aschenbruck, Nils",
+            "givenName": "Nils",
+            "familyName": "Aschenbruck",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/Z8NISK",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-z8nisk",
+    "notes": "The ELF dataset (Earthquake-induced Link Failure scenarios) contains Probabilistic Shared Risk Link Groups (PSRLGs) for 30 public network topologies. For each topology, the dataset provides a set of possible link failure scenarios together with their annual probabilities of occurrence, derived from seismic hazard modelling. The dataset is intended to support research on traffic engineering, network resiliency, and robust routing under geographically correlated failures.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Elf dataset: earthquake-induced link failure scenarios for traffic engineering resiliency",
+    "url": "https://doi.org/10.26249/FK2/Z8NISK",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        }
+    ],
+    "resource_type": "Dataset"
+}

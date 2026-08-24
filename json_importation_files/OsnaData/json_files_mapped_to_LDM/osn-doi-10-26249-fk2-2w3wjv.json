@@ -1,0 +1,77 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Sch\u00f6ning, Julius",
+            "givenName": "Julius",
+            "familyName": "Sch\u00f6ning",
+            "orcid": "0000-0003-4921-5179"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/2W3WJV",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-2w3wjv",
+    "notes": "With the rising amount of gaze behavior analysis, where participants get tracked watching video stimuli, the amount of corresponding gaze data records increases, too. Unfortunately, in most cases, these data are collected in separate files in custom-made or proprietary data formats. Thus these data are hard to access even for experts, and effectively inaccessible for non-experts. Expensive or custom-made software is necessary for the data analysis. By promoting the use of existing multimedia container formats for distributing and archiving eye tracking and gaze data bundled with the stimuli media, we define an exchange format that can be interpreted by standard multimedia players as well as streamed via the Internet. We converted several gaze data sets into our format, demonstrating the feasability of our approach and allowing to visualize these data with standard multimedia players. We also introduce two plugins for one of these players, allowing for further visual analytics. We discuss the benefit of gaze data in a multimedia containers and explain possible visual analytics approaches based on our implementations, converted datasets, and first user interviews.\n\n<h2>Converted Eye Tracking Data Sets with Instantaneous Visualizations</h2>\n\nThe following data sets are provided for research purposes. By using these data sets in the proposed multimedia container format, please cite [S0], [S1], [S2], or [S3] and also the original dataset [A], [B], [C], [K], or [R].\n\n<ul>\n<li>    Real World Visual Processing [S3] - 1 video </li>\n<li>    A\u00e7ik et al. [A] dataset - 216 videos </li>\n<li>    Sundberg et al. [B] dataset - 7 videos </li>\n<li>    Coutrot & Guyader [C] dataset - 60 videos </li>\n<li>    Kurzhals et al. [K] dataset - 11 videos </li>\n<li>    Riche et al. [R] dataset - 24 videos </li>\n</ul>\n\n<h2>Source Code</h2>\n<h3>VLC 3.0.0 patch</h3>\nModified version of the subsusf.c. Necessary for the playback of the USF files.\n\n<h3>USF to ASS translation</h3>\nXSL file for USF to ASS translation usf2ass.xsl.\n\n<h3>VLC Visual Analytics Plugins</h3>\nTo install the extensions under Linux, please copy the SimSub.lua and/or MergeSub.lua into ~/.local/share/vlc/lua/extensions/ for the current user or /usr/lib/vlc/lua/extensions/ for all users.\n\nSimSub: Visualization of different eye tracking datasets in multiple windows\nMergeSub: Visualization of different eye tracking datasets in a single window \n\n<h2>References</h2>\n<b>[S0]</b> J. Sch\u00f6ning, C. Gundler, G. Heidemann, P. K\u00f6nig & U. Krumnack.\nVisual Analytics of Gaze Data with Standard Multimedia Players.\nJournal of Eye Movement Research, 10(5) : 1-14, 2017. http://dx.doi.org/10.16910/jemr.10.5.4\n<br>\n<b>[S1]</b> J. Sch\u00f6ning, P. Faion, G. Heidemann & U. Krumnack.\nEye Tracking Data in Multimedia Containers for Instantaneous Visualizations.\nIn IEEE VIS Workshop on Eye Tracking and Visualization (ETVIS), pages: 74-78, 2016. IEEE. http://dx.doi.org/10.1109/ETVIS.2016.7851171\n<br>\n<b>[S3]</b> J. Sch\u00f6ning, A.L. Gert, A. A\u00e7ik, T.C. Kietzmann, G. Heidemann & P. K\u00f6nig.\nExploratory Multimodal Data Analysis with Standard Multimedia Player --- Multimedia Containers: a Feasible Solution to make Multimodal Research Data Accessible to the Broad Audience.\nIn Proceedings of the 12th Joint Conference on Computer Vision, Imagingand Computer Graphics Theory and Applications (VISAPP), pages: 272-279, ISBN: 978-989-758-225-7, 2017. SCITEPRESS. http://dx.doi.org/10.5220/0006260202720279\n<br>\n<b>[A]</b> \tA. A\u00e7ik, A. Bartel & P. K\u00f6nig.\nReal and implied motion at the center of gaze.\nJournal of Vision, 14(2) : 1-19, 2014. Association for Research in Vision and Ophthalmology (ARVO). http://dx.doi.org/10.1167/14.1.2\n<br>\n<b>[B]</b> \tP. Sundberg, T. Brox, M. Maire, P. Arbelaez & J. Malik.\nOcclusion boundary detection and figure/ground assignment from optical flow.\nIn IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pages: 2233-2240, 2011. IEEE. http://dx.doi.org/10.1109/cvpr.2011.5995364\n<br>\n<b>[C]</b> \tA. Coutrot & N. Guyader.\nHow saliency, faces, and sound influence gaze in dynamic social scenes.\nJournal of Vision, 14(8) : 5-5, 2014. Association for Research in Vision and Ophthalmology (ARVO). http://dx.doi.org/10.1167/14.8.5\n<br>\n<b>[K]</b> \tK. Kurzhals, C.F. Bopp, J. B\u00e4ssler, F. Ebinger & D. Weiskopf.\nBenchmark data for evaluating visualization and analysis techniques for eye tracking for video stimuli.\nIn ACM Workshop on Beyond Time and Errors: Novel Evaluation Methods for Visualization (BELIV), pages: 54-60, 2014. ACM Press. http://dx.doi.org/10.1145/2669557.2669558\n<br>\n<b>[R]</b>  N. Riche, M. Mancas, D. Culibrk, V. Crnojevic, B. Gosselin & T. Dutoit.\nDynamic Saliency Models and Human Attention: A Comparative Study on Videos.\nLecture Notes in Computer Science, pages: 586-598, ISBN: 978-3-642-37431-9, 2013. Springer Science + Business Media. http://dx.doi.org/10.1007/978-3-642-37431-9_45\n<br>",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Metadata in multimedia containers for instantaneous visualizations and visual analytics",
+    "url": "https://doi.org/10.26249/FK2/2W3WJV",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Other"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "10.16910/jemr.10.5.4",
+            "identifier_type": "DOI",
+            "relation_type": "IsCitedBy"
+        },
+        {
+            "identifier": "10.1109/ETVIS.2016.7851171",
+            "identifier_type": "DOI",
+            "relation_type": "IsCitedBy"
+        },
+        {
+            "identifier": "10.1109/wacv.2017.78",
+            "identifier_type": "DOI",
+            "relation_type": "IsCitedBy"
+        },
+        {
+            "identifier": "10.5220/0006260202720279",
+            "identifier_type": "DOI",
+            "relation_type": "IsCitedBy"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2022",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Schaffland, Axel",
+            "givenName": "Axel",
+            "familyName": "Schaffland",
+            "orcid": "0000-0002-4640-7864"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/QBSVQJ",
+    "doi_date_published": "2022",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "NONE",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-qbsvqj",
+    "notes": "The dataset contains over 200 georeferenced registered rephotographic compilations of the Faroe Islands. The position of each compilation is locatable on a map. Each compilation consists of a historic and a corresponding contemporary image showing the same scene. The two images of a compilation are aligned, such that the same objects are positioned at the same pixel coordinate in both images. Contemporary images were photographed in Summer 2022 by the author while historic images were retrieved from the collections of the National Museum of Denmark.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Faroe islands rephotography image registration dataset",
+    "url": "https://doi.org/10.26249/FK2/QBSVQJ",
+    "citation": [],
+    "publication_year": "2022",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Arts and Humanities"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Computer and Information Science"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Earth and Environmental Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "004 - Data processing, computer science"
+        }
+    ],
+    "resource_type": "Dataset"
+}

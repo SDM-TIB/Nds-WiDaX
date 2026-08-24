@@ -1,0 +1,62 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Pollmann, Christoph",
+            "givenName": "Christoph",
+            "familyName": "Pollmann",
+            "orcid": "0000-0002-1473-0288"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/NPX7DU",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-npx7du",
+    "notes": "Excessive cytokine signaling resulting from dysregulation of a cytokine or its receptor can be a main driver of cancer, autoimmune or hematopoietic disorders. Here we leverage protein design to create tailored cytokine receptor blockers with idealized properties. Specifically, we aimed to tackle the granulocyte-colony stimulating factor receptor (G-CSFR), a mediator of different types of leukemia and autoinflammatory diseases. By modifying designed G-CSFR binders, we engineered hyper-stable proteins that function as nanomolar signaling antagonists. X-ray crystallography showed atomic-level agreement with the experimental structure of an exemplary design. Furthermore, the most potent design blocks G-CSFR in acute myeloid leukemia cells and primary hematopoietic stem cells. Thus, the resulting designs can be used for inhibiting or homing to G-CSFR-expressing cells. Our work also demonstrates that designed cytokine mimics can be used to derive non-activating variants for tackling a range of cytokine receptors.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "A strategy to design protein-based antagonists against type i cytokine receptors",
+    "url": "https://doi.org/10.26249/FK2/NPX7DU",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Medicine, Health and Life Sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "570 - Life sciences"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "610 - Medical sciences, medicine"
+        }
+    ],
+    "resource_type": "Dataset",
+    "related_identifiers": [
+        {
+            "identifier": "https://omero.cellnanos.uni-osnabrueck.de/webclient/?show=project-15707",
+            "identifier_type": "URL",
+            "relation_type": "IsCitedBy"
+        }
+    ]
+}

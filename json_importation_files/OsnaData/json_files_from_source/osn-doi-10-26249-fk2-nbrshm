@@ -1,0 +1,440 @@
+{
+    "header": {
+        "identifier": "doi:10.26249/FK2/NBRSHM",
+        "datestamp": "2024-04-10T00:00:01Z",
+        "setSpecs": [],
+        "status": null
+    },
+    "metadata": {
+        "metadataFormat": "oai_datacite",
+        "identifier": {
+            "value": "10.26249/FK2/NBRSHM",
+            "identifierType": "DOI"
+        },
+        "creators": [
+            {
+                "creatorName": {
+                    "value": "D\u00f6mer, Niklas",
+                    "nameType": "Personal"
+                },
+                "givenName": "Niklas",
+                "familyName": "D\u00f6mer",
+                "nameIdentifiers": [],
+                "affiliations": []
+            },
+            {
+                "creatorName": {
+                    "value": "Koelmann, Julian",
+                    "nameType": "Personal"
+                },
+                "givenName": "Julian",
+                "familyName": "Koelmann",
+                "nameIdentifiers": [],
+                "affiliations": []
+            },
+            {
+                "creatorName": {
+                    "value": "Hesselink, Mira",
+                    "nameType": "Personal"
+                },
+                "givenName": "Mira",
+                "familyName": "Hesselink",
+                "nameIdentifiers": [],
+                "affiliations": []
+            },
+            {
+                "creatorName": {
+                    "value": "Hehemann, Tobias",
+                    "nameType": "Personal"
+                },
+                "givenName": "Tobias",
+                "familyName": "Hehemann",
+                "nameIdentifiers": [],
+                "affiliations": []
+            },
+            {
+                "creatorName": {
+                    "value": "Pfannstiel, Anton",
+                    "nameType": "Personal"
+                },
+                "givenName": "Anton",
+                "familyName": "Pfannstiel",
+                "nameIdentifiers": [],
+                "affiliations": []
+            },
+            {
+                "creatorName": {
+                    "value": "Sauerwein, Felix",
+                    "nameType": "Personal"
+                },
+                "givenName": "Felix",
+                "familyName": "Sauerwein",
+                "nameIdentifiers": [],
+                "affiliations": []
+            },
+            {
+                "creatorName": {
+                    "value": "Vittadello, Laura",
+                    "nameType": "Personal"
+                },
+                "givenName": "Laura",
+                "familyName": "Vittadello",
+                "nameIdentifiers": [],
+                "affiliations": []
+            },
+            {
+                "creatorName": {
+                    "value": "Ganschow, Steffen",
+                    "nameType": "Personal"
+                },
+                "givenName": "Steffen",
+                "familyName": "Ganschow",
+                "nameIdentifiers": [],
+                "affiliations": []
+            },
+            {
+                "creatorName": {
+                    "value": "Imlau, Mirco",
+                    "nameType": "Personal"
+                },
+                "givenName": "Mirco",
+                "familyName": "Imlau",
+                "nameIdentifiers": [],
+                "affiliations": []
+            }
+        ],
+        "titles": [
+            {
+                "value": "Long-lived, pulse-induced absorption in LiNb1\u2212xTaxO3 solid solutions: the case of three intrinsic defect sites for electron localization with strong coupling",
+                "titleType": null,
+                "lang": null
+            }
+        ],
+        "publisher": {
+            "value": "osnaData",
+            "publisherIdentifier": null,
+            "publisherIdentifierScheme": null,
+            "schemeURI": null,
+            "lang": null
+        },
+        "publicationYear": "2024",
+        "resourceType": {
+            "value": null,
+            "resourceTypeGeneral": "Dataset"
+        },
+        "subjects": [
+            {
+                "value": "Physics",
+                "subjectScheme": null,
+                "schemeURI": null,
+                "valueURI": null,
+                "lang": null
+            }
+        ],
+        "contributors": [
+            {
+                "contributorType": "ContactPerson",
+                "contributorName": {
+                    "value": "Imlau, Mirco",
+                    "nameType": "Personal"
+                },
+                "givenName": "Mirco",
+                "familyName": "Imlau",
+                "nameIdentifiers": [],
+                "affiliations": []
+            }
+        ],
+        "dates": [
+            {
+                "value": "2024-04-08",
+                "dateType": "Submitted",
+                "dateInformation": null
+            },
+            {
+                "value": "2024-04-09",
+                "dateType": "Updated",
+                "dateInformation": null
+            }
+        ],
+        "language": null,
+        "alternateIdentifiers": [],
+        "relatedIdentifiers": [],
+        "sizes": [
+            "14943",
+            "14726",
+            "14877",
+            "15277",
+            "15303",
+            "16257",
+            "105",
+            "49717",
+            "727",
+            "49474",
+            "726",
+            "285",
+            "271",
+            "422",
+            "566",
+            "452",
+            "128",
+            "49207",
+            "49353",
+            "49423",
+            "49518",
+            "49537",
+            "49686",
+            "49690",
+            "49764",
+            "49746",
+            "728",
+            "49776",
+            "49755",
+            "49777",
+            "49738",
+            "49689",
+            "50036",
+            "49947",
+            "49756",
+            "49823",
+            "49207",
+            "49212",
+            "49233",
+            "49412",
+            "49484"
+        ],
+        "formats": [
+            "text/csv",
+            "text/csv",
+            "text/csv",
+            "text/csv",
+            "text/csv",
+            "text/csv",
+            "text/csv",
+            "text/plain; charset=US-ASCII",
+            "text/csv",
+            "text/plain; charset=US-ASCII",
+            "text/csv",
+            "text/csv",
+            "text/csv",
+            "text/csv",
+            "text/csv",
+            "text/csv",
+            "text/csv",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/csv",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII",
+            "text/plain; charset=US-ASCII"
+        ],
+        "version": "1.0",
+        "rightsList": [
+            {
+                "value": null,
+                "rightsURI": "info:eu-repo/semantics/openAccess",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            },
+            {
+                "value": "CC0 Waiver",
+                "rightsURI": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "rightsIdentifier": null,
+                "rightsIdentifierScheme": null,
+                "schemeURI": null,
+                "lang": null
+            }
+        ],
+        "descriptions": [
+            {
+                "value": "Femto-/nanosecond pulse-induced, red and near-infrared absorption is studied in LiNb<sub>1-x</sub>Ta<sub>x</sub>O<sub>3</sub> (LNT) solid solutions with the goal to probe the intrinsic defect structure via the formation, transport and recombination of optically generated small bound electron polarons with strong coupling to the lattice. As a result, long-lived transients are uncovered for LNT which exceed lifetimes of LN and LT by a factor of up to 100 over the entire range of investigated compositions. At the same time, the starting amplitude varies in the range of \u03b1<sub>li</sub><sup>0</sup> \u2248 10 \u2212 100 m<sup>\u22121</sup> as a function of x and exceed the ones of LN and LT by a factor of up to ten. The results are interpreted in the model of three-dimensional small polaron hopping transport considering the simultaneous presence of three different types of small bound polarons, in particular of small electron Nb<sub> Li</sub><sup>4+</sup> and Ta<sub> Li</sub><sup>4+</sup> antisite polarons, and of small electron Ta<sub> V</sub><sup>4+</sup> interstitial polarons. We conclude that the differences between LNT, LN, and LT may point to model systems that consist of one (LN), two (LT) and three (LNT) intrinsic defect centers for electron localization.",
+                "descriptionType": "Abstract",
+                "lang": null
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "relatedItems": [],
+        "citation": {
+            "displayName": "Citation Metadata",
+            "fields": [
+                {
+                    "typeName": "title",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Long-lived, pulse-induced absorption in LiNb1\u2212xTaxO3 solid solutions: the case of three intrinsic defect sites for electron localization with strong coupling"
+                },
+                {
+                    "typeName": "author",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "D\u00f6mer, Niklas"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Koelmann, Julian"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Hesselink, Mira"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Hehemann, Tobias"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Pfannstiel, Anton"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Sauerwein, Felix"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Vittadello, Laura"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Ganschow, Steffen"
+                            }
+                        },
+                        {
+                            "authorName": {
+                                "typeName": "authorName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Imlau, Mirco"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "datasetContact",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "datasetContactName": {
+                                "typeName": "datasetContactName",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Imlau, Mirco"
+                            },
+                            "datasetContactEmail": {
+                                "typeName": "datasetContactEmail",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "mirco.imlau@uni-osnabrueck.de"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "dsDescription",
+                    "multiple": true,
+                    "typeClass": "compound",
+                    "value": [
+                        {
+                            "dsDescriptionValue": {
+                                "typeName": "dsDescriptionValue",
+                                "multiple": false,
+                                "typeClass": "primitive",
+                                "value": "Femto-/nanosecond pulse-induced, red and near-infrared absorption is studied in LiNb<sub>1-x</sub>Ta<sub>x</sub>O<sub>3</sub> (LNT) solid solutions with the goal to probe the intrinsic defect structure via the formation, transport and recombination of optically generated small bound electron polarons with strong coupling to the lattice. As a result, long-lived transients are uncovered for LNT which exceed lifetimes of LN and LT by a factor of up to 100 over the entire range of investigated compositions. At the same time, the starting amplitude varies in the range of \u03b1<sub>li</sub><sup>0</sup> \u2248 10 \u2212 100 m<sup>\u22121</sup> as a function of x and exceed the ones of LN and LT by a factor of up to ten. The results are interpreted in the model of three-dimensional small polaron hopping transport considering the simultaneous presence of three different types of small bound polarons, in particular of small electron Nb<sub> Li</sub><sup>4+</sup> and Ta<sub> Li</sub><sup>4+</sup> antisite polarons, and of small electron Ta<sub> V</sub><sup>4+</sup> interstitial polarons. We conclude that the differences between LNT, LN, and LT may point to model systems that consist of one (LN), two (LT) and three (LNT) intrinsic defect centers for electron localization."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "typeName": "subject",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "Physics"
+                    ]
+                },
+                {
+                    "typeName": "ddc",
+                    "multiple": true,
+                    "typeClass": "controlledVocabulary",
+                    "value": [
+                        "500 - Natural sciences & mathematics",
+                        "530 - Physics"
+                    ]
+                },
+                {
+                    "typeName": "depositor",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Pfannstiel, Anton"
+                },
+                {
+                    "typeName": "dateOfDeposit",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2024-04-08"
+                },
+                {
+                    "typeName": "licenseApproval",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "on 2024-04-08, user anton.pfannstiel@uni-osnabrueck.de approved the following license text: <p><h3>Lizenzvereinbarung \u2013 Deposit License</h3></p><p>Hiermit gestatte ich der Universit\u00e4t Osnabr\u00fcck, vertreten durch die Pr\u00e4sidentin/den Pr\u00e4sidenten, durchf\u00fchrende Organisationseinheit: Universit\u00e4tsbibliothek (UB), vertreten durch die Leitende Bibliotheksdirektorin/den Leitenden Bibliotheksdirektor, meine digitalen Forschungsdaten einschlie\u00dflich Abstract und Metadaten zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzerinnen und Nutzer berechtigt, Forschungsdaten nach Ma\u00dfgabe des Urheberrechts unentgeltlich zu nutzen, insbesondere, Forschungsdaten zum privaten und sonstigen eigenen Gebrauch herunter zu laden oder zu speichern. </p> <h4>Rechteeinr\u00e4umung </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck an seinen/ihren Forschungsdaten einschlie\u00dflich Abstract und Metadaten zeitlich unbegrenzt und unwiderruflich das nicht ausschlie\u00dfliche Recht zur \u00f6ffentlichen Zug\u00e4nglichmachung, zur langfristigen Speicherung auf dem institutionellem Forschungsdatenrepositorium <i>osnaData</i> der Universit\u00e4t Osnabr\u00fcck und zur Vervielf\u00e4ltigung zu diesen Zwecken ein. Der urheberrechtliche Schutz bleibt durch diese Lizenz unber\u00fchrt. Die Universit\u00e4t Osnabr\u00fcck beh\u00e4lt sich vor, Forschungsdaten wegen inhaltlicher oder technischer M\u00e4ngel oder eines ungekl\u00e4rten rechtlichen Status abzulehnen. </p> <h4>Rechte Dritter </h4> <p>Der Urheber/die Urheberin der Forschungsdaten erkl\u00e4rt, dass mit der Bereitstellung seiner/ihrer Forschungsdaten und jedes Bestandteils (z. B. beschreibende Dokumentationen) keine Rechte Dritter (z. B. Miturheber, Co-Autoren, Verlage, Drittmittelgeber) verletzt werden. Insbesondere hat bisher kein Verlag oder sonstiger Dritter (z. B. Drittmittelgeber) ein ausschlie\u00dfliches Nutzungsrecht. </p> <p>Der Urheber/die Urheberin der Forschungsdaten verpflichtet sich, die Universit\u00e4t Osnabr\u00fcck von solchen Anspr\u00fcchen Dritter freizustellen, die sich daraus ergeben, dass es aufgrund schuldhafter falscher Angaben des Urhebers/der Urheberin bez\u00fcglich des Nichtbestehens von Rechten Dritter oder sonstiger von ihm/ihr zu vertretenden Umst\u00e4nden durch die Ver\u00f6ffentlichung seines/ihres Werkes auf <i>osnaData</i> zu einer Verletzung von Urheberrechten oder ausschlie\u00dflichen Nutzungsrechten kommt. Das gilt nicht, wenn die Verletzung auf einem vors\u00e4tzlichen oder grob fahrl\u00e4ssigen Verhalten der Universit\u00e4t Osnabr\u00fcck als Betreiberin von <i>osnaData</i> beruht und dem Urheber/der Urheberin der Forschungsdaten nicht in gleicher Weise Vorsatz oder grobe Fahrl\u00e4ssigkeit zu Last f\u00e4llt. Im letzteren Fall erfolgt eine Aufteilung des Schadens insbesondere unter Abw\u00e4gung der Verschuldensanteile. </p> <p>Die Vertragsparteien verpflichten sich, einander unverz\u00fcglich zu informieren, wenn Dritte Anspr\u00fcche aufgrund der ihnen zustehenden Urheber- bzw. Nutzungsrechte an den digitalen Forschungsdaten gegen sie erheben. </p> <p>Die Universit\u00e4t Osnabr\u00fcck ist berechtigt, den Zugriff auf die Forschungsdaten zu sperren, soweit konkrete Anhaltspunkte f\u00fcr eine Verletzung von Rechten Dritter bestehen oder andere rechtliche Vorschriften dies erfordern. </p> <h4>Langzeitarchivierung und Transformation in andere Formate </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, seine/ihre bereitgestellten Forschungsdaten in einem Langzeitarchiv zu speichern und bei Bedarf (z. B. technische Nutzbarkeit, Migration, Barrierefreiheit, bessere Zug\u00e4nglichkeit oder Erschlie\u00dfung) in andere elektronische Formate zu \u00fcberf\u00fchren (Formatkonvertierung). </p> <h4>Weitergabe von Metadaten und Dokumenten </h4> <p>Der Urheber/die Urheberin der Forschungsdaten r\u00e4umt der Universit\u00e4t Osnabr\u00fcck im Rahmen der Rechteeinr\u00e4umung gem\u00e4\u00df Ziffer 1 das Recht ein, die Metadaten einschlie\u00dflich Abstract seiner/ihrer Forschungsdaten anderen Datenbanken gem\u00e4\u00df den FAIR-Prinzipien  unentgeltlich unter der Lizenz CC0 zur Verf\u00fcgung zu stellen. Dar\u00fcber hinaus r\u00e4umt er/sie der Universit\u00e4t Osnabr\u00fcck das Recht ein, seine/ihre Forschungsdaten Dritten im Rahmen nationaler Sammelauftr\u00e4ge zur Online-Bereitstellung oder Archivierung zur Verf\u00fcgung zu stellen. </p> <p>Die durch diesen Vertrag einger\u00e4umten Rechte k\u00f6nnen ganz oder teilweise auf Dritte \u00fcbertragen und einfache Nutzungsrechte an andere Repositorien vergeben bzw. ein Dritter mit der Bereitstellung des Dokuments beauftragt werden, ohne dass es hierzu einer gesonderten Zustimmung des Urhebers/der Urheberin der Forschungsdaten bedarf. </p> <p><b>Ansprechpartner f\u00fcr alle <i>osnaData</i> betreffenden technischen und inhaltlichen Fragen ist die Administration von <i>osnaData</i>. Email: <a class=\"mail\" href=\"mailto:osnadata@ub.uni-osnabrueck.de\">osnadata@ub.uni-osnabrueck.de</a><b></p> "
+                }
+            ]
+        },
+        "license": "CC0"
+    }
+}

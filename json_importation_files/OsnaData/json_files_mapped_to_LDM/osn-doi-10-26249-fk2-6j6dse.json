@@ -1,0 +1,137 @@
+{
+    "repository_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "osnadata",
+    "authors": [
+        {
+            "author": "Ko\u00dfmann, Cosima",
+            "givenName": "Cosima",
+            "familyName": "Ko\u00dfmann",
+            "orcid": "0000-0001-6615-5185"
+        },
+        {
+            "author": "Schumacher, Jan-Philip",
+            "givenName": "Jan-Philip",
+            "familyName": "Schumacher",
+            "orcid": "0000-0003-4951-2165"
+        },
+        {
+            "author": "Straatmann, Tammo",
+            "givenName": "Tammo",
+            "familyName": "Straatmann",
+            "orcid": "0000-0001-7439-6165"
+        },
+        {
+            "author": "D\u00fcsing, Rainer",
+            "givenName": "Rainer",
+            "familyName": "D\u00fcsing",
+            "orcid": "0000-0002-4118-9968"
+        },
+        {
+            "author": "Hamborg, Kai-Christoph",
+            "givenName": "Kai-Christoph",
+            "familyName": "Hamborg",
+            "orcid": "0000-0002-5868-755X"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.26249/FK2/6J6DSE",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "CC0",
+    "license_title": "",
+    "name": "osn-doi-10-26249-fk2-6j6dse",
+    "notes": "Immersive Virtual Reality (IVR) has emerged as a powerful training medium, offering unique attributes for imparting motor skills. In this context, IVR enables learning by doing - a learning principle that makes use of the interactive nature of IVR by allowing learners to actively perform movements and action sequences. This study explores the effects of learning by doing in IVR in contrast to observational learning in IVR on short-term and long-term task performance in real reality. Moreover, to better understand mechanisms behind these effects, the study investigates the role of cognitive load and enjoyment in this regard. In an IVR experiment two groups of participants were asked to learn an action sequence in IVR, either by observation or by doing, which was to be demonstrated immediately after the experiment and approximately two weeks later. Surprisingly, no superiority of learning by doing over learning by observation emerged in terms of short-term and long-term task performance to reality, but tendencies of a higher long-term task performance in the learning by doing condition are evident. Despite the higher enjoyment associated with learning by doing, it did not mediate the relationship between learning by doing and learning outcomes. Notably, learning by doing did not result in higher germane cognitive load, and mediations in this context showed no evidence for an indirect effect. These findings are highly relevant as they show slightly discernible advantages of learning by doing and at the same time highlight the relevance of further research.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The Research Data Repository of the Osnabr\u00fcck University.",
+        "display_name": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "image_display_url": "logo-osnaData.png",
+        "image_url": "logo-osnaData.png",
+        "is_organization": true,
+        "name": "osnadata",
+        "state": "active",
+        "title": "osnaData (The Research Data Repository of the Osnabr\u00fcck University)",
+        "type": "organization"
+    },
+    "title": "Replikationsdaten f\u00fcr: learning transfer from virtual reality to real reality \u2013 an experimental study on learning by doing as a learning principle",
+    "url": "https://doi.org/10.26249/FK2/6J6DSE",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Other"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Training medium"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "Learning by observation"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "task performance"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "cognitive load"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "enjoyment"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "experimental design"
+        },
+        {
+            "subject_area_additional": "",
+            "subject_area_name": "150 - Psychology"
+        }
+    ],
+    "resource_type": "Dataset",
+    "tags": [
+        {
+            "display_name": "Training medium",
+            "name": "Training medium",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Learning by observation",
+            "name": "Learning by observation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "task performance",
+            "name": "task performance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cognitive load",
+            "name": "cognitive load",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "enjoyment",
+            "name": "enjoyment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "experimental design",
+            "name": "experimental design",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ]
+}
