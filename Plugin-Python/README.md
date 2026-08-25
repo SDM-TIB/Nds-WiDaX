@@ -1,4 +1,9 @@
-# 📁 Relevant Documents
+Nds-WiDaX builds on the Leibniz Data Manager (**[LDM](https://github.com/SDM-TIB/LDM_Docker/)**) – an open, semantics-oriented software service – to enable machine-readable, contextually rich indexing of heterogeneous (meta)data from research data repositories across Lower Saxony.
+The Leibniz Data Manager (LDM) is an open source and free web-based application for Research Data Management (RDM). LDM delivers different distributions to best fit the specific requirements of various customers, e.g., institutes and research groups performing RDM in various scientific disciplines. The LDM distributions are designed, maintained, and curated by TIB and L3S.
+
+In this folder we can find the code and evolution of the LDM's TIBimport plugin performing the importations and updates inside the WiDaX instance.
+
+# 📁 Relevant Documents in TIBimport plugin:
 
 **Folder:** `ckanext-TIBimport\ckanext\tibimport`
 
@@ -28,7 +33,7 @@
 
 ## 📚 Documentation
 
-**Complete Documentation:** [`documentation/README.md`](https://github.com/SDM-TIB/LDM_Docker/blob/main/Plugins/ckanext-TIBimport/documentation/README.md)
+**Complete Documentation:** [`documentation/README.md`](documentation/README.md)
 
 The documentation directory contains comprehensive guides covering:
 
