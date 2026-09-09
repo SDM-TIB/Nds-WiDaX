@@ -1,95 +1,160 @@
 {
-    "authors": "Armin Dielforder, Gian Maria Bocchini, Kilian B. Kemna, Andrea Hampel, Rebecca M Harrington, Onno Oncken",
-    "doi": "10.25835/0072357",
-    "doi_date_published": "2021-11-18",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-3.0",
-    "license_title": "Creative Commons Attribution-NonCommercial 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
-    "maintainer": "Armin Dielforder",
-    "maintainer_email": "dielforder@geowi.uni-hannover.de",
-    "source_metadata_created": "2021-11-18T12:12:04.400313",
-    "source_metadata_modified": "2023-02-06T09:35:38.321662",
-    "metadata_modified": "2023-02-06T09:35:38.321662",
-    "name": "luh-aftershock-triggering-tohoku-japan",
-    "notes": "This data repository contains the data to the publication \"Megathrust Stress Drop as Trigger of Aftershock Seismicity: Insights From the 2011 Tohoku Earthquake, Japan\" by A. Dielforder, G. M. Bocchini, K. Kemna, A. Hampel, R. M. Harrington, and O. Oncken. https://doi.org/10.1029/2022GL101320",
-    "num_resources": 2,
-    "num_tags": 3,
-    "organization": {
-        "id": "6284da8e-908c-4666-81c6-64a0fedf10e2",
-        "name": "institut-fur-geologie",
-        "title": "Institut f\u00fcr Geologie",
-        "type": "organization",
-        "description": "Leibniz Universit\u00e4t Hannover\r\nCallinstr. 30\r\n30167 Hannover\r\n\r\nhttp://www.geologie.uni-hannover.de/\r\n",
-        "image_url": "https://www.geologie.uni-hannover.de/typo3temp/_processed_/e/4/csm_cf132247a6b40f73102849c767bde47979deccba-fp-3-1-0-0_e2d52b6bf9.jpg",
-        "created": "2021-11-15T14:44:06.577248",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/0072357",
+  "doi_date_published": "2021-11-18",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "76105691-1b3e-4488-bf1c-05e4bb934105",
+  "isopen": false,
+  "license_id": "CC-BY-NC-3.0",
+  "license_title": "CC-BY-NC-3.0",
+  "maintainer": "Armin Dielforder",
+  "maintainer_email": "dielforder@geowi.uni-hannover.de",
+  "metadata_created": "2026-08-12T08:11:29.096063",
+  "metadata_modified": "2026-08-12T08:11:29.096070",
+  "name": "luh-aftershock-triggering-tohoku-japan",
+  "notes": "This data repository contains the data to the publication \"Megathrust Stress Drop as Trigger of Aftershock Seismicity: Insights From the 2011 Tohoku Earthquake, Japan\" by A. Dielforder, G. M. Bocchini, K. Kemna, A. Hampel, R. M. Harrington, and O. Oncken. https://doi.org/10.1029/2022GL101320",
+  "num_resources": 2,
+  "num_tags": 3,
+  "organization": {
+    "id": "6284da8e-908c-4666-81c6-64a0fedf10e2",
+    "name": "institut-fur-geologie",
+    "title": "Institut für Geologie",
+    "type": "organization",
+    "description": "Leibniz Universität Hannover\r\nCallinstr. 30\r\n30167 Hannover\r\n\r\nhttp://www.geologie.uni-hannover.de/\r\n",
+    "image_url": "https://www.geologie.uni-hannover.de/typo3temp/_processed_/e/4/csm_cf132247a6b40f73102849c767bde47979deccba-fp-3-1-0-0_e2d52b6bf9.jpg",
+    "created": "2026-08-12T08:11:21.603465",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "6284da8e-908c-4666-81c6-64a0fedf10e2",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2021-11-18T12:12:04.400313",
+  "source_metadata_modified": "2023-02-06T09:35:38.321662",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Megathrust Stress Drop as Trigger of Aftershock Seismicity: Insights From the 2011 Tohoku Earthquake, Japan",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/aftershock-triggering-tohoku-japan",
+  "version": "",
+  "authors": [
+    {
+      "author": "Dielforder, Armin",
+      "familyName": "Dielforder",
+      "givenName": "Armin",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-geologie",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "aftershocks",
-            "id": "29787f69-4323-44d1-a842-dea85d3a2afb",
-            "name": "aftershocks",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "megathrust earthquakes",
-            "id": "78fc2e73-32bf-4b43-b45a-35c70e2de233",
-            "name": "megathrust earthquakes",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "subduction zones",
-            "id": "ffad507d-d24d-486a-9355-2cc8fdaab0e5",
-            "name": "subduction zones",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Megathrust Stress Drop as Trigger of Aftershock Seismicity: Insights From the 2011 Tohoku Earthquake, Japan",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/aftershock-triggering-tohoku-japan",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2022-08-19T06:24:18.939810",
-            "description": "Earthquake catalogue",
-            "format": "csv",
-            "last_modified": "2022-08-19T06:24:18.889706",
-            "mimetype": "text/csv",
-            "name": "catalogue-japan.csv",
-            "position": 0,
-            "size": 973437,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/0ddcfe50-9e31-4225-b68f-e777d72fb859/resource/6b796583-3f8a-43a0-8c0e-a2626ced3be1/download/catalogue-japan.csv",
-            "url_type": ""
-        },
-        {
-            "created": "2022-08-19T06:27:45.809887",
-            "description": "ABAQUS model results for the Sendai and Iwaki transects across Japan",
-            "format": "zip",
-            "last_modified": "2022-08-19T06:27:45.770438",
-            "mimetype": "application/zip",
-            "name": "Japan-model-results.zip",
-            "position": 1,
-            "size": 13911170,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/0ddcfe50-9e31-4225-b68f-e777d72fb859/resource/1c1a6626-bca8-40af-b87d-681e93bdd2a6/download/japan-model-results.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Bocchini, Gian Maria",
+      "familyName": "Bocchini",
+      "givenName": "Gian Maria",
+      "orcid": ""
+    },
+    {
+      "author": "Kemna, Kilian B.",
+      "familyName": "Kemna",
+      "givenName": "Kilian B.",
+      "orcid": ""
+    },
+    {
+      "author": "Hampel, Andrea",
+      "familyName": "Hampel",
+      "givenName": "Andrea",
+      "orcid": ""
+    },
+    {
+      "author": "Harrington, Rebecca M",
+      "familyName": "Harrington",
+      "givenName": "Rebecca M",
+      "orcid": ""
+    },
+    {
+      "author": "Oncken, Onno",
+      "familyName": "Oncken",
+      "givenName": "Onno",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2022-08-19T06:24:18.939810",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Earthquake catalogue",
+      "format": "CSV",
+      "hash": "",
+      "id": "9bce5df2-2ffe-451d-9aa5-1cbfe18bf23f",
+      "last_modified": "2022-08-19T06:24:18.889706",
+      "metadata_modified": "2026-08-12T08:11:29.089722",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "name": "catalogue-japan.csv",
+      "package_id": "76105691-1b3e-4488-bf1c-05e4bb934105",
+      "position": 0,
+      "resource_type": null,
+      "size": 973437,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/0ddcfe50-9e31-4225-b68f-e777d72fb859/resource/6b796583-3f8a-43a0-8c0e-a2626ced3be1/download/catalogue-japan.csv",
+      "url_type": ""
+    },
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2022-08-19T06:27:45.809887",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "ABAQUS model results for the Sendai and Iwaki transects across Japan",
+      "format": "ZIP",
+      "hash": "",
+      "id": "1a279265-d14e-4572-81e7-deb1fe43372b",
+      "last_modified": "2022-08-19T06:27:45.770438",
+      "metadata_modified": "2026-08-12T08:11:29.089875",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "Japan-model-results.zip",
+      "package_id": "76105691-1b3e-4488-bf1c-05e4bb934105",
+      "position": 1,
+      "resource_type": null,
+      "size": 13911170,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/0ddcfe50-9e31-4225-b68f-e777d72fb859/resource/1c1a6626-bca8-40af-b87d-681e93bdd2a6/download/japan-model-results.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "aftershocks",
+      "id": "f90e622d-1f85-4e0c-bcb5-8844f18a1928",
+      "name": "aftershocks",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "megathrust earthquakes",
+      "id": "69fdf897-377d-4d85-b44e-90f3358dd8ad",
+      "name": "megathrust earthquakes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "subduction zones",
+      "id": "8fe0226e-cee1-4e2d-b6be-add24062902e",
+      "name": "subduction zones",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

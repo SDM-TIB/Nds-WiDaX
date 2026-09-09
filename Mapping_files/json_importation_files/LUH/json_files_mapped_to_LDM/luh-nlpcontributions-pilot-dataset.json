@@ -1,117 +1,148 @@
 {
-    "authors": "Jennifer D\u2019Souza, Soeren Auer",
-    "doi": "10.25835/0019761",
-    "doi_date_published": "2020-07-03",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-SA-3.0",
-    "license_title": "Creative Commons Attribution Share-Alike 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "maintainer": "Jennifer D'Souza",
-    "maintainer_email": "jennifer.dsouza@tib.eu",
-    "source_metadata_created": "2020-07-03T12:08:02.648914",
-    "source_metadata_modified": "2022-02-21T13:09:17.617156",
-    "metadata_modified": "2022-02-21T13:09:17.617156",
-    "name": "luh-nlpcontributions-pilot-dataset",
-    "notes": "##An Annotation Scheme for Machine Reading of Scholarly Contributions in Natural Language Processing Literature\r\n\r\nThis dataset is the result of a pilot annotation exercise to capture the scholarly contributions in natural language processing (NLP) articles, particularly, for the articles that discuss machine learning (ML) approaches for various information extraction tasks. The pilot annotation exercise was performed on 50 NLP-ML scholarly articles presenting contributions to the five information extraction tasks 1. machine translation, 2. named entity recognition, 3. question answering, 4. relation classification, and 5. text classification. \r\n\r\nThe outcome of this pilot annotation exercise was two-fold: 1) a preliminary annotation methodology, and 2) the dataset released in this repository.\r\n\r\nThe resulting annotation scheme is called <b><i>NLPContributions</i></b>.\r\n\r\n###Supporting Publications\r\nD\u2019Souza, J., & Auer, S. (2020). NLPContributions: An Annotation Scheme for Machine Reading of Scholarly Contributions in Natural Language Processing Literature. In C. Zhang, P. Mayr, W. Lu, & Y. Zhang (Eds.), Proceedings of the 1st Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents co-located with the ACM/IEEE Joint Conference on Digital Libraries in 2020, EEKE@JCDL 2020, Virtual Event, China, August 1st, 2020 (Vol. 2658, pp. 16\u201327). \r\n\r\nD'Souza, Jennifer, and S\u00f6ren Auer. \"Sentence, Phrase, and Triple Annotations to Build a Knowledge Graph of Natural Language Processing Contributions\u2014A Trial Dataset.\" Journal of Data and Information Science, vol.6, no.3, 2021, pp.6-34. DOI: 10.2478/jdis-2021-0023 ",
-    "num_resources": 1,
-    "num_tags": 8,
-    "organization": {
-        "id": "71f7bf65-eb79-43d5-bbb3-8bac53129eec",
-        "name": "tib",
-        "title": "TIB",
-        "type": "organization",
-        "description": "Technische Informationsbibliothek",
-        "image_url": "2018-01-23-104035.171142TIBWortBildmarkeBBRGB.PNG",
-        "created": "2018-01-23T11:36:35.480058",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/0019761",
+  "doi_date_published": "2020-07-03",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "46eb8d80-4732-4c70-b558-d3ebb15f5fe7",
+  "isopen": false,
+  "license_id": "CC-BY-SA-3.0",
+  "license_title": "CC-BY-SA-3.0",
+  "maintainer": "Jennifer D'Souza",
+  "maintainer_email": "jennifer.dsouza@tib.eu",
+  "metadata_created": "2026-08-12T10:11:06.736341",
+  "metadata_modified": "2026-08-12T10:11:06.736348",
+  "name": "luh-nlpcontributions-pilot-dataset",
+  "notes": "##An Annotation Scheme for Machine Reading of Scholarly Contributions in Natural Language Processing Literature\r\n\r\nThis dataset is the result of a pilot annotation exercise to capture the scholarly contributions in natural language processing (NLP) articles, particularly, for the articles that discuss machine learning (ML) approaches for various information extraction tasks. The pilot annotation exercise was performed on 50 NLP-ML scholarly articles presenting contributions to the five information extraction tasks 1. machine translation, 2. named entity recognition, 3. question answering, 4. relation classification, and 5. text classification. \r\n\r\nThe outcome of this pilot annotation exercise was two-fold: 1) a preliminary annotation methodology, and 2) the dataset released in this repository.\r\n\r\nThe resulting annotation scheme is called <b><i>NLPContributions</i></b>.\r\n\r\n###Supporting Publications\r\nD’Souza, J., & Auer, S. (2020). NLPContributions: An Annotation Scheme for Machine Reading of Scholarly Contributions in Natural Language Processing Literature. In C. Zhang, P. Mayr, W. Lu, & Y. Zhang (Eds.), Proceedings of the 1st Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents co-located with the ACM/IEEE Joint Conference on Digital Libraries in 2020, EEKE@JCDL 2020, Virtual Event, China, August 1st, 2020 (Vol. 2658, pp. 16–27). \r\n\r\nD'Souza, Jennifer, and Sören Auer. \"Sentence, Phrase, and Triple Annotations to Build a Knowledge Graph of Natural Language Processing Contributions—A Trial Dataset.\" Journal of Data and Information Science, vol.6, no.3, 2021, pp.6-34. DOI: 10.2478/jdis-2021-0023 ",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "id": "71f7bf65-eb79-43d5-bbb3-8bac53129eec",
+    "name": "tib",
+    "title": "TIB",
+    "type": "organization",
+    "description": "Technische Informationsbibliothek",
+    "image_url": "https://data.uni-hannover.de/uploads/group/2018-01-23-104035.171142TIBWortBildmarkeBBRGB.PNG",
+    "created": "2026-08-12T08:10:42.106225",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "71f7bf65-eb79-43d5-bbb3-8bac53129eec",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2020-07-03T12:08:02.648914",
+  "source_metadata_modified": "2022-02-21T13:09:17.617156",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "NLPContributionGraph Trial Dataset",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/nlpcontributions-pilot-dataset",
+  "version": "2.0",
+  "authors": [
+    {
+      "author": "D’Souza, Jennifer",
+      "familyName": "D’Souza",
+      "givenName": "Jennifer",
+      "orcid": ""
     },
-    "owner_org": "tib",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "corpus",
-            "id": "8c372c79-edc4-470a-afd6-18e5ccd89736",
-            "name": "corpus",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "machine reading",
-            "id": "3bddb133-0b9e-4548-b600-c9729341d740",
-            "name": "machine reading",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "natural language processing",
-            "id": "2f4cc4e6-4b48-4abd-baa7-ba807c2817f0",
-            "name": "natural language processing",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "open research knowledge graph",
-            "id": "a37af46b-5734-43f8-9893-5fdb8be85183",
-            "name": "open research knowledge graph",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "orkg",
-            "id": "2a630ff8-64cd-464d-ac7e-af06dee3fbf6",
-            "name": "orkg",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "pilot annotation",
-            "id": "c2da4736-fee6-4766-86aa-7c2482863a6e",
-            "name": "pilot annotation",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "scholarly knowledge graph",
-            "id": "4b2076d7-60f6-4df0-9125-22788c527a88",
-            "name": "scholarly knowledge graph",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "semantic web",
-            "id": "90eef1c8-0923-43e9-95cd-fcbf44b5ab84",
-            "name": "semantic web",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "NLPContributionGraph Trial Dataset",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/nlpcontributions-pilot-dataset",
-    "version": "2.0",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2020-07-03T12:32:07.815445",
-            "description": "Research contributions in NLP annotated as structured data using the NLPContributionGraph scheme for structuring scholarly contributions in the [ORKG](https://www.orkg.org/orkg/).\r\n\r\nThe repository is organized as follows:\r\n\r\n    [task-name-folder]/                                # machine-translation, named-entity-recognition, question-answering, relation-classification, text-classification\r\n        \u251c\u2500\u2500 [article-counter-folder]/                  # ranges from 0 to 9 since we annotated 10 articles per task\r\n        \u2502   \u2514\u2500\u2500 research-problem.json              # `research problem` mandatory information unit in json format\r\n        \u2502   \u2514\u2500\u2500 model.json                         # `model` information unit in json format; in some articles it is called `approach`\r\n        \u2502   \u2514\u2500\u2500 ...                                # there are 8 main information units in all and each article may be annotated by 3 or 6\r\n        \u2502   \u2514\u2500\u2500 triples/                               # the folder containing information unit triples one per line\r\n        \u2502   \u2502   \u2514\u2500\u2500 research-problem.txt               # `research problem` triples (one research problem statement per line)\r\n        \u2502   \u2502   \u2514\u2500\u2500 model.txt                          # `model` triples (one statement per line)\r\n        \u2502   \u2502   \u2514\u2500\u2500 ...                                # there are 8 main information units in all and each article may be annotated by 3 or 6\r\n        \u2502   \u2514\u2500\u2500 ...                                    # there are ten articles annotated for each task, so this repeats nine more times\r\n        \u2514\u2500\u2500 ...                                        # there are five tasks selected overall, so this repeats four more times",
-            "format": "json",
-            "last_modified": "2020-07-24T12:03:36.054419",
-            "mimetype": "application/zip",
-            "name": "Trial data from the NLPContributionGraph scheme",
-            "position": 0,
-            "size": 29426833,
-            "state": "active",
-            "url": "https://github.com/ncg-task/trial-data",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Auer, Soeren",
+      "familyName": "Auer",
+      "givenName": "Soeren",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-07-03T12:32:07.815445",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Research contributions in NLP annotated as structured data using the NLPContributionGraph scheme for structuring scholarly contributions in the [ORKG](https://www.orkg.org/orkg/).\r\n\r\nThe repository is organized as follows:\r\n\r\n    [task-name-folder]/                                # machine-translation, named-entity-recognition, question-answering, relation-classification, text-classification\r\n        ├── [article-counter-folder]/                  # ranges from 0 to 9 since we annotated 10 articles per task\r\n        │   └── research-problem.json              # `research problem` mandatory information unit in json format\r\n        │   └── model.json                         # `model` information unit in json format; in some articles it is called `approach`\r\n        │   └── ...                                # there are 8 main information units in all and each article may be annotated by 3 or 6\r\n        │   └── triples/                               # the folder containing information unit triples one per line\r\n        │   │   └── research-problem.txt               # `research problem` triples (one research problem statement per line)\r\n        │   │   └── model.txt                          # `model` triples (one statement per line)\r\n        │   │   └── ...                                # there are 8 main information units in all and each article may be annotated by 3 or 6\r\n        │   └── ...                                    # there are ten articles annotated for each task, so this repeats nine more times\r\n        └── ...                                        # there are five tasks selected overall, so this repeats four more times",
+      "format": "JSON",
+      "hash": "",
+      "id": "753c45cd-11ad-40b6-92ed-3787ea96a224",
+      "last_modified": "2020-07-24T12:03:36.054419",
+      "metadata_modified": "2026-08-12T10:11:06.724524",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "Trial data from the NLPContributionGraph scheme",
+      "package_id": "46eb8d80-4732-4c70-b558-d3ebb15f5fe7",
+      "position": 0,
+      "resource_type": null,
+      "size": 29426833,
+      "state": "active",
+      "url": "https://github.com/ncg-task/trial-data",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "corpus",
+      "id": "6be77b92-f6d3-40d3-b960-a0ae05e4ef2a",
+      "name": "corpus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "machine reading",
+      "id": "8ede59fc-69a4-4bc9-b045-59c3c6e54507",
+      "name": "machine reading",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "natural language processing",
+      "id": "fc1c5553-f800-455e-b5f5-30d1664f5879",
+      "name": "natural language processing",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "open research knowledge graph",
+      "id": "bbde0f5e-3abc-4fcc-a4f5-98a907aeb26d",
+      "name": "open research knowledge graph",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "orkg",
+      "id": "c63ae0d3-ed95-4363-a090-41aa7b2b157f",
+      "name": "orkg",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "pilot annotation",
+      "id": "8a3f7d06-5e26-4f7f-9136-83fc1b9591ad",
+      "name": "pilot annotation",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "scholarly knowledge graph",
+      "id": "40278fa4-fe7c-464c-89f2-114f5b909af4",
+      "name": "scholarly knowledge graph",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "semantic web",
+      "id": "aa969a44-0ec4-4db2-8ba6-ac85b97582fc",
+      "name": "semantic web",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

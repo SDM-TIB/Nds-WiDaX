@@ -1,96 +1,127 @@
 {
-    "authors": "Arne Freyschmidt, M.Sc.; Dr.-Ing. Maike Beier",
-    "doi": "10.25835/psv2gfsu",
-    "doi_date_published": "2023-05-30",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-3.0",
-    "license_title": "Creative Commons Attribution-NonCommercial 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
-    "maintainer": "Arne Freyschmidt, M.Sc.",
-    "maintainer_email": "freyschmidt@isah.uni-hannover.de",
-    "source_metadata_created": "2023-05-30T13:10:37.314986",
-    "source_metadata_modified": "2023-05-30T13:11:11.678098",
-    "metadata_modified": "2023-05-30T13:11:11.678098",
-    "name": "luh-data-freyschmidt-and-beier-2023",
-    "notes": "This file includes the data used in the publication \"AOB Activity \u2013 an Essential Parameter for Model-Based N2O Mitigation Strategies for Biofilms\" by A. Freyschmidt and M. Beier, 2023",
-    "num_resources": 1,
-    "num_tags": 5,
-    "organization": {
-        "id": "478c5745-62e8-45cc-b8c0-1df056efb160",
-        "name": "institut-fur-siedlungswasserwirtschaft-und-abfalltechnik",
-        "title": "Institut f\u00fcr Siedlungswasserwirtschaft und Abfalltechnik",
-        "type": "organization",
-        "description": "https://www.isah.uni-hannover.de/",
-        "image_url": "",
-        "created": "2018-01-12T14:55:02.435271",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/psv2gfsu",
+  "doi_date_published": "2023-05-30",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "6c8596b8-125e-4918-8d3d-d8b509c154bd",
+  "isopen": false,
+  "license_id": "CC-BY-NC-3.0",
+  "license_title": "CC-BY-NC-3.0",
+  "maintainer": "Arne Freyschmidt, M.Sc.",
+  "maintainer_email": "freyschmidt@isah.uni-hannover.de",
+  "metadata_created": "2026-08-12T09:56:10.021849",
+  "metadata_modified": "2026-08-12T09:56:10.021855",
+  "name": "luh-data-freyschmidt-and-beier-2023",
+  "notes": "This file includes the data used in the publication \"AOB Activity – an Essential Parameter for Model-Based N2O Mitigation Strategies for Biofilms\" by A. Freyschmidt and M. Beier, 2023",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "478c5745-62e8-45cc-b8c0-1df056efb160",
+    "name": "institut-fur-siedlungswasserwirtschaft-und-abfalltechnik",
+    "title": "Institut für Siedlungswasserwirtschaft und Abfalltechnik",
+    "type": "organization",
+    "description": "https://www.isah.uni-hannover.de/",
+    "image_url": "",
+    "created": "2026-08-12T09:48:56.177833",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "478c5745-62e8-45cc-b8c0-1df056efb160",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2023-05-30T13:10:37.314986",
+  "source_metadata_modified": "2023-05-30T13:11:11.678098",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Data Freyschmidt and Beier 2023",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/data-freyschmidt-and-beier-2023",
+  "version": "",
+  "authors": [
+    {
+      "author": "Freyschmidt, Arne",
+      "familyName": "Freyschmidt",
+      "givenName": "Arne",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-siedlungswasserwirtschaft-und-abfalltechnik",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Biofilm",
-            "id": "6128d4ac-d65b-4750-bbc5-49b56ffa2a1d",
-            "name": "Biofilm",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "SBR",
-            "id": "f6fc42ba-1cbc-406a-99d1-5297874cbff8",
-            "name": "SBR",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "modeling",
-            "id": "bc6efb92-6682-4eae-8baa-a21cce72de9f",
-            "name": "modeling",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "treatment",
-            "id": "b6c16a82-608b-4335-9750-26d45da93961",
-            "name": "treatment",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "wastewater",
-            "id": "b2f2b688-f2b8-4a30-b0e2-1a94a6f2d31d",
-            "name": "wastewater",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Data Freyschmidt and Beier 2023",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/data-freyschmidt-and-beier-2023",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2023-05-30T13:11:11.004143",
-            "description": "",
-            "format": "xlsx",
-            "last_modified": "2023-05-30T13:11:10.895776",
-            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-            "name": "Data_Freyschmidt_and_Beier_2023.xlsx",
-            "position": 0,
-            "size": 19465476,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/daadd7d3-60ce-424f-b3ae-055f20fec2ac/resource/9e2806a0-5711-42d7-a04f-56944fdb1255/download/data_freyschmidt_and_beier_2023.xlsx",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Beier, Maike",
+      "familyName": "Beier",
+      "givenName": "Maike",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2023-05-30T13:11:11.004143",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "XLSX",
+      "hash": "",
+      "id": "49c86e74-64d2-43d3-8002-785a4a817ca7",
+      "last_modified": "2023-05-30T13:11:10.895776",
+      "metadata_modified": "2026-08-12T09:56:10.014168",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "name": "Data_Freyschmidt_and_Beier_2023.xlsx",
+      "package_id": "6c8596b8-125e-4918-8d3d-d8b509c154bd",
+      "position": 0,
+      "resource_type": null,
+      "size": 19465476,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/daadd7d3-60ce-424f-b3ae-055f20fec2ac/resource/9e2806a0-5711-42d7-a04f-56944fdb1255/download/data_freyschmidt_and_beier_2023.xlsx",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Biofilm",
+      "id": "55ea7cfb-596e-4587-b6d6-74521bf5826e",
+      "name": "Biofilm",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "SBR",
+      "id": "184ead27-abe9-4126-b612-ece874194ea9",
+      "name": "SBR",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "modeling",
+      "id": "44e6a692-edfd-4980-8b23-5f248b6e468f",
+      "name": "modeling",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "treatment",
+      "id": "2f0dd85b-ae80-487d-b3e9-8ffa74588f4d",
+      "name": "treatment",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "wastewater",
+      "id": "fef68cac-f85f-4183-b06e-c450bd1a3a55",
+      "name": "wastewater",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

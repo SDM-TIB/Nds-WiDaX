@@ -1,89 +1,132 @@
 {
-    "authors": "Christian Mills, Yusuf Faqiri, Hans J\u00fcrgen Maier, Thomas Hassel",
-    "doi": "10.25835/mpggw92a",
-    "doi_date_published": "2025-03-21",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-SA-3.0",
-    "license_title": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
-    "maintainer": "Christian Mills",
-    "maintainer_email": "",
-    "source_metadata_created": "2025-03-21T07:39:28.332975",
-    "source_metadata_modified": "2025-03-21T07:43:12.068494",
-    "metadata_modified": "2025-03-21T07:43:12.068494",
-    "name": "luh-enhancing-bearing-lifespan-with-l-ded",
-    "notes": "Research data for publication \"Enhancing Bearing Lifespan with Load-Adapted Hybrid Components via Laser-Based Directed Energy Deposition Repair\"",
-    "num_resources": 1,
-    "num_tags": 4,
-    "organization": {
-        "id": "ca3f2149-aae3-4a4c-aa5c-f2137b96107d",
-        "name": "institut-fur-werkstoffkunde",
-        "title": "Institut f\u00fcr Werkstoffkunde",
-        "type": "organization",
-        "description": "https://www.iw.uni-hannover.de/",
-        "image_url": "https://www.iw.uni-hannover.de/fileadmin/site-templates/logos/iw/iw_logo.png",
-        "created": "2021-03-17T11:38:01.052446",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/mpggw92a",
+  "doi_date_published": "2025-03-21",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "c165a5ae-832a-4df0-aad6-8ec7a991aee9",
+  "isopen": false,
+  "license_id": "CC-BY-NC-SA-3.0",
+  "license_title": "CC-BY-NC-SA-3.0",
+  "maintainer": "Christian Mills",
+  "maintainer_email": "",
+  "metadata_created": "2026-08-12T09:58:40.330943",
+  "metadata_modified": "2026-08-12T09:58:40.330947",
+  "name": "luh-enhancing-bearing-lifespan-with-l-ded",
+  "notes": "Research data for publication \"Enhancing Bearing Lifespan with Load-Adapted Hybrid Components via Laser-Based Directed Energy Deposition Repair\"",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "ca3f2149-aae3-4a4c-aa5c-f2137b96107d",
+    "name": "institut-fur-werkstoffkunde",
+    "title": "Institut für Werkstoffkunde",
+    "type": "organization",
+    "description": "https://www.iw.uni-hannover.de/",
+    "image_url": "https://www.iw.uni-hannover.de/fileadmin/site-templates/logos/iw/iw_logo.png",
+    "created": "2026-08-12T08:11:32.180292",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "ca3f2149-aae3-4a4c-aa5c-f2137b96107d",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2025-03-21T07:39:28.332975",
+  "source_metadata_modified": "2025-03-21T07:43:12.068494",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Enhancing Bearing Lifespan with L-DED",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/enhancing-bearing-lifespan-with-l-ded",
+  "version": "",
+  "authors": [
+    {
+      "author": "Mills, Christian",
+      "familyName": "Mills",
+      "givenName": "Christian",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-werkstoffkunde",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Additive Manufacturing",
-            "id": "40bc3d93-8f1a-4a72-a6d5-ff03701d8874",
-            "name": "Additive Manufacturing",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Additive Repair",
-            "id": "f1a43f38-7346-4caf-8ace-46fec4becd52",
-            "name": "Additive Repair",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Multi-Material",
-            "id": "6330bbf5-494e-4af1-8b87-71de80fa129f",
-            "name": "Multi-Material",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Tailored Forming",
-            "id": "48ee4406-973e-42f2-b31d-eb9789e2393d",
-            "name": "Tailored Forming",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Enhancing Bearing Lifespan with L-DED",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/enhancing-bearing-lifespan-with-l-ded",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2025-03-21T07:43:09.168724",
-            "description": "Data and figures",
-            "format": "zip",
-            "last_modified": "2025-03-21T07:43:09.129601",
-            "mimetype": "application/zip",
-            "name": "Mills_Enhancing Bearing Lifespan.zip",
-            "position": 0,
-            "size": 641104370,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/5dc9d172-776c-4b82-bcd5-3c7ae11316f6/resource/5543f2d1-66e5-40a2-86e8-70440dbbcbb4/download/mills_enhancing-bearing-lifespan.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Faqiri, Yusuf",
+      "familyName": "Faqiri",
+      "givenName": "Yusuf",
+      "orcid": ""
+    },
+    {
+      "author": "Maier, Hans Jürgen",
+      "familyName": "Maier",
+      "givenName": "Hans Jürgen",
+      "orcid": ""
+    },
+    {
+      "author": "Hassel, Thomas",
+      "familyName": "Hassel",
+      "givenName": "Thomas",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2025-03-21T07:43:09.168724",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Data and figures",
+      "format": "ZIP",
+      "hash": "",
+      "id": "0f68026a-414d-4e51-8d99-325513397808",
+      "last_modified": "2025-03-21T07:43:09.129601",
+      "metadata_modified": "2026-08-12T09:58:40.323573",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "Mills_Enhancing Bearing Lifespan.zip",
+      "package_id": "c165a5ae-832a-4df0-aad6-8ec7a991aee9",
+      "position": 0,
+      "resource_type": null,
+      "size": 641104370,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/5dc9d172-776c-4b82-bcd5-3c7ae11316f6/resource/5543f2d1-66e5-40a2-86e8-70440dbbcbb4/download/mills_enhancing-bearing-lifespan.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Additive Manufacturing",
+      "id": "dcfff5af-52bc-48a3-a8a9-b7260f78ffe2",
+      "name": "Additive Manufacturing",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Additive Repair",
+      "id": "a47505fe-78ee-4c01-8627-06adacc830ea",
+      "name": "Additive Repair",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Multi-Material",
+      "id": "496e9907-6b5c-4b68-9ec7-28452f38b679",
+      "name": "Multi-Material",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Tailored Forming",
+      "id": "4031eec6-08af-4191-ba1e-1d69217fbffa",
+      "name": "Tailored Forming",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

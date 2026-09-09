@@ -1,116 +1,160 @@
 {
-    "authors": "Igor Koch, Mathias Duwe, Jakob Flury, Akbar Shabanloui",
-    "doi": "10.25835/0062546",
-    "doi_date_published": "2020-11-02",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-3.0",
-    "license_title": "Creative Commons Attribution-NonCommercial 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
-    "maintainer": "Igor Koch",
-    "maintainer_email": "koch@ife.uni-hannover.de",
-    "source_metadata_created": "2020-11-02T22:18:25.753181",
-    "source_metadata_modified": "2023-07-12T11:07:05.409323",
-    "metadata_modified": "2023-07-12T11:07:05.409323",
-    "name": "luh-luh-grace-fo-2020",
-    "notes": "\r\n* You can find the most recent solutions here: https://seafile.cloud.uni-hannover.de/d/b63a279079c64024ba1e/\r\n\r\nUnconstrained GRACE Follow-On monthly gravity field solutions from K-band range-rates and kinematic orbits. Processing details can be found in the following article: Koch I., Duwe M., Flury J., Shabanloui A. (2021): Earth\u2019s Time-Variable Gravity from GRACE Follow-On K-Band Range-Rates and Pseudo-Observed Orbits, Remote Sens. 2021, 13(9), 1766; https://doi.org/10.3390/rs13091766.\r\n",
-    "num_resources": 1,
-    "num_tags": 8,
-    "organization": {
-        "id": "f3436fa6-0bb5-48dc-9b23-5a05ac696df5",
-        "name": "institut-fuer-erdmessung",
-        "title": "Institut f\u00fcr Erdmessung",
-        "type": "organization",
-        "description": "Schneiderberg 50\r\n__30167 Hannover__\r\n\r\nhttps://www.ife.uni-hannover.de/",
-        "image_url": "https://www.ife.uni-hannover.de/fileadmin/site-templates/logos/ife/ife-Logo.png",
-        "created": "2018-07-05T11:09:58.311547",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/0062546",
+  "doi_date_published": "2020-11-02",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "38638c74-9752-4a01-b570-f856a0ed67f8",
+  "isopen": false,
+  "license_id": "CC-BY-NC-3.0",
+  "license_title": "CC-BY-NC-3.0",
+  "maintainer": "Igor Koch",
+  "maintainer_email": "koch@ife.uni-hannover.de",
+  "metadata_created": "2026-08-12T10:07:51.521703",
+  "metadata_modified": "2026-08-12T10:07:51.521710",
+  "name": "luh-luh-grace-fo-2020",
+  "notes": "\r\n* You can find the most recent solutions here: https://seafile.cloud.uni-hannover.de/d/b63a279079c64024ba1e/\r\n\r\nUnconstrained GRACE Follow-On monthly gravity field solutions from K-band range-rates and kinematic orbits. Processing details can be found in the following article: Koch I., Duwe M., Flury J., Shabanloui A. (2021): Earth’s Time-Variable Gravity from GRACE Follow-On K-Band Range-Rates and Pseudo-Observed Orbits, Remote Sens. 2021, 13(9), 1766; https://doi.org/10.3390/rs13091766.\r\n",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "id": "f3436fa6-0bb5-48dc-9b23-5a05ac696df5",
+    "name": "institut-fuer-erdmessung",
+    "title": "Institut für Erdmessung",
+    "type": "organization",
+    "description": "Schneiderberg 50\r\n__30167 Hannover__\r\n\r\nhttps://www.ife.uni-hannover.de/",
+    "image_url": "https://www.ife.uni-hannover.de/fileadmin/site-templates/logos/ife/ife-Logo.png",
+    "created": "2026-08-12T08:11:04.411926",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "f3436fa6-0bb5-48dc-9b23-5a05ac696df5",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2020-11-02T22:18:25.753181",
+  "source_metadata_modified": "2023-07-12T11:07:05.409323",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "LUH-GRACE-FO-2020",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/luh-grace-fo-2020",
+  "version": "",
+  "authors": [
+    {
+      "author": "Koch, Igor",
+      "familyName": "Koch",
+      "givenName": "Igor",
+      "orcid": ""
     },
-    "owner_org": "institut-fuer-erdmessung",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Climate Change",
-            "id": "673c4792-1c07-4f77-95f5-931e621b883a",
-            "name": "Climate Change",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "GRACE-FO",
-            "id": "4c4ad4e2-3ba7-4e2c-a5e9-66fa9c09f5fd",
-            "name": "GRACE-FO",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Gravity Field Recovery",
-            "id": "d5f59948-4428-4345-a505-9e6df4071452",
-            "name": "Gravity Field Recovery",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Inter-Satellite Ranging",
-            "id": "05fda83b-1d7a-4090-b2f9-ab16a8ab6e8d",
-            "name": "Inter-Satellite Ranging",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Mass Change",
-            "id": "9684031a-8f54-4d62-96c8-73b07690f3a9",
-            "name": "Mass Change",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Monthly Gravity Field Solution",
-            "id": "b3410d42-c7b1-4bde-a1bb-9b0800cef20b",
-            "name": "Monthly Gravity Field Solution",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Satellite-to-Satellite Tracking",
-            "id": "daa99b25-5708-4a0e-b6ec-923b19c97113",
-            "name": "Satellite-to-Satellite Tracking",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Time-variable Gravity",
-            "id": "f69154e2-5c76-409f-8b1f-07beea9aed2f",
-            "name": "Time-variable Gravity",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "LUH-GRACE-FO-2020",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/luh-grace-fo-2020",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2021-01-04T13:59:12.158898",
-            "description": "2018/06 - 2022/06",
-            "format": "gfc",
-            "last_modified": "2022-08-31T14:23:13.346420",
-            "name": "LUH-GRACE-FO-2020",
-            "position": 0,
-            "size": 5311934,
-            "state": "active",
-            "url": "",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Duwe, Mathias",
+      "familyName": "Duwe",
+      "givenName": "Mathias",
+      "orcid": ""
+    },
+    {
+      "author": "Flury, Jakob",
+      "familyName": "Flury",
+      "givenName": "Jakob",
+      "orcid": ""
+    },
+    {
+      "author": "Shabanloui, Akbar",
+      "familyName": "Shabanloui",
+      "givenName": "Akbar",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-01-04T13:59:12.158898",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "2018/06 - 2022/06",
+      "format": "gfc",
+      "hash": "",
+      "id": "c1fdd33e-87f3-45bf-9885-947312d8e657",
+      "last_modified": "2022-08-31T14:23:13.346420",
+      "metadata_modified": "2026-08-12T10:07:51.510389",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "LUH-GRACE-FO-2020",
+      "package_id": "38638c74-9752-4a01-b570-f856a0ed67f8",
+      "position": 0,
+      "resource_type": null,
+      "size": 5311934,
+      "state": "active",
+      "url": "",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Climate Change",
+      "id": "a771ecef-cc3f-40d7-9b2b-1f6d7af689de",
+      "name": "Climate Change",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "GRACE-FO",
+      "id": "40f30e93-7983-4d52-b8a7-3969a97f928c",
+      "name": "GRACE-FO",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gravity Field Recovery",
+      "id": "3553769b-2bc0-4fec-bcfe-b13f46c3e412",
+      "name": "Gravity Field Recovery",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Inter-Satellite Ranging",
+      "id": "419d8960-3e1b-416c-9a16-49197acc9b30",
+      "name": "Inter-Satellite Ranging",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mass Change",
+      "id": "056ec22e-faf4-4a07-bdd4-0559b79dcb06",
+      "name": "Mass Change",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Monthly Gravity Field Solution",
+      "id": "38fe324b-2b75-49c9-bee5-7451edd8a897",
+      "name": "Monthly Gravity Field Solution",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Satellite-to-Satellite Tracking",
+      "id": "5ec6665b-194e-4b66-996c-d93aca6062b6",
+      "name": "Satellite-to-Satellite Tracking",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Time-variable Gravity",
+      "id": "e2cd43f1-861e-47c0-8eb8-63b3b059d4f2",
+      "name": "Time-variable Gravity",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

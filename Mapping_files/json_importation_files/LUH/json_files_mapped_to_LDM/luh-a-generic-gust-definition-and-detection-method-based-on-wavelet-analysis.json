@@ -1,103 +1,140 @@
 {
-    "authors": "Knoop, H., F. Ament, B. Maronga",
-    "doi": "10.25835/0067988",
-    "doi_date_published": "2019-07-10",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-3.0",
-    "license_title": "Creative Commons Attribution 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0/",
-    "maintainer": "Helge Knoop",
-    "maintainer_email": "knoop@muk.uni-hannover.de",
-    "source_metadata_created": "2019-07-09T17:21:22.824534",
-    "source_metadata_modified": "2022-01-20T10:58:47.075885",
-    "metadata_modified": "2022-01-20T10:58:47.075885",
-    "name": "luh-a-generic-gust-definition-and-detection-method-based-on-wavelet-analysis",
-    "notes": "This dataset is associated with the paper Knoop et al. (2019) titled  \"A generic gust definition and detection method based on wavelet-analysis\" published in \"Advances in Science and Research (ASR)\" within the Special Issue: 18th EMS Annual Meeting: European Conference for Applied Meteorology and Climatology 2018. It contains the data and analysis software required to recreate all figures in the publication.",
-    "num_resources": 1,
-    "num_tags": 6,
-    "organization": {
-        "id": "2d2ca2a7-26f5-497b-b5a4-a559a28f3042",
-        "name": "ag-palm",
-        "title": "AG PALM",
-        "type": "organization",
-        "description": "",
-        "image_url": "",
-        "created": "2019-05-20T15:16:48.829339",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/0067988",
+  "doi_date_published": "2019-07-10",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "ade6ee5c-2aec-4e77-8388-7cec0ba3d89e",
+  "isopen": false,
+  "license_id": "CC-BY-3.0",
+  "license_title": "CC-BY-3.0",
+  "maintainer": "Helge Knoop",
+  "maintainer_email": "knoop@muk.uni-hannover.de",
+  "metadata_created": "2026-08-12T08:10:41.900120",
+  "metadata_modified": "2026-08-12T08:10:41.900124",
+  "name": "luh-a-generic-gust-definition-and-detection-method-based-on-wavelet-analysis",
+  "notes": "This dataset is associated with the paper Knoop et al. (2019) titled  \"A generic gust definition and detection method based on wavelet-analysis\" published in \"Advances in Science and Research (ASR)\" within the Special Issue: 18th EMS Annual Meeting: European Conference for Applied Meteorology and Climatology 2018. It contains the data and analysis software required to recreate all figures in the publication.",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "id": "2d2ca2a7-26f5-497b-b5a4-a559a28f3042",
+    "name": "ag-palm",
+    "title": "AG PALM",
+    "type": "organization",
+    "description": "",
+    "image_url": "",
+    "created": "2026-08-12T08:10:35.152628",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "2d2ca2a7-26f5-497b-b5a4-a559a28f3042",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2019-07-09T17:21:22.824534",
+  "source_metadata_modified": "2022-01-20T10:58:47.075885",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "A generic gust definition and detection method based on wavelet-analysis",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/a-generic-gust-definition-and-detection-method-based-on-wavelet-analysis",
+  "version": "",
+  "authors": [
+    {
+      "author": "Knoop, H.",
+      "familyName": "Knoop",
+      "givenName": "H.",
+      "orcid": ""
     },
-    "owner_org": "ag-palm",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Gusts",
-            "id": "e4657ace-1f4a-41c9-9ea0-135ebe81bb30",
-            "name": "Gusts",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "LES",
-            "id": "128fad2a-257c-4571-a744-c4bd0a88f685",
-            "name": "LES",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "LES model",
-            "id": "7d220b59-627d-467d-bf15-74ff92258c09",
-            "name": "LES model",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Meteorology",
-            "id": "0c4a0250-e82f-45d6-8459-b6b56db8c6b0",
-            "name": "Meteorology",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Wavelet Analysis",
-            "id": "3e24f32a-2868-46b6-afac-2af9601df589",
-            "name": "Wavelet Analysis",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "large eddy simulation",
-            "id": "8fac8fee-a2dc-4d9e-b614-87ff0eedda43",
-            "name": "large eddy simulation",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "A generic gust definition and detection method based on wavelet-analysis",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/a-generic-gust-definition-and-detection-method-based-on-wavelet-analysis",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2019-07-09T17:27:20.908781",
-            "description": "Wind velocity data in netCDF format, a python script for data analysis and a requirements.txt file containing all python package dependencies.",
-            "format": "zip",
-            "last_modified": "2019-07-09T17:27:20.810267",
-            "mimetype": "application/zip",
-            "name": "wavelet_gust_analysis.zip",
-            "position": 0,
-            "size": 96112,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/c76adf5a-9aa8-4ebe-bbbe-0e61436cf033/resource/bd5d8d95-b3e2-4f25-a928-d75df8faf462/download/wavelet_gust_analysis.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Ament, F.",
+      "familyName": "Ament",
+      "givenName": "F.",
+      "orcid": ""
+    },
+    {
+      "author": "Maronga, B.",
+      "familyName": "Maronga",
+      "givenName": "B.",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2019-07-09T17:27:20.908781",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Wind velocity data in netCDF format, a python script for data analysis and a requirements.txt file containing all python package dependencies.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "584b5422-6a5c-4e36-99c0-bb45ee4f50cc",
+      "last_modified": "2019-07-09T17:27:20.810267",
+      "metadata_modified": "2026-08-12T08:10:41.889112",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "wavelet_gust_analysis.zip",
+      "package_id": "ade6ee5c-2aec-4e77-8388-7cec0ba3d89e",
+      "position": 0,
+      "resource_type": null,
+      "size": 96112,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/c76adf5a-9aa8-4ebe-bbbe-0e61436cf033/resource/bd5d8d95-b3e2-4f25-a928-d75df8faf462/download/wavelet_gust_analysis.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Gusts",
+      "id": "c1266ba7-ac40-498c-a188-fca8c82d937a",
+      "name": "Gusts",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "LES",
+      "id": "568ca478-8a82-47f1-9ccd-6f4d3f0dcc3d",
+      "name": "LES",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "LES model",
+      "id": "a9fe6173-3832-4ed8-8854-8abf2fd06730",
+      "name": "LES model",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Meteorology",
+      "id": "78bd1d94-1b4d-4031-9aa3-2c6cde377ac1",
+      "name": "Meteorology",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Wavelet Analysis",
+      "id": "57a9f811-640c-47cb-8b09-1a8009decaec",
+      "name": "Wavelet Analysis",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "large eddy simulation",
+      "id": "e83b4078-469d-40a0-a454-32fe23b8487f",
+      "name": "large eddy simulation",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

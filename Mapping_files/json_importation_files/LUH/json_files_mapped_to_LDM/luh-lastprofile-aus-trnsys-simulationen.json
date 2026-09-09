@@ -1,75 +1,130 @@
 {
-    "authors": "Dirk Bohne, Elena Paul, Hamidreza Heidar Esfehani, Jakob Emanuel Sch\u00e4uble, Christian Kloidt, Reinhard Merkentrup",
-    "doi": "10.25835/0089924",
-    "doi_date_published": "2020-11-04",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-3.0",
-    "license_title": "Creative Commons Attribution 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0/",
-    "maintainer": "Dirk Bohne, Elena Paul, Hamidreza Heidar Esfehani, Jakob Emanuel Sch\u00e4uble, Christian Kloidt, Reinhard Merkentrup",
-    "maintainer_email": "",
-    "source_metadata_created": "2020-11-04T14:41:30.636415",
-    "source_metadata_modified": "2022-01-20T13:49:09.664989",
-    "metadata_modified": "2022-01-20T13:49:09.664989",
-    "name": "luh-lastprofile-aus-trnsys-simulationen",
-    "notes": "In gekoppelten Geb\u00e4ude- und Anlagensimulationen generierte viertelst\u00fcndliche (Teil-)Lastprofile der Untersuchungsobjekte aus dem BMWI-Forschungsprojekt EltStore. Die Simulationsmodelle sind auf Grundlage der realen Planungsdaten f\u00fcr Architektur, Geb\u00e4ude- und Elekrotechnik parametriert.\r\n\r\nGeb\u00e4udetypen sind\r\n\r\n* Hotel, \r\n* Verwaltungs-/B\u00fcrogeb\u00e4ude, \r\n* Feuerwache sowie\r\n* Hochschulsportzentrum. \r\n\r\nDie Lastprofile sind aufgeschl\u00fcsselt in die einzelnen Verbrauchsgruppen:\r\n\r\n* P_bel - Leistung k\u00fcnstl. Beleuchtung in W\r\n* P_equip - Leistung elektrischer Ger\u00e4te in W\r\n* P_vert - Leistung Pumpen W\u00e4rme-/K\u00e4lteverteilung in W\r\n* P_rlt - Leistung Ventilatoren und Peripherieger\u00e4te RLT in W\r\n* P_erz_c - Leistung strombasierte K\u00e4lteerzeugung in W\r\n* P_erz_h - Leistung strombasierte W\u00e4rmeerzeugung in W\r\n* P_ges - Gesamte elektrische Leistung des Geb\u00e4udes in W\r\n* P_tww - Leistung strombasierte Warmwasserbereitung in W\r\n\r\nWetterdaten f\u00fcr Simulationen: \r\n\r\n* Hotel - Stuttgart, 2017 (DWD-Messstation 4928)\r\n* Feuerwache - Baden-W\u00fcrttemberg, TRY 2015\r\n* Verwaltung - Nordrhein-Westfalen, TRY 2015\r\n* Sportzentrum - Hannover, TRY 2015\r\n\r\nBemerkung: \r\n\r\n* Sportzentrum: Elektrischer Saunaofen mit P_max=ca. 50kW (in P_erz_h enthalten) \r\n",
-    "num_resources": 1,
-    "num_tags": 2,
-    "organization": {
-        "id": "123d6d8f-2723-4766-9181-9e9e52ab9b2b",
-        "name": "institutes-fur-entwerfen-und-konstruieren",
-        "title": "Institut f\u00fcr Entwerfen und Konstruieren ",
-        "type": "organization",
-        "description": "https://www.iek.uni-hannover.de",
-        "image_url": "",
-        "created": "2020-10-14T11:30:47.878425",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/0089924",
+  "doi_date_published": "2020-11-04",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "ed5c426b-be7f-4350-82e7-331e95bcd9fc",
+  "isopen": false,
+  "license_id": "CC-BY-3.0",
+  "license_title": "CC-BY-3.0",
+  "maintainer": "Dirk Bohne, Elena Paul, Hamidreza Heidar Esfehani, Jakob Emanuel Schäuble, Christian Kloidt, Reinhard Merkentrup",
+  "maintainer_email": "",
+  "metadata_created": "2026-08-12T10:06:04.341889",
+  "metadata_modified": "2026-08-12T10:06:04.341894",
+  "name": "luh-lastprofile-aus-trnsys-simulationen",
+  "notes": "In gekoppelten Gebäude- und Anlagensimulationen generierte viertelstündliche (Teil-)Lastprofile der Untersuchungsobjekte aus dem BMWI-Forschungsprojekt EltStore. Die Simulationsmodelle sind auf Grundlage der realen Planungsdaten für Architektur, Gebäude- und Elekrotechnik parametriert.\r\n\r\nGebäudetypen sind\r\n\r\n* Hotel, \r\n* Verwaltungs-/Bürogebäude, \r\n* Feuerwache sowie\r\n* Hochschulsportzentrum. \r\n\r\nDie Lastprofile sind aufgeschlüsselt in die einzelnen Verbrauchsgruppen:\r\n\r\n* P_bel - Leistung künstl. Beleuchtung in W\r\n* P_equip - Leistung elektrischer Geräte in W\r\n* P_vert - Leistung Pumpen Wärme-/Kälteverteilung in W\r\n* P_rlt - Leistung Ventilatoren und Peripheriegeräte RLT in W\r\n* P_erz_c - Leistung strombasierte Kälteerzeugung in W\r\n* P_erz_h - Leistung strombasierte Wärmeerzeugung in W\r\n* P_ges - Gesamte elektrische Leistung des Gebäudes in W\r\n* P_tww - Leistung strombasierte Warmwasserbereitung in W\r\n\r\nWetterdaten für Simulationen: \r\n\r\n* Hotel - Stuttgart, 2017 (DWD-Messstation 4928)\r\n* Feuerwache - Baden-Württemberg, TRY 2015\r\n* Verwaltung - Nordrhein-Westfalen, TRY 2015\r\n* Sportzentrum - Hannover, TRY 2015\r\n\r\nBemerkung: \r\n\r\n* Sportzentrum: Elektrischer Saunaofen mit P_max=ca. 50kW (in P_erz_h enthalten) \r\n",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "id": "123d6d8f-2723-4766-9181-9e9e52ab9b2b",
+    "name": "institutes-fur-entwerfen-und-konstruieren",
+    "title": "Institut für Entwerfen und Konstruieren ",
+    "type": "organization",
+    "description": "https://www.iek.uni-hannover.de",
+    "image_url": "",
+    "created": "2026-08-12T10:05:57.913925",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "123d6d8f-2723-4766-9181-9e9e52ab9b2b",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2020-11-04T14:41:30.636415",
+  "source_metadata_modified": "2022-01-20T13:49:09.664989",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Elektrische (Teil-)Lastprofile verschiedener Nichtwohngebäude aus TRNSYS-Simulationen (Projekt EltStore)",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/lastprofile-aus-trnsys-simulationen",
+  "version": "",
+  "authors": [
+    {
+      "author": "Bohne, Dirk",
+      "familyName": "Bohne",
+      "givenName": "Dirk",
+      "orcid": ""
     },
-    "owner_org": "institutes-fur-entwerfen-und-konstruieren",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Lastprofile",
-            "id": "f9bba78d-784b-411d-a89e-5005f9bb9980",
-            "name": "Lastprofile",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Nichtwohngeb\u00e4ude",
-            "id": "cf4a2587-0916-4f08-92b0-b7037922b69e",
-            "name": "Nichtwohngeb\u00e4ude",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Elektrische (Teil-)Lastprofile verschiedener Nichtwohngeb\u00e4ude aus TRNSYS-Simulationen (Projekt EltStore)",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/lastprofile-aus-trnsys-simulationen",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2020-11-04T14:43:27.545396",
-            "description": "Generierte Teillastprofile (CSV) und Info-Datei (TXT). ",
-            "format": "csv, txt",
-            "last_modified": "2020-11-04T14:43:27.517591",
-            "mimetype": "application/zip",
-            "name": "EltStore_Lastprofile.zip",
-            "position": 0,
-            "size": 2069439,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/ad9a0fce-255b-4b55-bb9e-2468592ba0fb/resource/e0595fc9-4083-4332-b5f9-749b0611e310/download/eltstore_lastprofile.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Paul, Elena",
+      "familyName": "Paul",
+      "givenName": "Elena",
+      "orcid": ""
+    },
+    {
+      "author": "Esfehani, Hamidreza Heidar",
+      "familyName": "Esfehani",
+      "givenName": "Hamidreza Heidar",
+      "orcid": ""
+    },
+    {
+      "author": "Schäuble, Jakob Emanuel",
+      "familyName": "Schäuble",
+      "givenName": "Jakob Emanuel",
+      "orcid": ""
+    },
+    {
+      "author": "Kloidt, Christian",
+      "familyName": "Kloidt",
+      "givenName": "Christian",
+      "orcid": ""
+    },
+    {
+      "author": "Merkentrup, Reinhard",
+      "familyName": "Merkentrup",
+      "givenName": "Reinhard",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-11-04T14:43:27.545396",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Generierte Teillastprofile (CSV) und Info-Datei (TXT). ",
+      "format": "csv, txt",
+      "hash": "",
+      "id": "1e194e95-f19c-404d-a10a-38b621d38fac",
+      "last_modified": "2020-11-04T14:43:27.517591",
+      "metadata_modified": "2026-08-12T10:06:04.336168",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "EltStore_Lastprofile.zip",
+      "package_id": "ed5c426b-be7f-4350-82e7-331e95bcd9fc",
+      "position": 0,
+      "resource_type": null,
+      "size": 2069439,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/ad9a0fce-255b-4b55-bb9e-2468592ba0fb/resource/e0595fc9-4083-4332-b5f9-749b0611e310/download/eltstore_lastprofile.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Lastprofile",
+      "id": "723aab37-7dcc-4731-a8f7-f0f3218ebf80",
+      "name": "Lastprofile",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Nichtwohngebäude",
+      "id": "ffb1dafd-4598-4766-9e40-50ad4d6e9118",
+      "name": "Nichtwohngebäude",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

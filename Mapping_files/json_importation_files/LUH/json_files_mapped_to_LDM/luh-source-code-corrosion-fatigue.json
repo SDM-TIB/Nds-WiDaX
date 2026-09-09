@@ -1,123 +1,176 @@
 {
-    "authors": "Abedulgader Baktheer, Manikandan Gopakumar, Ghandi Kenjo, Fadi Aldakheel",
-    "doi": "10.25835/3duuzvj4",
-    "doi_date_published": "2025-12-19",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-3.0",
-    "license_title": "Creative Commons Attribution-NonCommercial 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
-    "maintainer": "Fadi Aldakheel",
-    "maintainer_email": "fadi.aldakheel@ibnm.uni-hannover.de",
-    "source_metadata_created": "2025-12-19T13:48:04.476948",
-    "source_metadata_modified": "2025-12-19T13:50:31.665671",
-    "metadata_modified": "2025-12-19T13:50:31.665671",
-    "name": "luh-source-code-corrosion-fatigue",
-    "notes": "FEniCSx code for the multiphysics computational framework for corrosion-fatigue in reinforced concrete:\r\nThis open-access computational code is developed to implement the proposed holistic multiphysics phase-field framework for corrosion\u2013fatigue interaction in reinforced concrete structures. The code provides a unified numerical platform for simulating the coupled chemo-mechanical degradation processes governing the durability of reinforced concrete under\r\naggressive environmental exposure and cyclic mechanical loading.",
-    "num_resources": 2,
-    "num_tags": 7,
-    "organization": {
-        "id": "6dc327b5-7a23-46a9-bd71-77569c460a51",
-        "name": "institut-fur-baumechanik-und-numerische-mechanik",
-        "title": "Institut f\u00fcr Baumechanik und Numerische Mechanik",
-        "type": "organization",
-        "description": "https://www.ibnm.uni-hannover.de/",
-        "image_url": "2018-06-13-121331.937376Logogrun.jpg",
-        "created": "2018-06-08T14:03:38.292058",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/3duuzvj4",
+  "doi_date_published": "2025-12-19",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "d7efe2b4-9d26-4640-8195-a45325729ff3",
+  "isopen": false,
+  "license_id": "CC-BY-NC-3.0",
+  "license_title": "CC-BY-NC-3.0",
+  "maintainer": "Fadi Aldakheel",
+  "maintainer_email": "fadi.aldakheel@ibnm.uni-hannover.de",
+  "metadata_created": "2026-08-12T10:20:47.356927",
+  "metadata_modified": "2026-08-12T10:20:47.356936",
+  "name": "luh-source-code-corrosion-fatigue",
+  "notes": "FEniCSx code for the multiphysics computational framework for corrosion-fatigue in reinforced concrete:\r\nThis open-access computational code is developed to implement the proposed holistic multiphysics phase-field framework for corrosion–fatigue interaction in reinforced concrete structures. The code provides a unified numerical platform for simulating the coupled chemo-mechanical degradation processes governing the durability of reinforced concrete under\r\naggressive environmental exposure and cyclic mechanical loading.",
+  "num_resources": 2,
+  "num_tags": 7,
+  "organization": {
+    "id": "6dc327b5-7a23-46a9-bd71-77569c460a51",
+    "name": "institut-fur-baumechanik-und-numerische-mechanik",
+    "title": "Institut für Baumechanik und Numerische Mechanik",
+    "type": "organization",
+    "description": "https://www.ibnm.uni-hannover.de/",
+    "image_url": "https://data.uni-hannover.de/uploads/group/2018-06-13-121331.937376Logogrun.jpg",
+    "created": "2026-08-12T08:10:59.461222",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "6dc327b5-7a23-46a9-bd71-77569c460a51",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2025-12-19T13:48:04.476948",
+  "source_metadata_modified": "2025-12-19T13:50:31.665671",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Source-code: Corrosion-Fatigue Degradation in Reinforced Concrete Structures",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/source-code-corrosion-fatigue",
+  "version": "",
+  "authors": [
+    {
+      "author": "Baktheer, Abedulgader",
+      "familyName": "Baktheer",
+      "givenName": "Abedulgader",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-baumechanik-und-numerische-mechanik",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Corrosion",
-            "id": "082abd70-ed91-4bb0-84d1-e59a06bbdb15",
-            "name": "Corrosion",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Experimental validation",
-            "id": "46449251-156f-489d-beaa-42d1ff636a14",
-            "name": "Experimental validation",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Fatigue",
-            "id": "fc22b561-93f7-4fb0-9371-b14743fa3b42",
-            "name": "Fatigue",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Material-degradation",
-            "id": "f31204d6-74a0-403b-a8eb-a9f9dad8771d",
-            "name": "Material-degradation",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Phase-field modeling",
-            "id": "c5be306e-37fc-48ec-8610-e50cd9b131f0",
-            "name": "Phase-field modeling",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Reinforced concrete structures",
-            "id": "b95f06f7-71d8-4a7c-9fb8-23751da91e34",
-            "name": "Reinforced concrete structures",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "multiphysics problem",
-            "id": "278b1585-6307-4609-b450-fca243c8c6eb",
-            "name": "multiphysics problem",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Source-code: Corrosion-Fatigue Degradation in Reinforced Concrete Structures",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/source-code-corrosion-fatigue",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2025-12-19T13:49:43.943107",
-            "description": "Code + Mesh + Readme",
-            "format": "zip",
-            "last_modified": "2025-12-19T13:49:43.909894",
-            "mimetype": "application/zip",
-            "name": "fenicsx_code_for_corrosion-fatigue.zip",
-            "position": 0,
-            "size": 1071594,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/2a89bf56-5258-42ea-9349-813e0b3508f5/resource/601793e9-6765-48a0-84d2-8689caf1ffcb/download/fenicsx_code_for_corrosion-fatigue.zip",
-            "url_type": ""
-        },
-        {
-            "created": "2025-12-19T13:50:23.115168",
-            "description": "",
-            "format": "pdf",
-            "last_modified": "2025-12-19T13:50:23.077187",
-            "mimetype": "application/pdf",
-            "name": "README.pdf",
-            "position": 1,
-            "size": 54509,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/2a89bf56-5258-42ea-9349-813e0b3508f5/resource/edb8597b-3010-4db7-b2eb-721a2fde3666/download/readme.pdf",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Gopakumar, Manikandan",
+      "familyName": "Gopakumar",
+      "givenName": "Manikandan",
+      "orcid": ""
+    },
+    {
+      "author": "Kenjo, Ghandi",
+      "familyName": "Kenjo",
+      "givenName": "Ghandi",
+      "orcid": ""
+    },
+    {
+      "author": "Aldakheel, Fadi",
+      "familyName": "Aldakheel",
+      "givenName": "Fadi",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2025-12-19T13:49:43.943107",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Code + Mesh + Readme",
+      "format": "ZIP",
+      "hash": "",
+      "id": "72a00c3d-bb4c-40f9-8d76-6d8e360f8e0b",
+      "last_modified": "2025-12-19T13:49:43.909894",
+      "metadata_modified": "2026-08-12T10:20:47.339671",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "fenicsx_code_for_corrosion-fatigue.zip",
+      "package_id": "d7efe2b4-9d26-4640-8195-a45325729ff3",
+      "position": 0,
+      "resource_type": null,
+      "size": 1071594,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/2a89bf56-5258-42ea-9349-813e0b3508f5/resource/601793e9-6765-48a0-84d2-8689caf1ffcb/download/fenicsx_code_for_corrosion-fatigue.zip",
+      "url_type": ""
+    },
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2025-12-19T13:50:23.115168",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "PDF",
+      "hash": "",
+      "id": "d6ad2d4c-faae-4db5-859b-ecaf8c0c23a7",
+      "last_modified": "2025-12-19T13:50:23.077187",
+      "metadata_modified": "2026-08-12T10:20:47.339892",
+      "mimetype": "application/pdf",
+      "mimetype_inner": null,
+      "name": "README.pdf",
+      "package_id": "d7efe2b4-9d26-4640-8195-a45325729ff3",
+      "position": 1,
+      "resource_type": null,
+      "size": 54509,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/2a89bf56-5258-42ea-9349-813e0b3508f5/resource/edb8597b-3010-4db7-b2eb-721a2fde3666/download/readme.pdf",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Corrosion",
+      "id": "c6d273a5-25c4-4a8d-afa2-3a7bac598d61",
+      "name": "Corrosion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Experimental validation",
+      "id": "d638c9d5-d168-4173-b07d-c40d2f57c989",
+      "name": "Experimental validation",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Fatigue",
+      "id": "bcfc9320-e82b-455d-94da-7bc14e74bec6",
+      "name": "Fatigue",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Material-degradation",
+      "id": "71bf8378-ca5a-4024-bcbb-a4b8ccec6f8a",
+      "name": "Material-degradation",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Phase-field modeling",
+      "id": "5af0f05a-6671-4e1b-829c-8289e9529e4a",
+      "name": "Phase-field modeling",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Reinforced concrete structures",
+      "id": "a59dca40-22e8-456f-8b12-f26fd7288548",
+      "name": "Reinforced concrete structures",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "multiphysics problem",
+      "id": "732ece29-ef40-4ea3-acb9-c7fd19382a9f",
+      "name": "multiphysics problem",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

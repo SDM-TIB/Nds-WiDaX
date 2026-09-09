@@ -1,103 +1,146 @@
 {
-    "authors": "Ghandi Kenjo, Abedulgader Baktheer, Alexandros Tragoudas, Fadi Aldakheel",
-    "doi": "10.25835/2czo4jvl",
-    "doi_date_published": "2026-06-04",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-3.0",
-    "license_title": "Creative Commons Attribution-NonCommercial 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
-    "maintainer": "Fadi Aldakheel",
-    "maintainer_email": "fadi.aldakheel@ibnm.uni-hannover.de",
-    "source_metadata_created": "2026-06-03T14:26:14.524381",
-    "source_metadata_modified": "2026-06-04T12:11:22.483514",
-    "metadata_modified": "2026-06-04T12:11:22.483514",
-    "name": "luh-abaqus-uel-implementation-multi-phase-field",
-    "notes": "This document provides usage instructions for the ABAQUS implementation of the multi-phase-field framework for coupled corrosion--fatigue degradation in metallic materials. The formulation is implemented through a user element subroutine (UEL) together with an auxiliary user material subroutine (UMAT) for visualization purposes. The framework combines a corrosion phase-field describing pitting corrosion and stress corrosion cracking with a fatigue phase-field governing fatigue crack initiation and propagation under cyclic loading. The implementation employs a coupled electro-chemo-mechanical finite element formulation with displacements, phase-fields, and ionic concentration treated as primary nodal variables.\r\n\r\nThe document describes the structure of the implementation, required input files, material parameter definitions, and the numerical solution procedure adopted within ABAQUS. In addition, a worked example involving a metallic specimen subjected to corrosion exposure followed by cyclic loading is provided to illustrate the practical use of the framework and the interpretation of the resulting corrosion and fatigue phase-field evolution. ",
-    "num_resources": 1,
-    "num_tags": 6,
-    "organization": {
-        "id": "6dc327b5-7a23-46a9-bd71-77569c460a51",
-        "name": "institut-fur-baumechanik-und-numerische-mechanik",
-        "title": "Institut f\u00fcr Baumechanik und Numerische Mechanik",
-        "type": "organization",
-        "description": "https://www.ibnm.uni-hannover.de/",
-        "image_url": "2018-06-13-121331.937376Logogrun.jpg",
-        "created": "2018-06-08T14:03:38.292058",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/2czo4jvl",
+  "doi_date_published": "2026-06-04",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "ab8730eb-8e45-426b-b8e3-de7d662faea9",
+  "isopen": false,
+  "license_id": "CC-BY-NC-3.0",
+  "license_title": "CC-BY-NC-3.0",
+  "maintainer": "Fadi Aldakheel",
+  "maintainer_email": "fadi.aldakheel@ibnm.uni-hannover.de",
+  "metadata_created": "2026-08-12T08:11:04.191866",
+  "metadata_modified": "2026-08-12T08:11:04.191871",
+  "name": "luh-abaqus-uel-implementation-multi-phase-field",
+  "notes": "This document provides usage instructions for the ABAQUS implementation of the multi-phase-field framework for coupled corrosion--fatigue degradation in metallic materials. The formulation is implemented through a user element subroutine (UEL) together with an auxiliary user material subroutine (UMAT) for visualization purposes. The framework combines a corrosion phase-field describing pitting corrosion and stress corrosion cracking with a fatigue phase-field governing fatigue crack initiation and propagation under cyclic loading. The implementation employs a coupled electro-chemo-mechanical finite element formulation with displacements, phase-fields, and ionic concentration treated as primary nodal variables.\r\n\r\nThe document describes the structure of the implementation, required input files, material parameter definitions, and the numerical solution procedure adopted within ABAQUS. In addition, a worked example involving a metallic specimen subjected to corrosion exposure followed by cyclic loading is provided to illustrate the practical use of the framework and the interpretation of the resulting corrosion and fatigue phase-field evolution. ",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "id": "6dc327b5-7a23-46a9-bd71-77569c460a51",
+    "name": "institut-fur-baumechanik-und-numerische-mechanik",
+    "title": "Institut für Baumechanik und Numerische Mechanik",
+    "type": "organization",
+    "description": "https://www.ibnm.uni-hannover.de/",
+    "image_url": "https://data.uni-hannover.de/uploads/group/2018-06-13-121331.937376Logogrun.jpg",
+    "created": "2026-08-12T08:10:59.461222",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "6dc327b5-7a23-46a9-bd71-77569c460a51",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2026-06-03T14:26:14.524381",
+  "source_metadata_modified": "2026-06-04T12:11:22.483514",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Abaqus UEL implementation of the multi-phase-field corrosion-fatigue model for metallic materials",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/abaqus-uel-implementation-multi-phase-field",
+  "version": "",
+  "authors": [
+    {
+      "author": "Kenjo, Ghandi",
+      "familyName": "Kenjo",
+      "givenName": "Ghandi",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-baumechanik-und-numerische-mechanik",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Corrosion",
-            "id": "082abd70-ed91-4bb0-84d1-e59a06bbdb15",
-            "name": "Corrosion",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Fatigue",
-            "id": "fc22b561-93f7-4fb0-9371-b14743fa3b42",
-            "name": "Fatigue",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Material degradation",
-            "id": "b6b0b3b5-c89b-48d1-b58c-108df71505aa",
-            "name": "Material degradation",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Metals",
-            "id": "985fe466-f313-4513-b6a1-684863d61aaa",
-            "name": "Metals",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Multi-Phase-field",
-            "id": "f729cc79-7dd6-4bfc-b233-f3edaa8da194",
-            "name": "Multi-Phase-field",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Multiphysics",
-            "id": "5f65021c-a4e3-468a-8135-c451c57cb159",
-            "name": "Multiphysics",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Abaqus UEL implementation of the multi-phase-field corrosion-fatigue model for metallic materials",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/abaqus-uel-implementation-multi-phase-field",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2026-06-03T14:34:42.935099",
-            "description": "",
-            "format": "zip",
-            "last_modified": "2026-06-04T12:09:42.766340",
-            "mimetype": "application/zip",
-            "name": "Abaqus_UEL_for_corrosion-fatigue_simulation.zip",
-            "position": 0,
-            "size": 1621798,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/74bdcdf3-423f-44e7-8e72-65b9f84a1b77/resource/d794fef2-8221-416e-9e58-9ac91c8c8e09/download/abaqus_uel_for_corrosion-fatigue_simulation.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Baktheer, Abedulgader",
+      "familyName": "Baktheer",
+      "givenName": "Abedulgader",
+      "orcid": ""
+    },
+    {
+      "author": "Tragoudas, Alexandros",
+      "familyName": "Tragoudas",
+      "givenName": "Alexandros",
+      "orcid": ""
+    },
+    {
+      "author": "Aldakheel, Fadi",
+      "familyName": "Aldakheel",
+      "givenName": "Fadi",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-06-03T14:34:42.935099",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "ZIP",
+      "hash": "",
+      "id": "ddb1fced-557a-4326-a383-035a1210450c",
+      "last_modified": "2026-06-04T12:09:42.766340",
+      "metadata_modified": "2026-08-12T08:11:04.180243",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "Abaqus_UEL_for_corrosion-fatigue_simulation.zip",
+      "package_id": "ab8730eb-8e45-426b-b8e3-de7d662faea9",
+      "position": 0,
+      "resource_type": null,
+      "size": 1621798,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/74bdcdf3-423f-44e7-8e72-65b9f84a1b77/resource/d794fef2-8221-416e-9e58-9ac91c8c8e09/download/abaqus_uel_for_corrosion-fatigue_simulation.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Corrosion",
+      "id": "c6d273a5-25c4-4a8d-afa2-3a7bac598d61",
+      "name": "Corrosion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Fatigue",
+      "id": "bcfc9320-e82b-455d-94da-7bc14e74bec6",
+      "name": "Fatigue",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Material degradation",
+      "id": "cb1044a0-7a43-41c3-82c8-d6e83875fb1c",
+      "name": "Material degradation",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Metals",
+      "id": "793cb6e0-eb88-4623-b3d7-df2b829bd2a4",
+      "name": "Metals",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Multi-Phase-field",
+      "id": "35618ab8-41ce-4896-a680-d6708a6ed974",
+      "name": "Multi-Phase-field",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Multiphysics",
+      "id": "72e401d2-3f8c-4946-ae6a-07c8c84fdbd2",
+      "name": "Multiphysics",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

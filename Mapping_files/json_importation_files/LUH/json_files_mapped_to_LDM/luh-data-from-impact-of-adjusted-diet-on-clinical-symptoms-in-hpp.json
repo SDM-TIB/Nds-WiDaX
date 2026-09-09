@@ -1,124 +1,161 @@
 {
-    "authors": "Katinka Kuehn, Andreas Hahn, Lothar Seefried",
-    "doi": "10.25835/cju4rpk8",
-    "doi_date_published": "2023-11-29",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-SA-4.0",
-    "license_title": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
-    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-    "maintainer": "Katinka Kuehn",
-    "maintainer_email": "kuehn@nutrition.uni-hannover.de",
-    "source_metadata_created": "2023-11-29T12:35:15.188939",
-    "source_metadata_modified": "2023-11-29T13:12:24.407984",
-    "metadata_modified": "2023-11-29T13:12:24.407984",
-    "name": "luh-data-from-impact-of-adjusted-diet-on-clinical-symptoms-in-hpp",
-    "notes": "This dataset includes the supplementary materials of the publication: Kuehn, K., Hahn, A., Seefried, L. (2023). Impact of restricted phosphorus, calcium-adjusted diet on musculoskeletal and mental health in Hypophosphatasia. It shows the detailed results of the subgroup analyses addressed in the publication. The data presented in the publication/supplementary materials were collected as part of the second stage of the study \"Nutritional Status and dietary Effects on Phosphorus metabolism and clinical Symptoms in Hypophosphatasia\" (NuSTEPS).",
-    "num_resources": 1,
-    "num_tags": 9,
-    "organization": {
-        "id": "d94e1f58-9c5a-4f59-a71e-603c9713d78f",
-        "name": "abteilung-ernahrungsphysiologie-und-humanernahrung",
-        "title": "Ern\u00e4hrungsphysiologie und Humanern\u00e4hrung",
-        "type": "organization",
-        "description": "https://www.nutrition.uni-hannover.de/",
-        "image_url": "",
-        "created": "2020-04-30T10:49:35.349888",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/cju4rpk8",
+  "doi_date_published": "2023-11-29",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "a8fb9728-65a0-4751-a976-05fd21793842",
+  "isopen": false,
+  "license_id": "CC-BY-NC-SA-4.0",
+  "license_title": "CC-BY-NC-SA-4.0",
+  "maintainer": "Katinka Kuehn",
+  "maintainer_email": "kuehn@nutrition.uni-hannover.de",
+  "metadata_created": "2026-08-12T09:56:21.447993",
+  "metadata_modified": "2026-08-12T09:56:21.448001",
+  "name": "luh-data-from-impact-of-adjusted-diet-on-clinical-symptoms-in-hpp",
+  "notes": "This dataset includes the supplementary materials of the publication: Kuehn, K., Hahn, A., Seefried, L. (2023). Impact of restricted phosphorus, calcium-adjusted diet on musculoskeletal and mental health in Hypophosphatasia. It shows the detailed results of the subgroup analyses addressed in the publication. The data presented in the publication/supplementary materials were collected as part of the second stage of the study \"Nutritional Status and dietary Effects on Phosphorus metabolism and clinical Symptoms in Hypophosphatasia\" (NuSTEPS).",
+  "num_resources": 1,
+  "num_tags": 9,
+  "organization": {
+    "id": "d94e1f58-9c5a-4f59-a71e-603c9713d78f",
+    "name": "abteilung-ernahrungsphysiologie-und-humanernahrung",
+    "title": "Ernährungsphysiologie und Humanernährung",
+    "type": "organization",
+    "description": "https://www.nutrition.uni-hannover.de/",
+    "image_url": "",
+    "created": "2026-08-12T09:56:15.017592",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "d94e1f58-9c5a-4f59-a71e-603c9713d78f",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2023-11-29T12:35:15.188939",
+  "source_metadata_modified": "2023-11-29T13:12:24.407984",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Data from: Impact of restricted phosphorus, calcium-adjusted diet on musculoskeletal and mental health in Hypophosphatasia",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/data-from-impact-of-adjusted-diet-on-clinical-symptoms-in-hpp",
+  "version": "",
+  "authors": [
+    {
+      "author": "Kuehn, Katinka",
+      "familyName": "Kuehn",
+      "givenName": "Katinka",
+      "orcid": ""
     },
-    "owner_org": "abteilung-ernahrungsphysiologie-und-humanernahrung",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Calcium",
-            "id": "41e59a81-7b00-47b9-8ec0-88ecb55f7a33",
-            "name": "Calcium",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Calcium-phosphorus ratio",
-            "id": "759b28e7-9253-4bb1-a979-6872f70d9eb1",
-            "name": "Calcium-phosphorus ratio",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Diet",
-            "id": "28353a91-023b-4612-89bb-13b483c104d6",
-            "name": "Diet",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Hypophosphatasia",
-            "id": "01800ede-6429-4a56-a220-484f06d3487e",
-            "name": "Hypophosphatasia",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Mental health",
-            "id": "ab1a36f1-7cda-4847-a793-6c16c7180f7c",
-            "name": "Mental health",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Musculoskeletal health",
-            "id": "217a6980-eb76-4d13-9f30-09d246a2d03e",
-            "name": "Musculoskeletal health",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Nutrition",
-            "id": "99626056-1036-445e-827e-f119cb411b52",
-            "name": "Nutrition",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Phosphorus",
-            "id": "98f74b05-7089-4165-838d-04f035d7a3ef",
-            "name": "Phosphorus",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Supplementary materials",
-            "id": "e9185372-76da-4354-be2e-e0f7d0e892b6",
-            "name": "Supplementary materials",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Data from: Impact of restricted phosphorus, calcium-adjusted diet on musculoskeletal and mental health in Hypophosphatasia",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/data-from-impact-of-adjusted-diet-on-clinical-symptoms-in-hpp",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2023-11-29T13:12:24.102845",
-            "description": "The dataset includes the results of the subgroup analyses in tabular form.\r\n\r\nSupplementary Tables 1-5: Comparison of baseline characteristics and test outcomes of participants who increased vs. decreased their dietary intake of phosphorus during the intervention.\r\n\r\nSupplementary Tables 6-10: Comparison of baseline characteristics and test outcomes of participants who increased vs. decreased their dietary intake of calcium during the intervention.\r\n\r\nSupplementary Tables 11-15: Comparison of baseline characteristics and test outcomes of participants who increased vs. decreased their calcium-phosphorus ratio during the intervention.",
-            "format": "pdf",
-            "last_modified": "2023-11-29T13:12:23.994339",
-            "mimetype": "application/pdf",
-            "name": "Supplementary_materials_Impact_of_adjusted_diet_on_clinical_symptoms_in_HPP.pdf",
-            "position": 0,
-            "size": 894537,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/04a2fa6c-a728-4934-94fd-d0247a019248/resource/b8bfdb58-394a-422e-baa8-474872dd3ece/download/supplementary_materials_impact_of_adjusted_diet_on_clinical_symptoms_in_hpp.pdf",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Hahn, Andreas",
+      "familyName": "Hahn",
+      "givenName": "Andreas",
+      "orcid": ""
+    },
+    {
+      "author": "Seefried, Lothar",
+      "familyName": "Seefried",
+      "givenName": "Lothar",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2023-11-29T13:12:24.102845",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "The dataset includes the results of the subgroup analyses in tabular form.\r\n\r\nSupplementary Tables 1-5: Comparison of baseline characteristics and test outcomes of participants who increased vs. decreased their dietary intake of phosphorus during the intervention.\r\n\r\nSupplementary Tables 6-10: Comparison of baseline characteristics and test outcomes of participants who increased vs. decreased their dietary intake of calcium during the intervention.\r\n\r\nSupplementary Tables 11-15: Comparison of baseline characteristics and test outcomes of participants who increased vs. decreased their calcium-phosphorus ratio during the intervention.",
+      "format": "PDF",
+      "hash": "",
+      "id": "2c0e7fb1-b71c-47c2-a97c-88f4c3ce1f2b",
+      "last_modified": "2023-11-29T13:12:23.994339",
+      "metadata_modified": "2026-08-12T09:56:21.433400",
+      "mimetype": "application/pdf",
+      "mimetype_inner": null,
+      "name": "Supplementary_materials_Impact_of_adjusted_diet_on_clinical_symptoms_in_HPP.pdf",
+      "package_id": "a8fb9728-65a0-4751-a976-05fd21793842",
+      "position": 0,
+      "resource_type": null,
+      "size": 894537,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/04a2fa6c-a728-4934-94fd-d0247a019248/resource/b8bfdb58-394a-422e-baa8-474872dd3ece/download/supplementary_materials_impact_of_adjusted_diet_on_clinical_symptoms_in_hpp.pdf",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Calcium",
+      "id": "ede457ba-e741-4797-860f-15c81042ff73",
+      "name": "Calcium",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Calcium-phosphorus ratio",
+      "id": "83a30732-1dde-4b32-85f7-947be6bcdb5a",
+      "name": "Calcium-phosphorus ratio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Diet",
+      "id": "bf25da83-8cfe-49f7-8a92-81b47da214c6",
+      "name": "Diet",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hypophosphatasia",
+      "id": "aaf31af6-dd0f-4529-97cb-0c58c6292ab8",
+      "name": "Hypophosphatasia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Mental health",
+      "id": "e9d1fc7c-f22e-4baa-968e-8227ef6d8848",
+      "name": "Mental health",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Musculoskeletal health",
+      "id": "987f3c9a-3cd7-4ac8-ac14-04a9dccfbb1b",
+      "name": "Musculoskeletal health",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Nutrition",
+      "id": "0f7e5527-2dd6-4b6f-bf57-4c027bf8ca3d",
+      "name": "Nutrition",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Phosphorus",
+      "id": "0832bf0b-f733-4fdb-a686-fbd9ea8193dc",
+      "name": "Phosphorus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Supplementary materials",
+      "id": "ae6f607c-5a2d-4fb9-b186-46673159628e",
+      "name": "Supplementary materials",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

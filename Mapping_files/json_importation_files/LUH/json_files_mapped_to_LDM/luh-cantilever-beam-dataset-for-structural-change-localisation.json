@@ -1,102 +1,161 @@
 {
-    "authors": "Jasper Ragnitz, Clemens Jonscher, Benedikt Hofmeister, Stefan Warnken, Raimund Rolfes",
-    "doi": "10.25835/dr0bu9oq",
-    "doi_date_published": "2026-06-10",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-4.0",
-    "license_title": "Creative Commons Attribution 4.0 International",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
-    "maintainer": "Jasper Ragnitz",
-    "maintainer_email": "j.ragnitz@isd.uni-hannover.de",
-    "source_metadata_created": "2026-06-10T08:07:42.131353",
-    "source_metadata_modified": "2026-06-10T08:24:56.875831",
-    "metadata_modified": "2026-06-10T08:24:56.875831",
-    "name": "luh-cantilever-beam-dataset-for-structural-change-localisation",
-    "notes": "The dataset contains measurement data, a numerical model, and identified modal properties of a cantilever beam structure. Different mass configurations were applied to the structure using magnetic attachments with varying positions and weights. In total, measurements with a duration of five minutes were conducted for 35 structural states. The dataset is designed for the application of model-based damage localisation approaches.\r\n",
-    "num_resources": 2,
-    "num_tags": 4,
-    "organization": {
-        "id": "3d4e7da1-a0ef-4af1-9c07-56cf5e35084d",
-        "name": "institut-fur-statik-und-dynamik",
-        "title": "Institut f\u00fcr Statik und Dynamik",
-        "type": "organization",
-        "description": "(Institute of Structural Analysis) \r\nAppelstra\u00dfe 9A \r\n__30167 Hannover (Germany)__\r\n\r\nhttps://www.isd.uni-hannover.de/en/institute/",
-        "image_url": "",
-        "created": "2020-06-26T14:14:27.727346",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/dr0bu9oq",
+  "doi_date_published": "2026-06-10",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "7342867d-e0a8-4c29-82e6-9acd505616d4",
+  "isopen": false,
+  "license_id": "CC-BY-4.0",
+  "license_title": "CC-BY-4.0",
+  "maintainer": "Jasper Ragnitz",
+  "maintainer_email": "j.ragnitz@isd.uni-hannover.de",
+  "metadata_created": "2026-08-12T09:50:58.125466",
+  "metadata_modified": "2026-08-12T09:50:58.125474",
+  "name": "luh-cantilever-beam-dataset-for-structural-change-localisation",
+  "notes": "The dataset contains measurement data, a numerical model, and identified modal properties of a cantilever beam structure. Different mass configurations were applied to the structure using magnetic attachments with varying positions and weights. In total, measurements with a duration of five minutes were conducted for 35 structural states. The dataset is designed for the application of model-based damage localisation approaches.\r\n",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "id": "3d4e7da1-a0ef-4af1-9c07-56cf5e35084d",
+    "name": "institut-fur-statik-und-dynamik",
+    "title": "Institut für Statik und Dynamik",
+    "type": "organization",
+    "description": "(Institute of Structural Analysis) \r\nAppelstraße 9A \r\n__30167 Hannover (Germany)__\r\n\r\nhttps://www.isd.uni-hannover.de/en/institute/",
+    "image_url": "",
+    "created": "2026-08-12T08:10:30.770589",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "3d4e7da1-a0ef-4af1-9c07-56cf5e35084d",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2026-06-10T08:07:42.131353",
+  "source_metadata_modified": "2026-06-10T08:24:56.875831",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Cantilever Beam Dataset for Structural Change Localisation",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/cantilever-beam-dataset-for-structural-change-localisation",
+  "version": "",
+  "authors": [
+    {
+      "author": "Ragnitz, Jasper",
+      "familyName": "Ragnitz",
+      "givenName": "Jasper",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-statik-und-dynamik",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "FE model updating",
-            "id": "41896e5a-2392-469b-802b-8264864635b4",
-            "name": "FE model updating",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Operational Modal Analysis",
-            "id": "981a057e-64d3-4723-8e3d-18370a67eb18",
-            "name": "Operational Modal Analysis",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Structural Health Monitoring",
-            "id": "6fd3097a-611e-4551-a33f-7744b3dbfe9b",
-            "name": "Structural Health Monitoring",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "laboratory experiment",
-            "id": "f6abf236-c65f-4eef-ae7d-807ef22536de",
-            "name": "laboratory experiment",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Cantilever Beam Dataset for Structural Change Localisation",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/cantilever-beam-dataset-for-structural-change-localisation",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2026-06-10T08:11:51.370295",
-            "description": "Short description of the presented dataset and numerical model",
-            "format": "pdf",
-            "last_modified": "2026-06-10T08:11:51.348326",
-            "mimetype": "application/pdf",
-            "name": "ReadMe.pdf",
-            "position": 0,
-            "size": 603145,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/39b91d0b-5b0d-4fb8-bdd9-28c4d942165c/resource/7d957d42-8384-4737-85dc-8b35bc1e025b/download/readme.pdf",
-            "url_type": ""
-        },
-        {
-            "created": "2026-06-10T08:24:52.082690",
-            "description": "Measurment data and numerical model",
-            "format": "zip",
-            "last_modified": "2026-06-10T08:24:51.755871",
-            "mimetype": "application/zip",
-            "name": "CantileverBeam.zip",
-            "position": 1,
-            "size": 108405531,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/39b91d0b-5b0d-4fb8-bdd9-28c4d942165c/resource/6350fc21-2dfd-4067-ac02-db118348c996/download/cantileverbeam.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Jonscher, Clemens",
+      "familyName": "Jonscher",
+      "givenName": "Clemens",
+      "orcid": ""
+    },
+    {
+      "author": "Hofmeister, Benedikt",
+      "familyName": "Hofmeister",
+      "givenName": "Benedikt",
+      "orcid": ""
+    },
+    {
+      "author": "Warnken, Stefan",
+      "familyName": "Warnken",
+      "givenName": "Stefan",
+      "orcid": ""
+    },
+    {
+      "author": "Rolfes, Raimund",
+      "familyName": "Rolfes",
+      "givenName": "Raimund",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-06-10T08:11:51.370295",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Short description of the presented dataset and numerical model",
+      "format": "PDF",
+      "hash": "",
+      "id": "f9a3fd72-416b-4b87-8a88-90a270a375fc",
+      "last_modified": "2026-06-10T08:11:51.348326",
+      "metadata_modified": "2026-08-12T09:50:58.116910",
+      "mimetype": "application/pdf",
+      "mimetype_inner": null,
+      "name": "ReadMe.pdf",
+      "package_id": "7342867d-e0a8-4c29-82e6-9acd505616d4",
+      "position": 0,
+      "resource_type": null,
+      "size": 603145,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/39b91d0b-5b0d-4fb8-bdd9-28c4d942165c/resource/7d957d42-8384-4737-85dc-8b35bc1e025b/download/readme.pdf",
+      "url_type": ""
+    },
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2026-06-10T08:24:52.082690",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Measurment data and numerical model",
+      "format": "ZIP",
+      "hash": "",
+      "id": "48f6d5cc-f236-4c3d-8e29-105de9565b64",
+      "last_modified": "2026-06-10T08:24:51.755871",
+      "metadata_modified": "2026-08-12T09:50:58.117055",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "CantileverBeam.zip",
+      "package_id": "7342867d-e0a8-4c29-82e6-9acd505616d4",
+      "position": 1,
+      "resource_type": null,
+      "size": 108405531,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/39b91d0b-5b0d-4fb8-bdd9-28c4d942165c/resource/6350fc21-2dfd-4067-ac02-db118348c996/download/cantileverbeam.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "FE model updating",
+      "id": "03c602c9-1609-4529-8c26-dbcf4e09f7ea",
+      "name": "FE model updating",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Operational Modal Analysis",
+      "id": "35beef9f-7a38-4dd8-9460-841d530b5130",
+      "name": "Operational Modal Analysis",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Structural Health Monitoring",
+      "id": "32ae927a-dd03-404f-9b0c-d5b7c3f9af65",
+      "name": "Structural Health Monitoring",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "laboratory experiment",
+      "id": "339041a8-fd04-4d47-be83-0a61bf890574",
+      "name": "laboratory experiment",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

@@ -1,102 +1,149 @@
 {
-    "authors": "Katinka Kuehn, Andreas Hahn, Lothar Seefried",
-    "doi": "10.25835/0091925",
-    "doi_date_published": "2020-05-02",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-3.0",
-    "license_title": "Creative Commons Attribution-NonCommercial 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
-    "maintainer": "Katinka Kuehn, Andreas Hahn, Lothar Seefried",
-    "maintainer_email": "",
-    "source_metadata_created": "2020-05-02T12:14:04.056110",
-    "source_metadata_modified": "2022-01-20T13:49:16.417194",
-    "metadata_modified": "2022-01-20T13:49:16.417194",
-    "name": "luh-mineral-intake-and-clinical-symptoms-in-adult-patients-with-hypophosphatasia-supplementary-mater",
-    "notes": "This dataset includes the supplementary material for the paper Kuehn et al. (2020) \"Mineral intake and clinical symptoms in adult patients with Hypophosphatasia\". It contains the dietary record (german and english version), which was used in the single-center, cross-sectional study \"Nutritional Status and dietary Effects on Phosphorus metabolism and clinical Symptoms in Hypophosphatasia (NuSTEPS)\".",
-    "num_resources": 2,
-    "num_tags": 4,
-    "organization": {
-        "id": "d94e1f58-9c5a-4f59-a71e-603c9713d78f",
-        "name": "abteilung-ernahrungsphysiologie-und-humanernahrung",
-        "title": "Ern\u00e4hrungsphysiologie und Humanern\u00e4hrung",
-        "type": "organization",
-        "description": "https://www.nutrition.uni-hannover.de/",
-        "image_url": "",
-        "created": "2020-04-30T10:49:35.349888",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/0091925",
+  "doi_date_published": "2020-05-02",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "0eaef320-6121-4082-a764-6cbc31a556f1",
+  "isopen": false,
+  "license_id": "CC-BY-NC-3.0",
+  "license_title": "CC-BY-NC-3.0",
+  "maintainer": "Katinka Kuehn, Andreas Hahn, Lothar Seefried",
+  "maintainer_email": "",
+  "metadata_created": "2026-08-12T10:09:26.284384",
+  "metadata_modified": "2026-08-12T10:09:26.284390",
+  "name": "luh-mineral-intake-and-clinical-symptoms-in-adult-patients-with-hypophosphatasia-supplementary-mater",
+  "notes": "This dataset includes the supplementary material for the paper Kuehn et al. (2020) \"Mineral intake and clinical symptoms in adult patients with Hypophosphatasia\". It contains the dietary record (german and english version), which was used in the single-center, cross-sectional study \"Nutritional Status and dietary Effects on Phosphorus metabolism and clinical Symptoms in Hypophosphatasia (NuSTEPS)\".",
+  "num_resources": 2,
+  "num_tags": 4,
+  "organization": {
+    "id": "d94e1f58-9c5a-4f59-a71e-603c9713d78f",
+    "name": "abteilung-ernahrungsphysiologie-und-humanernahrung",
+    "title": "Ernährungsphysiologie und Humanernährung",
+    "type": "organization",
+    "description": "https://www.nutrition.uni-hannover.de/",
+    "image_url": "",
+    "created": "2026-08-12T09:56:15.017592",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "d94e1f58-9c5a-4f59-a71e-603c9713d78f",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2020-05-02T12:14:04.056110",
+  "source_metadata_modified": "2022-01-20T13:49:16.417194",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Data from: Mineral intake and clinical symptoms in adult patients with Hypophosphatasia",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/mineral-intake-and-clinical-symptoms-in-adult-patients-with-hypophosphatasia-supplementary-material",
+  "version": "",
+  "authors": [
+    {
+      "author": "Kuehn, Katinka",
+      "familyName": "Kuehn",
+      "givenName": "Katinka",
+      "orcid": ""
     },
-    "owner_org": "abteilung-ernahrungsphysiologie-und-humanernahrung",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Calcium-phosphorus ratio",
-            "id": "759b28e7-9253-4bb1-a979-6872f70d9eb1",
-            "name": "Calcium-phosphorus ratio",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Hypophosphatasia",
-            "id": "01800ede-6429-4a56-a220-484f06d3487e",
-            "name": "Hypophosphatasia",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Nutritional intake",
-            "id": "d7403462-336e-4b5e-83c0-f024238a09c0",
-            "name": "Nutritional intake",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Phosphorus intake",
-            "id": "4761cc97-efca-4823-9c1e-137b6a944e33",
-            "name": "Phosphorus intake",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Data from: Mineral intake and clinical symptoms in adult patients with Hypophosphatasia",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/mineral-intake-and-clinical-symptoms-in-adult-patients-with-hypophosphatasia-supplementary-material",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2020-05-02T12:24:35.717154",
-            "description": "",
-            "format": "pdf",
-            "last_modified": "2020-05-02T12:24:35.675698",
-            "mimetype": "application/pdf",
-            "name": "Kuehn, Hahn, Seefried, Dietary record german version",
-            "position": 0,
-            "size": 154031,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/88f7f8b6-f71c-4e4e-9240-433582dd4860/resource/cde65905-cbb4-4de7-83f2-f274d142a6cf/download/kuehn_hahn_seefried_dietary_record_german_version.pdf",
-            "url_type": ""
-        },
-        {
-            "created": "2020-05-02T12:26:53.885368",
-            "description": "",
-            "format": "pdf",
-            "last_modified": "2020-05-02T12:26:53.841606",
-            "mimetype": "application/pdf",
-            "name": "Kuehn, Hahn, Seefried, Dietary record english version",
-            "position": 1,
-            "size": 150201,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/88f7f8b6-f71c-4e4e-9240-433582dd4860/resource/e9e5406f-5e5c-4d03-8119-d1886645d762/download/kuehn_hahn_seefried_dietary_record_english_version.pdf",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Hahn, Andreas",
+      "familyName": "Hahn",
+      "givenName": "Andreas",
+      "orcid": ""
+    },
+    {
+      "author": "Seefried, Lothar",
+      "familyName": "Seefried",
+      "givenName": "Lothar",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-05-02T12:24:35.717154",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "PDF",
+      "hash": "",
+      "id": "fa623177-1cae-4c31-af9b-8792f0723808",
+      "last_modified": "2020-05-02T12:24:35.675698",
+      "metadata_modified": "2026-08-12T10:09:26.276654",
+      "mimetype": "application/pdf",
+      "mimetype_inner": null,
+      "name": "Kuehn, Hahn, Seefried, Dietary record german version",
+      "package_id": "0eaef320-6121-4082-a764-6cbc31a556f1",
+      "position": 0,
+      "resource_type": null,
+      "size": 154031,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/88f7f8b6-f71c-4e4e-9240-433582dd4860/resource/cde65905-cbb4-4de7-83f2-f274d142a6cf/download/kuehn_hahn_seefried_dietary_record_german_version.pdf",
+      "url_type": ""
+    },
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-05-02T12:26:53.885368",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "PDF",
+      "hash": "",
+      "id": "1fe642d8-daa9-4e8a-8307-875d38c2c29f",
+      "last_modified": "2020-05-02T12:26:53.841606",
+      "metadata_modified": "2026-08-12T10:09:26.276822",
+      "mimetype": "application/pdf",
+      "mimetype_inner": null,
+      "name": "Kuehn, Hahn, Seefried, Dietary record english version",
+      "package_id": "0eaef320-6121-4082-a764-6cbc31a556f1",
+      "position": 1,
+      "resource_type": null,
+      "size": 150201,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/88f7f8b6-f71c-4e4e-9240-433582dd4860/resource/e9e5406f-5e5c-4d03-8119-d1886645d762/download/kuehn_hahn_seefried_dietary_record_english_version.pdf",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Calcium-phosphorus ratio",
+      "id": "83a30732-1dde-4b32-85f7-947be6bcdb5a",
+      "name": "Calcium-phosphorus ratio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Hypophosphatasia",
+      "id": "aaf31af6-dd0f-4529-97cb-0c58c6292ab8",
+      "name": "Hypophosphatasia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Nutritional intake",
+      "id": "84063fc3-31a5-42cd-8160-0799e0603e3c",
+      "name": "Nutritional intake",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Phosphorus intake",
+      "id": "09e4c70d-7bc2-4c34-82a2-f45d5c8571df",
+      "name": "Phosphorus intake",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

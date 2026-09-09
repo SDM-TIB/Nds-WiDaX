@@ -1,82 +1,113 @@
 {
-    "authors": "Julian D. Schiller, Matthias A. M\u00fcller",
-    "doi": "10.25835/rnk05x2k",
-    "doi_date_published": "2024-11-14",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-SA-4.0",
-    "license_title": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
-    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-    "maintainer": "Julian D. Schiller",
-    "maintainer_email": "schiller@irt.uni-hannover.de",
-    "source_metadata_created": "2024-11-14T12:22:51.139435",
-    "source_metadata_modified": "2024-11-14T13:00:01.659816",
-    "metadata_modified": "2024-11-14T13:00:01.659816",
-    "name": "luh-mhe-parameter",
-    "notes": "This dataset contains the simulation code of the numerical example in the paper _Nonlinear moving horizon estimation for robust state and parameter estimation_.\r\n\r\nThe provided MATLAB code runs a moving horizon estimation algorithm for joint state and parameter estimation of a modified Chua's Circuit system. Please refer to the README for instructions on how to execute the code and the requirements.",
-    "num_resources": 1,
-    "num_tags": 3,
-    "organization": {
-        "id": "e0b4ad00-c048-4a29-9d1f-909464f66a96",
-        "name": "institut-fur-regelungstechnik",
-        "title": "Institut f\u00fcr Regelungstechnik",
-        "type": "organization",
-        "description": "# Leibniz Universit\u00e4t Hannover\r\n\r\n## Institut f\u00fcr Regelungstechnik\r\n\r\nAppelstr. 11 (2. OG)\r\n\r\n30167 Hannover\r\n\r\nTel. +49 511 762-4512\r\nFax +49 511 762-4536\r\noffice@irt.uni-hannover.de\r\n",
-        "image_url": "",
-        "created": "2021-07-09T09:37:06.515819",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/rnk05x2k",
+  "doi_date_published": "2024-11-14",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "9b7b6b77-0d8a-475b-a421-ef828de40d68",
+  "isopen": false,
+  "license_id": "CC-BY-NC-SA-4.0",
+  "license_title": "CC-BY-NC-SA-4.0",
+  "maintainer": "Julian D. Schiller",
+  "maintainer_email": "schiller@irt.uni-hannover.de",
+  "metadata_created": "2026-08-12T10:09:16.624766",
+  "metadata_modified": "2026-08-12T10:09:16.624771",
+  "name": "luh-mhe-parameter",
+  "notes": "This dataset contains the simulation code of the numerical example in the paper _Nonlinear moving horizon estimation for robust state and parameter estimation_.\r\n\r\nThe provided MATLAB code runs a moving horizon estimation algorithm for joint state and parameter estimation of a modified Chua's Circuit system. Please refer to the README for instructions on how to execute the code and the requirements.",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "id": "e0b4ad00-c048-4a29-9d1f-909464f66a96",
+    "name": "institut-fur-regelungstechnik",
+    "title": "Institut für Regelungstechnik",
+    "type": "organization",
+    "description": "# Leibniz Universität Hannover\r\n\r\n## Institut für Regelungstechnik\r\n\r\nAppelstr. 11 (2. OG)\r\n\r\n30167 Hannover\r\n\r\nTel. +49 511 762-4512\r\nFax +49 511 762-4536\r\noffice@irt.uni-hannover.de\r\n",
+    "image_url": "",
+    "created": "2026-08-12T09:50:17.548570",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "e0b4ad00-c048-4a29-9d1f-909464f66a96",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2024-11-14T12:22:51.139435",
+  "source_metadata_modified": "2024-11-14T13:00:01.659816",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Nonlinear moving horizon estimation for robust state and parameter estimation",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/mhe-parameter",
+  "version": "1.0",
+  "authors": [
+    {
+      "author": "Schiller, Julian D.",
+      "familyName": "Schiller",
+      "givenName": "Julian D.",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-regelungstechnik",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "control theory",
-            "id": "b8d18715-88eb-4854-b5b3-dd41d39fd794",
-            "name": "control theory",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "dynamical systems",
-            "id": "861df7ed-90f6-4a92-b787-6f4b8a024161",
-            "name": "dynamical systems",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "state estimation",
-            "id": "1e9de9f9-9280-40db-af4b-f465c6c756a5",
-            "name": "state estimation",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Nonlinear moving horizon estimation for robust state and parameter estimation",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/mhe-parameter",
-    "version": "1.0",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2024-11-14T12:55:04.166902",
-            "description": "",
-            "format": "zip",
-            "last_modified": "2024-11-14T12:55:04.127264",
-            "mimetype": "application/zip",
-            "name": "mhe-parameter.zip",
-            "position": 0,
-            "size": 55951038,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/9b910e93-f905-4ea1-9cec-7d588697f418/resource/8fcbcc85-150c-40e8-a819-ce67ed70c9ec/download/mhe-parameter.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Müller, Matthias A.",
+      "familyName": "Müller",
+      "givenName": "Matthias A.",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2024-11-14T12:55:04.166902",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "ZIP",
+      "hash": "",
+      "id": "8603edaa-7852-4f80-b678-927e4e45456f",
+      "last_modified": "2024-11-14T12:55:04.127264",
+      "metadata_modified": "2026-08-12T10:09:16.617756",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "mhe-parameter.zip",
+      "package_id": "9b7b6b77-0d8a-475b-a421-ef828de40d68",
+      "position": 0,
+      "resource_type": null,
+      "size": 55951038,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/9b910e93-f905-4ea1-9cec-7d588697f418/resource/8fcbcc85-150c-40e8-a819-ce67ed70c9ec/download/mhe-parameter.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "control theory",
+      "id": "5c67ae34-7daa-4c0f-b739-ef8c9f4faf4e",
+      "name": "control theory",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "dynamical systems",
+      "id": "ada2fd89-8a22-4144-8920-3767c0b6c614",
+      "name": "dynamical systems",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "state estimation",
+      "id": "78009b6d-3711-417d-821a-bb3def91f833",
+      "name": "state estimation",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

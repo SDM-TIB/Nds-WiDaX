@@ -1,75 +1,112 @@
 {
-    "authors": "Tobias M. Wolff, Victor G. Lopez, Matthias A. M\u00fcller",
-    "doi": "10.25835/xwkni4f6",
-    "doi_date_published": "2024-07-26",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-SA-4.0",
-    "license_title": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
-    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-    "maintainer": "wolff@irt.uni-hannover.de",
-    "maintainer_email": "",
-    "source_metadata_created": "2024-07-26T15:04:33.596528",
-    "source_metadata_modified": "2024-08-14T08:24:56.809388",
-    "metadata_modified": "2024-08-14T08:24:56.809388",
-    "name": "luh-gaussian-processes-with-noisy-regression-inputs-for-dynamical-systems",
-    "notes": "We here provide the code related to our recent paper \"Gaussian Processes with Noisy Regression Inputs for Dynamical Systems\".\r\n\r\nTo run the code, execute the 'offline_phase.mat' or 'offline_phase_all.mat' files. ",
-    "num_resources": 1,
-    "num_tags": 2,
-    "organization": {
-        "id": "e0b4ad00-c048-4a29-9d1f-909464f66a96",
-        "name": "institut-fur-regelungstechnik",
-        "title": "Institut f\u00fcr Regelungstechnik",
-        "type": "organization",
-        "description": "# Leibniz Universit\u00e4t Hannover\r\n\r\n## Institut f\u00fcr Regelungstechnik\r\n\r\nAppelstr. 11 (2. OG)\r\n\r\n30167 Hannover\r\n\r\nTel. +49 511 762-4512\r\nFax +49 511 762-4536\r\noffice@irt.uni-hannover.de\r\n",
-        "image_url": "",
-        "created": "2021-07-09T09:37:06.515819",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/xwkni4f6",
+  "doi_date_published": "2024-07-26",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "53b537da-681a-4a69-b77b-0680080fffa1",
+  "isopen": false,
+  "license_id": "CC-BY-NC-SA-4.0",
+  "license_title": "CC-BY-NC-SA-4.0",
+  "maintainer": "wolff@irt.uni-hannover.de",
+  "maintainer_email": "",
+  "metadata_created": "2026-08-12T10:01:09.803000",
+  "metadata_modified": "2026-08-12T10:01:09.803005",
+  "name": "luh-gaussian-processes-with-noisy-regression-inputs-for-dynamical-systems",
+  "notes": "We here provide the code related to our recent paper \"Gaussian Processes with Noisy Regression Inputs for Dynamical Systems\".\r\n\r\nTo run the code, execute the 'offline_phase.mat' or 'offline_phase_all.mat' files. ",
+  "num_resources": 1,
+  "num_tags": 2,
+  "organization": {
+    "id": "e0b4ad00-c048-4a29-9d1f-909464f66a96",
+    "name": "institut-fur-regelungstechnik",
+    "title": "Institut für Regelungstechnik",
+    "type": "organization",
+    "description": "# Leibniz Universität Hannover\r\n\r\n## Institut für Regelungstechnik\r\n\r\nAppelstr. 11 (2. OG)\r\n\r\n30167 Hannover\r\n\r\nTel. +49 511 762-4512\r\nFax +49 511 762-4536\r\noffice@irt.uni-hannover.de\r\n",
+    "image_url": "",
+    "created": "2026-08-12T09:50:17.548570",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "e0b4ad00-c048-4a29-9d1f-909464f66a96",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2024-07-26T15:04:33.596528",
+  "source_metadata_modified": "2024-08-14T08:24:56.809388",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Gaussian Processes with Noisy Regression Inputs for Dynamical Systems",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/gaussian-processes-with-noisy-regression-inputs-for-dynamical-systems",
+  "version": "",
+  "authors": [
+    {
+      "author": "Wolff, Tobias M.",
+      "familyName": "Wolff",
+      "givenName": "Tobias M.",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-regelungstechnik",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Dynamical Systems",
-            "id": "4be7e973-429c-422c-af58-21c3017d9e5c",
-            "name": "Dynamical Systems",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Gaussian Process",
-            "id": "1b467848-5abb-4ca6-98df-beae6212fbed",
-            "name": "Gaussian Process",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Gaussian Processes with Noisy Regression Inputs for Dynamical Systems",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/gaussian-processes-with-noisy-regression-inputs-for-dynamical-systems",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2024-07-26T15:05:30.496048",
-            "description": "",
-            "format": "zip",
-            "last_modified": "2024-08-14T08:24:56.794463",
-            "mimetype": "application/zip",
-            "name": "Matlab-files-online.zip",
-            "position": 0,
-            "size": 40618008,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/b254222e-339a-41c5-8931-4dc5a60d5cf9/resource/11b31bf5-3a86-4317-acb7-ddca1b905d4e/download/matlab-files-online.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Lopez, Victor G.",
+      "familyName": "Lopez",
+      "givenName": "Victor G.",
+      "orcid": ""
+    },
+    {
+      "author": "Müller, Matthias A.",
+      "familyName": "Müller",
+      "givenName": "Matthias A.",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2024-07-26T15:05:30.496048",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "ZIP",
+      "hash": "",
+      "id": "79da6f75-8962-4d71-9fd6-b50aad9b8eb6",
+      "last_modified": "2024-08-14T08:24:56.794463",
+      "metadata_modified": "2026-08-12T10:01:09.797230",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "Matlab-files-online.zip",
+      "package_id": "53b537da-681a-4a69-b77b-0680080fffa1",
+      "position": 0,
+      "resource_type": null,
+      "size": 40618008,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/b254222e-339a-41c5-8931-4dc5a60d5cf9/resource/11b31bf5-3a86-4317-acb7-ddca1b905d4e/download/matlab-files-online.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Dynamical Systems",
+      "id": "9eafa4c7-b34a-46c3-9629-14960950c3a8",
+      "name": "Dynamical Systems",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Gaussian Process",
+      "id": "ab25646e-bebe-458b-85e3-2b5408ebb29a",
+      "name": "Gaussian Process",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

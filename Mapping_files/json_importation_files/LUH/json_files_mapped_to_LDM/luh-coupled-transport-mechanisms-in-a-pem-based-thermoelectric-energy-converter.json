@@ -1,109 +1,156 @@
 {
-    "authors": "Maike Willke, Nils-Eric Rahm, Stephan Kabelac",
-    "doi": "10.25835/ok3269b9",
-    "doi_date_published": "2024-08-13",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-4.0",
-    "license_title": "Creative Commons Attribution 4.0 International",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
-    "maintainer": "Maike Willke",
-    "maintainer_email": "willke@ift.uni-hannover.de",
-    "source_metadata_created": "2024-08-02T07:08:40.353918",
-    "source_metadata_modified": "2024-08-13T07:10:17.783889",
-    "metadata_modified": "2024-08-13T07:10:17.783889",
-    "name": "luh-coupled-transport-mechanisms-in-a-pem-based-thermoelectric-energy-converter",
-    "notes": "This set provides experimental data and code for the following paper: Willke, M., Rahm, N.-E., Kabelac, S.: Experimental Investigation of Coupled Transport Mechanisms in a PEM Based Thermoelectric Energy Converter.\r\n\r\nThe dataset includes the raw data for the open circuit measurements (Fig. 7, 8 and 9) and the raw data for the electrochemical impedance measurements for the determination of the phenomenological coefficient Lpp (Fig. 10).\r\nThe python code was used to analyse the raw data of the EIS measurements to determine the phenomonological coefficient Lpp.\r\n\r\nAcknowledgements: This research project was funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) (Project-ID  449554201).\r\n",
-    "num_resources": 2,
-    "num_tags": 5,
-    "organization": {
-        "id": "d57cfb4a-3dbc-423f-931d-d901ccabde71",
-        "name": "institut-fur-thermodynamik",
-        "title": "Institut f\u00fcr Thermodynamik",
-        "type": "organization",
-        "description": "\r\n## Leibniz Universit\u00e4t Hannover\r\n# Institut f\u00fcr Thermodynamik\r\n\r\nGeb\u00e4ude 8143 (G3), 1. Etage\r\n\r\nAn der Universit\u00e4t 1\r\n\r\n30823 Garbsen\r\n\r\n\r\nhttps://www.ift.uni-hannover.de",
-        "image_url": "",
-        "created": "2024-08-01T12:45:46.445346",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/ok3269b9",
+  "doi_date_published": "2024-08-13",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "993a65f0-fa15-4000-8619-8299e60042f7",
+  "isopen": false,
+  "license_id": "CC-BY-4.0",
+  "license_title": "CC-BY-4.0",
+  "maintainer": "Maike Willke",
+  "maintainer_email": "willke@ift.uni-hannover.de",
+  "metadata_created": "2026-08-12T09:54:08.620000",
+  "metadata_modified": "2026-08-12T09:54:08.620006",
+  "name": "luh-coupled-transport-mechanisms-in-a-pem-based-thermoelectric-energy-converter",
+  "notes": "This set provides experimental data and code for the following paper: Willke, M., Rahm, N.-E., Kabelac, S.: Experimental Investigation of Coupled Transport Mechanisms in a PEM Based Thermoelectric Energy Converter.\r\n\r\nThe dataset includes the raw data for the open circuit measurements (Fig. 7, 8 and 9) and the raw data for the electrochemical impedance measurements for the determination of the phenomenological coefficient Lpp (Fig. 10).\r\nThe python code was used to analyse the raw data of the EIS measurements to determine the phenomonological coefficient Lpp.\r\n\r\nAcknowledgements: This research project was funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) (Project-ID  449554201).\r\n",
+  "num_resources": 2,
+  "num_tags": 5,
+  "organization": {
+    "id": "d57cfb4a-3dbc-423f-931d-d901ccabde71",
+    "name": "institut-fur-thermodynamik",
+    "title": "Institut für Thermodynamik",
+    "type": "organization",
+    "description": "\r\n## Leibniz Universität Hannover\r\n# Institut für Thermodynamik\r\n\r\nGebäude 8143 (G3), 1. Etage\r\n\r\nAn der Universität 1\r\n\r\n30823 Garbsen\r\n\r\n\r\nhttps://www.ift.uni-hannover.de",
+    "image_url": "",
+    "created": "2026-08-12T09:54:02.803184",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "d57cfb4a-3dbc-423f-931d-d901ccabde71",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2024-08-02T07:08:40.353918",
+  "source_metadata_modified": "2024-08-13T07:10:17.783889",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Experimental Investigation of Coupled Transport Mechanisms in a PEM Based Thermoelectric Energy Converter",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/coupled-transport-mechanisms-in-a-pem-based-thermoelectric-energy-converter",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "author": "Willke, Maike",
+      "familyName": "Willke",
+      "givenName": "Maike",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-thermodynamik",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "coupled molecular transport mechanisms",
-            "id": "b896884a-7fbe-4338-bf5d-6019b5866594",
-            "name": "coupled molecular transport mechanisms",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "energy conversion",
-            "id": "7da53248-befe-44f9-b3bb-837e2f914573",
-            "name": "energy conversion",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "non-equilibrium thermodynamics",
-            "id": "267acfb4-8ca8-4855-992a-83d12ef7a40e",
-            "name": "non-equilibrium thermodynamics",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "polymer electrolyte membrane",
-            "id": "1d0a3c31-d9e4-4a39-9aae-920263b7f3fd",
-            "name": "polymer electrolyte membrane",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "thermogalvanic cell",
-            "id": "efde7e1d-e761-4c1f-8a50-325d49e88aa1",
-            "name": "thermogalvanic cell",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Experimental Investigation of Coupled Transport Mechanisms in a PEM Based Thermoelectric Energy Converter",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/coupled-transport-mechanisms-in-a-pem-based-thermoelectric-energy-converter",
-    "version": "1.0.0",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2024-08-02T07:23:07.690875",
-            "description": "This data set includes the results and raw data of the open circuit measurements according to Figure 7, 8 and 9 in the publication.",
-            "format": "xlsx",
-            "last_modified": "2024-08-02T07:23:07.645640",
-            "mimetype": "application/zip",
-            "name": "Open_Circuit_Measurements.zip",
-            "position": 0,
-            "size": 1771010,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/11e1cd49-1018-40dd-a0d4-7dd892c86611/resource/dce58b6b-a49f-494d-af44-d11ffbb20d0c/download/open_circuit_measurements.zip",
-            "url_type": ""
-        },
-        {
-            "created": "2024-08-02T07:24:49.107442",
-            "description": "This data set includes the results and raw data of the electrochemical impedance measurements and the python code for the determination of the phenomenological coefficient Lpp according to Figure 10 in the publication.",
-            "format": "xlsx",
-            "last_modified": "2024-08-02T07:24:49.059663",
-            "mimetype": "application/zip",
-            "name": "Lphiphi_Measurements.zip",
-            "position": 1,
-            "size": 37309865,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/11e1cd49-1018-40dd-a0d4-7dd892c86611/resource/2be54069-6db4-4c5a-ac14-6a4f07eaca44/download/lphiphi_measurements.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Rahm, Nils-Eric",
+      "familyName": "Rahm",
+      "givenName": "Nils-Eric",
+      "orcid": ""
+    },
+    {
+      "author": "Kabelac, Stephan",
+      "familyName": "Kabelac",
+      "givenName": "Stephan",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2024-08-02T07:23:07.690875",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "This data set includes the results and raw data of the open circuit measurements according to Figure 7, 8 and 9 in the publication.",
+      "format": "XLSX",
+      "hash": "",
+      "id": "b4972e04-de0d-4b56-866e-2bdd54d911bc",
+      "last_modified": "2024-08-02T07:23:07.645640",
+      "metadata_modified": "2026-08-12T09:54:08.610065",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "Open_Circuit_Measurements.zip",
+      "package_id": "993a65f0-fa15-4000-8619-8299e60042f7",
+      "position": 0,
+      "resource_type": null,
+      "size": 1771010,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/11e1cd49-1018-40dd-a0d4-7dd892c86611/resource/dce58b6b-a49f-494d-af44-d11ffbb20d0c/download/open_circuit_measurements.zip",
+      "url_type": ""
+    },
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2024-08-02T07:24:49.107442",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "This data set includes the results and raw data of the electrochemical impedance measurements and the python code for the determination of the phenomenological coefficient Lpp according to Figure 10 in the publication.",
+      "format": "XLSX",
+      "hash": "",
+      "id": "f2f063a3-44f0-4463-b30d-e0af6dd30d7c",
+      "last_modified": "2024-08-02T07:24:49.059663",
+      "metadata_modified": "2026-08-12T09:54:08.610204",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "Lphiphi_Measurements.zip",
+      "package_id": "993a65f0-fa15-4000-8619-8299e60042f7",
+      "position": 1,
+      "resource_type": null,
+      "size": 37309865,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/11e1cd49-1018-40dd-a0d4-7dd892c86611/resource/2be54069-6db4-4c5a-ac14-6a4f07eaca44/download/lphiphi_measurements.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "coupled molecular transport mechanisms",
+      "id": "060f2308-7e4f-4b1a-ab06-de06202f6cf1",
+      "name": "coupled molecular transport mechanisms",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "energy conversion",
+      "id": "158b7fbe-c611-4a6d-a5ae-923244b1a125",
+      "name": "energy conversion",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "non-equilibrium thermodynamics",
+      "id": "0bbf4250-042a-4130-b14e-94583272083e",
+      "name": "non-equilibrium thermodynamics",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "polymer electrolyte membrane",
+      "id": "9ee0a555-bab6-40e9-99fa-f0e921356b1b",
+      "name": "polymer electrolyte membrane",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "thermogalvanic cell",
+      "id": "62d5a94a-cf53-4f08-9904-467dca9de379",
+      "name": "thermogalvanic cell",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

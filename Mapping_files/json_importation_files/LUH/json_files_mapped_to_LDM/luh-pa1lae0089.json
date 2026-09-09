@@ -1,96 +1,121 @@
 {
-    "authors": "NormanHeimes",
-    "doi": "10.25835/4j1j4c1x",
-    "doi_date_published": "2025-03-07",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-3.0",
-    "license_title": "Creative Commons Attribution 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0/",
-    "maintainer": "NormanHeimes",
-    "maintainer_email": "heimes@ifum.uni-hannover.de",
-    "source_metadata_created": "2025-03-07T16:51:21.844839",
-    "source_metadata_modified": "2025-03-07T16:51:42.682548",
-    "metadata_modified": "2025-03-07T16:51:42.682548",
-    "name": "luh-pa1lae0089",
-    "notes": "LACE press protocol TiAl6V4 EN AW-6082 \r\nDate: 19.11.2024",
-    "num_resources": 1,
-    "num_tags": 5,
-    "organization": {
-        "id": "da0f1857-3f86-42fd-8369-367c5b4f051d",
-        "name": "sfb_1153",
-        "title": "SFB 1153",
-        "type": "organization",
-        "description": "",
-        "image_url": "",
-        "created": "2023-01-10T17:20:37.952772",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/4j1j4c1x",
+  "doi_date_published": "2025-03-07",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "0420f272-c357-4a74-886b-aa91840fc464",
+  "isopen": false,
+  "license_id": "CC-BY-3.0",
+  "license_title": "CC-BY-3.0",
+  "maintainer": "NormanHeimes",
+  "maintainer_email": "heimes@ifum.uni-hannover.de",
+  "metadata_created": "2026-08-12T10:12:56.338614",
+  "metadata_modified": "2026-08-12T10:12:56.338620",
+  "name": "luh-pa1lae0089",
+  "notes": "LACE press protocol TiAl6V4 EN AW-6082 \r\nDate: 19.11.2024",
+  "num_resources": 1,
+  "num_tags": 5,
+  "organization": {
+    "id": "da0f1857-3f86-42fd-8369-367c5b4f051d",
+    "name": "sfb_1153",
+    "title": "SFB 1153",
+    "type": "organization",
+    "description": "",
+    "image_url": "",
+    "created": "2026-08-12T09:48:27.983055",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "da0f1857-3f86-42fd-8369-367c5b4f051d",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2025-03-07T16:51:21.844839",
+  "source_metadata_modified": "2025-03-07T16:51:42.682548",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "PA1LAE0089",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/pa1lae0089",
+  "version": "1.0",
+  "authors": [
+    {
+      "author": "Heimes, Norman",
+      "familyName": "Heimes",
+      "givenName": "Norman",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2025-03-07T16:47:15.220934",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Press protocoll for LACE-Experiment\r\nTime-Force\r\nTime-Speed\r\nTemperature",
+      "format": "XLSX",
+      "hash": "",
+      "id": "d08bbce8-4313-4ca4-b204-32dda609ed0e",
+      "last_modified": "2025-03-07T16:51:42.662215",
+      "metadata_modified": "2026-08-12T10:12:56.328522",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "name": "Extrusion-Protocol_SFB1153A1_LACE_D44,5mmV2_EN-AW-6082-Ti6Al4V_20241119.xlsx",
+      "package_id": "0420f272-c357-4a74-886b-aa91840fc464",
+      "position": 0,
+      "resource_type": null,
+      "size": 1945427,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/e94f8bc1-2a29-436f-aea7-3fb285d8e58b/resource/05c836f0-04b4-46f3-a868-ea9ad3ba4d64/download/upload",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "AW-6082_Ti6Al4V",
+      "id": "0fac81c6-4f85-42ea-8a25-ab16d74a31ef",
+      "name": "AW-6082_Ti6Al4V",
+      "state": "active",
+      "vocabulary_id": null
     },
-    "owner_org": "sfb_1153",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "AW-6082_Ti6Al4V",
-            "id": "8040ab23-7eb4-460d-8158-09b9588ff9b9",
-            "name": "AW-6082_Ti6Al4V",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "EN AW6082",
-            "id": "583f10ad-6253-4996-9f52-c61f61818f18",
-            "name": "EN AW6082",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "EN AW6082-TitanGrade5",
-            "id": "5cd10368-f3d4-419a-a1e3-3cc931f56ac3",
-            "name": "EN AW6082-TitanGrade5",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "LACE",
-            "id": "62e6f1e3-5c5e-4a48-95b8-450cbf0b19c6",
-            "name": "LACE",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Titan Grade 5",
-            "id": "f23b8d66-233e-4493-91d2-743d3b52e848",
-            "name": "Titan Grade 5",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "PA1LAE0089",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/pa1lae0089",
-    "version": "1.0",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2025-03-07T16:47:15.220934",
-            "description": "Press protocoll for LACE-Experiment\r\nTime-Force\r\nTime-Speed\r\nTemperature",
-            "format": "xlsx",
-            "last_modified": "2025-03-07T16:51:42.662215",
-            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-            "name": "Extrusion-Protocol_SFB1153A1_LACE_D44,5mmV2_EN-AW-6082-Ti6Al4V_20241119.xlsx",
-            "position": 0,
-            "size": 1945427,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/e94f8bc1-2a29-436f-aea7-3fb285d8e58b/resource/05c836f0-04b4-46f3-a868-ea9ad3ba4d64/download/upload",
-            "url_type": ""
-        }
-    ]
+    {
+      "display_name": "EN AW6082",
+      "id": "6303544c-7e4c-4523-a544-52527047e1f1",
+      "name": "EN AW6082",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "EN AW6082-TitanGrade5",
+      "id": "8f695635-34e5-463b-bf4b-2b406ace40ad",
+      "name": "EN AW6082-TitanGrade5",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "LACE",
+      "id": "dbf01372-a7ab-48b4-89f6-27d0d3db6ddc",
+      "name": "LACE",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Titan Grade 5",
+      "id": "92203198-6fd0-4080-8736-0304f14b7ef6",
+      "name": "Titan Grade 5",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

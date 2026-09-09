@@ -1,80 +1,113 @@
 {
-    "authors": "Giersch, S., and S. Raasch",
-    "doi": "10.25835/0071502",
-    "doi_date_published": "2020-08-28",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-3.0",
-    "license_title": "Creative Commons Attribution 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0/",
-    "maintainer": "Sebastian Giersch",
-    "maintainer_email": "giersch@muk.uni-hannover.de",
-    "source_metadata_created": "2020-08-05T07:43:22.079354",
-    "source_metadata_modified": "2024-12-20T10:24:25.467080",
-    "metadata_modified": "2024-12-20T10:24:25.467080",
-    "name": "luh-genesis-and-features-of-dust-devil-like-vortices-in-turbulent-rayleigh-benard-convection",
-    "notes": "This data contain all relevant model steering, output, plot, and analysis files that were used to create the publication \"Evolution and Features of Dust Devil-Like Vortices in Turbulent Rayleigh\u2013B\u00e9nard Convection - A Numerical Study using Direct Numerical Simulation\" in the journal JGR:Atmosphere.",
-    "num_resources": 1,
-    "num_tags": 3,
-    "organization": {
-        "id": "2d2ca2a7-26f5-497b-b5a4-a559a28f3042",
-        "name": "ag-palm",
-        "title": "AG PALM",
-        "type": "organization",
-        "description": "",
-        "image_url": "",
-        "created": "2019-05-20T15:16:48.829339",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/0071502",
+  "doi_date_published": "2020-08-28",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "0f586b10-09b9-47e0-ad3d-17524e5f2d1d",
+  "isopen": false,
+  "license_id": "CC-BY-3.0",
+  "license_title": "CC-BY-3.0",
+  "maintainer": "Sebastian Giersch",
+  "maintainer_email": "giersch@muk.uni-hannover.de",
+  "metadata_created": "2026-08-12T10:01:15.532248",
+  "metadata_modified": "2026-08-12T10:01:15.532253",
+  "name": "luh-genesis-and-features-of-dust-devil-like-vortices-in-turbulent-rayleigh-benard-convection",
+  "notes": "This data contain all relevant model steering, output, plot, and analysis files that were used to create the publication \"Evolution and Features of Dust Devil-Like Vortices in Turbulent Rayleigh–Bénard Convection - A Numerical Study using Direct Numerical Simulation\" in the journal JGR:Atmosphere.",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "id": "2d2ca2a7-26f5-497b-b5a4-a559a28f3042",
+    "name": "ag-palm",
+    "title": "AG PALM",
+    "type": "organization",
+    "description": "",
+    "image_url": "",
+    "created": "2026-08-12T08:10:35.152628",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "2d2ca2a7-26f5-497b-b5a4-a559a28f3042",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2020-08-05T07:43:22.079354",
+  "source_metadata_modified": "2024-12-20T10:24:25.467080",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Evolution and Features of Dust Devil-Like Vortices in Turbulent Rayleigh-Bénard Convection - A Numerical Study using Direct Numerical Simulation",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/genesis-and-features-of-dust-devil-like-vortices-in-turbulent-rayleigh-benard-convection",
+  "version": "1.0",
+  "authors": [
+    {
+      "author": "Giersch, S.",
+      "familyName": "Giersch",
+      "givenName": "S.",
+      "orcid": ""
     },
-    "owner_org": "ag-palm",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Direct Numerical Simulation",
-            "id": "7be6e981-aabb-4782-ba7e-9e9a931b50bb",
-            "name": "Direct Numerical Simulation",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Dust Devils",
-            "id": "6e9adadc-a347-4e7a-85da-3e8c3378cf89",
-            "name": "Dust Devils",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Rayleigh-B\u00e9nard Convection",
-            "id": "8fe622a5-4a5e-4aea-bad4-754f7e94dd45",
-            "name": "Rayleigh-B\u00e9nard Convection",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Evolution and Features of Dust Devil-Like Vortices in Turbulent Rayleigh-B\u00e9nard Convection - A Numerical Study using Direct Numerical Simulation",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/genesis-and-features-of-dust-devil-like-vortices-in-turbulent-rayleigh-benard-convection",
-    "version": "1.0",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2020-09-03T10:48:53.042972",
-            "description": "Upload date: 20200903",
-            "format": "zip",
-            "mimetype": "application/zip",
-            "name": "Data_JGR2020.zip",
-            "position": 0,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/vault/muk/giersch/genesis-and-features-of-dust-devil-like-vortices-in-turbulent-rayleigh-benard-convection/Data-20200903.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Raasch, S.",
+      "familyName": "Raasch",
+      "givenName": "S.",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-09-03T10:48:53.042972",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Upload date: 20200903",
+      "format": "ZIP",
+      "hash": "",
+      "id": "23aeb0f7-8b8d-4810-93b5-66024b40b0be",
+      "last_modified": null,
+      "metadata_modified": "2026-08-12T10:01:15.524860",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "Data_JGR2020.zip",
+      "package_id": "0f586b10-09b9-47e0-ad3d-17524e5f2d1d",
+      "position": 0,
+      "resource_type": null,
+      "size": null,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/vault/muk/giersch/genesis-and-features-of-dust-devil-like-vortices-in-turbulent-rayleigh-benard-convection/Data-20200903.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Direct Numerical Simulation",
+      "id": "45cad85e-6c49-4ac5-8d7c-4f354f57adca",
+      "name": "Direct Numerical Simulation",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Dust Devils",
+      "id": "0b908a45-7919-43b7-9440-0aca48237c56",
+      "name": "Dust Devils",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Rayleigh-Bénard Convection",
+      "id": "5ac60110-a3ff-43e2-86d8-d49ed0bc3a43",
+      "name": "Rayleigh-Bénard Convection",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

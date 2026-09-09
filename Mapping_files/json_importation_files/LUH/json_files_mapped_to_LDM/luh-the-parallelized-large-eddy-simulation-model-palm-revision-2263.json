@@ -1,117 +1,148 @@
 {
-    "authors": "Schwenkel, J. F. Hoffmann and S. Raasch",
-    "doi": "10.25835/0044820",
-    "doi_date_published": "2018-09-27",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC0-1.0",
-    "license_title": "CC0 1.0 Universal",
-    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "maintainer": "Johannes Schwenkel",
-    "maintainer_email": "schwenkel@muk.uni-hannover.de",
-    "source_metadata_created": "2018-09-27T09:25:53.909989",
-    "source_metadata_modified": "2022-01-20T11:00:18.975659",
-    "metadata_modified": "2022-01-20T11:00:18.975659",
-    "name": "luh-the-parallelized-large-eddy-simulation-model-palm-revision-2263",
-    "notes": "Here the LES-PALM code used for the publication Schwenkel et al., 2018 in geoscientific model development is permanently linked. \r\nPlease also view our webpage: https://palm.muk.uni-hannover.de/trac and https://palm.muk.uni-hannover.de/trac/browser?rev=2263",
-    "num_resources": 1,
-    "num_tags": 8,
-    "organization": {
-        "id": "2d2ca2a7-26f5-497b-b5a4-a559a28f3042",
-        "name": "ag-palm",
-        "title": "AG PALM",
-        "type": "organization",
-        "description": "",
-        "image_url": "",
-        "created": "2019-05-20T15:16:48.829339",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/0044820",
+  "doi_date_published": "2018-09-27",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "eb2f9099-2b51-4bea-8201-3f6393462f82",
+  "isopen": false,
+  "license_id": "CC0-1.0",
+  "license_title": "CC0-1.0",
+  "maintainer": "Johannes Schwenkel",
+  "maintainer_email": "schwenkel@muk.uni-hannover.de",
+  "metadata_created": "2026-08-12T10:25:05.831898",
+  "metadata_modified": "2026-08-12T10:25:05.831904",
+  "name": "luh-the-parallelized-large-eddy-simulation-model-palm-revision-2263",
+  "notes": "Here the LES-PALM code used for the publication Schwenkel et al., 2018 in geoscientific model development is permanently linked. \r\nPlease also view our webpage: https://palm.muk.uni-hannover.de/trac and https://palm.muk.uni-hannover.de/trac/browser?rev=2263",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "id": "2d2ca2a7-26f5-497b-b5a4-a559a28f3042",
+    "name": "ag-palm",
+    "title": "AG PALM",
+    "type": "organization",
+    "description": "",
+    "image_url": "",
+    "created": "2026-08-12T08:10:35.152628",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "2d2ca2a7-26f5-497b-b5a4-a559a28f3042",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2018-09-27T09:25:53.909989",
+  "source_metadata_modified": "2022-01-20T11:00:18.975659",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Improving collisional growth in Lagrangian cloud models: development and verification of a new splitting algorithm",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/the-parallelized-large-eddy-simulation-model-palm-revision-2263",
+  "version": "",
+  "authors": [
+    {
+      "author": "Schwenkel, J. F. Hoffmann",
+      "familyName": "Schwenkel",
+      "givenName": "J. F. Hoffmann",
+      "orcid": ""
     },
-    "owner_org": "ag-palm",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "LCM",
-            "id": "e0e7f397-abf6-4d89-892f-5b3c4a4fced2",
-            "name": "LCM",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "LES",
-            "id": "128fad2a-257c-4571-a744-c4bd0a88f685",
-            "name": "LES",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "LES model",
-            "id": "7d220b59-627d-467d-bf15-74ff92258c09",
-            "name": "LES model",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Lagrangian Cloud Model",
-            "id": "a59cc970-dee8-4df6-9f8b-dec290901ffa",
-            "name": "Lagrangian Cloud Model",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "PALM",
-            "id": "aeec1f7e-7e5c-44df-bc16-fbcf432ba7c4",
-            "name": "PALM",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Splitting and Merging",
-            "id": "c56fb8ad-433c-4b02-8562-00f174eab500",
-            "name": "Splitting and Merging",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "clouds",
-            "id": "17d94308-67f1-44aa-8b7e-ee6bf9edc4f9",
-            "name": "clouds",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "superdroplet",
-            "id": "2c1693eb-adf4-4b9d-a1d6-fc23e45fc26e",
-            "name": "superdroplet",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Improving collisional growth in Lagrangian cloud models: development and verification of a new splitting algorithm",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/the-parallelized-large-eddy-simulation-model-palm-revision-2263",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2018-09-27T09:51:52.818597",
-            "description": "This is the model Code of the LES-Model PALM revision 2263. This code was used, among others, for the study 'Improving Collisional Growth in Lagrangian Cloud Models: Development and Verification of a New Splitting Algorithm', which is published in gmd under Schwenkel et al., 2018. ",
-            "format": "zip",
-            "last_modified": "2018-09-27T09:51:52.737368",
-            "mimetype": "application/zip",
-            "name": "PALM-Model-Code-r2263",
-            "position": 0,
-            "size": 38761901,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/2c0e92d9-cb63-4a33-84b2-7da9989a0266/resource/68a7af78-c867-4775-a225-f1290c62cccb/download/palm_rev_2263_trunk.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Raasch, S.",
+      "familyName": "Raasch",
+      "givenName": "S.",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2018-09-27T09:51:52.818597",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "This is the model Code of the LES-Model PALM revision 2263. This code was used, among others, for the study 'Improving Collisional Growth in Lagrangian Cloud Models: Development and Verification of a New Splitting Algorithm', which is published in gmd under Schwenkel et al., 2018. ",
+      "format": "ZIP",
+      "hash": "",
+      "id": "c96ab695-54a3-4fec-821d-48c55d039994",
+      "last_modified": "2018-09-27T09:51:52.737368",
+      "metadata_modified": "2026-08-12T10:25:05.817972",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "PALM-Model-Code-r2263",
+      "package_id": "eb2f9099-2b51-4bea-8201-3f6393462f82",
+      "position": 0,
+      "resource_type": null,
+      "size": 38761901,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/2c0e92d9-cb63-4a33-84b2-7da9989a0266/resource/68a7af78-c867-4775-a225-f1290c62cccb/download/palm_rev_2263_trunk.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "LCM",
+      "id": "b6424617-d05f-41d9-9522-3f145e09082a",
+      "name": "LCM",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "LES",
+      "id": "568ca478-8a82-47f1-9ccd-6f4d3f0dcc3d",
+      "name": "LES",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "LES model",
+      "id": "a9fe6173-3832-4ed8-8854-8abf2fd06730",
+      "name": "LES model",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Lagrangian Cloud Model",
+      "id": "353035c1-08d1-419b-9971-ac86f8ebc665",
+      "name": "Lagrangian Cloud Model",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "PALM",
+      "id": "b90ff31b-7879-49e2-b9a4-323043acc2d3",
+      "name": "PALM",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Splitting and Merging",
+      "id": "b3b3b058-402c-4208-996d-24b78b0c5b59",
+      "name": "Splitting and Merging",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "clouds",
+      "id": "c1608141-1be4-4cf4-a964-8bc853d41562",
+      "name": "clouds",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "superdroplet",
+      "id": "87a81842-37d2-49d9-bfa1-2afe5a30e058",
+      "name": "superdroplet",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

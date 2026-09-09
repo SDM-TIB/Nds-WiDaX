@@ -1,180 +1,229 @@
 {
-    "authors": "Harjot Kaur, Sabrina Amft, Daniel Votipka, Yasemin Acar, Sascha Fahl",
-    "doi": "10.25835/wg7xhqmh",
-    "doi_date_published": "2022-06-14",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-SA-3.0",
-    "license_title": "Creative Commons Attribution Share-Alike 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "maintainer": "Harjot Kaur",
-    "maintainer_email": "kaur@sec.uni-hannover.de",
-    "source_metadata_created": "2022-06-14T07:45:34.339425",
-    "source_metadata_modified": "2022-06-14T09:34:22.897579",
-    "metadata_modified": "2022-06-14T09:34:22.897579",
-    "name": "luh-2022-usenix-dev-sampling",
-    "notes": "This is the replication package for the USENIX'22 paper \u201cWhere to Recruit for Security Development Studies: Comparing Six Software Developer Samples\u201d.\r\n\r\nTo support the reproducibility of our work, we provide the following materials in this replication package:\r\n(a) the screening and final survey questions we used, (b) the formatted collection of questions we found in our literature evaluation, (c) text used in the recruitment emails, (d) text used in the the job posts, (e) additional figures, (f) additional tables, and (g) the consent forms.",
-    "num_resources": 1,
-    "num_tags": 17,
-    "organization": {
-        "id": "8c4542e3-c4b6-48be-ac32-e16b44c79b1c",
-        "name": "fachgebiet-empirical-information-security",
-        "title": "Fachgebiet Empirical Information Security",
-        "type": "organization",
-        "description": "https://www.itsec.uni-hannover.de/de/eis/",
-        "image_url": "",
-        "created": "2021-08-04T21:05:24.748562",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/wg7xhqmh",
+  "doi_date_published": "2022-06-14",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "ec43f0e5-3bb0-4938-b573-090b53ab2abe",
+  "isopen": false,
+  "license_id": "CC-BY-SA-3.0",
+  "license_title": "CC-BY-SA-3.0",
+  "maintainer": "Harjot Kaur",
+  "maintainer_email": "kaur@sec.uni-hannover.de",
+  "metadata_created": "2026-06-03T11:32:25.435158",
+  "metadata_modified": "2026-08-12T08:10:24.564425",
+  "name": "luh-2022-usenix-dev-sampling",
+  "notes": "This is the replication package for the USENIX'22 paper “Where to Recruit for Security Development Studies: Comparing Six Software Developer Samples”.\r\n\r\nTo support the reproducibility of our work, we provide the following materials in this replication package:\r\n(a) the screening and final survey questions we used, (b) the formatted collection of questions we found in our literature evaluation, (c) text used in the recruitment emails, (d) text used in the the job posts, (e) additional figures, (f) additional tables, and (g) the consent forms.",
+  "num_resources": 1,
+  "num_tags": 17,
+  "organization": {
+    "id": "8c4542e3-c4b6-48be-ac32-e16b44c79b1c",
+    "name": "fachgebiet-empirical-information-security",
+    "title": "Fachgebiet Empirical Information Security",
+    "type": "organization",
+    "description": "https://www.itsec.uni-hannover.de/de/eis/",
+    "image_url": "",
+    "created": "2026-06-03T11:22:12.012737",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "8c4542e3-c4b6-48be-ac32-e16b44c79b1c",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2022-06-14T07:45:34.339425",
+  "source_metadata_modified": "2022-06-14T09:34:22.897579",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Replication Package: \"Where to Recruit for Security Development Studies: Comparing Six Software Developer Samples\"",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/2022-usenix-dev-sampling",
+  "version": "1.0",
+  "authors": [
+    {
+      "author": "Kaur, Harjot",
+      "familyName": "Kaur",
+      "givenName": "Harjot",
+      "orcid": ""
     },
-    "owner_org": "fachgebiet-empirical-information-security",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "computer security",
-            "id": "0bde6591-878a-4fbd-b611-dee378c7ea74",
-            "name": "computer security",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "cs students",
-            "id": "058c0fa9-77d8-4b6a-bca9-3062bf45d823",
-            "name": "cs students",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "developers",
-            "id": "9d2622b9-61ae-4565-b9b9-462a0de0d0d1",
-            "name": "developers",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "freelancer",
-            "id": "ca8274db-f3ac-41d7-a1b6-75003dafd491",
-            "name": "freelancer",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "google play",
-            "id": "24eed853-fbab-4725-87e1-398246de95ab",
-            "name": "google play",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "mturk",
-            "id": "5bd869b2-2bb3-411a-8601-8332453ef288",
-            "name": "mturk",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "privacy",
-            "id": "53fc92e6-edbb-4a68-b046-ebb5aa577049",
-            "name": "privacy",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "prolific",
-            "id": "420f3f47-86ae-4360-b6c4-a68becf6b615",
-            "name": "prolific",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "replication package",
-            "id": "2a62c55a-7010-448c-92ab-3ca8b5fdba19",
-            "name": "replication package",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "research",
-            "id": "564bcee0-bca1-4711-b585-9ab700205298",
-            "name": "research",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "sample",
-            "id": "48f424b9-654f-40f5-a45b-6567b73e6aec",
-            "name": "sample",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "study",
-            "id": "44f316ee-5ded-4346-9b89-6b8dafbf89ea",
-            "name": "study",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "study material",
-            "id": "5cf0409d-c2bf-48ba-ac0c-9d0658cad74a",
-            "name": "study material",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "survey",
-            "id": "242ce268-7f6f-4425-96b5-cde60101ee5d",
-            "name": "survey",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "upwork",
-            "id": "1886c8ca-b0d9-453a-97e7-dc7d0d57eeac",
-            "name": "upwork",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "usability",
-            "id": "58ea6f81-f2d3-4b15-890c-84cfd30937ba",
-            "name": "usability",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "usable security",
-            "id": "a6b36646-08c4-4fbe-9aa9-c49a4d7ab000",
-            "name": "usable security",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Replication Package: \"Where to Recruit for Security Development Studies: Comparing Six Software Developer Samples\"",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/2022-usenix-dev-sampling",
-    "version": "1.0",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2022-06-14T07:53:28.735317",
-            "description": "To support the reproducibility of our work, we provide the following materials in this replication package:\r\n(a) the screening and final survey questions we used, (b) the formatted collection of questions we found in our literature evaluation, (c) text used in the recruitment emails, (d) text used in the the job posts, (e) additional figures, (f) additional tables, and (g) the consent forms",
-            "format": "zip",
-            "last_modified": "2022-06-14T09:34:22.882652",
-            "mimetype": "application/zip",
-            "name": "replication-package.zip",
-            "position": 0,
-            "size": 500013,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/3d018100-2fd9-4597-8c64-4cda01937207/resource/0c9bc400-c1cb-4674-8971-7c55f71a0526/download/replication-package.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Amft, Sabrina",
+      "familyName": "Amft",
+      "givenName": "Sabrina",
+      "orcid": ""
+    },
+    {
+      "author": "Votipka, Daniel",
+      "familyName": "Votipka",
+      "givenName": "Daniel",
+      "orcid": ""
+    },
+    {
+      "author": "Acar, Yasemin",
+      "familyName": "Acar",
+      "givenName": "Yasemin",
+      "orcid": ""
+    },
+    {
+      "author": "Fahl, Sascha",
+      "familyName": "Fahl",
+      "givenName": "Sascha",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2022-06-14T07:53:28.735317",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "To support the reproducibility of our work, we provide the following materials in this replication package:\r\n(a) the screening and final survey questions we used, (b) the formatted collection of questions we found in our literature evaluation, (c) text used in the recruitment emails, (d) text used in the the job posts, (e) additional figures, (f) additional tables, and (g) the consent forms",
+      "format": "ZIP",
+      "hash": "",
+      "id": "2dbf11b5-ab97-4f4f-a4ac-f4235b869a30",
+      "last_modified": "2022-06-14T09:34:22.882652",
+      "metadata_modified": "2026-08-12T08:10:24.567990",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "replication-package.zip",
+      "package_id": "ec43f0e5-3bb0-4938-b573-090b53ab2abe",
+      "position": 0,
+      "resource_type": null,
+      "size": 500013,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/3d018100-2fd9-4597-8c64-4cda01937207/resource/0c9bc400-c1cb-4674-8971-7c55f71a0526/download/replication-package.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "computer security",
+      "id": "08ece3e7-3a11-4818-aa95-d01408c45530",
+      "name": "computer security",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "cs students",
+      "id": "1a51698c-0a7c-42dd-8997-91d3eef11284",
+      "name": "cs students",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "developers",
+      "id": "5335ee7b-9c20-4bb0-9c95-47e25134fc88",
+      "name": "developers",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "freelancer",
+      "id": "7cd4c205-9e10-4e21-bbaf-d479bb51b3de",
+      "name": "freelancer",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "google play",
+      "id": "b25f24ee-f0d2-448d-82a7-8cabd0680dbe",
+      "name": "google play",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "mturk",
+      "id": "8f67b096-962a-47dc-b87e-c7633698ec8b",
+      "name": "mturk",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "privacy",
+      "id": "b7a58732-ec3f-4988-ba9a-150d82c5414e",
+      "name": "privacy",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "prolific",
+      "id": "6578c156-0cc7-4e89-b9b3-a484b3127d44",
+      "name": "prolific",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "replication package",
+      "id": "01cb0f81-e896-412a-9c6a-32c5e48b3811",
+      "name": "replication package",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "research",
+      "id": "d5aea615-dbed-406d-ac43-6281e2fbcbbb",
+      "name": "research",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "sample",
+      "id": "3e6e549d-756f-4812-9bc5-41eeace8c9ff",
+      "name": "sample",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "study",
+      "id": "b65861b6-0ed5-49e0-9e82-f08a5c0edcf7",
+      "name": "study",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "study material",
+      "id": "f09c372a-f237-444f-9a80-224d78b99da5",
+      "name": "study material",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "survey",
+      "id": "6c5c2df0-cda1-4b80-88a0-dbc1d7e1a61d",
+      "name": "survey",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "upwork",
+      "id": "8da4cffb-47da-4af1-bf85-bf2935ce6974",
+      "name": "upwork",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "usability",
+      "id": "53dc6960-895f-4379-acf0-90579dea1958",
+      "name": "usability",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "usable security",
+      "id": "5476feee-bbaf-43f2-96b2-c08466707c72",
+      "name": "usable security",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

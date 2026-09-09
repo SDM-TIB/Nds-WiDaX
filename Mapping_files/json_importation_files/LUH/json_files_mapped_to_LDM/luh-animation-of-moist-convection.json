@@ -1,116 +1,157 @@
 {
-    "authors": "Oliver Maas, Dieter Etling",
-    "doi": "10.25835/r02ldvjl",
-    "doi_date_published": "2022-07-18",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-SA-3.0",
-    "license_title": "Creative Commons Attribution Share-Alike 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "maintainer": "Oliver Maas",
-    "maintainer_email": "oliver.maas@posteo.de",
-    "source_metadata_created": "2022-07-18T10:04:13.880941",
-    "source_metadata_modified": "2022-07-18T10:05:45.845184",
-    "metadata_modified": "2022-07-18T10:05:45.845184",
-    "name": "luh-animation-of-moist-convection",
-    "notes": "Animated vertical cross sections of temperature and humidity.\r\nRelated article:\r\nOn the influence of moisture on the strength of thermals:\r\nA large-eddy simulation case study\r\nInitial presentation at the XXXV OSTIV Congress, 19-23 July 2021 (Online)\r\n",
-    "num_resources": 2,
-    "num_tags": 6,
-    "organization": {
-        "id": "e746d647-a884-4438-90c7-5aeb491aa43f",
-        "name": "institut-fuer-meteorologie-und-klimatologie",
-        "title": "Institut fuer Meteorologie und Klimatologie ",
-        "type": "organization",
-        "description": "Herrenh\u00e4user Str. 2\r\n30419 Hannover \r\n\r\nhttps://www.muk.uni-hannover.de/\r\n\r\n",
-        "image_url": "2018-09-27-085555.012947headermuk-11-2017.png",
-        "created": "2018-09-27T10:55:55.034247",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/r02ldvjl",
+  "doi_date_published": "2022-07-18",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "aee9d120-313b-4af6-964c-1c7d9ef1b029",
+  "isopen": false,
+  "license_id": "CC-BY-SA-3.0",
+  "license_title": "CC-BY-SA-3.0",
+  "maintainer": "Oliver Maas",
+  "maintainer_email": "oliver.maas@posteo.de",
+  "metadata_created": "2026-08-12T09:48:23.092382",
+  "metadata_modified": "2026-08-12T09:48:23.092390",
+  "name": "luh-animation-of-moist-convection",
+  "notes": "Animated vertical cross sections of temperature and humidity.\r\nRelated article:\r\nOn the influence of moisture on the strength of thermals:\r\nA large-eddy simulation case study\r\nInitial presentation at the XXXV OSTIV Congress, 19-23 July 2021 (Online)\r\n",
+  "num_resources": 2,
+  "num_tags": 6,
+  "organization": {
+    "id": "e746d647-a884-4438-90c7-5aeb491aa43f",
+    "name": "institut-fuer-meteorologie-und-klimatologie",
+    "title": "Institut fuer Meteorologie und Klimatologie ",
+    "type": "organization",
+    "description": "Herrenhäuser Str. 2\r\n30419 Hannover \r\n\r\nhttps://www.muk.uni-hannover.de/\r\n\r\n",
+    "image_url": "https://data.uni-hannover.de/uploads/group/2018-09-27-085555.012947headermuk-11-2017.png",
+    "created": "2026-08-12T08:11:29.311940",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "e746d647-a884-4438-90c7-5aeb491aa43f",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2022-07-18T10:04:13.880941",
+  "source_metadata_modified": "2022-07-18T10:05:45.845184",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Animation of moist convection",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/animation-of-moist-convection",
+  "version": "",
+  "authors": [
+    {
+      "author": "Maas, Oliver",
+      "familyName": "Maas",
+      "givenName": "Oliver",
+      "orcid": ""
     },
-    "owner_org": "institut-fuer-meteorologie-und-klimatologie",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Bowen-ratio",
-            "id": "f4e8d945-b053-4222-bedc-e5c942cfbb83",
-            "name": "Bowen-ratio",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Large-eddy simulation",
-            "id": "1e492122-964f-41a5-81e6-d3426640f7c8",
-            "name": "Large-eddy simulation",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "buoyancy",
-            "id": "8c70d5cc-e2de-43f6-a710-3740b69f8ca2",
-            "name": "buoyancy",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "humidity",
-            "id": "3806dddc-4009-45c7-a744-384fae733816",
-            "name": "humidity",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "moist convection",
-            "id": "c15b3876-145e-4006-bcb3-484318276577",
-            "name": "moist convection",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "thermals",
-            "id": "c7452a91-b4ff-48ca-a590-576774ab9abd",
-            "name": "thermals",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Animation of moist convection",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/animation-of-moist-convection",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2022-07-18T10:05:25.549812",
-            "description": "",
-            "format": "mp4",
-            "last_modified": "2022-07-18T10:05:25.501278",
-            "mimetype": "video/mp4",
-            "name": "Temperature field",
-            "position": 0,
-            "size": 14989746,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/cfb7ab5a-62a9-4394-928c-bfcaa6464405/resource/05f5f067-7a3c-4c27-a9d0-69843f4ebeca/download/dtheta_xz.mp4",
-            "url_type": ""
-        },
-        {
-            "created": "2022-07-18T10:05:45.627251",
-            "description": "",
-            "format": "mp4",
-            "last_modified": "2022-07-18T10:05:45.577225",
-            "mimetype": "video/mp4",
-            "name": "Humidity field",
-            "position": 1,
-            "size": 10192326,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/cfb7ab5a-62a9-4394-928c-bfcaa6464405/resource/6546229a-3b10-4bed-80c1-fad75db0154f/download/dq_xz.mp4",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Etling, Dieter",
+      "familyName": "Etling",
+      "givenName": "Dieter",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2022-07-18T10:05:25.549812",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "MP4",
+      "hash": "",
+      "id": "55329ce1-f110-4737-a97b-c234244cc662",
+      "last_modified": "2022-07-18T10:05:25.501278",
+      "metadata_modified": "2026-08-12T09:48:23.081847",
+      "mimetype": "video/mp4",
+      "mimetype_inner": null,
+      "name": "Temperature field",
+      "package_id": "aee9d120-313b-4af6-964c-1c7d9ef1b029",
+      "position": 0,
+      "resource_type": null,
+      "size": 14989746,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/cfb7ab5a-62a9-4394-928c-bfcaa6464405/resource/05f5f067-7a3c-4c27-a9d0-69843f4ebeca/download/dtheta_xz.mp4",
+      "url_type": ""
+    },
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2022-07-18T10:05:45.627251",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "MP4",
+      "hash": "",
+      "id": "1a2dee0f-0c5d-4afa-a6a1-9348a4fe7913",
+      "last_modified": "2022-07-18T10:05:45.577225",
+      "metadata_modified": "2026-08-12T09:48:23.081994",
+      "mimetype": "video/mp4",
+      "mimetype_inner": null,
+      "name": "Humidity field",
+      "package_id": "aee9d120-313b-4af6-964c-1c7d9ef1b029",
+      "position": 1,
+      "resource_type": null,
+      "size": 10192326,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/cfb7ab5a-62a9-4394-928c-bfcaa6464405/resource/6546229a-3b10-4bed-80c1-fad75db0154f/download/dq_xz.mp4",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Bowen-ratio",
+      "id": "1b2d3fb1-0a5d-440b-87ac-e4e67b03077a",
+      "name": "Bowen-ratio",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Large-eddy simulation",
+      "id": "70b0506d-9196-4b60-852d-4b8e32f56cdb",
+      "name": "Large-eddy simulation",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "buoyancy",
+      "id": "2d5dbf7b-d10a-499b-bb43-94b4801a3eda",
+      "name": "buoyancy",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "humidity",
+      "id": "124082b9-44f6-4905-97f1-f142d4cf7806",
+      "name": "humidity",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "moist convection",
+      "id": "e614e2bb-7d82-496b-9137-405bc0b13b22",
+      "name": "moist convection",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "thermals",
+      "id": "137740eb-1698-473e-b86b-e2f5662cf870",
+      "name": "thermals",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

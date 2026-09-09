@@ -1,89 +1,114 @@
 {
-    "authors": "ISAH",
-    "doi": "10.25835/xvfjb8rb",
-    "doi_date_published": "2023-03-14",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-3.0",
-    "license_title": "Creative Commons Attribution-NonCommercial 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
-    "maintainer": "Arne Freyschmidt, M.Sc.; Dr.-Ing. Maike Beier",
-    "maintainer_email": "freyschmidt@isah.uni-hannover.de",
-    "source_metadata_created": "2023-03-14T10:02:01.802707",
-    "source_metadata_modified": "2023-03-27T06:04:19.672711",
-    "metadata_modified": "2023-03-27T06:04:19.672711",
-    "name": "luh-asm-modell_asm3_1_n2o_isah",
-    "notes": "Dieses Modell dient insbesondere der Modellierung von N2O-Bildung und Emission bei der Abwasserreinigung im Haupt- und Nebenstrom sowie der detaillierteren Abbildung der Stickstoffelimination (zweistufige Nitrifikation, dreistufige Denitrifikation, anaerobe Ammoniumoxidation). Dabei liegt hier ein Fokus auf der praktischen Anwendbarkeit; es wurden nur solche Parameter in das Modell integriert, die mit m\u00e4\u00dfigem Aufwand messtechnisch erfasst werden k\u00f6nnen. Das Modell kann somit bei der Ursachenanalyse hoher N2O-Emissionen sowie bei der Entwicklung von Emissionsminderungsma\u00dfnahmen unterst\u00fctzen.\r\nNeben dem ASM-Modell werden ein Leitfaden sowie drei Beispielanwendungen (CSTR, SBR, Biofilm) bereitgestellt.",
-    "num_resources": 1,
-    "num_tags": 4,
-    "organization": {
-        "id": "478c5745-62e8-45cc-b8c0-1df056efb160",
-        "name": "institut-fur-siedlungswasserwirtschaft-und-abfalltechnik",
-        "title": "Institut f\u00fcr Siedlungswasserwirtschaft und Abfalltechnik",
-        "type": "organization",
-        "description": "https://www.isah.uni-hannover.de/",
-        "image_url": "",
-        "created": "2018-01-12T14:55:02.435271",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/xvfjb8rb",
+  "doi_date_published": "2023-03-14",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "c06fb197-4033-46c1-9e22-8c419d7c2fbd",
+  "isopen": false,
+  "license_id": "CC-BY-NC-3.0",
+  "license_title": "CC-BY-NC-3.0",
+  "maintainer": "Arne Freyschmidt, M.Sc.; Dr.-Ing. Maike Beier",
+  "maintainer_email": "freyschmidt@isah.uni-hannover.de",
+  "metadata_created": "2026-08-12T09:49:06.807578",
+  "metadata_modified": "2026-08-12T09:49:06.807584",
+  "name": "luh-asm-modell_asm3_1_n2o_isah",
+  "notes": "Dieses Modell dient insbesondere der Modellierung von N2O-Bildung und Emission bei der Abwasserreinigung im Haupt- und Nebenstrom sowie der detaillierteren Abbildung der Stickstoffelimination (zweistufige Nitrifikation, dreistufige Denitrifikation, anaerobe Ammoniumoxidation). Dabei liegt hier ein Fokus auf der praktischen Anwendbarkeit; es wurden nur solche Parameter in das Modell integriert, die mit mäßigem Aufwand messtechnisch erfasst werden können. Das Modell kann somit bei der Ursachenanalyse hoher N2O-Emissionen sowie bei der Entwicklung von Emissionsminderungsmaßnahmen unterstützen.\r\nNeben dem ASM-Modell werden ein Leitfaden sowie drei Beispielanwendungen (CSTR, SBR, Biofilm) bereitgestellt.",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "478c5745-62e8-45cc-b8c0-1df056efb160",
+    "name": "institut-fur-siedlungswasserwirtschaft-und-abfalltechnik",
+    "title": "Institut für Siedlungswasserwirtschaft und Abfalltechnik",
+    "type": "organization",
+    "description": "https://www.isah.uni-hannover.de/",
+    "image_url": "",
+    "created": "2026-08-12T09:48:56.177833",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "478c5745-62e8-45cc-b8c0-1df056efb160",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2023-03-14T10:02:01.802707",
+  "source_metadata_modified": "2023-03-27T06:04:19.672711",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "ASM-Modell_ASM3_1_N2O_ISAH",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/asm-modell_asm3_1_n2o_isah",
+  "version": "",
+  "authors": [
+    {
+      "author": ", ISAH",
+      "familyName": "",
+      "givenName": "ISAH",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2023-03-14T10:02:31.253229",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "application/x-7z-compressed",
+      "hash": "",
+      "id": "8baa9f6d-380a-447c-b644-1516a6dd2501",
+      "last_modified": "2023-03-27T06:04:19.657769",
+      "metadata_modified": "2026-08-12T09:49:06.798322",
+      "mimetype": "application/x-7z-compressed",
+      "mimetype_inner": null,
+      "name": "ASM3_1_N2O_ISAH.7z",
+      "package_id": "c06fb197-4033-46c1-9e22-8c419d7c2fbd",
+      "position": 0,
+      "resource_type": null,
+      "size": 5591828,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/91366fee-889c-4f0d-92f3-dc98bd902529/resource/284ab97a-ea05-46dc-b4d4-7afe380ff5f9/download/asm3_1_n2o_isah.7z",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Abwasser",
+      "id": "d3be587d-835e-456b-aeea-b85a5ecdcf42",
+      "name": "Abwasser",
+      "state": "active",
+      "vocabulary_id": null
     },
-    "owner_org": "institut-fur-siedlungswasserwirtschaft-und-abfalltechnik",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Abwasser",
-            "id": "067cd839-2d3a-40ed-9eff-8b5dc6c96020",
-            "name": "Abwasser",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Modellierung",
-            "id": "430b72b5-d705-45cb-a822-995694b5dfce",
-            "name": "Modellierung",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "N2O",
-            "id": "1acd48ff-eb56-4c1b-966b-7ee3a37aa62e",
-            "name": "N2O",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Treibhausgasemissionen",
-            "id": "20e1d79c-82e9-43b6-82b5-3a76179d4bab",
-            "name": "Treibhausgasemissionen",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "ASM-Modell_ASM3_1_N2O_ISAH",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/asm-modell_asm3_1_n2o_isah",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2023-03-14T10:02:31.253229",
-            "description": "",
-            "format": "application/x-7z-compressed",
-            "last_modified": "2023-03-27T06:04:19.657769",
-            "mimetype": "application/x-7z-compressed",
-            "name": "ASM3_1_N2O_ISAH.7z",
-            "position": 0,
-            "size": 5591828,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/91366fee-889c-4f0d-92f3-dc98bd902529/resource/284ab97a-ea05-46dc-b4d4-7afe380ff5f9/download/asm3_1_n2o_isah.7z",
-            "url_type": ""
-        }
-    ]
+    {
+      "display_name": "Modellierung",
+      "id": "2010186a-a4a6-4f3a-8ffb-3e6cde65274a",
+      "name": "Modellierung",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "N2O",
+      "id": "40805da3-df3d-4d74-84c1-fed2414c6d99",
+      "name": "N2O",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Treibhausgasemissionen",
+      "id": "19d8abe0-ffff-4b7d-9f6c-b29a93f08617",
+      "name": "Treibhausgasemissionen",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

@@ -1,103 +1,140 @@
 {
-    "authors": "Miriam Kick, Dustin R. Jantos, Philipp Junker",
-    "doi": "10.25835/ya8glznn",
-    "doi_date_published": "2022-10-20",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-3.0",
-    "license_title": "Creative Commons Attribution-NonCommercial 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
-    "maintainer": "Miriam Kick",
-    "maintainer_email": "kick@ikm.uni-hannover.de",
-    "source_metadata_created": "2022-10-20T12:07:21.995172",
-    "source_metadata_modified": "2023-04-24T07:14:48.092414",
-    "metadata_modified": "2023-04-24T07:14:48.092414",
-    "name": "luh-implementation-of-thermodynamic-topology-optimization-for-hardening-materials-in-julia",
-    "notes": "The thermodynamic topology optimization for hardening materials [1] is a novel approach to consider hardening material behavior into the optimization process in a resource-efficient manner due to a surrogate model. Here, we present our numerical implementation in Julia programming language [2]. Using this Julia code, we optimized a quasi 2D clamped beam, a quasi 2D classical Messerschmitt-B\u00f6lkow-Blohm (MBB) beam and a 3D cantilever as numerical results in [1]. We also provide the used job files for the three examples here. Different material parameters of hardening can be investigated due to the parameters in the configuration file. The given zip folder includes the Julia code organized as Julia project and additionally a directory with the job files (configuration, mesh and boundary value problem) for the mentioned examples.\r\n\r\n[1] Miriam Kick and Philipp Junker. Thermodynamic topology optimization for hardening materials. Submitted. (2022)\r\n\r\n[2] Jeff Bezanson, Alan Edelman, Stefan Karpinski and Viral B Shah. Julia: A fresh approach to numerical computing, www.julialang.org. SIAM Review, 59(1):65\u201398. (2017)",
-    "num_resources": 1,
-    "num_tags": 6,
-    "organization": {
-        "id": "44b6066d-41c1-47b2-bd20-9390fa1d56b4",
-        "name": "institut-fur-kontinuumsmechanik",
-        "title": "Institut f\u00fcr Kontinuumsmechanik",
-        "type": "organization",
-        "description": "__An der Universit\u00e4t 1__\r\n\r\n__30823 Garbsen__\r\n\r\nTel. +49 511 762 - 3220\r\n\r\nFax  +49 511 762 - 5496 \r\n\r\nhttps://www.ikm.uni-hannover.de/",
-        "image_url": "https://www.ikm.uni-hannover.de/fileadmin/site-templates/logos/ikm/IKM-Logo_2024.png",
-        "created": "2022-02-10T16:36:38.855497",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/ya8glznn",
+  "doi_date_published": "2022-10-20",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "a377929c-81c1-4e83-b62f-28b16d6089f2",
+  "isopen": false,
+  "license_id": "CC-BY-NC-3.0",
+  "license_title": "CC-BY-NC-3.0",
+  "maintainer": "Miriam Kick",
+  "maintainer_email": "kick@ikm.uni-hannover.de",
+  "metadata_created": "2026-08-12T10:03:43.894037",
+  "metadata_modified": "2026-08-12T10:03:43.894044",
+  "name": "luh-implementation-of-thermodynamic-topology-optimization-for-hardening-materials-in-julia",
+  "notes": "The thermodynamic topology optimization for hardening materials [1] is a novel approach to consider hardening material behavior into the optimization process in a resource-efficient manner due to a surrogate model. Here, we present our numerical implementation in Julia programming language [2]. Using this Julia code, we optimized a quasi 2D clamped beam, a quasi 2D classical Messerschmitt-Bölkow-Blohm (MBB) beam and a 3D cantilever as numerical results in [1]. We also provide the used job files for the three examples here. Different material parameters of hardening can be investigated due to the parameters in the configuration file. The given zip folder includes the Julia code organized as Julia project and additionally a directory with the job files (configuration, mesh and boundary value problem) for the mentioned examples.\r\n\r\n[1] Miriam Kick and Philipp Junker. Thermodynamic topology optimization for hardening materials. Submitted. (2022)\r\n\r\n[2] Jeff Bezanson, Alan Edelman, Stefan Karpinski and Viral B Shah. Julia: A fresh approach to numerical computing, www.julialang.org. SIAM Review, 59(1):65–98. (2017)",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "id": "44b6066d-41c1-47b2-bd20-9390fa1d56b4",
+    "name": "institut-fur-kontinuumsmechanik",
+    "title": "Institut für Kontinuumsmechanik",
+    "type": "organization",
+    "description": "__An der Universität 1__\r\n\r\n__30823 Garbsen__\r\n\r\nTel. +49 511 762 - 3220\r\n\r\nFax  +49 511 762 - 5496 \r\n\r\nhttps://www.ikm.uni-hannover.de/",
+    "image_url": "https://www.ikm.uni-hannover.de/fileadmin/site-templates/logos/ikm/IKM-Logo_2024.png",
+    "created": "2026-08-12T09:50:20.664898",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "44b6066d-41c1-47b2-bd20-9390fa1d56b4",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2022-10-20T12:07:21.995172",
+  "source_metadata_modified": "2023-04-24T07:14:48.092414",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Implementation of thermodynamic topology optimization for hardening materials in Julia",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/implementation-of-thermodynamic-topology-optimization-for-hardening-materials-in-julia",
+  "version": "",
+  "authors": [
+    {
+      "author": "Kick, Miriam",
+      "familyName": "Kick",
+      "givenName": "Miriam",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-kontinuumsmechanik",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Code",
-            "id": "931397cd-e741-41d5-ab08-86465d35c1bc",
-            "name": "Code",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Julia",
-            "id": "e2153ef5-7992-4fd3-8a5d-a3c8c6216652",
-            "name": "Julia",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Software",
-            "id": "5176d9f1-721a-48e7-891d-768524dce34c",
-            "name": "Software",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Surrogate Model",
-            "id": "66f6706d-3da5-4bd0-b5d6-61d9db1a1b83",
-            "name": "Surrogate Model",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Thermodynamic Topology Optimization",
-            "id": "ca905cd2-e466-41e8-83fc-d26b1c66271d",
-            "name": "Thermodynamic Topology Optimization",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "hardening materials",
-            "id": "67e765a9-81d0-4a75-a3db-f28a1c0d092a",
-            "name": "hardening materials",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Implementation of thermodynamic topology optimization for hardening materials in Julia",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/implementation-of-thermodynamic-topology-optimization-for-hardening-materials-in-julia",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2022-10-20T12:07:55.276999",
-            "description": "",
-            "format": "zip",
-            "last_modified": "2022-10-20T12:07:55.237707",
-            "mimetype": "application/zip",
-            "name": "TTO-hardening.zip",
-            "position": 0,
-            "size": 1058859,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/a3a5c29b-ae1a-4acd-8180-0e4ba90e788b/resource/c1758fc9-4f4b-494f-8970-20f9583710f8/download/tto-plasticity.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Jantos, Dustin R.",
+      "familyName": "Jantos",
+      "givenName": "Dustin R.",
+      "orcid": ""
+    },
+    {
+      "author": "Junker, Philipp",
+      "familyName": "Junker",
+      "givenName": "Philipp",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2022-10-20T12:07:55.276999",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "ZIP",
+      "hash": "",
+      "id": "59d2ac37-5340-4dbc-a5f4-1d9ab13d741b",
+      "last_modified": "2022-10-20T12:07:55.237707",
+      "metadata_modified": "2026-08-12T10:03:43.882829",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "TTO-hardening.zip",
+      "package_id": "a377929c-81c1-4e83-b62f-28b16d6089f2",
+      "position": 0,
+      "resource_type": null,
+      "size": 1058859,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/a3a5c29b-ae1a-4acd-8180-0e4ba90e788b/resource/c1758fc9-4f4b-494f-8970-20f9583710f8/download/tto-plasticity.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Code",
+      "id": "8efaf4a7-9d04-47d5-bbde-208327ae6c65",
+      "name": "Code",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Julia",
+      "id": "2a995278-5c71-4791-a36b-d183b6383900",
+      "name": "Julia",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Software",
+      "id": "ad40f1a6-ecd7-4392-a7b2-b5431a3036b3",
+      "name": "Software",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Surrogate Model",
+      "id": "2da33e71-720a-4f86-8425-ed337aea9f10",
+      "name": "Surrogate Model",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Thermodynamic Topology Optimization",
+      "id": "0f96fbc6-eb82-4526-bbfb-003b5303ed04",
+      "name": "Thermodynamic Topology Optimization",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "hardening materials",
+      "id": "eeec8b60-0fb2-4268-96bd-93e58516b6ca",
+      "name": "hardening materials",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

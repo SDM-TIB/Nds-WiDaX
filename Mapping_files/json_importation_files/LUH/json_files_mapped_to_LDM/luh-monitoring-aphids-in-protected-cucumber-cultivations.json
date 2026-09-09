@@ -1,117 +1,148 @@
 {
-    "authors": "Christine Dieckhoff, Rainer Meyh\u00f6fer",
-    "doi": "10.25835/ami9gk33",
-    "doi_date_published": "2023-03-27",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-3.0",
-    "license_title": "Creative Commons Attribution 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0/",
-    "maintainer": "Rainer Meyh\u00f6fer",
-    "maintainer_email": "meyhoefer@ipp.uni-hannover.de",
-    "source_metadata_created": "2023-02-27T14:01:48.079562",
-    "source_metadata_modified": "2024-04-18T08:09:13.294007",
-    "metadata_modified": "2024-04-18T08:09:13.294007",
-    "name": "luh-monitoring-aphids-in-protected-cucumber-cultivations",
-    "notes": "All data are analysed and published 2023 under the title \"If only you could catch me - Catch me if you can \u2013 Monitoring aphids in protected cucumber cultivations\" in the Journal Horticulturae 2023, 9(5), 571; https://doi.org/10.3390/horticulturae9050571\r\n\r\nDetailed methods of data collection and analyses are desribed in the paper. The files were created by MS Excel 2016.",
-    "num_resources": 1,
-    "num_tags": 8,
-    "organization": {
-        "id": "5545f6e7-8138-40cc-8f55-021021d90eb3",
-        "name": "institut-fur-gartenbauliche-produktionssysteme",
-        "title": "Institut f\u00fcr Gartenbauliche Produktionssysteme",
-        "type": "organization",
-        "description": "\r\nhttps://www.igps.uni-hannover.de/",
-        "image_url": "",
-        "created": "2019-06-14T13:58:42.735622",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/ami9gk33",
+  "doi_date_published": "2023-03-27",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "36d299fb-74c0-4610-ace8-525657409193",
+  "isopen": false,
+  "license_id": "CC-BY-3.0",
+  "license_title": "CC-BY-3.0",
+  "maintainer": "Rainer Meyhöfer",
+  "maintainer_email": "meyhoefer@ipp.uni-hannover.de",
+  "metadata_created": "2026-08-12T10:09:55.686725",
+  "metadata_modified": "2026-08-12T10:09:55.686734",
+  "name": "luh-monitoring-aphids-in-protected-cucumber-cultivations",
+  "notes": "All data are analysed and published 2023 under the title \"If only you could catch me - Catch me if you can – Monitoring aphids in protected cucumber cultivations\" in the Journal Horticulturae 2023, 9(5), 571; https://doi.org/10.3390/horticulturae9050571\r\n\r\nDetailed methods of data collection and analyses are desribed in the paper. The files were created by MS Excel 2016.",
+  "num_resources": 1,
+  "num_tags": 8,
+  "organization": {
+    "id": "5545f6e7-8138-40cc-8f55-021021d90eb3",
+    "name": "institut-fur-gartenbauliche-produktionssysteme",
+    "title": "Institut für Gartenbauliche Produktionssysteme",
+    "type": "organization",
+    "description": "\r\nhttps://www.igps.uni-hannover.de/",
+    "image_url": "",
+    "created": "2026-08-12T09:49:21.807200",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "5545f6e7-8138-40cc-8f55-021021d90eb3",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2023-02-27T14:01:48.079562",
+  "source_metadata_modified": "2024-04-18T08:09:13.294007",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "If only you could catch me - Catch me if you can – Monitoring aphids in protected cucumber cultivations",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/monitoring-aphids-in-protected-cucumber-cultivations",
+  "version": "",
+  "authors": [
+    {
+      "author": "Dieckhoff, Christine",
+      "familyName": "Dieckhoff",
+      "givenName": "Christine",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-gartenbauliche-produktionssysteme",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Aphis gossypii",
-            "id": "4195fde5-44d1-476f-bd42-ec25cb97b563",
-            "name": "Aphis gossypii",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Cucumis sativus",
-            "id": "7b4eef11-b3d7-4854-b597-4980c91597b9",
-            "name": "Cucumis sativus",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "action threshold",
-            "id": "b2ec96ef-23cb-4a24-9e7a-cd0256553a70",
-            "name": "action threshold",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "decision support systems",
-            "id": "6c4eb20f-cc53-4259-bcf1-359c6f34a559",
-            "name": "decision support systems",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "greenhouse crops",
-            "id": "84c15a19-1656-4e6f-a8b8-2ebff259d0bd",
-            "name": "greenhouse crops",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "integrated pest management",
-            "id": "d1c2e9ed-5956-4a39-a69f-5ecd6c60d59f",
-            "name": "integrated pest management",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "population development",
-            "id": "4e7df914-260d-476b-929a-b04642408223",
-            "name": "population development",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "yellow sticky traps",
-            "id": "933e518d-3df7-491e-8120-7bdbc300fd7e",
-            "name": "yellow sticky traps",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "If only you could catch me - Catch me if you can \u2013 Monitoring aphids in protected cucumber cultivations",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/monitoring-aphids-in-protected-cucumber-cultivations",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2023-02-27T14:10:40.876105",
-            "description": "",
-            "format": "csv",
-            "last_modified": "2023-03-27T16:26:11.527546",
-            "mimetype": "text/csv",
-            "name": "Dieckhoff_Meyhoefer_plant_counts",
-            "position": 0,
-            "size": 10854,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/d64770d9-512d-4d2e-a80f-474396c35bc6/resource/c003c674-819b-47fc-ae5f-51daf685bd64/download/dieckhoff_meyhoefer_plant_counts.csv",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Meyhöfer, Rainer",
+      "familyName": "Meyhöfer",
+      "givenName": "Rainer",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2023-02-27T14:10:40.876105",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "CSV",
+      "hash": "",
+      "id": "dc365255-9d1a-43b2-aa8d-2c704a278b8d",
+      "last_modified": "2023-03-27T16:26:11.527546",
+      "metadata_modified": "2026-08-12T10:09:55.674860",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "name": "Dieckhoff_Meyhoefer_plant_counts",
+      "package_id": "36d299fb-74c0-4610-ace8-525657409193",
+      "position": 0,
+      "resource_type": null,
+      "size": 10854,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/d64770d9-512d-4d2e-a80f-474396c35bc6/resource/c003c674-819b-47fc-ae5f-51daf685bd64/download/dieckhoff_meyhoefer_plant_counts.csv",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Aphis gossypii",
+      "id": "c94363a9-659d-466e-8dea-e506c8c196bb",
+      "name": "Aphis gossypii",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Cucumis sativus",
+      "id": "5a79cbbc-7091-470a-a7e6-c961233a7aa1",
+      "name": "Cucumis sativus",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "action threshold",
+      "id": "fa7e8227-14b7-4732-ae14-9d63a1331690",
+      "name": "action threshold",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "decision support systems",
+      "id": "43cb9458-86f0-4ebd-b7ca-2e3125460a4d",
+      "name": "decision support systems",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "greenhouse crops",
+      "id": "07f14597-af7c-4250-8957-8f826eaffb5f",
+      "name": "greenhouse crops",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "integrated pest management",
+      "id": "eac9abfb-a244-47d6-a245-d2e5a0cae5a7",
+      "name": "integrated pest management",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "population development",
+      "id": "586eb9fc-904b-4a91-9096-24b0c8923d83",
+      "name": "population development",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "yellow sticky traps",
+      "id": "b0ac9918-5842-4011-9236-c7610dea096c",
+      "name": "yellow sticky traps",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

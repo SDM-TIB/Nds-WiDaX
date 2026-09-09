@@ -1,82 +1,125 @@
 {
-    "authors": "Roman Seidl; Cord Dr\u00f6gem\u00fcller; Clemens Walther; Pius Kr\u00fctli",
-    "doi": "10.25835/9vmuf83v",
-    "doi_date_published": "2025-03-21",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-4.0",
-    "license_title": "Creative Commons Attribution-NonCommercial 4.0 International",
-    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
-    "maintainer": "Cord Dr\u00f6gem\u00fcller; Michael Steppert",
-    "maintainer_email": "steppert@irs.uni-hannover.de",
-    "source_metadata_created": "2024-07-12T08:02:20.939679",
-    "source_metadata_modified": "2025-03-21T09:07:07.975253",
-    "metadata_modified": "2025-03-21T09:07:07.975253",
-    "name": "luh-positiveaspectsofdgr",
-    "notes": "",
-    "num_resources": 1,
-    "num_tags": 3,
-    "organization": {
-        "id": "e2b4710a-b4f2-4630-abc2-9b1dc27a5ce5",
-        "name": "institut-fur-radiookologie-und-strahlenschutz",
-        "title": "Institut f\u00fcr Radio\u00f6kologie und Strahlenschutz",
-        "type": "organization",
-        "description": "Institut f\u00fcr Radio\u00f6kologie und Strahlenschutz\r\n\r\nLeibniz Universit\u00e4t Hannover\r\n\r\nHerrenh\u00e4user Str. 2\r\n\r\n30419 Hannover\r\n",
-        "image_url": "",
-        "created": "2021-07-19T08:15:00.474262",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/9vmuf83v",
+  "doi_date_published": "2025-03-21",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "76fcfc36-a787-47ca-9b52-59214c934d29",
+  "isopen": false,
+  "license_id": "CC-BY-NC-4.0",
+  "license_title": "CC-BY-NC-4.0",
+  "maintainer": "Cord Drögemüller; Michael Steppert",
+  "maintainer_email": "steppert@irs.uni-hannover.de",
+  "metadata_created": "2026-08-12T10:14:48.625332",
+  "metadata_modified": "2026-08-12T10:14:48.625340",
+  "name": "luh-positiveaspectsofdgr",
+  "notes": "",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "id": "e2b4710a-b4f2-4630-abc2-9b1dc27a5ce5",
+    "name": "institut-fur-radiookologie-und-strahlenschutz",
+    "title": "Institut für Radioökologie und Strahlenschutz",
+    "type": "organization",
+    "description": "Institut für Radioökologie und Strahlenschutz\r\n\r\nLeibniz Universität Hannover\r\n\r\nHerrenhäuser Str. 2\r\n\r\n30419 Hannover\r\n",
+    "image_url": "",
+    "created": "2026-08-12T09:52:58.976673",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "e2b4710a-b4f2-4630-abc2-9b1dc27a5ce5",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2024-07-12T08:02:20.939679",
+  "source_metadata_modified": "2025-03-21T09:07:07.975253",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "PositiveAspectsofDGR",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/positiveaspectsofdgr",
+  "version": "",
+  "authors": [
+    {
+      "author": "Seidl, Roman",
+      "familyName": "Seidl",
+      "givenName": "Roman",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-radiookologie-und-strahlenschutz",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "benefits",
-            "id": "e5082f5e-558f-4847-9201-cc74b9b972a3",
-            "name": "benefits",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "nuclear waste",
-            "id": "b5fd0313-3c00-43f8-91fb-995b70215618",
-            "name": "nuclear waste",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "risks",
-            "id": "dc3323ea-fbfa-459a-868e-bdf9943977ec",
-            "name": "risks",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "PositiveAspectsofDGR",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/positiveaspectsofdgr",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2024-07-12T08:04:11.297115",
-            "description": "Dataset for the manuscript \"Positive aspects of high-level waste disposal: What do German citizens think?\"",
-            "format": "csv",
-            "last_modified": "2024-07-12T08:04:11.245337",
-            "mimetype": "text/csv",
-            "name": "Data_PositiveAspectsPaper.csv",
-            "position": 0,
-            "size": 150751,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/252772c1-18e3-40b9-8eb0-b196af56e6cc/resource/c1a7d87c-511b-4a38-ac83-2d7cae9c15b9/download/data_positiveaspectspaper.csv",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Drögemüller, Cord",
+      "familyName": "Drögemüller",
+      "givenName": "Cord",
+      "orcid": ""
+    },
+    {
+      "author": "Walther, Clemens",
+      "familyName": "Walther",
+      "givenName": "Clemens",
+      "orcid": ""
+    },
+    {
+      "author": "Krütli, Pius",
+      "familyName": "Krütli",
+      "givenName": "Pius",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2024-07-12T08:04:11.297115",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Dataset for the manuscript \"Positive aspects of high-level waste disposal: What do German citizens think?\"",
+      "format": "CSV",
+      "hash": "",
+      "id": "c1eccc96-9e88-4f6b-a165-0498437f8ede",
+      "last_modified": "2024-07-12T08:04:11.245337",
+      "metadata_modified": "2026-08-12T10:14:48.615861",
+      "mimetype": "text/csv",
+      "mimetype_inner": null,
+      "name": "Data_PositiveAspectsPaper.csv",
+      "package_id": "76fcfc36-a787-47ca-9b52-59214c934d29",
+      "position": 0,
+      "resource_type": null,
+      "size": 150751,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/252772c1-18e3-40b9-8eb0-b196af56e6cc/resource/c1a7d87c-511b-4a38-ac83-2d7cae9c15b9/download/data_positiveaspectspaper.csv",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "benefits",
+      "id": "fef911e0-f6a8-440a-9596-bd254c452705",
+      "name": "benefits",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "nuclear waste",
+      "id": "3e85907e-aee4-48cd-b4d6-f4b0e058910a",
+      "name": "nuclear waste",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "risks",
+      "id": "a224454d-8d87-4aab-b52b-5a86f7dfc361",
+      "name": "risks",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

@@ -1,124 +1,155 @@
 {
-    "authors": "Johannes Schwenkel, Bj\u00f6rn Maronga",
-    "doi": "10.25835/0019390",
-    "doi_date_published": "2021-11-30",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC0-1.0",
-    "license_title": "CC0 1.0 Universal",
-    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "maintainer": "Johannes Schwenkel",
-    "maintainer_email": "schwenkel@muk.uni-hannover.de",
-    "source_metadata_created": "2021-11-30T10:49:19.526175",
-    "source_metadata_modified": "2022-01-20T11:00:02.542229",
-    "metadata_modified": "2022-01-20T11:00:02.542229",
-    "name": "luh-schwenkel_maronga_2022",
-    "notes": "Input and Output files of the numerical experiments for the study: How large is the effect of nocturnal radiation fog on the daytime boundary layer development? - An large-eddy simulation study",
-    "num_resources": 1,
-    "num_tags": 9,
-    "organization": {
-        "id": "e746d647-a884-4438-90c7-5aeb491aa43f",
-        "name": "institut-fuer-meteorologie-und-klimatologie",
-        "title": "Institut fuer Meteorologie und Klimatologie ",
-        "type": "organization",
-        "description": "Herrenh\u00e4user Str. 2\r\n30419 Hannover \r\n\r\nhttps://www.muk.uni-hannover.de/\r\n\r\n",
-        "image_url": "2018-09-27-085555.012947headermuk-11-2017.png",
-        "created": "2018-09-27T10:55:55.034247",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/0019390",
+  "doi_date_published": "2021-11-30",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "3a7fc8a7-895e-4fd0-84a3-ed9e190795c9",
+  "isopen": false,
+  "license_id": "CC0-1.0",
+  "license_title": "CC0-1.0",
+  "maintainer": "Johannes Schwenkel",
+  "maintainer_email": "schwenkel@muk.uni-hannover.de",
+  "metadata_created": "2026-08-12T10:18:40.742008",
+  "metadata_modified": "2026-08-12T10:18:40.742016",
+  "name": "luh-schwenkel_maronga_2022",
+  "notes": "Input and Output files of the numerical experiments for the study: How large is the effect of nocturnal radiation fog on the daytime boundary layer development? - An large-eddy simulation study",
+  "num_resources": 1,
+  "num_tags": 9,
+  "organization": {
+    "id": "e746d647-a884-4438-90c7-5aeb491aa43f",
+    "name": "institut-fuer-meteorologie-und-klimatologie",
+    "title": "Institut fuer Meteorologie und Klimatologie ",
+    "type": "organization",
+    "description": "Herrenhäuser Str. 2\r\n30419 Hannover \r\n\r\nhttps://www.muk.uni-hannover.de/\r\n\r\n",
+    "image_url": "https://data.uni-hannover.de/uploads/group/2018-09-27-085555.012947headermuk-11-2017.png",
+    "created": "2026-08-12T08:11:29.311940",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "e746d647-a884-4438-90c7-5aeb491aa43f",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2021-11-30T10:49:19.526175",
+  "source_metadata_modified": "2022-01-20T11:00:02.542229",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "schwenkel_maronga_2022",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/schwenkel_maronga_2022",
+  "version": "1.0",
+  "authors": [
+    {
+      "author": "Schwenkel, Johannes",
+      "familyName": "Schwenkel",
+      "givenName": "Johannes",
+      "orcid": ""
     },
-    "owner_org": "institut-fuer-meteorologie-und-klimatologie",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Convective Boundary Layer",
-            "id": "620da8ec-89af-42d0-8be6-df3bc23fd85b",
-            "name": "Convective Boundary Layer",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "LES",
-            "id": "128fad2a-257c-4571-a744-c4bd0a88f685",
-            "name": "LES",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "LES model",
-            "id": "7d220b59-627d-467d-bf15-74ff92258c09",
-            "name": "LES model",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "PALM",
-            "id": "aeec1f7e-7e5c-44df-bc16-fbcf432ba7c4",
-            "name": "PALM",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "diurnal cycle",
-            "id": "9f96c118-3d7b-4b38-aa9a-4775280a353f",
-            "name": "diurnal cycle",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "fog",
-            "id": "72013c61-5fbb-41d2-8af3-8f89e4c00862",
-            "name": "fog",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "misrepresenting fog",
-            "id": "3da20fce-d413-4f28-b981-2d36a01e0889",
-            "name": "misrepresenting fog",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "radiation fog",
-            "id": "2832235d-2028-4661-811a-455453108632",
-            "name": "radiation fog",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "turbulence",
-            "id": "f4df680e-454a-4fa1-ab66-b99549f3acc5",
-            "name": "turbulence",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "schwenkel_maronga_2022",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/schwenkel_maronga_2022",
-    "version": "1.0",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2021-12-06T15:45:25.844724",
-            "description": "Input and Output files of the simulations presented in Schwenkel and Maronga, 2022.",
-            "format": "zip",
-            "last_modified": "2021-12-06T15:45:25.782493",
-            "mimetype": "application/zip",
-            "name": "sources_for_schwenkel_maronga_2022.zip",
-            "position": 0,
-            "size": 319002174,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/d0d5eb70-3be0-4d8e-9e46-313bf46ed7c8/resource/24ea2bfd-d1cf-4c69-92a0-fdd75782cf02/download/sources_for_schwenkel_maronga_2022.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Maronga, Björn",
+      "familyName": "Maronga",
+      "givenName": "Björn",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2021-12-06T15:45:25.844724",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Input and Output files of the simulations presented in Schwenkel and Maronga, 2022.",
+      "format": "ZIP",
+      "hash": "",
+      "id": "1bd7d205-d476-4cec-8d78-ccfdd46f1f2c",
+      "last_modified": "2021-12-06T15:45:25.782493",
+      "metadata_modified": "2026-08-12T10:18:40.725786",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "sources_for_schwenkel_maronga_2022.zip",
+      "package_id": "3a7fc8a7-895e-4fd0-84a3-ed9e190795c9",
+      "position": 0,
+      "resource_type": null,
+      "size": 319002174,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/d0d5eb70-3be0-4d8e-9e46-313bf46ed7c8/resource/24ea2bfd-d1cf-4c69-92a0-fdd75782cf02/download/sources_for_schwenkel_maronga_2022.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Convective Boundary Layer",
+      "id": "917f7512-0090-4373-9b3a-182f04dbc1eb",
+      "name": "Convective Boundary Layer",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "LES",
+      "id": "568ca478-8a82-47f1-9ccd-6f4d3f0dcc3d",
+      "name": "LES",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "LES model",
+      "id": "a9fe6173-3832-4ed8-8854-8abf2fd06730",
+      "name": "LES model",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "PALM",
+      "id": "b90ff31b-7879-49e2-b9a4-323043acc2d3",
+      "name": "PALM",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "diurnal cycle",
+      "id": "c02f6e18-0c9a-4e57-bf5b-41465265f598",
+      "name": "diurnal cycle",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "fog",
+      "id": "51b8daec-b338-4852-8366-d55834cc75e1",
+      "name": "fog",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "misrepresenting fog",
+      "id": "8416b532-daaf-43c0-97ee-dbdf3f7b7f07",
+      "name": "misrepresenting fog",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "radiation fog",
+      "id": "a72b8741-c0e0-4e21-a941-244e73fd1810",
+      "name": "radiation fog",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "turbulence",
+      "id": "165636ed-086b-4dbd-afd6-8aaa514e3f4d",
+      "name": "turbulence",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

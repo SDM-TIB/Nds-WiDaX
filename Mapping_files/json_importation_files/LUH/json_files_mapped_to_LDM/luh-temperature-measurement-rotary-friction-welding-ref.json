@@ -1,82 +1,107 @@
 {
-    "authors": "Norman Mohnfeld",
-    "doi": "10.25835/r2534sqw",
-    "doi_date_published": "2023-02-13",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-SA-4.0",
-    "license_title": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
-    "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-    "maintainer": "Norman Mohnfeld",
-    "maintainer_email": "mohnfeld@ifum.uni-hannover.de",
-    "source_metadata_created": "2023-02-13T12:09:56.138067",
-    "source_metadata_modified": "2024-01-05T10:41:16.851611",
-    "metadata_modified": "2024-01-05T10:41:16.851611",
-    "name": "luh-temperature-measurement-rotary-friction-welding-ref",
-    "notes": "Temperature measurement Rotary friction welding for Reference experiments ",
-    "num_resources": 1,
-    "num_tags": 3,
-    "organization": {
-        "id": "da0f1857-3f86-42fd-8369-367c5b4f051d",
-        "name": "sfb_1153",
-        "title": "SFB 1153",
-        "type": "organization",
-        "description": "",
-        "image_url": "",
-        "created": "2023-01-10T17:20:37.952772",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/r2534sqw",
+  "doi_date_published": "2023-02-13",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "77b18095-e4f7-410d-9439-f19546a6101e",
+  "isopen": false,
+  "license_id": "CC-BY-NC-SA-4.0",
+  "license_title": "CC-BY-NC-SA-4.0",
+  "maintainer": "Norman Mohnfeld",
+  "maintainer_email": "mohnfeld@ifum.uni-hannover.de",
+  "metadata_created": "2026-08-12T10:24:04.270834",
+  "metadata_modified": "2026-08-12T10:24:04.270841",
+  "name": "luh-temperature-measurement-rotary-friction-welding-ref",
+  "notes": "Temperature measurement Rotary friction welding for Reference experiments ",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "id": "da0f1857-3f86-42fd-8369-367c5b4f051d",
+    "name": "sfb_1153",
+    "title": "SFB 1153",
+    "type": "organization",
+    "description": "",
+    "image_url": "",
+    "created": "2026-08-12T09:48:27.983055",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "da0f1857-3f86-42fd-8369-367c5b4f051d",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2023-02-13T12:09:56.138067",
+  "source_metadata_modified": "2024-01-05T10:41:16.851611",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Temperature measurement Rotary friction welding 1setup",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/temperature-measurement-rotary-friction-welding-ref",
+  "version": "",
+  "authors": [
+    {
+      "author": "Mohnfeld, Norman",
+      "familyName": "Mohnfeld",
+      "givenName": "Norman",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2023-02-12T23:00:08.069832",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "XLSX",
+      "hash": "",
+      "id": "e1696f95-eb1c-405f-821e-d5b277121bf8",
+      "last_modified": "2023-02-13T12:09:58.141629",
+      "metadata_modified": "2026-08-12T10:24:04.262994",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "name": "Temp_Referen_NR1-5.xlsx",
+      "package_id": "77b18095-e4f7-410d-9439-f19546a6101e",
+      "position": 0,
+      "resource_type": null,
+      "size": 8477040,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/7df6629c-def1-450c-87fd-4b36a745a8f0/resource/38ca57c4-ceb3-44c3-ba0a-a9c06a7b419a/download/upload",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Friction Welding",
+      "id": "fe858ed9-1e34-4e9f-b032-b8645013e5e1",
+      "name": "Friction Welding",
+      "state": "active",
+      "vocabulary_id": null
     },
-    "owner_org": "sfb_1153",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Friction Welding",
-            "id": "13229aab-d9cb-4354-bfd9-4c55b180c8c0",
-            "name": "Friction Welding",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Multi-Material",
-            "id": "6330bbf5-494e-4af1-8b87-71de80fa129f",
-            "name": "Multi-Material",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Temperature Measurement",
-            "id": "27adddfc-55ac-4aa3-bd9b-0365db10350a",
-            "name": "Temperature Measurement",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Temperature measurement Rotary friction welding 1setup",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/temperature-measurement-rotary-friction-welding-ref",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2023-02-12T23:00:08.069832",
-            "description": "",
-            "format": "xlsx",
-            "last_modified": "2023-02-13T12:09:58.141629",
-            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-            "name": "Temp_Referen_NR1-5.xlsx",
-            "position": 0,
-            "size": 8477040,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/7df6629c-def1-450c-87fd-4b36a745a8f0/resource/38ca57c4-ceb3-44c3-ba0a-a9c06a7b419a/download/upload",
-            "url_type": ""
-        }
-    ]
+    {
+      "display_name": "Multi-Material",
+      "id": "496e9907-6b5c-4b68-9ec7-28452f38b679",
+      "name": "Multi-Material",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Temperature Measurement",
+      "id": "145e56d6-d813-482e-947f-a3daa2b3ff6c",
+      "name": "Temperature Measurement",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

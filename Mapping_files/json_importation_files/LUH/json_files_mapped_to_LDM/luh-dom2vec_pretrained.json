@@ -1,89 +1,114 @@
 {
-    "authors": "Damianos P. Melidis",
-    "doi": "10.25835/0039431",
-    "doi_date_published": "2020-10-03",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-SA-3.0",
-    "license_title": "Creative Commons Attribution Share-Alike 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-    "maintainer": "Damianos P. Melidis",
-    "maintainer_email": "damianosmel@gmail.com",
-    "source_metadata_created": "2020-10-03T15:32:02.259053",
-    "source_metadata_modified": "2022-01-20T10:59:08.514445",
-    "metadata_modified": "2022-01-20T10:59:08.514445",
-    "name": "luh-dom2vec_pretrained",
-    "notes": "Pre-trained dom2vec protein domain embeddings used for downstream evaluation discussed in \r\n\"dom2vec: Capturing domain structure and function using self-supervision on protein domain architectures\" (bioRxiv manuscript: [link](https://www.biorxiv.org/content/10.1101/2020.03.17.995498v2)).\r\n\r\nThe domain embeddings were trained using the annotations of InterPro db version 75.0.\r\n\r\n",
-    "num_resources": 1,
-    "num_tags": 4,
-    "organization": {
-        "id": "00c8f767-81fd-41ae-9235-dd4d1d43221c",
-        "name": "l3s",
-        "title": "L3S",
-        "type": "organization",
-        "description": "# Forschungszentrum L3S\r\n\r\nhttps://www.l3s.de/",
-        "image_url": "https://www.l3s.de/wp-content/uploads/2024/11/LS3-Logo-2024.png",
-        "created": "2019-10-23T10:47:47.942041",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/0039431",
+  "doi_date_published": "2020-10-03",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "e80ff49b-b18a-4750-a506-c81bd1e14ec1",
+  "isopen": false,
+  "license_id": "CC-BY-SA-3.0",
+  "license_title": "CC-BY-SA-3.0",
+  "maintainer": "Damianos P. Melidis",
+  "maintainer_email": "damianosmel@gmail.com",
+  "metadata_created": "2026-08-12T09:58:03.800900",
+  "metadata_modified": "2026-08-12T09:58:03.800905",
+  "name": "luh-dom2vec_pretrained",
+  "notes": "Pre-trained dom2vec protein domain embeddings used for downstream evaluation discussed in \r\n\"dom2vec: Capturing domain structure and function using self-supervision on protein domain architectures\" (bioRxiv manuscript: [link](https://www.biorxiv.org/content/10.1101/2020.03.17.995498v2)).\r\n\r\nThe domain embeddings were trained using the annotations of InterPro db version 75.0.\r\n\r\n",
+  "num_resources": 1,
+  "num_tags": 4,
+  "organization": {
+    "id": "00c8f767-81fd-41ae-9235-dd4d1d43221c",
+    "name": "l3s",
+    "title": "L3S",
+    "type": "organization",
+    "description": "# Forschungszentrum L3S\r\n\r\nhttps://www.l3s.de/",
+    "image_url": "https://www.l3s.de/wp-content/uploads/2024/11/LS3-Logo-2024.png",
+    "created": "2026-08-12T09:57:59.431441",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "00c8f767-81fd-41ae-9235-dd4d1d43221c",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2020-10-03T15:32:02.259053",
+  "source_metadata_modified": "2022-01-20T10:59:08.514445",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "dom2vec: Protein domain embeddings",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/dom2vec_pretrained",
+  "version": "InterPro v. 75.0",
+  "authors": [
+    {
+      "author": "Melidis, Damianos P.",
+      "familyName": "Melidis",
+      "givenName": "Damianos P.",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-10-03T15:57:24.151184",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "# dom2vec pretrained embeddings\r\n \r\n* version: from protein annotations of Interpro db version 75.0.\r\n* domain annotations: non-redundant plus the GAP domains (for details see manuscript)\r\n* usage: please see the example downstream evaluation steps at [github](https://github.com/damianosmel/dom2vec#downstream-evaluation)",
+      "format": "targz",
+      "hash": "",
+      "id": "12813747-1711-43ba-a665-b96835d5fc1e",
+      "last_modified": "2020-10-03T15:57:24.112760",
+      "metadata_modified": "2026-08-12T09:58:03.792283",
+      "mimetype": "application/x-tar",
+      "mimetype_inner": null,
+      "name": "dom2vec_pretrained_interpro_v75",
+      "package_id": "e80ff49b-b18a-4750-a506-c81bd1e14ec1",
+      "position": 0,
+      "resource_type": null,
+      "size": 44440026,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/cf1be2a3-5c87-4c23-9e97-6b76ba7dc26c/resource/1de03f40-e8f5-47e6-bb97-efa6823d6c86/download/dom2vec_non_redundant_gap_interpro75.tar.gz",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "bioinformatics",
+      "id": "ad8af45b-556d-4e55-9f70-536f602af4cc",
+      "name": "bioinformatics",
+      "state": "active",
+      "vocabulary_id": null
     },
-    "owner_org": "l3s",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "bioinformatics",
-            "id": "26998f6f-951e-4843-b639-ece18c35a6d3",
-            "name": "bioinformatics",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "embeddings",
-            "id": "c2b95e89-b479-4b20-8720-43344c523ef1",
-            "name": "embeddings",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "protein_domains",
-            "id": "dc94e331-f2e9-4925-b9d7-fb0056e9b68e",
-            "name": "protein_domains",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "proteins",
-            "id": "a69cf2ce-1073-4bd1-ad4a-911c136b6cbb",
-            "name": "proteins",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "dom2vec: Protein domain embeddings",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/dom2vec_pretrained",
-    "version": "InterPro v. 75.0",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2020-10-03T15:57:24.151184",
-            "description": "# dom2vec pretrained embeddings\r\n \r\n* version: from protein annotations of Interpro db version 75.0.\r\n* domain annotations: non-redundant plus the GAP domains (for details see manuscript)\r\n* usage: please see the example downstream evaluation steps at [github](https://github.com/damianosmel/dom2vec#downstream-evaluation)",
-            "format": "targz",
-            "last_modified": "2020-10-03T15:57:24.112760",
-            "mimetype": "application/x-tar",
-            "name": "dom2vec_pretrained_interpro_v75",
-            "position": 0,
-            "size": 44440026,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/cf1be2a3-5c87-4c23-9e97-6b76ba7dc26c/resource/1de03f40-e8f5-47e6-bb97-efa6823d6c86/download/dom2vec_non_redundant_gap_interpro75.tar.gz",
-            "url_type": ""
-        }
-    ]
+    {
+      "display_name": "embeddings",
+      "id": "f797e5b2-b08a-4190-956c-74e17f599903",
+      "name": "embeddings",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "protein_domains",
+      "id": "dac20957-fa7f-4183-bf29-f73b9f7a8c85",
+      "name": "protein_domains",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "proteins",
+      "id": "d40a1f9b-c4b2-4395-a477-8b084b2428e9",
+      "name": "proteins",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

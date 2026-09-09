@@ -1,82 +1,107 @@
 {
-    "authors": "Mohamad Yaser Jaradeh",
-    "doi": "10.25835/0038751",
-    "doi_date_published": "2020-03-28",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-3.0",
-    "license_title": "Creative Commons Attribution 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0/",
-    "maintainer": "Mohamad Yaser Jaradeh",
-    "maintainer_email": "jaradeh@l3s.de",
-    "source_metadata_created": "2020-03-28T13:27:28.895562",
-    "source_metadata_modified": "2022-01-20T10:59:49.865679",
-    "metadata_modified": "2022-01-20T10:59:49.865679",
-    "name": "luh-orkg-qa-table-dataset",
-    "notes": "A collection of tables collected from the open research knowledge graph (ORKG) infrastructure, with a set of questions about these tables.",
-    "num_resources": 1,
-    "num_tags": 3,
-    "organization": {
-        "id": "00c8f767-81fd-41ae-9235-dd4d1d43221c",
-        "name": "l3s",
-        "title": "L3S",
-        "type": "organization",
-        "description": "# Forschungszentrum L3S\r\n\r\nhttps://www.l3s.de/",
-        "image_url": "https://www.l3s.de/wp-content/uploads/2024/11/LS3-Logo-2024.png",
-        "created": "2019-10-23T10:47:47.942041",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/0038751",
+  "doi_date_published": "2020-03-28",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "372d44f7-1f4c-41f4-a06e-c1ee5dd6e407",
+  "isopen": false,
+  "license_id": "CC-BY-3.0",
+  "license_title": "CC-BY-3.0",
+  "maintainer": "Mohamad Yaser Jaradeh",
+  "maintainer_email": "jaradeh@l3s.de",
+  "metadata_created": "2026-08-12T10:12:36.013164",
+  "metadata_modified": "2026-08-12T10:12:36.013172",
+  "name": "luh-orkg-qa-table-dataset",
+  "notes": "A collection of tables collected from the open research knowledge graph (ORKG) infrastructure, with a set of questions about these tables.",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "id": "00c8f767-81fd-41ae-9235-dd4d1d43221c",
+    "name": "l3s",
+    "title": "L3S",
+    "type": "organization",
+    "description": "# Forschungszentrum L3S\r\n\r\nhttps://www.l3s.de/",
+    "image_url": "https://www.l3s.de/wp-content/uploads/2024/11/LS3-Logo-2024.png",
+    "created": "2026-08-12T09:57:59.431441",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "00c8f767-81fd-41ae-9235-dd4d1d43221c",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2020-03-28T13:27:28.895562",
+  "source_metadata_modified": "2022-01-20T10:59:49.865679",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "ORKG QA table dataset",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/orkg-qa-table-dataset",
+  "version": "1.0",
+  "authors": [
+    {
+      "author": "Jaradeh, Mohamad Yaser",
+      "familyName": "Jaradeh",
+      "givenName": "Mohamad Yaser",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2020-03-28T13:29:46.945846",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "collection of tables and question in csv format",
+      "format": "CSV",
+      "hash": "",
+      "id": "60d6b46d-b826-4183-b4e2-7927a7756260",
+      "last_modified": "2020-03-28T13:29:46.881336",
+      "metadata_modified": "2026-08-12T10:12:36.005505",
+      "mimetype": "application/zip",
+      "mimetype_inner": null,
+      "name": "orkg-qa-dataset-v1.0.zip",
+      "package_id": "372d44f7-1f4c-41f4-a06e-c1ee5dd6e407",
+      "position": 0,
+      "resource_type": null,
+      "size": 16843,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/7c663b09-c6f6-4ee6-b28c-73a5a56dd7ba/resource/dd6080b2-7eff-42a1-8048-8cae31808b9b/download/orkg-qa-dataset-v1.0.zip",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "dataset",
+      "id": "6a47248e-b78c-4870-a129-c4b798a8922c",
+      "name": "dataset",
+      "state": "active",
+      "vocabulary_id": null
     },
-    "owner_org": "l3s",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "dataset",
-            "id": "cf080a26-5674-4ffa-b802-b998e16847e8",
-            "name": "dataset",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "orkg",
-            "id": "2a630ff8-64cd-464d-ac7e-af06dee3fbf6",
-            "name": "orkg",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "question-answering",
-            "id": "5355a096-4786-4b7a-a7a2-d59dcc9bd8ee",
-            "name": "question-answering",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "ORKG QA table dataset",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/orkg-qa-table-dataset",
-    "version": "1.0",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2020-03-28T13:29:46.945846",
-            "description": "collection of tables and question in csv format",
-            "format": "csv",
-            "last_modified": "2020-03-28T13:29:46.881336",
-            "mimetype": "application/zip",
-            "name": "orkg-qa-dataset-v1.0.zip",
-            "position": 0,
-            "size": 16843,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/7c663b09-c6f6-4ee6-b28c-73a5a56dd7ba/resource/dd6080b2-7eff-42a1-8048-8cae31808b9b/download/orkg-qa-dataset-v1.0.zip",
-            "url_type": ""
-        }
-    ]
+    {
+      "display_name": "orkg",
+      "id": "c63ae0d3-ed95-4363-a090-41aa7b2b157f",
+      "name": "orkg",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "question-answering",
+      "id": "2b34ed70-54d4-415f-acdc-13e1e554aec4",
+      "name": "question-answering",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

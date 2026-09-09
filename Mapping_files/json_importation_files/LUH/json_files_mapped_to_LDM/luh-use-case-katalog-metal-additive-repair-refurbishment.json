@@ -1,110 +1,135 @@
 {
-    "authors": "Nicola Viktoria Ganter",
-    "doi": "10.25835/8q5nwt4p",
-    "doi_date_published": "2023-03-22",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "CC-BY-3.0",
-    "license_title": "Creative Commons Attribution 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0/",
-    "maintainer": "Nicola Viktoria Ganter",
-    "maintainer_email": "",
-    "source_metadata_created": "2023-03-22T10:28:09.157596",
-    "source_metadata_modified": "2023-03-22T12:00:34.500174",
-    "metadata_modified": "2023-03-22T12:00:34.500174",
-    "name": "luh-use-case-katalog-metal-additive-repair-refurbishment",
-    "notes": "In dem Katalog werden Anwendungsf\u00e4lle der Reparatur und Modernisierung von metallischen Bauteilen mittels additiver Fertigungsverfahren zusammengefasst. Der Katalog stellt eine Hilfestellung f\u00fcr Anwender*innen dar, um f\u00fcr ein vorliegendes Bauteil ein geeignetes additives Verfahren auszuw\u00e4hlen und die weiteren Schritte der Prozesskette zu identifizieren. Der Aufbau des Katalogs entspricht einem Konstruktionskatalog nach Roth (2000, 2001) mit einem Gliederungsteil, einem Hauptteil, einem Zugriffsteil sowie einem Anhang. Im Gliederungsteil und Zugriffsteil wird das Bauteil spezifiziert und im Anhang wird die durchgef\u00fchrte Prozesskette zur Reparatur oder Modernisierung dargestellt. \r\n\r\nDer Katalog wurde im Rahmen des Forschungsprojekts RePARE erstellt. Das Vorhaben wird mit Mitteln des Bundesministeriums f\u00fcr Bildung und Forschung in der F\u00f6rderma\u00dfnahme Ressourceneffiziente Kreislaufwirtschaft \u2013 Innovative Produktkreisl\u00e4ufe (ReziProK) unter dem F\u00f6rderkennzeichen 033R229B gef\u00f6rdert. Die Verantwortung f\u00fcr den Inhalt dieser Ver\u00f6ffentlichung liegt bei den Autoren.\r\n\r\n\r\nRoth, K. (2000), Konstruieren mit Konstruktionskatalogen: Band 1: Konstruktionslehre, 3. Auflage, erweitert und neu gestaltet, Springer, Berlin. \r\n\r\nRoth, K. (2001), Konstruieren mit Konstruktionskatalogen: Band 2: Kataloge, 3. Aufl., Springer Berlin Heidelberg, Berlin, Heidelberg.",
-    "num_resources": 1,
-    "num_tags": 7,
-    "organization": {
-        "id": "07fc393b-f95c-45a9-9eda-618c5a0db319",
-        "name": "institut-fur-produktentwicklung-und-geratebau",
-        "title": "Institut f\u00fcr Produktentwicklung und Ger\u00e4tebau",
-        "type": "organization",
-        "description": "Geb\u00e4ude 8143\r\n\r\nAn der Universit\u00e4t 1\r\n\r\n**30823 Garbsen**\r\n\r\nhttp://ipeg.uni-hannover.de/",
-        "image_url": "https://www.ipeg.uni-hannover.de/fileadmin/site-templates/logos/ipeg/IPeG_Logo.png",
-        "created": "2021-05-20T15:24:18.740575",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/8q5nwt4p",
+  "doi_date_published": "2023-03-22",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "10eb36e8-1cd4-4eaa-b530-160477137e50",
+  "isopen": false,
+  "license_id": "CC-BY-3.0",
+  "license_title": "CC-BY-3.0",
+  "maintainer": "Nicola Viktoria Ganter",
+  "maintainer_email": "",
+  "metadata_created": "2026-08-12T10:27:51.351098",
+  "metadata_modified": "2026-08-12T10:27:51.351106",
+  "name": "luh-use-case-katalog-metal-additive-repair-refurbishment",
+  "notes": "In dem Katalog werden Anwendungsfälle der Reparatur und Modernisierung von metallischen Bauteilen mittels additiver Fertigungsverfahren zusammengefasst. Der Katalog stellt eine Hilfestellung für Anwender*innen dar, um für ein vorliegendes Bauteil ein geeignetes additives Verfahren auszuwählen und die weiteren Schritte der Prozesskette zu identifizieren. Der Aufbau des Katalogs entspricht einem Konstruktionskatalog nach Roth (2000, 2001) mit einem Gliederungsteil, einem Hauptteil, einem Zugriffsteil sowie einem Anhang. Im Gliederungsteil und Zugriffsteil wird das Bauteil spezifiziert und im Anhang wird die durchgeführte Prozesskette zur Reparatur oder Modernisierung dargestellt. \r\n\r\nDer Katalog wurde im Rahmen des Forschungsprojekts RePARE erstellt. Das Vorhaben wird mit Mitteln des Bundesministeriums für Bildung und Forschung in der Fördermaßnahme Ressourceneffiziente Kreislaufwirtschaft – Innovative Produktkreisläufe (ReziProK) unter dem Förderkennzeichen 033R229B gefördert. Die Verantwortung für den Inhalt dieser Veröffentlichung liegt bei den Autoren.\r\n\r\n\r\nRoth, K. (2000), Konstruieren mit Konstruktionskatalogen: Band 1: Konstruktionslehre, 3. Auflage, erweitert und neu gestaltet, Springer, Berlin. \r\n\r\nRoth, K. (2001), Konstruieren mit Konstruktionskatalogen: Band 2: Kataloge, 3. Aufl., Springer Berlin Heidelberg, Berlin, Heidelberg.",
+  "num_resources": 1,
+  "num_tags": 7,
+  "organization": {
+    "id": "07fc393b-f95c-45a9-9eda-618c5a0db319",
+    "name": "institut-fur-produktentwicklung-und-geratebau",
+    "title": "Institut für Produktentwicklung und Gerätebau",
+    "type": "organization",
+    "description": "Gebäude 8143\r\n\r\nAn der Universität 1\r\n\r\n**30823 Garbsen**\r\n\r\nhttp://ipeg.uni-hannover.de/",
+    "image_url": "https://www.ipeg.uni-hannover.de/fileadmin/site-templates/logos/ipeg/IPeG_Logo.png",
+    "created": "2026-08-12T08:11:08.398385",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "07fc393b-f95c-45a9-9eda-618c5a0db319",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2023-03-22T10:28:09.157596",
+  "source_metadata_modified": "2023-03-22T12:00:34.500174",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Use-Case-Katalog Metal Additive Repair/Refurbishment",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/use-case-katalog-metal-additive-repair-refurbishment",
+  "version": "1.0",
+  "authors": [
+    {
+      "author": "Ganter, Nicola Viktoria",
+      "familyName": "Ganter",
+      "givenName": "Nicola Viktoria",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2023-03-22T11:52:02.138401",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "Zweck des Katalog: In dem Katalog werden Anwendungsfälle der Reparatur und Modernisierung von metallischen Bauteilen mittels additiver Fertigungsverfahren zusammengefasst. Der Katalog stellt eine Hilfestellung für Anwender*innen dar, um für ein vorliegendes Bauteil ein geeignetes additives Verfahren auszuwählen und die weiteren Schritte der Prozesskette zu identifizieren.\r\nInhalt: Metallische Bauteile, welche durch eine Prozesskette, die einen additiven Materialauftrag enthält instandgesetzt oder modernisiert wurden. Die Informationen und Bilder stammen aus der Quelle / den Quellen, die in der jeweiligen Zeile angegeben wird/werden. \r\n\r\n\r\nDieser Katalog wurde im Rahmen des Forschungsprojekts RePARE erstellt. Das Vorhaben wird mit Mitteln des Bundesministeriums für Bildung und Forschung im Rahmen der Fördermaßnahme Ressourceneffiziente Kreislaufwirtschaft – Innovative Produktkreisläufe (ReziProK) unter dem Förderkennzeichen 033R229B gefördert. Die Verantwortung für den Inhalt dieser Veröffentlichung liegt bei den Autoren.",
+      "format": "XLSX",
+      "hash": "",
+      "id": "1fa0a227-b806-4dc3-acbd-5ddae8b98e11",
+      "last_modified": "2023-03-22T11:55:37.963693",
+      "metadata_modified": "2026-08-12T10:27:51.338833",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "mimetype_inner": null,
+      "name": "2023_03_22_Konstruktionskatalog.xlsx",
+      "package_id": "10eb36e8-1cd4-4eaa-b530-160477137e50",
+      "position": 0,
+      "resource_type": null,
+      "size": 51312213,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/8a9fe50d-3ad9-42b9-ae60-5a2280765fe3/resource/1f6f8605-6d95-411c-b1b3-2feee1242bd1/download/2023_03_22_konstruktionskatalog.xlsx",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Additive Manufacturing",
+      "id": "dcfff5af-52bc-48a3-a8a9-b7260f78ffe2",
+      "name": "Additive Manufacturing",
+      "state": "active",
+      "vocabulary_id": null
     },
-    "owner_org": "institut-fur-produktentwicklung-und-geratebau",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Additive Manufacturing",
-            "id": "40bc3d93-8f1a-4a72-a6d5-ff03701d8874",
-            "name": "Additive Manufacturing",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Additive Refurbishment",
-            "id": "5cdf775b-d042-4449-b22a-dfb348c22838",
-            "name": "Additive Refurbishment",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Additive Remanufacturing",
-            "id": "17791de7-09b1-499a-88b1-6b11f8050afd",
-            "name": "Additive Remanufacturing",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Additive Repair",
-            "id": "f1a43f38-7346-4caf-8ace-46fec4becd52",
-            "name": "Additive Repair",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Cold Spray",
-            "id": "899360f6-c6af-4f58-8467-ff33a274fad3",
-            "name": "Cold Spray",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Direct Energy Deposition",
-            "id": "3b07f2b1-b90e-4f2a-957f-68f02ac309f6",
-            "name": "Direct Energy Deposition",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Powder Bed Fusion",
-            "id": "940accae-a382-437d-b9f3-610296e87fbf",
-            "name": "Powder Bed Fusion",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Use-Case-Katalog Metal Additive Repair/Refurbishment",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/use-case-katalog-metal-additive-repair-refurbishment",
-    "version": "1.0",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2023-03-22T11:52:02.138401",
-            "description": "Zweck des Katalog: In dem Katalog werden Anwendungsf\u00e4lle der Reparatur und Modernisierung von metallischen Bauteilen mittels additiver Fertigungsverfahren zusammengefasst. Der Katalog stellt eine Hilfestellung f\u00fcr Anwender*innen dar, um f\u00fcr ein vorliegendes Bauteil ein geeignetes additives Verfahren auszuw\u00e4hlen und die weiteren Schritte der Prozesskette zu identifizieren.\r\nInhalt: Metallische Bauteile, welche durch eine Prozesskette, die einen additiven Materialauftrag enth\u00e4lt instandgesetzt oder modernisiert wurden. Die Informationen und Bilder stammen aus der Quelle / den Quellen, die in der jeweiligen Zeile angegeben wird/werden. \r\n\r\n\r\nDieser Katalog wurde im Rahmen des Forschungsprojekts RePARE erstellt. Das Vorhaben wird mit Mitteln des Bundesministeriums f\u00fcr Bildung und Forschung im Rahmen der F\u00f6rderma\u00dfnahme Ressourceneffiziente Kreislaufwirtschaft \u2013 Innovative Produktkreisl\u00e4ufe (ReziProK) unter dem F\u00f6rderkennzeichen 033R229B gef\u00f6rdert. Die Verantwortung f\u00fcr den Inhalt dieser Ver\u00f6ffentlichung liegt bei den Autoren.",
-            "format": "xlsx",
-            "last_modified": "2023-03-22T11:55:37.963693",
-            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-            "name": "2023_03_22_Konstruktionskatalog.xlsx",
-            "position": 0,
-            "size": 51312213,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/8a9fe50d-3ad9-42b9-ae60-5a2280765fe3/resource/1f6f8605-6d95-411c-b1b3-2feee1242bd1/download/2023_03_22_konstruktionskatalog.xlsx",
-            "url_type": ""
-        }
-    ]
+    {
+      "display_name": "Additive Refurbishment",
+      "id": "943a3e57-ad90-488a-8bc5-9cb88310d55c",
+      "name": "Additive Refurbishment",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Additive Remanufacturing",
+      "id": "38a61b68-e81c-4d45-9a91-69d3a81ad7c1",
+      "name": "Additive Remanufacturing",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Additive Repair",
+      "id": "a47505fe-78ee-4c01-8627-06adacc830ea",
+      "name": "Additive Repair",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Cold Spray",
+      "id": "52dfe14e-5192-4050-a70c-79462c91d389",
+      "name": "Cold Spray",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Direct Energy Deposition",
+      "id": "079c3e2d-a539-4314-9be2-45a2589cfe5c",
+      "name": "Direct Energy Deposition",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Powder Bed Fusion",
+      "id": "9d03b994-aa62-42f5-8c39-38c4b5d9fe94",
+      "name": "Powder Bed Fusion",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

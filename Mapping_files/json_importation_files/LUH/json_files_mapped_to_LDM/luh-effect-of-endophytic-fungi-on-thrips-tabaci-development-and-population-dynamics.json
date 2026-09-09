@@ -1,102 +1,140 @@
 {
-    "authors": "Noc Anh Vu, Sevgan Subramanian, Rainer Meyh\u00f6fer",
-    "doi": "10.25835/ivm37tff",
-    "doi_date_published": "2025-07-14",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": false,
-    "license_id": "CC-BY-NC-3.0",
-    "license_title": "Creative Commons Attribution-NonCommercial 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-nc/3.0/",
-    "maintainer": "Rainer Meyh\u00f6fer",
-    "maintainer_email": "meyhoefer@ipp.uni-hannover.de",
-    "source_metadata_created": "2025-07-14T13:10:49.487546",
-    "source_metadata_modified": "2026-02-06T07:54:10.049156",
-    "metadata_modified": "2026-02-06T07:54:10.049156",
-    "name": "luh-effect-of-endophytic-fungi-on-thrips-tabaci-development-and-population-dynamics",
-    "notes": "All data are analysed and published 2026 under the title \"Effect of endophytic fungi on Thrips tabaci development and population dynamics\" submitted to Journal of Applied Entomology\r\nDetailed methods of data collection and analyses are desribed in the paper. The files were created by MS Excel 2016.\r\n",
-    "num_resources": 1,
-    "num_tags": 6,
-    "organization": {
-        "id": "5545f6e7-8138-40cc-8f55-021021d90eb3",
-        "name": "institut-fur-gartenbauliche-produktionssysteme",
-        "title": "Institut f\u00fcr Gartenbauliche Produktionssysteme",
-        "type": "organization",
-        "description": "\r\nhttps://www.igps.uni-hannover.de/",
-        "image_url": "",
-        "created": "2019-06-14T13:58:42.735622",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/ivm37tff",
+  "doi_date_published": "2025-07-14",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "0a033ef3-d204-4c3f-bcdd-949297d24402",
+  "isopen": false,
+  "license_id": "CC-BY-NC-3.0",
+  "license_title": "CC-BY-NC-3.0",
+  "maintainer": "Rainer Meyhöfer",
+  "maintainer_email": "meyhoefer@ipp.uni-hannover.de",
+  "metadata_created": "2026-08-12T09:58:19.188648",
+  "metadata_modified": "2026-08-12T09:58:19.188653",
+  "name": "luh-effect-of-endophytic-fungi-on-thrips-tabaci-development-and-population-dynamics",
+  "notes": "All data are analysed and published 2026 under the title \"Effect of endophytic fungi on Thrips tabaci development and population dynamics\" submitted to Journal of Applied Entomology\r\nDetailed methods of data collection and analyses are desribed in the paper. The files were created by MS Excel 2016.\r\n",
+  "num_resources": 1,
+  "num_tags": 6,
+  "organization": {
+    "id": "5545f6e7-8138-40cc-8f55-021021d90eb3",
+    "name": "institut-fur-gartenbauliche-produktionssysteme",
+    "title": "Institut für Gartenbauliche Produktionssysteme",
+    "type": "organization",
+    "description": "\r\nhttps://www.igps.uni-hannover.de/",
+    "image_url": "",
+    "created": "2026-08-12T09:49:21.807200",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "5545f6e7-8138-40cc-8f55-021021d90eb3",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2025-07-14T13:10:49.487546",
+  "source_metadata_modified": "2026-02-06T07:54:10.049156",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "Effect of endophytic fungi on Thrips tabaci development and population dynamics",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/effect-of-endophytic-fungi-on-thrips-tabaci-development-and-population-dynamics",
+  "version": "",
+  "authors": [
+    {
+      "author": "Vu, Noc Anh",
+      "familyName": "Vu",
+      "givenName": "Noc Anh",
+      "orcid": ""
     },
-    "owner_org": "institut-fur-gartenbauliche-produktionssysteme",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "Fungal endophytes",
-            "id": "2394c8df-8c8a-4608-b696-35254bb08bc2",
-            "name": "Fungal endophytes",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "feeding behaviour",
-            "id": "0a5bed0a-168c-4b53-b5ad-95bae853b025",
-            "name": "feeding behaviour",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "onion thrips",
-            "id": "ee96a0a6-0d0d-4026-939b-082bbd25d168",
-            "name": "onion thrips",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "oviposition",
-            "id": "512392dd-61cd-4ed7-9698-a54b6e435f82",
-            "name": "oviposition",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "population development",
-            "id": "4e7df914-260d-476b-929a-b04642408223",
-            "name": "population development",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "systemic effects",
-            "id": "44158c7f-73a5-401c-b2b1-d91338a10808",
-            "name": "systemic effects",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "Effect of endophytic fungi on Thrips tabaci development and population dynamics",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/effect-of-endophytic-fungi-on-thrips-tabaci-development-and-population-dynamics",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2025-07-14T13:19:55.510392",
-            "description": "",
-            "format": "xlsx",
-            "last_modified": "2025-07-14T13:19:55.428895",
-            "name": "Anh Vu et al Endophyte effects population development Thrips tabaci 2025 data.xlsx",
-            "position": 0,
-            "size": 21313,
-            "state": "active",
-            "url": "https://data.uni-hannover.de/dataset/f55c4a4e-f2d1-4ebb-97e7-4d5b68402c00/resource/61a22d33-9cfe-4ab9-b4ef-42fcbb718424/download/anh-vu-et-al-endophyte-effects-population-development-thrips-tabaci-2025-data.xlsx",
-            "url_type": ""
-        }
-    ]
+    {
+      "author": "Subramanian, Sevgan",
+      "familyName": "Subramanian",
+      "givenName": "Sevgan",
+      "orcid": ""
+    },
+    {
+      "author": "Meyhöfer, Rainer",
+      "familyName": "Meyhöfer",
+      "givenName": "Rainer",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2025-07-14T13:19:55.510392",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "XLSX",
+      "hash": "",
+      "id": "08f64494-48ed-4760-9e98-5ccff0f24363",
+      "last_modified": "2025-07-14T13:19:55.428895",
+      "metadata_modified": "2026-08-12T09:58:19.177979",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "Anh Vu et al Endophyte effects population development Thrips tabaci 2025 data.xlsx",
+      "package_id": "0a033ef3-d204-4c3f-bcdd-949297d24402",
+      "position": 0,
+      "resource_type": null,
+      "size": 21313,
+      "state": "active",
+      "url": "https://data.uni-hannover.de/dataset/f55c4a4e-f2d1-4ebb-97e7-4d5b68402c00/resource/61a22d33-9cfe-4ab9-b4ef-42fcbb718424/download/anh-vu-et-al-endophyte-effects-population-development-thrips-tabaci-2025-data.xlsx",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "Fungal endophytes",
+      "id": "3c2fb0b5-e99f-480f-9227-e7b1067677f6",
+      "name": "Fungal endophytes",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "feeding behaviour",
+      "id": "85f1a8a2-56e6-4b97-8cbb-c7e50ee36cb6",
+      "name": "feeding behaviour",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "onion thrips",
+      "id": "26f0a16d-9dc8-42e8-8c01-84851a801cbf",
+      "name": "onion thrips",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "oviposition",
+      "id": "eb1e9d5e-1a39-435c-ab9d-5c08a77ead64",
+      "name": "oviposition",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "population development",
+      "id": "586eb9fc-904b-4a91-9096-24b0c8923d83",
+      "name": "population development",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "systemic effects",
+      "id": "f3943ab0-683f-470d-bee4-4b49951b94ad",
+      "name": "systemic effects",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }

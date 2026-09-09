@@ -1,79 +1,107 @@
 {
-    "authors": "Ferdinand Lange",
-    "doi": "10.25835/8orsl0ar",
-    "doi_date_published": "2025-09-08",
-    "doi_publisher": "LUIS",
-    "doi_status": true,
-    "domain": "https://data.uni-hannover.de",
-    "have_copyright": "Yes",
-    "isopen": true,
-    "license_id": "MIT",
-    "license_title": "MIT License",
-    "license_url": "https://opensource.org/licenses/MIT",
-    "maintainer": "Ferdinand Lange",
-    "maintainer_email": "",
-    "source_metadata_created": "2025-09-08T09:15:21.804107",
-    "source_metadata_modified": "2025-09-08T09:16:15.578771",
-    "metadata_modified": "2025-09-08T09:16:15.578771",
-    "name": "luh-tty2eth-firmware",
-    "notes": "This project contains the management module firmware of the Gateway-Module-v3.",
-    "num_resources": 1,
-    "num_tags": 3,
-    "organization": {
-        "id": "dd49f83e-2c83-43fd-ad9d-b4b22ee6e968",
-        "name": "institut-fur-technische-chemie",
-        "title": "Institut f\u00fcr Technische Chemie",
-        "type": "organization",
-        "description": "https://www.tci.uni-hannover.de/",
-        "image_url": "",
-        "created": "2018-02-13T16:16:22.317630",
-        "is_organization": true,
-        "approval_status": "approved",
-        "state": "active"
+  "author": null,
+  "author_email": null,
+  "citation": [],
+  "creator_user_id": "c5556ba4-dd81-4dec-96c4-0b68760c0d7c",
+  "doi": "10.25835/8orsl0ar",
+  "doi_date_published": "2025-09-08",
+  "doi_publisher": "LUIS",
+  "doi_status": "true",
+  "domain": "https://data.uni-hannover.de",
+  "have_copyright": "Yes",
+  "id": "88a863ee-a3e1-4772-8504-734812e55a24",
+  "isopen": false,
+  "license_id": "MIT",
+  "license_title": "MIT",
+  "maintainer": "Ferdinand Lange",
+  "maintainer_email": "",
+  "metadata_created": "2026-08-12T10:26:35.918894",
+  "metadata_modified": "2026-08-12T10:26:35.918906",
+  "name": "luh-tty2eth-firmware",
+  "notes": "This project contains the management module firmware of the Gateway-Module-v3.",
+  "num_resources": 1,
+  "num_tags": 3,
+  "organization": {
+    "id": "dd49f83e-2c83-43fd-ad9d-b4b22ee6e968",
+    "name": "institut-fur-technische-chemie",
+    "title": "Institut für Technische Chemie",
+    "type": "organization",
+    "description": "https://www.tci.uni-hannover.de/",
+    "image_url": "",
+    "created": "2026-08-12T09:51:08.404456",
+    "is_organization": true,
+    "approval_status": "approved",
+    "state": "active"
+  },
+  "owner_org": "dd49f83e-2c83-43fd-ad9d-b4b22ee6e968",
+  "private": false,
+  "repository_name": "Leibniz University Hannover",
+  "services_used_list": "",
+  "source_metadata_created": "2025-09-08T09:15:21.804107",
+  "source_metadata_modified": "2025-09-08T09:16:15.578771",
+  "state": "active",
+  "terms_of_usage": "Yes",
+  "title": "tty2eth-firmware",
+  "type": "dataset",
+  "url": "https://data.uni-hannover.de/dataset/tty2eth-firmware",
+  "version": "",
+  "authors": [
+    {
+      "author": "Lange, Ferdinand",
+      "familyName": "Lange",
+      "givenName": "Ferdinand",
+      "orcid": ""
+    }
+  ],
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "cache_url": null,
+      "created": "2025-09-08T09:16:04.817088",
+      "datastore_active": false,
+      "datastore_contains_all_records_of_source_file": false,
+      "description": "",
+      "format": "",
+      "hash": "",
+      "id": "e2097615-a779-4e55-bc61-4b452fca9859",
+      "last_modified": null,
+      "metadata_modified": "2026-08-12T10:26:35.909262",
+      "mimetype": null,
+      "mimetype_inner": null,
+      "name": "tty2eth-firmware",
+      "package_id": "88a863ee-a3e1-4772-8504-734812e55a24",
+      "position": 0,
+      "resource_type": null,
+      "size": null,
+      "state": "active",
+      "url": "https://github.com/TCI-LUH/tty2eth",
+      "url_type": ""
+    }
+  ],
+  "tags": [
+    {
+      "display_name": "C-Programming",
+      "id": "2e9e81de-db70-4a9c-b14e-6c339f33de65",
+      "name": "C-Programming",
+      "state": "active",
+      "vocabulary_id": null
     },
-    "owner_org": "institut-fur-technische-chemie",
-    "private": false,
-    "state": "active",
-    "tags": [
-        {
-            "display_name": "C-Programming",
-            "id": "4b1d54c3-34a2-4b53-8b3d-3b93b8bf9ab8",
-            "name": "C-Programming",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Gateway Module",
-            "id": "5e8051f8-a6de-4497-9021-ef9a82058b43",
-            "name": "Gateway Module",
-            "state": "active",
-            "vocabulary_id": null
-        },
-        {
-            "display_name": "Microcontroller",
-            "id": "48582bd7-68ed-44cd-b786-d8bc2476ed2c",
-            "name": "Microcontroller",
-            "state": "active",
-            "vocabulary_id": null
-        }
-    ],
-    "terms_of_usage": "Yes",
-    "title": "tty2eth-firmware",
-    "type": "dataset",
-    "url": "https://data.uni-hannover.de/dataset/tty2eth-firmware",
-    "version": "",
-    "repository_name": "Leibniz University Hannover",
-    "citation": [],
-    "resources": [
-        {
-            "created": "2025-09-08T09:16:04.817088",
-            "description": "",
-            "format": "",
-            "name": "tty2eth-firmware",
-            "position": 0,
-            "state": "active",
-            "url": "https://github.com/TCI-LUH/tty2eth",
-            "url_type": ""
-        }
-    ]
+    {
+      "display_name": "Gateway Module",
+      "id": "9e5d055d-4156-4e69-ae57-9c7bfa9afe31",
+      "name": "Gateway Module",
+      "state": "active",
+      "vocabulary_id": null
+    },
+    {
+      "display_name": "Microcontroller",
+      "id": "0b2b46f5-3908-49c0-afda-d4c5ba1b6c3f",
+      "name": "Microcontroller",
+      "state": "active",
+      "vocabulary_id": null
+    }
+  ],
+  "groups": [],
+  "relationships_as_subject": [],
+  "relationships_as_object": []
 }
