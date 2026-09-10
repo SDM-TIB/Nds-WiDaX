@@ -68,8 +68,8 @@ The metadata of the following research data repositories in Lower Saxony is bein
 - Technische Universität Braunschweig: [Publications And Research Data (LeoPARD)](https://leopard.tu-braunschweig.de/)  
 - University of Oldenburg: [Oldenburg Research Data Repository (DARE)](https://dare.uol.de/)  
 - Leuphana University of Lüneburg: [PubData](https://pubdata.leuphana.de/)  
-- Osnabrück University: [osnaData](osnadata.ub.uni-osnabrueck.de/)
-- University of Hildesheim: [HilReDa](data.goettingen-research-online.de/dataverse/hilreda/)
+- Osnabrück University: [osnaData](https://osnadata.ub.uni-osnabrueck.de/)
+- University of Hildesheim: [HilReDa](https://data.goettingen-research-online.de/dataverse/hilreda/)
 
 ![map of included research data repositories in Lower Saxony](./docs/widax_images/map_lower_saxony.png)
 
