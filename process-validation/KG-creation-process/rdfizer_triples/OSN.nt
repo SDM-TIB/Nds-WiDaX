@@ -1,0 +1,554 @@
+<http://localhost:5002/osn-doi-10-26249-fk2-btlaow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-f0d06p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-pk9ydr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-wofnvd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-aqwiwq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-zgvjaj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-dmdlte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-q6uvrm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-otbkkw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-ciaoaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-c0hobn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-xmqouv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-hxwfxj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-amwvwu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-w1izro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-6j6dse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-mxfplv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-ip6trr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-abydfb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-smhp1y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-adqvek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-5ookn8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-yyidke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-zr9vkc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-5axrbj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-t09e72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-oexojh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-asl0bv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-fglg94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-aq02nb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-bfduzo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-skpe8j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-i92bat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-ujwlj2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/osn-doi-10-26249-fk2-lhfbd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset>.
+<http://localhost:5002/Ko%C3%9Fmann%2C%20Cosima> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Ko%C3%9Fmann%2C%20Cosima> <http://www.w3.org/2000/01/rdf-schema#label> "Koßmann, Cosima".
+<http://localhost:5002/Ko%C3%9Fmann%2C%20Cosima> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-btlaow>.
+<http://localhost:5002/Ko%C3%9Fmann%2C%20Cosima> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-6615-5185>.
+<http://localhost:5002/Straatmann%2C%20Tammo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Straatmann%2C%20Tammo> <http://www.w3.org/2000/01/rdf-schema#label> "Straatmann, Tammo".
+<http://localhost:5002/Straatmann%2C%20Tammo> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-btlaow>.
+<http://localhost:5002/Straatmann%2C%20Tammo> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-7439-6165>.
+<http://localhost:5002/M%C3%BCller%2C%20Karsten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/M%C3%BCller%2C%20Karsten> <http://www.w3.org/2000/01/rdf-schema#label> "Müller, Karsten".
+<http://localhost:5002/M%C3%BCller%2C%20Karsten> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-btlaow>.
+<http://localhost:5002/Hamborg%2C%20Kai-Christoph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Hamborg%2C%20Kai-Christoph> <http://www.w3.org/2000/01/rdf-schema#label> "Hamborg, Kai-Christoph".
+<http://localhost:5002/Hamborg%2C%20Kai-Christoph> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-btlaow>.
+<http://localhost:5002/Hamborg%2C%20Kai-Christoph> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-5868-755X>.
+<http://localhost:5002/Pfannstiel%2C%20Anton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Pfannstiel%2C%20Anton> <http://www.w3.org/2000/01/rdf-schema#label> "Pfannstiel, Anton".
+<http://localhost:5002/Pfannstiel%2C%20Anton> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wqcjco>.
+<http://localhost:5002/Hehemann%2C%20Tobias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Hehemann%2C%20Tobias> <http://www.w3.org/2000/01/rdf-schema#label> "Hehemann, Tobias".
+<http://localhost:5002/Hehemann%2C%20Tobias> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wqcjco>.
+<http://localhost:5002/Sch%C3%A4fer%2C%20Nils%20A.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Sch%C3%A4fer%2C%20Nils%20A.> <http://www.w3.org/2000/01/rdf-schema#label> "Schäfer, Nils A.".
+<http://localhost:5002/Sch%C3%A4fer%2C%20Nils%20A.> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wqcjco>.
+<http://localhost:5002/Sanna%2C%20Simone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Sanna%2C%20Simone> <http://www.w3.org/2000/01/rdf-schema#label> "Sanna, Simone".
+<http://localhost:5002/Sanna%2C%20Simone> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wqcjco>.
+<http://localhost:5002/Suhak%2C%20Yuriy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Suhak%2C%20Yuriy> <http://www.w3.org/2000/01/rdf-schema#label> "Suhak, Yuriy".
+<http://localhost:5002/Suhak%2C%20Yuriy> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wqcjco>.
+<http://localhost:5002/Vittadello%2C%20Laura> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Vittadello%2C%20Laura> <http://www.w3.org/2000/01/rdf-schema#label> "Vittadello, Laura".
+<http://localhost:5002/Vittadello%2C%20Laura> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wqcjco>.
+<http://localhost:5002/Sauerwein%2C%20Felix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Sauerwein%2C%20Felix> <http://www.w3.org/2000/01/rdf-schema#label> "Sauerwein, Felix".
+<http://localhost:5002/Sauerwein%2C%20Felix> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wqcjco>.
+<http://localhost:5002/D%C3%B6mer%2C%20Niklas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/D%C3%B6mer%2C%20Niklas> <http://www.w3.org/2000/01/rdf-schema#label> "Dömer, Niklas".
+<http://localhost:5002/D%C3%B6mer%2C%20Niklas> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wqcjco>.
+<http://localhost:5002/Koelmann%2C%20Julian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Koelmann%2C%20Julian> <http://www.w3.org/2000/01/rdf-schema#label> "Koelmann, Julian".
+<http://localhost:5002/Koelmann%2C%20Julian> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wqcjco>.
+<http://localhost:5002/Fritze%2C%20Holger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Fritze%2C%20Holger> <http://www.w3.org/2000/01/rdf-schema#label> "Fritze, Holger".
+<http://localhost:5002/Fritze%2C%20Holger> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wqcjco>.
+<http://localhost:5002/Imlau%2C%20Mirco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Imlau%2C%20Mirco> <http://www.w3.org/2000/01/rdf-schema#label> "Imlau, Mirco".
+<http://localhost:5002/Imlau%2C%20Mirco> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wqcjco>.
+<http://localhost:5002/Kruse%2C%20Nadia-Yasmine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Kruse%2C%20Nadia-Yasmine> <http://www.w3.org/2000/01/rdf-schema#label> "Kruse, Nadia-Yasmine".
+<http://localhost:5002/Kruse%2C%20Nadia-Yasmine> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-f0d06p>.
+<http://localhost:5002/Westkemper%2C%20M.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Westkemper%2C%20M.> <http://www.w3.org/2000/01/rdf-schema#label> "Westkemper, M.".
+<http://localhost:5002/Westkemper%2C%20M.> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-tgehmr>.
+<http://localhost:5002/Schwarzbauer%2C%20P.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Schwarzbauer%2C%20P.> <http://www.w3.org/2000/01/rdf-schema#label> "Schwarzbauer, P.".
+<http://localhost:5002/Schwarzbauer%2C%20P.> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-tgehmr>.
+<http://localhost:5002/Zwi%C3%9Fler%2C%20F.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Zwi%C3%9Fler%2C%20F.> <http://www.w3.org/2000/01/rdf-schema#label> "Zwißler, F.".
+<http://localhost:5002/Zwi%C3%9Fler%2C%20F.> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-tgehmr>.
+<http://localhost:5002/Rau%2C%20A.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Rau%2C%20A.> <http://www.w3.org/2000/01/rdf-schema#label> "Rau, A.".
+<http://localhost:5002/Rau%2C%20A.> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-tgehmr>.
+<http://localhost:5002/Junker%2C%20T.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Junker%2C%20T.> <http://www.w3.org/2000/01/rdf-schema#label> "Junker, T.".
+<http://localhost:5002/Junker%2C%20T.> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-tgehmr>.
+<http://localhost:5002/Bruns%2C%20L.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Bruns%2C%20L.> <http://www.w3.org/2000/01/rdf-schema#label> "Bruns, L.".
+<http://localhost:5002/Bruns%2C%20L.> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-tgehmr>.
+<http://localhost:5002/Oehler%2C%20M.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Oehler%2C%20M.> <http://www.w3.org/2000/01/rdf-schema#label> "Oehler, M.".
+<http://localhost:5002/Oehler%2C%20M.> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-tgehmr>.
+<http://localhost:5002/Rensing%2C%20Zina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Rensing%2C%20Zina> <http://www.w3.org/2000/01/rdf-schema#label> "Rensing, Zina".
+<http://localhost:5002/Rensing%2C%20Zina> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-h3vegi>.
+<http://localhost:5002/Powell%2C%20Piper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Powell%2C%20Piper> <http://www.w3.org/2000/01/rdf-schema#label> "Powell, Piper".
+<http://localhost:5002/Powell%2C%20Piper> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-pk9ydr>.
+<http://localhost:5002/Powell%2C%20Piper> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-8488-0970>.
+<http://localhost:5002/Franz%2C%20Robert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Franz%2C%20Robert> <http://www.w3.org/2000/01/rdf-schema#label> "Franz, Robert".
+<http://localhost:5002/Franz%2C%20Robert> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-pk9ydr>.
+<http://localhost:5002/Franz%2C%20Robert> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0005-3084-2932>.
+<http://localhost:5002/Smith%2C%20Amos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Smith%2C%20Amos> <http://www.w3.org/2000/01/rdf-schema#label> "Smith, Amos".
+<http://localhost:5002/Smith%2C%20Amos> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-pk9ydr>.
+<http://localhost:5002/Smith%2C%20Amos> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0008-5187-2403>.
+<http://localhost:5002/Ihorst%2C%20Isaak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Ihorst%2C%20Isaak> <http://www.w3.org/2000/01/rdf-schema#label> "Ihorst, Isaak".
+<http://localhost:5002/Ihorst%2C%20Isaak> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-pk9ydr>.
+<http://localhost:5002/Ihorst%2C%20Isaak> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0002-9299-2344>.
+<http://localhost:5002/Bourdon%2C%20Bjoern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Bourdon%2C%20Bjoern> <http://www.w3.org/2000/01/rdf-schema#label> "Bourdon, Bjoern".
+<http://localhost:5002/Bourdon%2C%20Bjoern> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wofnvd>.
+<http://localhost:5002/Bourdon%2C%20Bjoern> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-4559-4522>.
+<http://localhost:5002/Toschke%2C%20Yannic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Toschke%2C%20Yannic> <http://www.w3.org/2000/01/rdf-schema#label> "Toschke, Yannic".
+<http://localhost:5002/Toschke%2C%20Yannic> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wofnvd>.
+<http://localhost:5002/Toschke%2C%20Yannic> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-7009-372X>.
+<http://localhost:5002/Osterheider%2C%20Mattis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Osterheider%2C%20Mattis> <http://www.w3.org/2000/01/rdf-schema#label> "Osterheider, Mattis".
+<http://localhost:5002/Osterheider%2C%20Mattis> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wofnvd>.
+<http://localhost:5002/Osterheider%2C%20Mattis> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-6121-0210>.
+<http://localhost:5002/Imlau%2C%20Mirco> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wofnvd>.
+<http://localhost:5002/Imlau%2C%20Mirco> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-5343-5636>.
+<http://localhost:5002/Sch%C3%B6n%2C%20Laura%20Noemi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Sch%C3%B6n%2C%20Laura%20Noemi> <http://www.w3.org/2000/01/rdf-schema#label> "Schön, Laura Noemi".
+<http://localhost:5002/Sch%C3%B6n%2C%20Laura%20Noemi> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-4h48uz>.
+<http://localhost:5002/Barlag%2C%20Kira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Barlag%2C%20Kira> <http://www.w3.org/2000/01/rdf-schema#label> "Barlag, Kira".
+<http://localhost:5002/Barlag%2C%20Kira> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-4h48uz>.
+<http://localhost:5002/Meister%2C%20Robin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Meister%2C%20Robin> <http://www.w3.org/2000/01/rdf-schema#label> "Meister, Robin".
+<http://localhost:5002/Meister%2C%20Robin> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-4h48uz>.
+<http://localhost:5002/Matthiesen%2C%20Regina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Matthiesen%2C%20Regina> <http://www.w3.org/2000/01/rdf-schema#label> "Matthiesen, Regina".
+<http://localhost:5002/Matthiesen%2C%20Regina> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-aqwiwq>.
+<http://localhost:5002/Toschke%2C%20Yannic> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-qo3asw>.
+<http://localhost:5002/Kaiser%2C%20Lennart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Kaiser%2C%20Lennart> <http://www.w3.org/2000/01/rdf-schema#label> "Kaiser, Lennart".
+<http://localhost:5002/Kaiser%2C%20Lennart> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-ppcure>.
+<http://localhost:5002/Kaiser%2C%20Lennart> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-5282-9086>.
+<http://localhost:5002/Schnieders%2C%20Kathrin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Schnieders%2C%20Kathrin> <http://www.w3.org/2000/01/rdf-schema#label> "Schnieders, Kathrin".
+<http://localhost:5002/Schnieders%2C%20Kathrin> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-zgvjaj>.
+<http://localhost:5002/Schnieders%2C%20Kathrin> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-1149-9623>.
+<http://localhost:5002/Powell%2C%20Piper> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-dmdlte>.
+<http://localhost:5002/Franz%2C%20Robert> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-dmdlte>.
+<http://localhost:5002/Smith%2C%20Amos> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-dmdlte>.
+<http://localhost:5002/Ihorst%2C%20Isaak> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-dmdlte>.
+<http://localhost:5002/Br%C3%BCggemann%2C%20Leonhard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Br%C3%BCggemann%2C%20Leonhard> <http://www.w3.org/2000/01/rdf-schema#label> "Brüggemann, Leonhard".
+<http://localhost:5002/Br%C3%BCggemann%2C%20Leonhard> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-1i9jyz>.
+<http://localhost:5002/Weber%2C%20Felix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Weber%2C%20Felix> <http://www.w3.org/2000/01/rdf-schema#label> "Weber, Felix".
+<http://localhost:5002/Weber%2C%20Felix> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-q6uvrm>.
+<http://localhost:5002/Weber%2C%20Felix> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-7012-3378>.
+<http://localhost:5002/Dettmer%2C%20Niklas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Dettmer%2C%20Niklas> <http://www.w3.org/2000/01/rdf-schema#label> "Dettmer, Niklas".
+<http://localhost:5002/Dettmer%2C%20Niklas> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-q6uvrm>.
+<http://localhost:5002/Dettmer%2C%20Niklas> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-9944-1671>.
+<http://localhost:5002/Schrumpf%2C%20Johannes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Schrumpf%2C%20Johannes> <http://www.w3.org/2000/01/rdf-schema#label> "Schrumpf, Johannes".
+<http://localhost:5002/Schrumpf%2C%20Johannes> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-q6uvrm>.
+<http://localhost:5002/Schrumpf%2C%20Johannes> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-0068-273X>.
+<http://localhost:5002/Schurz%2C%20Katharina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Schurz%2C%20Katharina> <http://www.w3.org/2000/01/rdf-schema#label> "Schurz, Katharina".
+<http://localhost:5002/Schurz%2C%20Katharina> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-q6uvrm>.
+<http://localhost:5002/Schurz%2C%20Katharina> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0003-3804-1134>.
+<http://localhost:5002/Thelen%2C%20Tobias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Thelen%2C%20Tobias> <http://www.w3.org/2000/01/rdf-schema#label> "Thelen, Tobias".
+<http://localhost:5002/Thelen%2C%20Tobias> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-q6uvrm>.
+<http://localhost:5002/Thelen%2C%20Tobias> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-3337-6093>.
+<http://localhost:5002/Leiber%2C%20Justus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Leiber%2C%20Justus> <http://www.w3.org/2000/01/rdf-schema#label> "Leiber, Justus".
+<http://localhost:5002/Leiber%2C%20Justus> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-zqjehm>.
+<http://localhost:5002/Leiber%2C%20Justus> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0005-6077-6833>.
+<http://localhost:5002/Fischer%2C%20Quinn%20Emilia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Fischer%2C%20Quinn%20Emilia> <http://www.w3.org/2000/01/rdf-schema#label> "Fischer, Quinn Emilia".
+<http://localhost:5002/Fischer%2C%20Quinn%20Emilia> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-zqjehm>.
+<http://localhost:5002/Fischer%2C%20Quinn%20Emilia> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0008-3056-3572>.
+<http://localhost:5002/Lohmann%2C%20Sven> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Lohmann%2C%20Sven> <http://www.w3.org/2000/01/rdf-schema#label> "Lohmann, Sven".
+<http://localhost:5002/Lohmann%2C%20Sven> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-zqjehm>.
+<http://localhost:5002/Lohmann%2C%20Sven> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0005-1506-1345>.
+<http://localhost:5002/Maass%2C%20Philipp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Maass%2C%20Philipp> <http://www.w3.org/2000/01/rdf-schema#label> "Maass, Philipp".
+<http://localhost:5002/Maass%2C%20Philipp> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-zqjehm>.
+<http://localhost:5002/Maass%2C%20Philipp> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-1268-8688>.
+<http://localhost:5002/Betzler%2C%20Shirin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Betzler%2C%20Shirin> <http://www.w3.org/2000/01/rdf-schema#label> "Betzler, Shirin".
+<http://localhost:5002/Betzler%2C%20Shirin> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-otbkkw>.
+<http://localhost:5002/Kempen%2C%20Regina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Kempen%2C%20Regina> <http://www.w3.org/2000/01/rdf-schema#label> "Kempen, Regina".
+<http://localhost:5002/Kempen%2C%20Regina> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-otbkkw>.
+<http://localhost:5002/Schmeiduch%2C%20Lena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Schmeiduch%2C%20Lena> <http://www.w3.org/2000/01/rdf-schema#label> "Schmeiduch, Lena".
+<http://localhost:5002/Schmeiduch%2C%20Lena> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-ciaoaf>.
+<http://localhost:5002/Schmeiduch%2C%20Lena> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-7796-0558>.
+<http://localhost:5002/Betzler%2C%20Shirin> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-ciaoaf>.
+<http://localhost:5002/Betzler%2C%20Shirin> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-4238-9590>.
+<http://localhost:5002/Ansah%2C%20Christabel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Ansah%2C%20Christabel> <http://www.w3.org/2000/01/rdf-schema#label> "Ansah, Christabel".
+<http://localhost:5002/Ansah%2C%20Christabel> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-hh5w6q>.
+<http://localhost:5002/Lohmann%2C%20Sven> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-kztcul>.
+<http://localhost:5002/Fischer%2C%20Quinn%20Emilia> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-kztcul>.
+<http://localhost:5002/Leiber%2C%20Justus> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-kztcul>.
+<http://localhost:5002/Maass%2C%20Philipp> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-kztcul>.
+<http://localhost:5002/Powell%2C%20Piper> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-c0hobn>.
+<http://localhost:5002/Franz%2C%20Robert> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-c0hobn>.
+<http://localhost:5002/Smith%2C%20Amos> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-c0hobn>.
+<http://localhost:5002/Ihorst%2C%20Isaak> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-c0hobn>.
+<http://localhost:5002/Scherer%2C%20Gwydion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Scherer%2C%20Gwydion> <http://www.w3.org/2000/01/rdf-schema#label> "Scherer, Gwydion".
+<http://localhost:5002/Scherer%2C%20Gwydion> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-xmqouv>.
+<http://localhost:5002/Scherer%2C%20Gwydion> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-9246-5726>.
+<http://localhost:5002/Schmeiduch%2C%20Lena> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-hxwfxj>.
+<http://localhost:5002/M%C3%BCller%2C%20Karsten> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-hxwfxj>.
+<http://localhost:5002/M%C3%BCller%2C%20Karsten> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-7389-8024>.
+<http://localhost:5002/Kurre%2C%20Rainer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Kurre%2C%20Rainer> <http://www.w3.org/2000/01/rdf-schema#label> "Kurre, Rainer".
+<http://localhost:5002/Kurre%2C%20Rainer> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-v8hwwh>.
+<http://localhost:5002/Kurre%2C%20Rainer> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-6872-6567>.
+<http://localhost:5002/Winkelmann%2C%20Hauke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Winkelmann%2C%20Hauke> <http://www.w3.org/2000/01/rdf-schema#label> "Winkelmann, Hauke".
+<http://localhost:5002/Winkelmann%2C%20Hauke> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-v8hwwh>.
+<http://localhost:5002/Winkelmann%2C%20Hauke> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0003-3688-6854>.
+<http://localhost:5002/Pollmann%2C%20Christoph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Pollmann%2C%20Christoph> <http://www.w3.org/2000/01/rdf-schema#label> "Pollmann, Christoph".
+<http://localhost:5002/Pollmann%2C%20Christoph> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-3vmz67>.
+<http://localhost:5002/Pollmann%2C%20Christoph> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-1473-0288>.
+<http://localhost:5002/Rensing%2C%20Zina> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-faf1bk>.
+<http://localhost:5002/Zimmermann%2C%20Till> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Zimmermann%2C%20Till> <http://www.w3.org/2000/01/rdf-schema#label> "Zimmermann, Till".
+<http://localhost:5002/Zimmermann%2C%20Till> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-yxps4g>.
+<http://localhost:5002/Zimmermann%2C%20Till> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0003-2404-182X>.
+<http://localhost:5002/Laniewski%2C%20Dominic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Laniewski%2C%20Dominic> <http://www.w3.org/2000/01/rdf-schema#label> "Laniewski, Dominic".
+<http://localhost:5002/Laniewski%2C%20Dominic> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-yxps4g>.
+<http://localhost:5002/Laniewski%2C%20Dominic> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0004-4782-8224>.
+<http://localhost:5002/Lanfer%2C%20Eric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Lanfer%2C%20Eric> <http://www.w3.org/2000/01/rdf-schema#label> "Lanfer, Eric".
+<http://localhost:5002/Lanfer%2C%20Eric> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-yxps4g>.
+<http://localhost:5002/Lanfer%2C%20Eric> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-9763-4613>.
+<http://localhost:5002/Aschenbruck%2C%20Nils> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Aschenbruck%2C%20Nils> <http://www.w3.org/2000/01/rdf-schema#label> "Aschenbruck, Nils".
+<http://localhost:5002/Aschenbruck%2C%20Nils> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-yxps4g>.
+<http://localhost:5002/Aschenbruck%2C%20Nils> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-5861-8896>.
+<http://localhost:5002/Wehking%2C%20Katharina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Wehking%2C%20Katharina> <http://www.w3.org/2000/01/rdf-schema#label> "Wehking, Katharina".
+<http://localhost:5002/Wehking%2C%20Katharina> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-amwvwu>.
+<http://localhost:5002/Wehking%2C%20Katharina> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-5724-0708>.
+<http://localhost:5002/Toschke%2C%20Yannic> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-w1izro>.
+<http://localhost:5002/Lusmoeller%2C%20Janet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Lusmoeller%2C%20Janet> <http://www.w3.org/2000/01/rdf-schema#label> "Lusmoeller, Janet".
+<http://localhost:5002/Lusmoeller%2C%20Janet> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-w1izro>.
+<http://localhost:5002/Otte%2C%20Lars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Otte%2C%20Lars> <http://www.w3.org/2000/01/rdf-schema#label> "Otte, Lars".
+<http://localhost:5002/Otte%2C%20Lars> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-w1izro>.
+<http://localhost:5002/Schmidt%2C%20Johann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Schmidt%2C%20Johann> <http://www.w3.org/2000/01/rdf-schema#label> "Schmidt, Johann".
+<http://localhost:5002/Schmidt%2C%20Johann> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-w1izro>.
+<http://localhost:5002/Meyer%2C%20Svenja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Meyer%2C%20Svenja> <http://www.w3.org/2000/01/rdf-schema#label> "Meyer, Svenja".
+<http://localhost:5002/Meyer%2C%20Svenja> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-w1izro>.
+<http://localhost:5002/Tessmer%2C%20Alexander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Tessmer%2C%20Alexander> <http://www.w3.org/2000/01/rdf-schema#label> "Tessmer, Alexander".
+<http://localhost:5002/Tessmer%2C%20Alexander> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-w1izro>.
+<http://localhost:5002/Brockmann%2C%20Christian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Brockmann%2C%20Christian> <http://www.w3.org/2000/01/rdf-schema#label> "Brockmann, Christian".
+<http://localhost:5002/Brockmann%2C%20Christian> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-w1izro>.
+<http://localhost:5002/Ahuis%2C%20Milena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Ahuis%2C%20Milena> <http://www.w3.org/2000/01/rdf-schema#label> "Ahuis, Milena".
+<http://localhost:5002/Ahuis%2C%20Milena> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-w1izro>.
+<http://localhost:5002/H%C3%BCer%2C%20Emma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/H%C3%BCer%2C%20Emma> <http://www.w3.org/2000/01/rdf-schema#label> "Hüer, Emma".
+<http://localhost:5002/H%C3%BCer%2C%20Emma> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-w1izro>.
+<http://localhost:5002/Kirberger%2C%20Christian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Kirberger%2C%20Christian> <http://www.w3.org/2000/01/rdf-schema#label> "Kirberger, Christian".
+<http://localhost:5002/Kirberger%2C%20Christian> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-w1izro>.
+<http://localhost:5002/Berben%2C%20Dirk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Berben%2C%20Dirk> <http://www.w3.org/2000/01/rdf-schema#label> "Berben, Dirk".
+<http://localhost:5002/Berben%2C%20Dirk> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-w1izro>.
+<http://localhost:5002/Ko%C3%9Fmann%2C%20Cosima> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-6j6dse>.
+<http://localhost:5002/Schumacher%2C%20Jan-Philip> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Schumacher%2C%20Jan-Philip> <http://www.w3.org/2000/01/rdf-schema#label> "Schumacher, Jan-Philip".
+<http://localhost:5002/Schumacher%2C%20Jan-Philip> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-6j6dse>.
+<http://localhost:5002/Schumacher%2C%20Jan-Philip> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0003-4951-2165>.
+<http://localhost:5002/Straatmann%2C%20Tammo> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-6j6dse>.
+<http://localhost:5002/D%C3%BCsing%2C%20Rainer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/D%C3%BCsing%2C%20Rainer> <http://www.w3.org/2000/01/rdf-schema#label> "Düsing, Rainer".
+<http://localhost:5002/D%C3%BCsing%2C%20Rainer> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-6j6dse>.
+<http://localhost:5002/D%C3%BCsing%2C%20Rainer> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-4118-9968>.
+<http://localhost:5002/Hamborg%2C%20Kai-Christoph> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-6j6dse>.
+<http://localhost:5002/Schmidt%2C%20Jonas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Schmidt%2C%20Jonas> <http://www.w3.org/2000/01/rdf-schema#label> "Schmidt, Jonas".
+<http://localhost:5002/Schmidt%2C%20Jonas> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-mxfplv>.
+<http://localhost:5002/Storch%2C%20Marcel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Storch%2C%20Marcel> <http://www.w3.org/2000/01/rdf-schema#label> "Storch, Marcel".
+<http://localhost:5002/Storch%2C%20Marcel> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-vclslk>.
+<http://localhost:5002/Storch%2C%20Marcel> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-5726-6297>.
+<http://localhost:5002/Janzen%2C%20Bennet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Janzen%2C%20Bennet> <http://www.w3.org/2000/01/rdf-schema#label> "Janzen, Bennet".
+<http://localhost:5002/Janzen%2C%20Bennet> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-z8nisk>.
+<http://localhost:5002/Janzen%2C%20Bennet> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0008-0449-6660>.
+<http://localhost:5002/Richardt%2C%20Leon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Richardt%2C%20Leon> <http://www.w3.org/2000/01/rdf-schema#label> "Richardt, Leon".
+<http://localhost:5002/Richardt%2C%20Leon> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-z8nisk>.
+<http://localhost:5002/Richardt%2C%20Leon> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0003-7867-0370>.
+<http://localhost:5002/Aschenbruck%2C%20Nils> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-z8nisk>.
+<http://localhost:5002/Link-Dolezal%2C%20Johanna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Link-Dolezal%2C%20Johanna> <http://www.w3.org/2000/01/rdf-schema#label> "Link-Dolezal, Johanna".
+<http://localhost:5002/Link-Dolezal%2C%20Johanna> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-wh3uvv>.
+<http://localhost:5002/Hensel%2C%20Michael> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Hensel%2C%20Michael> <http://www.w3.org/2000/01/rdf-schema#label> "Hensel, Michael".
+<http://localhost:5002/Hensel%2C%20Michael> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-dc45cv>.
+<http://localhost:5002/Hensel%2C%20Michael> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-6604-6253>.
+<http://localhost:5002/Leinigen%2C%20Vanessa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Leinigen%2C%20Vanessa> <http://www.w3.org/2000/01/rdf-schema#label> "Leinigen, Vanessa".
+<http://localhost:5002/Leinigen%2C%20Vanessa> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-ip6trr>.
+<http://localhost:5002/Leinigen%2C%20Vanessa> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0000-1066-0094>.
+<http://localhost:5002/Sonsmann%2C%20Flora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Sonsmann%2C%20Flora> <http://www.w3.org/2000/01/rdf-schema#label> "Sonsmann, Flora".
+<http://localhost:5002/Sonsmann%2C%20Flora> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-ip6trr>.
+<http://localhost:5002/Sonsmann%2C%20Flora> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-2863-4641>.
+<http://localhost:5002/Schmidt%2C%20Lisa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Schmidt%2C%20Lisa> <http://www.w3.org/2000/01/rdf-schema#label> "Schmidt, Lisa".
+<http://localhost:5002/Schmidt%2C%20Lisa> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-ip6trr>.
+<http://localhost:5002/Schmidt%2C%20Lisa> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-6063-3983>.
+<http://localhost:5002/Gill%2C%20Carina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Gill%2C%20Carina> <http://www.w3.org/2000/01/rdf-schema#label> "Gill, Carina".
+<http://localhost:5002/Gill%2C%20Carina> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-ip6trr>.
+<http://localhost:5002/Gill%2C%20Carina> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-7632-0076>.
+<http://localhost:5002/Rappeneau%2C%20Virginie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Rappeneau%2C%20Virginie> <http://www.w3.org/2000/01/rdf-schema#label> "Rappeneau, Virginie".
+<http://localhost:5002/Rappeneau%2C%20Virginie> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-abydfb>.
+<http://localhost:5002/Wolf%2C%20Eugen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Wolf%2C%20Eugen> <http://www.w3.org/2000/01/rdf-schema#label> "Wolf, Eugen".
+<http://localhost:5002/Wolf%2C%20Eugen> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-v5sryw>.
+<http://localhost:5002/Wolke%2C%20Steffen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Wolke%2C%20Steffen> <http://www.w3.org/2000/01/rdf-schema#label> "Wolke, Steffen".
+<http://localhost:5002/Wolke%2C%20Steffen> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-v5sryw>.
+<http://localhost:5002/Potulski%2C%20Dominik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Potulski%2C%20Dominik> <http://www.w3.org/2000/01/rdf-schema#label> "Potulski, Dominik".
+<http://localhost:5002/Potulski%2C%20Dominik> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-v5sryw>.
+<http://localhost:5002/Imlau%2C%20Mirco> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-v5sryw>.
+<http://localhost:5002/Zimmermann%2C%20Till> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-lbeu5s>.
+<http://localhost:5002/Laniewski%2C%20Dominic> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-lbeu5s>.
+<http://localhost:5002/Lanfer%2C%20Eric> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-lbeu5s>.
+<http://localhost:5002/Thieme%2C%20Stefanie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Thieme%2C%20Stefanie> <http://www.w3.org/2000/01/rdf-schema#label> "Thieme, Stefanie".
+<http://localhost:5002/Thieme%2C%20Stefanie> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-lbeu5s>.
+<http://localhost:5002/Wintering%2C%20Nikolas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Wintering%2C%20Nikolas> <http://www.w3.org/2000/01/rdf-schema#label> "Wintering, Nikolas".
+<http://localhost:5002/Wintering%2C%20Nikolas> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-lbeu5s>.
+<http://localhost:5002/Wintering%2C%20Nikolas> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0001-8141-0620>.
+<http://localhost:5002/Aschenbruck%2C%20Nils> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-lbeu5s>.
+<http://localhost:5002/Powell%2C%20Piper> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-smhp1y>.
+<http://localhost:5002/Franz%2C%20Robert> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-smhp1y>.
+<http://localhost:5002/Smith%2C%20Amos> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-smhp1y>.
+<http://localhost:5002/Ihorst%2C%20Isaak> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-smhp1y>.
+<http://localhost:5002/Schnieders%2C%20Kathrin> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-adqvek>.
+<http://localhost:5002/Zimmermann%2C%20Till> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-i7bany>.
+<http://localhost:5002/Lanfer%2C%20Eric> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-i7bany>.
+<http://localhost:5002/Laniewski%2C%20Dominic> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-i7bany>.
+<http://localhost:5002/Brinkmann%2C%20Simon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Brinkmann%2C%20Simon> <http://www.w3.org/2000/01/rdf-schema#label> "Brinkmann, Simon".
+<http://localhost:5002/Brinkmann%2C%20Simon> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-i7bany>.
+<http://localhost:5002/Brinkmann%2C%20Simon> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0009-6568-3897>.
+<http://localhost:5002/Aschenbruck%2C%20Nils> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-i7bany>.
+<http://localhost:5002/Borchert%2C%20Christoph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Borchert%2C%20Christoph> <http://www.w3.org/2000/01/rdf-schema#label> "Borchert, Christoph".
+<http://localhost:5002/Borchert%2C%20Christoph> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-gjfuon>.
+<http://localhost:5002/Borchert%2C%20Christoph> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0000-8811-8537>.
+<http://localhost:5002/Weber%2C%20Felix> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-5ookn8>.
+<http://localhost:5002/Thelen%2C%20Tobias> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-5ookn8>.
+<http://localhost:5002/Franzkoch%2C%20Rico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Franzkoch%2C%20Rico> <http://www.w3.org/2000/01/rdf-schema#label> "Franzkoch, Rico".
+<http://localhost:5002/Franzkoch%2C%20Rico> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-7ou7kw>.
+<http://localhost:5002/Franzkoch%2C%20Rico> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-8447-518X>.
+<http://localhost:5002/Weber%2C%20Felix> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-yyidke>.
+<http://localhost:5002/Schrumpf%2C%20Johannes> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-yyidke>.
+<http://localhost:5002/Dettmer%2C%20Niklas> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-yyidke>.
+<http://localhost:5002/Schurz%2C%20Katharina> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-yyidke>.
+<http://localhost:5002/Thelen%2C%20Tobias> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-yyidke>.
+<http://localhost:5002/Pollmann%2C%20Christoph> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-yl0jr6>.
+<http://localhost:5002/Niehoff%2C%20Steffen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Niehoff%2C%20Steffen> <http://www.w3.org/2000/01/rdf-schema#label> "Niehoff, Steffen".
+<http://localhost:5002/Niehoff%2C%20Steffen> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-xedkb2>.
+<http://localhost:5002/Matthiesen%2C%20Regina> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-zr9vkc>.
+<http://localhost:5002/Lange%2C%20Silke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Lange%2C%20Silke> <http://www.w3.org/2000/01/rdf-schema#label> "Lange, Silke".
+<http://localhost:5002/Lange%2C%20Silke> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-5axrbj>.
+<http://localhost:5002/Meyer%2C%20Neele> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Meyer%2C%20Neele> <http://www.w3.org/2000/01/rdf-schema#label> "Meyer, Neele".
+<http://localhost:5002/Meyer%2C%20Neele> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-xmqrhc>.
+<http://localhost:5002/Meyer%2C%20Neele> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0003-4955-4488>.
+<http://localhost:5002/Rahe%2C%20Florian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Rahe%2C%20Florian> <http://www.w3.org/2000/01/rdf-schema#label> "Rahe, Florian".
+<http://localhost:5002/Rahe%2C%20Florian> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-pxczob>.
+<http://localhost:5002/D%C3%B6mer%2C%20Niklas> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-nbrshm>.
+<http://localhost:5002/Koelmann%2C%20Julian> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-nbrshm>.
+<http://localhost:5002/Hesselink%2C%20Mira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Hesselink%2C%20Mira> <http://www.w3.org/2000/01/rdf-schema#label> "Hesselink, Mira".
+<http://localhost:5002/Hesselink%2C%20Mira> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-nbrshm>.
+<http://localhost:5002/Hehemann%2C%20Tobias> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-nbrshm>.
+<http://localhost:5002/Pfannstiel%2C%20Anton> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-nbrshm>.
+<http://localhost:5002/Sauerwein%2C%20Felix> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-nbrshm>.
+<http://localhost:5002/Vittadello%2C%20Laura> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-nbrshm>.
+<http://localhost:5002/Ganschow%2C%20Steffen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Ganschow%2C%20Steffen> <http://www.w3.org/2000/01/rdf-schema#label> "Ganschow, Steffen".
+<http://localhost:5002/Ganschow%2C%20Steffen> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-nbrshm>.
+<http://localhost:5002/Imlau%2C%20Mirco> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-nbrshm>.
+<http://localhost:5002/Sch%C3%B6ning%2C%20Julius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Sch%C3%B6ning%2C%20Julius> <http://www.w3.org/2000/01/rdf-schema#label> "Schöning, Julius".
+<http://localhost:5002/Sch%C3%B6ning%2C%20Julius> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-2w3wjv>.
+<http://localhost:5002/Sch%C3%B6ning%2C%20Julius> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0003-4921-5179>.
+<http://localhost:5002/Matthiesen%2C%20Regina> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-t09e72>.
+<http://localhost:5002/Kettermann%2C%20Marcel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Kettermann%2C%20Marcel> <http://www.w3.org/2000/01/rdf-schema#label> "Kettermann, Marcel".
+<http://localhost:5002/Kettermann%2C%20Marcel> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-ggch0z>.
+<http://localhost:5002/Kettermann%2C%20Marcel> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-2523-2989>.
+<http://localhost:5002/Pfannstiel%2C%20Anton> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-vagufz>.
+<http://localhost:5002/Imlau%2C%20Mirco> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-vagufz>.
+<http://localhost:5002/Bazzan%2C%20Marco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Bazzan%2C%20Marco> <http://www.w3.org/2000/01/rdf-schema#label> "Bazzan, Marco".
+<http://localhost:5002/Bazzan%2C%20Marco> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-vagufz>.
+<http://localhost:5002/Vittadello%2C%20Laura> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-vagufz>.
+<http://localhost:5002/Niehoff%2C%20Steffen> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-4b3nso>.
+<http://localhost:5002/Holst%2C%20Hajo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Holst%2C%20Hajo> <http://www.w3.org/2000/01/rdf-schema#label> "Holst, Hajo".
+<http://localhost:5002/Holst%2C%20Hajo> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-4b3nso>.
+<http://localhost:5002/Fessler%2C%20Agnes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Fessler%2C%20Agnes> <http://www.w3.org/2000/01/rdf-schema#label> "Fessler, Agnes".
+<http://localhost:5002/Fessler%2C%20Agnes> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-4b3nso>.
+<http://localhost:5002/Margheritis%2C%20Eleonora%20Germana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Margheritis%2C%20Eleonora%20Germana> <http://www.w3.org/2000/01/rdf-schema#label> "Margheritis, Eleonora Germana".
+<http://localhost:5002/Margheritis%2C%20Eleonora%20Germana> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-48ftww>.
+<http://localhost:5002/Margheritis%2C%20Eleonora%20Germana> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0003-0571-3563>.
+<http://localhost:5002/Cosentino%2C%20Katia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Cosentino%2C%20Katia> <http://www.w3.org/2000/01/rdf-schema#label> "Cosentino, Katia".
+<http://localhost:5002/Cosentino%2C%20Katia> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-48ftww>.
+<http://localhost:5002/Cosentino%2C%20Katia> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-3796-3500>.
+<http://localhost:5002/Hofschroeer%2C%20Patrick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Hofschroeer%2C%20Patrick> <http://www.w3.org/2000/01/rdf-schema#label> "Hofschroeer, Patrick".
+<http://localhost:5002/Hofschroeer%2C%20Patrick> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-oexojh>.
+<http://localhost:5002/Hofschroeer%2C%20Patrick> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-5583-5468>.
+<http://localhost:5002/Schumacher%2C%20Svenja%20Kristina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Schumacher%2C%20Svenja%20Kristina> <http://www.w3.org/2000/01/rdf-schema#label> "Schumacher, Svenja Kristina".
+<http://localhost:5002/Schumacher%2C%20Svenja%20Kristina> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-oexojh>.
+<http://localhost:5002/Schumacher%2C%20Svenja%20Kristina> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-7158-3309>.
+<http://localhost:5002/Mueller%2C%20Karsten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Mueller%2C%20Karsten> <http://www.w3.org/2000/01/rdf-schema#label> "Mueller, Karsten".
+<http://localhost:5002/Mueller%2C%20Karsten> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-oexojh>.
+<http://localhost:5002/Mueller%2C%20Karsten> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-7389-8024>.
+<http://localhost:5002/Powell%2C%20Piper> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-asl0bv>.
+<http://localhost:5002/Franz%2C%20Robert> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-asl0bv>.
+<http://localhost:5002/Smith%2C%20Amos> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-asl0bv>.
+<http://localhost:5002/Ihorst%2C%20Isaak> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-asl0bv>.
+<http://localhost:5002/Pollmann%2C%20Christoph> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-npx7du>.
+<http://localhost:5002/Br%C3%BCggemann%2C%20Leonhard> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-vordof>.
+<http://localhost:5002/Sch%C3%B6ning%2C%20Julius> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-ak12up>.
+<http://localhost:5002/Powell%2C%20Piper> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-fglg94>.
+<http://localhost:5002/Franz%2C%20Robert> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-fglg94>.
+<http://localhost:5002/Smith%2C%20Amos> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-fglg94>.
+<http://localhost:5002/Ihorst%2C%20Isaak> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-fglg94>.
+<http://localhost:5002/Lange%2C%20Silke> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-aq02nb>.
+<http://localhost:5002/Lange%2C%20Silke> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0003-1313-2355>.
+<http://localhost:5002/Clay%2C%20Viviane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Clay%2C%20Viviane> <http://www.w3.org/2000/01/rdf-schema#label> "Clay, Viviane".
+<http://localhost:5002/Clay%2C%20Viviane> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-bfduzo>.
+<http://localhost:5002/Clay%2C%20Viviane> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-9152-0666>.
+<http://localhost:5002/Reitzner%2C%20Matthias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Reitzner%2C%20Matthias> <http://www.w3.org/2000/01/rdf-schema#label> "Reitzner, Matthias".
+<http://localhost:5002/Reitzner%2C%20Matthias> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-vke9z1>.
+<http://localhost:5002/Reitzner%2C%20Matthias> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-7922-6429>.
+<http://localhost:5002/Lange%2C%20Silke> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-skpe8j>.
+<http://localhost:5002/Lange%2C%20Silke> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-i92bat>.
+<http://localhost:5002/Weber%2C%20Felix> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-ujwlj2>.
+<http://localhost:5002/Thelen%2C%20Tobias> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-ujwlj2>.
+<http://localhost:5002/Oswald%2C%20Tom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Oswald%2C%20Tom> <http://www.w3.org/2000/01/rdf-schema#label> "Oswald, Tom".
+<http://localhost:5002/Oswald%2C%20Tom> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-tsvdus>.
+<http://localhost:5002/Oswald%2C%20Tom> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0009-9085-2349>.
+<http://localhost:5002/Schaffland%2C%20Axel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Schaffland%2C%20Axel> <http://www.w3.org/2000/01/rdf-schema#label> "Schaffland, Axel".
+<http://localhost:5002/Schaffland%2C%20Axel> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-qbsvqj>.
+<http://localhost:5002/Schaffland%2C%20Axel> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-4640-7864>.
+<http://localhost:5002/Vittadello%2C%20Laura> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-p4f5zj>.
+<http://localhost:5002/K%C3%B6nig%2C%20Matthias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/K%C3%B6nig%2C%20Matthias> <http://www.w3.org/2000/01/rdf-schema#label> "König, Matthias".
+<http://localhost:5002/K%C3%B6nig%2C%20Matthias> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-p4f5zj>.
+<http://localhost:5002/Klenen%2C%20Jan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Klenen%2C%20Jan> <http://www.w3.org/2000/01/rdf-schema#label> "Klenen, Jan".
+<http://localhost:5002/Klenen%2C%20Jan> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-p4f5zj>.
+<http://localhost:5002/Priggemeyer%2C%20Lisa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Priggemeyer%2C%20Lisa> <http://www.w3.org/2000/01/rdf-schema#label> "Priggemeyer, Lisa".
+<http://localhost:5002/Priggemeyer%2C%20Lisa> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-p4f5zj>.
+<http://localhost:5002/Imlau%2C%20Mirco> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-p4f5zj>.
+<http://localhost:5002/K%C3%B6mpe%2C%20Karsten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/K%C3%B6mpe%2C%20Karsten> <http://www.w3.org/2000/01/rdf-schema#label> "Kömpe, Karsten".
+<http://localhost:5002/K%C3%B6mpe%2C%20Karsten> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-p4f5zj>.
+<http://localhost:5002/Lange%2C%20Silke> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-lhfbd5>.
+<http://localhost:5002/Frommberger%2C%20Dietmar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Frommberger%2C%20Dietmar> <http://www.w3.org/2000/01/rdf-schema#label> "Frommberger, Dietmar".
+<http://localhost:5002/Frommberger%2C%20Dietmar> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-lhfbd5>.
+<http://localhost:5002/Frommberger%2C%20Dietmar> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-6921-9807>.
+<http://localhost:5002/Vanessa%20Opladen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Vanessa%20Opladen> <http://www.w3.org/2000/01/rdf-schema#label> "Vanessa Opladen".
+<http://localhost:5002/Vanessa%20Opladen> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-5bt1iq>.
+<http://localhost:5002/Vanessa%20Opladen> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-9916-2469>.
+<http://localhost:5002/Vivell%2C%20Maj-Britt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Vivell%2C%20Maj-Britt> <http://www.w3.org/2000/01/rdf-schema#label> "Vivell, Maj-Britt".
+<http://localhost:5002/Vivell%2C%20Maj-Britt> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-5bt1iq>.
+<http://localhost:5002/Vivell%2C%20Maj-Britt> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-9503-5112>.
+<http://localhost:5002/Kroemeke%2C%20Antonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Kroemeke%2C%20Antonia> <http://www.w3.org/2000/01/rdf-schema#label> "Kroemeke, Antonia".
+<http://localhost:5002/Kroemeke%2C%20Antonia> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-5bt1iq>.
+<http://localhost:5002/Heithoff%2C%20Sarah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Heithoff%2C%20Sarah> <http://www.w3.org/2000/01/rdf-schema#label> "Heithoff, Sarah".
+<http://localhost:5002/Heithoff%2C%20Sarah> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-5bt1iq>.
+<http://localhost:5002/Lucht%2C%20Antonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Lucht%2C%20Antonia> <http://www.w3.org/2000/01/rdf-schema#label> "Lucht, Antonia".
+<http://localhost:5002/Lucht%2C%20Antonia> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-5bt1iq>.
+<http://localhost:5002/Hartmann%2C%20Andrea%20S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Hartmann%2C%20Andrea%20S.> <http://www.w3.org/2000/01/rdf-schema#label> "Hartmann, Andrea S.".
+<http://localhost:5002/Hartmann%2C%20Andrea%20S.> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-5bt1iq>.
+<http://localhost:5002/Hartmann%2C%20Andrea%20S.> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0002-6251-3763>.
+<http://localhost:5002/Vocks%2C%20Silja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Vocks%2C%20Silja> <http://www.w3.org/2000/01/rdf-schema#label> "Vocks, Silja".
+<http://localhost:5002/Vocks%2C%20Silja> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-5bt1iq>.
+<http://localhost:5002/Vocks%2C%20Silja> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0000-0001-8498-9466>.
+<http://localhost:5002/Lanfer%2C%20Eric> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-mociy8>.
+<http://localhost:5002/Brockmann%2C%20Dominik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/spar/pro/Author>.
+<http://localhost:5002/Brockmann%2C%20Dominik> <http://www.w3.org/2000/01/rdf-schema#label> "Brockmann, Dominik".
+<http://localhost:5002/Brockmann%2C%20Dominik> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-mociy8>.
+<http://localhost:5002/Brockmann%2C%20Dominik> <http://www.w3.org/2002/07/owl#sameAS> <https://orcid.org/0009-0004-2162-8873>.
+<http://localhost:5002/Aschenbruck%2C%20Nils> <http://purl.org/spar/pro/authorOf> <http://localhost:5002/osn-doi-10-26249-fk2-mociy8>.
+<http://localhost:5002/organization/osnadata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization>.
