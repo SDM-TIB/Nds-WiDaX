@@ -97,10 +97,10 @@ class KG_creation:
 
 if __name__ == "__main__":
 	if len(sys.argv) == 1:
-		exit("Need at least one argument:\tWhich repo to parse dataset files from (GOE, LEO, LUH, OSN)?\nOptional second argument:\tOutput file path (default: process-validation/importation-process/preprocessed-datasets/<repo>.json)")
+		exit("Need at least one argument:\tWhich repo to parse dataset files from (GOE, LEO, LUH, OSN)?\nOptional second argument:\tOutput file path (default: process-validation/01-importation-process/preprocessed-datasets/<repo>.json)")
 	elif len(sys.argv) == 2:
 		repo = sys.argv[1]
-		outfile=f"process-validation/importation-process/preprocessed-datasets/{repo}.json"
+		outfile=f"process-validation/01-importation-process/preprocessed-datasets/{repo}.json"
 	elif len(sys.argv) > 2:
 		repo = sys.argv[1]
 		outfile = sys.argv[2]
