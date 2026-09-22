@@ -1,0 +1,29 @@
+ldm_kg:
+    container_name: ldm_kg
+    image: kemele/virtuoso:7-stable
+    restart: unless-stopped
+    ports:
+      - "8890:8890"
+    volumes:
+      - process-validation/02-KG-creation-process/rdfizer_triples:/data
+      - ./rdf_metadata:/data/toLoad
+    networks:
+      - ldmnetwork
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.ldmkg.rule=Path(`/ldmkg/sparql`)"
+      - "traefik.http.routers.ldmkg.priority=10"              # higher than catch-all
+      - "traefik.http.routers.ldmkg.middlewares=ldmkg-rewrite"
+      - "traefik.http.middlewares.ldmkg-rewrite.replacepathregex.regex=^/ldmkg/sparql(.*)"
+      - "traefik.http.middlewares.ldmkg-rewrite.replacepathregex.replacement=/sparql$$1"
+      - "traefik.http.services.ldmkg.loadbalancer.server.port=8890"
+      - "traefik.http.routers.ldmkg-redirect.rule=Path(`/ldmkg`)"
+      - "traefik.http.routers.ldmkg-redirect.priority=10"
+      - "traefik.http.routers.ldmkg-redirect.middlewares=ldmkg-redirect-to-sparql"
+      - "traefik.http.middlewares.ldmkg-redirect-to-sparql.redirectregex.regex=^(.*)/ldmkg$$"
+      - "traefik.http.middlewares.ldmkg-redirect-to-sparql.redirectregex.replacement=$${1}/ldmkg/sparql"
+      - "traefik.http.middlewares.ldmkg-redirect-to-sparql.redirectregex.permanent=true"
+
+networks:
+  ldmnetwork:
+    external: true
