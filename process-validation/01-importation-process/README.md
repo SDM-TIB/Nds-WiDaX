@@ -5,7 +5,7 @@ The basic dataset importation process including API calls and raw metadata handl
 Below are the steps to obtain one file for each of the imported reasearch dataset repositores (GOE, LEO, LUH, OSN) as input for the SDM-RDFizer.
 
 - **Input:** directory containing json files (mapped to LDM) for each reasearch dataset repository (GOE, LEO, LUH, OSN).
-- **Processing:** `python3 process-validation/importation-process/preprocess_dataset.py GOE`
+- **Processing:** `python3 process-validation/01-importation-process/preprocess_dataset.py GOE`
 - **Output:** One file containing all preprocessed datasets for each repository.
 
 ```

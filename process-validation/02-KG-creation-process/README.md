@@ -7,10 +7,10 @@ First, we symlink the output from the importation process into the RDFizer input
 
 ```
 cd process-validation/KG-creation-process/rdfizer_input/
-ln -s ../../importation-process/preprocessed-datasets/GOE.json GOE.json
-ln -s ../../importation-process/preprocessed-datasets/LEO.json LEO.json
-ln -s ../../importation-process/preprocessed-datasets/LUH.json LUH.json
-ln -s ../../importation-process/preprocessed-datasets/OSN.json OSN.json
+ln -s ../../01-importation-process/preprocessed-datasets/GOE.json GOE.json
+ln -s ../../01-importation-process/preprocessed-datasets/LEO.json LEO.json
+ln -s ../../01-importation-process/preprocessed-datasets/LUH.json LUH.json
+ln -s ../../01-importation-process/preprocessed-datasets/OSN.json OSN.json
 ```
 
 ## 2. Running SDM-RDFizer
