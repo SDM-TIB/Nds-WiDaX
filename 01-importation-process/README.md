@@ -1,8 +1,10 @@
+# Importation process
+
 ## Leibniz Data Manager (LDM)
 
-Nds-WiDaX builds on the Leibniz Data Manager (**[LDM](https://github.com/SDM-TIB/LDM_Docker/)**) – an open, semantics-oriented software service – to enable machine-readable, contextually rich indexing of heterogeneous (meta)data from research data repositories across Lower Saxony.
+Nds-WiDaX builds on the Leibniz Data Manager ([LDM](https://github.com/SDM-TIB/LDM_Docker/)) – an open, semantics-oriented software service – to enable machine-readable, contextually rich indexing of heterogeneous (meta)data from research data repositories across Lower Saxony.
 
-## Importation process
+## Metadata importation process
 
 LDM's Nds-WiDaX instance collects datasets' metadata from Lower Saxony repositories using APIs (more details in **[documentation](../Plugin-Python/documentation/LowerSaxonyRepositoriesDocumentation.md#2.-repository-profiles-and-technical-specifications)**) and performs the importation following these steps:
 
@@ -11,7 +13,10 @@ An "Input Mapping file" is created for each repository and used to convert each 
 
 2. The Dataset is inserted in the WiDaX-LDM instance using the "Output file" containing all the metadata of the Dataset in WiDaX metadata schema.
 
-### Example of Input Mapping (descriptive fragment of Goettingen's mapping)
+### Input mapping example
+
+Descriptive fragment of mapping metadata from the source (e.g. GRO.data repository) schema to target (i.e., Nds-WiDaX) schema:
+
 ```json
 {
     "source": "https://data.goettingen-research-online.de/api/search?q=*&type=dataset&per_page=500",
@@ -47,7 +52,11 @@ An "Input Mapping file" is created for each repository and used to convert each 
     ] 
 }
 ```
-### Example of Source Data (descriptive fragment of a Goettingen's Dataset)
+
+### Source Data example
+
+Descriptive fragment of a dateset from the GRO.data (Göttingen) repository retrieved via its API:
+
 ```json
   {
     "@context": "http://schema.org",
@@ -60,7 +69,11 @@ An "Input Mapping file" is created for each repository and used to convert each 
     "license_title": "Creative Commons Zero (CC0)",
 }
 ```
-### Example of Output file (respecting WiDaX schema)
+
+### Output file example
+
+Applying the above metadata mapping from source to target (Nds-WiDaX) schema provides the follwing snippet:
+
 ```json
   {
 
@@ -81,45 +94,17 @@ Also, the mapping language (LDM-ML) allows the possibility of running functions 
 ]
 ```
 
+## Nds-WiDaX metadata schema
 
-
-##
+Overview of the Nds-WiDaX-specific metadata schema, based on the template from [LDM](#leibniz-data-manager-ldm):
 
 ![WiDaX metadata schema](../WiDaX_metadata_schema/images/ERD_WIDAX_base.png)
 
-
-## Knowledge Graph Creation
-
-Once the Dataset is inserted in WiDaX-LDM, the metadata extracted is semantified using the SDM-RDFizer, an interpreter of mapping rules that allows the transformation of (un)structured data into RDF knowledge graphs (**[SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer)**).
-The current version of the SDM-RDFizer assumes mapping rules are defined in the RDF Mapping Language (**[RML](https://rml.io/specs/rml/)**) by Dimou et al.
-
-![RDFizer architecture](../WiDaX_metadata_schema/images/RDFizer_architecture.png)
-
-### The Knowledge Graph is going to be a key asset in the project and used to validate metadata, and find, evaluate and fix interoperability issues that could be inserted during the importation process over different sources and different metadata schemas.
-
-# 📁 Mapping files for WiDaX importation
-
-**Folder:** `Mapping_files`
-
----
-
-## 📦 Contents
-
-In this folder we can find:
-
-- `json_importation_files/Repository Name/json_files_from_source`: JSON files coming directly from repositories' REST APIs or converted to JSON in case of OAI-PMH APIs (XML).
-- `json_importation_files/Repository Name/json_files_mapped_to_LDM`: JSON files adapted to the LDM-WiDaX metadata schema.
-- `json_mappings`: Mapping files using the declarative mapping language for each repository.
-- `RDFizer_mappings`: Mapping files in RML used for metadata semantification.
-
----
 
 ## 🗂️ Folder Structure
 
 | Folder | Description |
 |--------|-------------|
-| `json_importation_files/` | Source and transformed JSON metadata files per repository |
-| `json_mappings/` | Declarative mappings for repository-specific schema conversion |
-| `RDFizer_mappings/` | RML mappings for RDF graph semantification |
-
----
+| `json_importation_files/<repository name>/json_files_from_source` | Source and transformed JSON metadata files per repository coming directly from the REST APIs or converted to JSON in case of OAI-PMH APIs (XML format) |
+| `json_importation_files/<repository name>/json_files_mapped_to_LDM` | Transformed JSON metadata files per repository adapted to the LDM-WiDaX metadata schema |
+| `json_mappings/` | Mapping files using the declarative mapping language for each repository |
