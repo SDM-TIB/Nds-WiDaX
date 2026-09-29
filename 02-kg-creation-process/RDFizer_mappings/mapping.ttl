@@ -199,7 +199,7 @@ rr:predicateObjectMap [
   rr:predicateObjectMap [
     rr:predicate dct:license;
     rr:objectMap [
-      rml:reference "license_url";
+      rml:reference "license_id";
     ]
   ].
 
