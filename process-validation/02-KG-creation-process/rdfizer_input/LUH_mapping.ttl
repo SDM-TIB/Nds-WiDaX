@@ -468,7 +468,7 @@ rr:predicateObjectMap [
     ]
   ];
   rr:predicateObjectMap [
-    rr:predicate owl:sameAS;
+    rr:predicate owl:sameAs;
     rr:objectMap [
       rr:template "{orcid}";
     ]
