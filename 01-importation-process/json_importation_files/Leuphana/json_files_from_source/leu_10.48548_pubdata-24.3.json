@@ -1,0 +1,778 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/31.3",
+        "datestamp": "2026-09-03T08:34:12Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Rahdes, Simon",
+                "qualifier": "author",
+                "authority": "virtual::607",
+                "confidence": "-1"
+            },
+            {
+                "value": "Herzog, Christian",
+                "qualifier": "author",
+                "authority": "virtual::611",
+                "confidence": "-1"
+            },
+            {
+                "value": "Rau, Franco",
+                "qualifier": "author",
+                "authority": "virtual::645",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2023-06-13T10:40:40Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2023-04-03T12:15:24Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2023-06-13T10:40:40Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2023-04-03",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2023-06-13T10:26:26Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/31.3",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-24.3",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Digital gest\u00fctztes \u00dcben im Fachunterricht: Kompetente Lehrkr\u00e4fte - individualisierte Lernprozesse (Competencies for Digitally-enhanced Individualized Practice - CODIP)",
+                "authority": "virtual::573",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Open Educational Practices an nieders\u00e4chsischen Hochschulen - Auflistung der im Datensatz enthaltenen Quellen",
+                "lang": "de"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Bibliography",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Contact": [
+            {
+                "value": "christian.herzog@leuphana.de",
+                "lang": "-"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Als Teil des Zukunftszentrums Lehrkr\u00e4ftebildung (ZZL) zielt das Projekt \"Digital-gest\u00fctztes \u00dcben im Fachunterricht: Kompetente Lehrkr\u00e4fte \u2013 Individualisierte Lernprozesse (Competencies for Digitally-Enhanced Individualized Practice, CODIP)\" darauf, den Aufbau fachdidaktischer digitalisierungsbezogener Kompetenzen von (angehenden) Lehrkr\u00e4ften zur Gestaltung und Umsetzung von Lehr-Lern-Prozessen voranzutreiben. (...) Im Rahmen von CODIP werden Lehrkonzepte in den Unterrichtsf\u00e4chern Deutsch, Englisch, Mathematik, Musik und Sport entwickelt, implementiert, evaluiert und verstetigt. Diese Vorhaben werden von Forschenden aus der Bildungswissenschaft bzw. Psychologie begleitet durch die Beforschung von Querschnittsthemen wie der \"Data Literacy\u201c von (angehenden) Lehrkr\u00e4ften sowie deren Bereitschaft, digitale Medien fu\u0308r individualisierte \u00dcbungsprozesse zu nutzen. Das Projekt fokussiert drei Schwerpunkte: (1) Phasen\u00fcbergreifendes Arbeiten: Die neuen Lehrveranstaltungskonzepte werden in Entwicklungsteams zusammen mit Akteurinnen und Akteuren der Campusschulen und Campusstudienseminare der Leuphana Universit\u00e4t L\u00fcneburg entwickelt und mit den Studierenden in der Praxis umgesetzt und erprobt. (2) Curriculare Verankerung: Die Erkenntnisse der evidenzbasierten Lehrentwicklung in den CODIP-Teilprojekten in den f\u00fcnf Unterrichtsf\u00e4chern, der Bildungswissenschaft und der Psychologie sollen Eingang in die Curricula der lehrerbildenden F\u00e4cher finden. Digitalisierungsbezogene Studieninhalte werden sowohl als Basiskompetenzen als auch zur Spezialisierung in einem Profilstudium \"Digitales Lehren und Lernen\u201c verankert. (3) Open Educational Resources: Die entwickelten Lehrkonzeptionen und Materialien werden als Open Educational Resources (OER) aufbereitet und \u00fcber das OER-Portal des Landes Niedersachsen offen zug\u00e4nglich gemacht.",
+                "qualifier": "researchDesign",
+                "lang": "-"
+            },
+            {
+                "value": "Die durchgef\u00fchrte thematische Analyse nach Braun und Clarke (2021, 2006) orientiert sich an dem OEP-Verst\u00e4ndnis nach Bellinger und Mayrberger (2019).",
+                "qualifier": "note",
+                "lang": "de"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Open Education",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Open Educational Practices",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Offene Bildungspraktiken",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Open Educational Resources",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Thematische Analyse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Hochschule",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bildungskultur",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Steuerungsprozesse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Strategie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Berichtswesen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Open Educational Practices",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Open Educational Resources",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Thematic Analysis",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Higher Education",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Educational Culture",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Governance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Strategy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Reporting",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "Niedersachsen",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Fakult\u00e4t Bildung",
+                "authority": "virtual::649",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Rahdes"
+                    ],
+                    "givenName": [
+                        "Simon"
+                    ],
+                    "gnd": [
+                        "1150543825"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::607",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Herzog"
+                    ],
+                    "givenName": [
+                        "Christian"
+                    ],
+                    "orcid": [
+                        "0000-0002-7424-3983"
+                    ],
+                    "gnd": [
+                        "1046881442"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::611",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Rau"
+                    ],
+                    "givenName": [
+                        "Franco"
+                    ],
+                    "orcid": [
+                        "0000-0003-0327-4704"
+                    ],
+                    "gnd": [
+                        "1126517216"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::645",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                    ],
+                    "ror": [
+                        "04pz7b180"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::573",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-24",
+                "qualifier": "IsVersionOf",
+                "authority": "virtual::683",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "qualifier": "funderName",
+                "authority": "virtual::573",
+                "confidence": "-1"
+            },
+            {
+                "value": "01JA2002",
+                "qualifier": "awardNumber",
+                "authority": "virtual::573",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Dieser Datensatz wurde aus \u00f6ffentlich zug\u00e4nglichen Dokumenten der 14 nieders\u00e4chsischen Hochschulen zusammengestellt, die Lehramtsstudieng\u00e4nge, erziehungswissenschaftliche oder bildungswissenschaftliche Studieng\u00e4nge anbieten, mit dem Ziel zu untersuchen, wie weit an nieders\u00e4chsischen Hochschulen als Open Educational Practices (OEP) klassifizierbare Bildungspraktiken in Hochschulstrategien verbreitet sind und wie die Hochschulen \u00fcber OEP berichten. Im ersten Schritt wurde, mit Blick auf die Auspr\u00e4gung einer m\u00f6glichen OEP-Kultur/OER-Kultur an einer Hochschule, Digitalisierung als ein zentraler Rahmen einer den \"Open\"-Prinzipien verschriebenen Bildungskultur aufgefasst. Entsprechend wurden Strategiepapiere und Policy-Dokumente prim\u00e4r dann ausgew\u00e4hlt, wenn sie die Digitalisierung an der jeweiligen Hochschule thematisieren, sofern sie sich nicht bereits explizit auf Lehre und Bildungspraxis beziehen. Zweitens wurden frei verf\u00fcgbare Dokumente von lehrbezogenen Serviceeinrichtungen der Hochschulen in den Datensatz mitaufgenommen, wenn diese relevante Bildungspraktiken thematisieren (z.B. Empfehlungen f\u00fcr Lehr-Lern-Szenarien). Drittens, zur Identifizierung weiterer relevanter Dokumente, wurde die Suchfunktion auf den Hochschulwebseiten genutzt. Mittels Verwendung der Suchbegriffe \"open education\", \"open educational\", \"OEP\" und \"OER\" wurden Inhalte von Forschungsprojekten und Entwicklungsprojekten sowie Instituten und anderen Einrichtungen gefunden. Viertens, zur Vervollst\u00e4ndigung des Datensatzes, wurde in ver\u00f6ffentlichten Pressemitteilungen und weiteren Meldungen der Hochschulen nach relevanten Dokumenten gesucht. Als Bezugszeitraum f\u00fcr die zu untersuchenden Pressemitteilungen und andere Mitteilungen wurde das Jahr 2021 (01.01.-31.12.) gew\u00e4hlt. Die Festsetzung erfolgte unter der Annahme, dass sich 2021, als erstem Jahr nach Beginn des pandemiebedingten Digitalisierungsschubs im Bildungswesen, bereits einige der seit Pandemiebeginn angesto\u00dfenen Entwicklungen und Initiativen fester etabliert haben.",
+                "qualifier": "Abstract",
+                "lang": "de"
+            },
+            {
+                "value": "Content coding",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Analysis of digital content",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Analysis of text documents",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2022-04 - 2022-09",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2022-04 - 2022-05",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "deu",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2023"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "IsSupplementTo"
+                    ],
+                    "freetext": [
+                        "Rahdes, S., Herzog, C., & Rau, F. (2024). Offenheit eher eng gefasst: Open Educational Practices an nieders\u00e4chsischen Hochschulen. in M. Ahlers, M. Besser, C. Herzog, & P. Kuhl (Hrsg.), Digitales Lehren und Lernen im Fachunterricht: Aktuelle Entwicklungen, Gegenst\u00e4nde und Prozesse (S. 159-182). Beltz Juventa Verlag."
+                    ],
+                    "relatedIdentifier": [
+                        "10.3262/978-3-7799-7093-4"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "72c2a734-e399-40a3-80dd-d6743834c47d",
+                "authority": "virtual::607",
+                "confidence": "-1"
+            },
+            {
+                "value": "38284fb8-84a9-4c33-894f-09e0e0d4c760",
+                "authority": "virtual::611",
+                "confidence": "-1"
+            },
+            {
+                "value": "8799906e-f2da-4612-975d-c11f797a04c5",
+                "authority": "virtual::645",
+                "confidence": "-1"
+            },
+            {
+                "value": "72c2a734-e399-40a3-80dd-d6743834c47d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::607",
+                "confidence": "-1"
+            },
+            {
+                "value": "38284fb8-84a9-4c33-894f-09e0e0d4c760",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::611",
+                "confidence": "-1"
+            },
+            {
+                "value": "8799906e-f2da-4612-975d-c11f797a04c5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::645",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "393478e9-b4d8-46bd-b83c-c2b8fb037972",
+                "authority": "virtual::649",
+                "confidence": "-1"
+            },
+            {
+                "value": "393478e9-b4d8-46bd-b83c-c2b8fb037972",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::649",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "9fcab68f-0156-4065-9fd6-f92c8c310c64",
+                "authority": "virtual::573",
+                "confidence": "-1"
+            },
+            {
+                "value": "9fcab68f-0156-4065-9fd6-f92c8c310c64",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::573",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_HasVersion_": [
+            {
+                "value": "1ac63d85-918a-496e-9d99-9e31669a4634",
+                "authority": "virtual::6670",
+                "confidence": "-1"
+            },
+            {
+                "value": "1ac63d85-918a-496e-9d99-9e31669a4634",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::6670",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsVersionOf_OfP": [
+            {
+                "value": "1ac63d85-918a-496e-9d99-9e31669a4634",
+                "authority": "virtual::683",
+                "confidence": "-1"
+            },
+            {
+                "value": "1ac63d85-918a-496e-9d99-9e31669a4634",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::683",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-24.3",
+        "title": "Open Educational Practices an nieders\u00e4chsischen Hochschulen - Auflistung der im Datensatz enthaltenen Quellen",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2023,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Rahdes, Simon",
+                "givenName": "Simon",
+                "familyName": "Rahdes",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1150543825",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Herzog, Christian",
+                "givenName": "Christian",
+                "familyName": "Herzog",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-7424-3983",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1046881442",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Rau, Franco",
+                "givenName": "Franco",
+                "familyName": "Rau",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-0327-4704",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1126517216",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "christian.herzog@leuphana.de",
+                "contributorType": "ContactPerson",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "de",
+                "description": "Dieser Datensatz wurde aus \u00f6ffentlich zug\u00e4nglichen Dokumenten der 14 nieders\u00e4chsischen Hochschulen zusammengestellt, die Lehramtsstudieng\u00e4nge, erziehungswissenschaftliche oder bildungswissenschaftliche Studieng\u00e4nge anbieten, mit dem Ziel zu untersuchen, wie weit an nieders\u00e4chsischen Hochschulen als Open Educational Practices (OEP) klassifizierbare Bildungspraktiken in Hochschulstrategien verbreitet sind und wie die Hochschulen \u00fcber OEP berichten. Im ersten Schritt wurde, mit Blick auf die Auspr\u00e4gung einer m\u00f6glichen OEP-Kultur/OER-Kultur an einer Hochschule, Digitalisierung als ein zentraler Rahmen einer den \"Open\"-Prinzipien verschriebenen Bildungskultur aufgefasst. Entsprechend wurden Strategiepapiere und Policy-Dokumente prim\u00e4r dann ausgew\u00e4hlt, wenn sie die Digitalisierung an der jeweiligen Hochschule thematisieren, sofern sie sich nicht bereits explizit auf Lehre und Bildungspraxis beziehen. Zweitens wurden frei verf\u00fcgbare Dokumente von lehrbezogenen Serviceeinrichtungen der Hochschulen in den Datensatz mitaufgenommen, wenn diese relevante Bildungspraktiken thematisieren (z.B. Empfehlungen f\u00fcr Lehr-Lern-Szenarien). Drittens, zur Identifizierung weiterer relevanter Dokumente, wurde die Suchfunktion auf den Hochschulwebseiten genutzt. Mittels Verwendung der Suchbegriffe \"open education\", \"open educational\", \"OEP\" und \"OER\" wurden Inhalte von Forschungsprojekten und Entwicklungsprojekten sowie Instituten und anderen Einrichtungen gefunden. Viertens, zur Vervollst\u00e4ndigung des Datensatzes, wurde in ver\u00f6ffentlichten Pressemitteilungen und weiteren Meldungen der Hochschulen nach relevanten Dokumenten gesucht. Als Bezugszeitraum f\u00fcr die zu untersuchenden Pressemitteilungen und andere Mitteilungen wurde das Jahr 2021 (01.01.-31.12.) gew\u00e4hlt. Die Festsetzung erfolgte unter der Annahme, dass sich 2021, als erstem Jahr nach Beginn des pandemiebedingten Digitalisierungsschubs im Bildungswesen, bereits einige der seit Pandemiebeginn angesto\u00dfenen Entwicklungen und Initiativen fester etabliert haben.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Content coding",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Analysis of digital content",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Analysis of text documents",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Open Educational Practices"
+            },
+            {
+                "subject": "Offene Bildungspraktiken"
+            },
+            {
+                "subject": "Open Educational Resources"
+            },
+            {
+                "subject": "Thematische Analyse"
+            },
+            {
+                "subject": "Hochschule"
+            },
+            {
+                "subject": "Bildungskultur"
+            },
+            {
+                "subject": "Steuerungsprozesse"
+            },
+            {
+                "subject": "Strategie"
+            },
+            {
+                "subject": "Berichtswesen"
+            },
+            {
+                "subject": "Thematic Analysis"
+            },
+            {
+                "subject": "Higher Education"
+            },
+            {
+                "subject": "Educational Culture"
+            },
+            {
+                "subject": "Governance"
+            },
+            {
+                "subject": "Strategy"
+            },
+            {
+                "subject": "Reporting"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2023-06-13",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2023-04-03",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2023-06-13",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2023-06-13",
+                "dateType": "Available"
+            },
+            {
+                "date": "2023-06-13",
+                "dateType": "Updated",
+                "dateInformation": "Aktualisierung der Datei"
+            },
+            {
+                "date": "2022-04/2022-09",
+                "dateType": "Created"
+            },
+            {
+                "date": "2022-04/2022-05",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "de",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.3262/978-3-7799-7093-4",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsVersionOf",
+                "relatedIdentifier": "10.48548/pubdata-24",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "Niedersachsen"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "awardTitle": "Digital gest\u00fctztes \u00dcben im Fachunterricht: Kompetente Lehrkr\u00e4fte - individualisierte Lernprozesse (Competencies for Digitally-enhanced Individualized Practice - CODIP)",
+                "funderName": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "awardNumber": "01JA2002",
+                "funderIdentifier": "https://ror.org/04pz7b180",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/31.3",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2023-06-13T10:15:12.000Z",
+        "registered": "2023-06-13T11:15:18.000Z",
+        "updated": "2026-09-03T09:15:16.000Z"
+    },
+    "doi": "10.48548/pubdata-24.3",
+    "license_uri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "license": "Creative Commons Attribution Share Alike 4.0 International"
+}

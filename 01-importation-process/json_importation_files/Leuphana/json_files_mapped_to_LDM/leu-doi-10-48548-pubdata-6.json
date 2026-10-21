@@ -1,0 +1,161 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2022",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Br\u00fcck, Maria",
+            "givenName": "Maria",
+            "familyName": "Br\u00fcck",
+            "orcid": "0000-0001-8656-8972"
+        },
+        {
+            "author": "Duguma, Dula Wakassa",
+            "givenName": "Dula Wakassa",
+            "familyName": "Duguma",
+            "orcid": "0000-0003-4581-8351"
+        },
+        {
+            "author": "Law, Elizabeth",
+            "givenName": "Elizabeth",
+            "familyName": "Law",
+            "orcid": "0000-0003-4456-1259"
+        },
+        {
+            "author": "Abson, David J.",
+            "givenName": "David J.",
+            "familyName": "Abson",
+            "orcid": "0000-0003-3755-785X"
+        },
+        {
+            "author": "Fischer, J\u00f6rn",
+            "givenName": "J\u00f6rn",
+            "familyName": "Fischer",
+            "orcid": "0000-0003-3187-8978"
+        },
+        {
+            "author": "Schultner, Jannik",
+            "givenName": "Jannik",
+            "familyName": "Schultner",
+            "orcid": "0000-0002-5865-7975"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-6",
+    "doi_date_published": "2022",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-6",
+    "notes": "Der Datensatz beinhaltet statistische Angaben und aggregierte Daten zur Produktion und zu Warenfl\u00fcssen von \u00d6kosystemdienstleistungen in den drei \u00e4thiopischen Woredas (Distrikten) Gera, Gumay und Setema und den zugeh\u00f6rigen Kebeles (kleinste Verwaltungsbezirke). Die Daten wurden aus diversen Quellen wie offiziellen Statistiken (u.a. Census Data 2007, Woreda Reports aus den Jahren 2019 und 2020) sowie \u00fcber Experteninterviews bezogen, zusammengestellt und mit beigelegtem Code analysiert. Weitere Daten zu den Kebeles (H\u00f6he, Wohlstand, Abgeschiedenheit, Gr\u00f6\u00dfe, Landnutzung nach zw\u00f6lf Kategorien) wurden, u.a. durch Remote Sensing Techniken, berechnet und zusammengetragen.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Ecosystem service production and flows in gera, gumay, and setema woreda, ethiopia",
+    "url": "https://doi.org/10.48548/pubdata-6",
+    "citation": [],
+    "publication_year": "2022",
+    "subject_areas": [
+        {
+            "subject_area_name": "Landwirtschaftliche Produktion"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "kosystem",
+            "name": "kosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thiopien",
+            "name": "thiopien",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landwirtschaft",
+            "name": "Landwirtschaft",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Produktion",
+            "name": "Produktion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Warenfluss",
+            "name": "Warenfluss",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Produktionsbedingungen",
+            "name": "Produktionsbedingungen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biokonomie",
+            "name": "Biokonomie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecosystem",
+            "name": "Ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ethiopia",
+            "name": "Ethiopia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Agriculture",
+            "name": "Agriculture",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Production",
+            "name": "Production",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Flow",
+            "name": "Flow",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Bioeconomy",
+            "name": "Bioeconomy",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

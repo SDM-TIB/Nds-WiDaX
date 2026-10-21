@@ -1,0 +1,215 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Ndagijimana, Valery",
+            "givenName": "Valery",
+            "familyName": "Ndagijimana",
+            "orcid": "0009-0007-5193-8364"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-4073",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-4073",
+    "notes": "The dataset was collected through a household survey conducted in Rwanda between January 26 and February 28, 2026, using the Kobo Collect Household Survey questionnaire. The dataset represents the impact of ecosystem restoration approaches (agroforestry, watershed protection, woodlots, and homegardens) on social cohesion. The researchers used social cohesion indicators or their proxies to evaluate the impact of ecosystem restoration on social cohesion. The study focused on the Rutsiro and Ngororero districts in western Rwanda, both mountainous areas.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Impact of ecosystem restoration on social cohesion. the case of rwanda",
+    "url": "https://doi.org/10.48548/pubdata-4073",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_name": "Sozial-\u00f6kologisches System"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Sozial-konomisches System",
+            "name": "Sozial-konomisches System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ruanda",
+            "name": "Ruanda",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "kosystem",
+            "name": "kosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Restaurierung",
+            "name": "Restaurierung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landschaft",
+            "name": "Landschaft",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Auswirkung",
+            "name": "Auswirkung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Soziale Beziehungen",
+            "name": "Soziale Beziehungen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landwirt",
+            "name": "Landwirt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Agroforstwirtschaft",
+            "name": "Agroforstwirtschaft",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Baumgarten",
+            "name": "Baumgarten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wasserscheide",
+            "name": "Wasserscheide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Schutz",
+            "name": "Schutz",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wald",
+            "name": "Wald",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nutzflche",
+            "name": "Nutzflche",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Social-ecological System",
+            "name": "Social-ecological System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Rwanda",
+            "name": "Rwanda",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecosystem",
+            "name": "Ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Restoration",
+            "name": "Restoration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landscape",
+            "name": "Landscape",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Impact",
+            "name": "Impact",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Social Relationships",
+            "name": "Social Relationships",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Farmer",
+            "name": "Farmer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Agroforestry",
+            "name": "Agroforestry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Homegarden",
+            "name": "Homegarden",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Watershed",
+            "name": "Watershed",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Protection",
+            "name": "Protection",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Woodlot",
+            "name": "Woodlot",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

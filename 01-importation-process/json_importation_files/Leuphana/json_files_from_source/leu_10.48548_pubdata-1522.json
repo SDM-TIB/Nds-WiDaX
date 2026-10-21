@@ -1,0 +1,730 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/1596",
+        "datestamp": "2026-07-17T05:05:48Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Hartmann, Eric",
+                "qualifier": "author",
+                "authority": "virtual::5319",
+                "confidence": "-1"
+            },
+            {
+                "value": "Heinrichs, Harald",
+                "qualifier": "author",
+                "authority": "virtual::5323",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-11-28T11:01:23Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2024-11-28T11:01:23Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-11-28",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-11-20T10:32:46Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/1596",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-1522",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Nachhaltigkeitsstrategie Niedersachsen",
+                "authority": "virtual::5285",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "BNBN 2024: Management-Datensatz",
+                "lang": "de"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            },
+            {
+                "value": "Instrument"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Survey Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Context Materials / Supporting information",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Survey Instruments / Measuring Instruments",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Professur f\u00fcr Nachhaltigkeit und Politik, Leuphana Universit\u00e4t L\u00fcneburg",
+                "authority": "virtual::12426",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Nachhaltige Transformation",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Klimaschutz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltigkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Unternehmen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "F\u00fchrungskraft",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Management",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Transformation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Dekarbonisierung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Niedersachsen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Climate Protection",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Company",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Manager",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Management",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Transformation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Decarbonization",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Lower Saxony",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "Niedersachsen",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Nachhaltigkeitssteuerung (INSUGO)",
+                "authority": "virtual::10071",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::5361",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Hartmann"
+                    ],
+                    "givenName": [
+                        "Eric"
+                    ],
+                    "orcid": [
+                        "0009-0005-4646-0031"
+                    ],
+                    "gnd": [
+                        "1324173548"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::5319",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Heinrichs"
+                    ],
+                    "givenName": [
+                        "Harald"
+                    ],
+                    "orcid": [
+                        "0000-0003-1529-4235"
+                    ],
+                    "gnd": [
+                        "143955284"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::5323",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Nieders\u00e4chsisches Ministerium f\u00fcr Umwelt, Energie und Klimaschutz"
+                    ],
+                    "ror": [
+                        "0001zgs18"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::5285",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-1529",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::5395",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Nieders\u00e4chsisches Ministerium f\u00fcr Umwelt, Energie und Klimaschutz",
+                "qualifier": "funderName",
+                "authority": "virtual::5285",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Der Datensatz beinhaltet Umfrageergebnisse samt zugeh\u00f6rigem Fragebogen und Codebook des \"Betrieblichen Nachhaltigkeitsbarometers Niedersachsen\" (BNBN), einer standardisierten Online-Befragung von Personen aus dem Management sowie aus Betriebs- und Personalr\u00e4ten in nieders\u00e4chsischen Unternehmen. Der vorliegende Datensatz bezieht sich dabei ausschlie\u00dflich auf die Befragung der Personengruppe aus dem Management. Ziel dieser Umfrage war es, einen \u00dcberblick \u00fcber den Stand der Umsetzung von Nachhaltigkeit und Klimaschutz in der Wirtschaft in Niedersachsen aus Perspektive der Befragten zu erhalten. Die Daten wurden im Fr\u00fchjahr 2024 in Kooperation mit dem Nieders\u00e4chsischen Ministerium f\u00fcr Umwelt, Energie und Klimaschutz und der Niedersachsen Allianz f\u00fcr Nachhaltigkeit erhoben und statistisch ausgewertet. Das methodische Vorgehen und die Ergebnisse der Auswertung k\u00f6nnen im begleitenden Bericht \"Betriebliches Nachhaltigkeitsbarometer Niedersachsen 2024\" eingesehen werden.",
+                "qualifier": "Abstract",
+                "lang": "de"
+            },
+            {
+                "value": "Computer-assisted questionnaire",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2024-02-28 - 2024-05-22",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2024-02-28 - 2024-03-26",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "deu",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "4597dd97-1d21-4bf2-9791-33c4c47890b2",
+                "authority": "virtual::5319",
+                "confidence": "-1"
+            },
+            {
+                "value": "b377a102-0771-411f-bc63-3e1a9ccbcf76",
+                "authority": "virtual::5323",
+                "confidence": "-1"
+            },
+            {
+                "value": "4597dd97-1d21-4bf2-9791-33c4c47890b2",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5319",
+                "confidence": "-1"
+            },
+            {
+                "value": "b377a102-0771-411f-bc63-3e1a9ccbcf76",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5323",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "6d5356b3-8ce9-443c-a745-bc2e361f0e80",
+                "authority": "virtual::12426",
+                "confidence": "-1"
+            },
+            {
+                "value": "6d5356b3-8ce9-443c-a745-bc2e361f0e80",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12426",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "eef5da7c-acf0-4b25-9574-3621e79f851a",
+                "authority": "virtual::10071",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::5361",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5361",
+                "confidence": "-1"
+            },
+            {
+                "value": "eef5da7c-acf0-4b25-9574-3621e79f851a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10071",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "686fcf3d-6950-4ba8-ab64-c0aed20f5098",
+                "authority": "virtual::5285",
+                "confidence": "-1"
+            },
+            {
+                "value": "686fcf3d-6950-4ba8-ab64-c0aed20f5098",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5285",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "c680899b-e395-42c7-9ed7-a251fb283fb5",
+                "authority": "virtual::3320",
+                "confidence": "-1"
+            },
+            {
+                "value": "c680899b-e395-42c7-9ed7-a251fb283fb5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3320",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "c680899b-e395-42c7-9ed7-a251fb283fb5",
+                "authority": "virtual::5395",
+                "confidence": "-1"
+            },
+            {
+                "value": "c680899b-e395-42c7-9ed7-a251fb283fb5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5395",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_References_": [
+            {
+                "value": "af56c6c0-8b2a-45c4-b1b2-c6af4b80a774",
+                "authority": "virtual::12208",
+                "confidence": "-1"
+            },
+            {
+                "value": "af56c6c0-8b2a-45c4-b1b2-c6af4b80a774",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12208",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-1522",
+        "title": "BNBN 2024: Management-Datensatz",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Collection",
+        "creators": [
+            {
+                "name": "Hartmann, Eric",
+                "givenName": "Eric",
+                "familyName": "Hartmann",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0005-4646-0031",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1324173548",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Heinrichs, Harald",
+                "givenName": "Harald",
+                "familyName": "Heinrichs",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-1529-4235",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "143955284",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Professur f\u00fcr Nachhaltigkeit und Politik, Leuphana Universit\u00e4t L\u00fcneburg",
+                "contributorType": "RightsHolder",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "de",
+                "description": "Der Datensatz beinhaltet Umfrageergebnisse samt zugeh\u00f6rigem Fragebogen und Codebook des \"Betrieblichen Nachhaltigkeitsbarometers Niedersachsen\" (BNBN), einer standardisierten Online-Befragung von Personen aus dem Management sowie aus Betriebs- und Personalr\u00e4ten in nieders\u00e4chsischen Unternehmen. Der vorliegende Datensatz bezieht sich dabei ausschlie\u00dflich auf die Befragung der Personengruppe aus dem Management. Ziel dieser Umfrage war es, einen \u00dcberblick \u00fcber den Stand der Umsetzung von Nachhaltigkeit und Klimaschutz in der Wirtschaft in Niedersachsen aus Perspektive der Befragten zu erhalten. Die Daten wurden im Fr\u00fchjahr 2024 in Kooperation mit dem Nieders\u00e4chsischen Ministerium f\u00fcr Umwelt, Energie und Klimaschutz und der Niedersachsen Allianz f\u00fcr Nachhaltigkeit erhoben und statistisch ausgewertet. Das methodische Vorgehen und die Ergebnisse der Auswertung k\u00f6nnen im begleitenden Bericht \"Betriebliches Nachhaltigkeitsbarometer Niedersachsen 2024\" eingesehen werden.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Computer-assisted questionnaire",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Klimaschutz"
+            },
+            {
+                "subject": "Nachhaltigkeit"
+            },
+            {
+                "subject": "Unternehmen"
+            },
+            {
+                "subject": "F\u00fchrungskraft"
+            },
+            {
+                "subject": "Management"
+            },
+            {
+                "subject": "Transformation"
+            },
+            {
+                "subject": "Dekarbonisierung"
+            },
+            {
+                "subject": "Niedersachsen"
+            },
+            {
+                "subject": "Climate Protection"
+            },
+            {
+                "subject": "Sustainability"
+            },
+            {
+                "subject": "Company"
+            },
+            {
+                "subject": "Manager"
+            },
+            {
+                "subject": "Decarbonization"
+            },
+            {
+                "subject": "Lower Saxony"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-11-28",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2024-11-28",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-11-20",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-11-28",
+                "dateType": "Available"
+            },
+            {
+                "date": "2024-02-28/2024-05-22",
+                "dateType": "Created"
+            },
+            {
+                "date": "2024-02-28/2024-03-26",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "de",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-1529",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "Niedersachsen"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "awardTitle": "Nachhaltigkeitsstrategie Niedersachsen",
+                "funderName": "Nieders\u00e4chsisches Ministerium f\u00fcr Umwelt, Energie und Klimaschutz",
+                "funderIdentifier": "https://ror.org/0001zgs18",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/1596",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-11-28T11:15:13.000Z",
+        "registered": "2024-11-28T11:15:28.000Z",
+        "updated": "2026-07-17T05:15:19.000Z"
+    },
+    "doi": "10.48548/pubdata-1522",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

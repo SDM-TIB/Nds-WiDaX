@@ -1,0 +1,806 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/10559",
+        "datestamp": "2025-10-01T11:25:31Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Ortiz-Przychodzka, Stefan",
+                "qualifier": "author",
+                "authority": "virtual::12248",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-09-17T11:41:55Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-09-17",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/10559",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-2230",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Biokulturelle Diversit\u00e4t in Agrarlandschaften des Globalen S\u00fcdens (BioKultDiv)",
+                "authority": "virtual::12251",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Annotations on key information from a literature review on the links between diverse economies, biocultural diversity and assemblages of more-than-human relations",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Annotations",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Ortiz-Przychodzka, Stefan",
+                "authority": "virtual::12249",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Ortiz-Przychodzka, Stefan",
+                "authority": "virtual::12250",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Bio\u00f6konomie",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Literatur",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Review",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bio\u00f6konomie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Diversit\u00e4t",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wirtschaft",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Sozial-\u00f6konomisches System",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Sozial-\u00f6kologisches System",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Biodiversit\u00e4t",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kulturelle Diversit\u00e4t",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Werte",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Umwelt",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landwirtschaft",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltigkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Mensch-Natur-Beziehungen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wissensanwendung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Literature",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Review",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Bioeconomy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Diversity",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Economy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Social-economic System",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Social-ecological System",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Biodiversity",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Cultural Diversity",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Values",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Environment",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Farming",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Human-Nature Relations",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Knowledge Practice",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::12252",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::12253",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Ortiz-Przychodzka"
+                    ],
+                    "givenName": [
+                        "Stefan"
+                    ],
+                    "orcid": [
+                        "0000-0002-8927-8636"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12248",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                    ],
+                    "ror": [
+                        "04pz7b180"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::12251",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-2229",
+                "qualifier": "IsDocumentedBy",
+                "authority": "virtual::12256",
+                "confidence": "-1"
+            },
+            {
+                "value": "DOI: 10.48548/pubdata-2347",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::12254",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "qualifier": "funderName",
+                "authority": "virtual::12251",
+                "confidence": "-1"
+            },
+            {
+                "value": "01UU1903",
+                "qualifier": "awardNumber",
+                "authority": "virtual::12251",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "This document presents the author's annotations based on a literature review depicting conceptual links between diverse economies, biocultural diversity, and assemblages of more-than-human relations. The annotations are related to a coding structure that supported the data analysis presented in the author's PhD thesis \"Economies of honey at the agrarian commodity frontier. How diverse economies emerge from the territorial fractures in the Bolivian Chiquitan\u00eda\".",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Analysis of text documents",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Literature analysis / Systematic review",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2020-06-01 - 2021-02-28",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2020-02-01 - 2020-07-31",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2025"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "freetext": [
+                        "Ortiz-Przychodzka, S., Benavides-Fr\u00edas, C., Raymond, C. M., D\u00edaz-Reviriego, I., & Hanspach, J. (2023). Rethinking economic practices and values as assemblages of More-Than-Human relations. Ecological Economics, 211, Article 107866"
+                    ],
+                    "relatedIdentifier": [
+                        "10.1016/j.ecolecon.2023.107866"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationType": [
+                        "IsSupplementTo"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "a51de59a-6490-498d-bdbb-f8c7a1b416a7",
+                "authority": "virtual::12248",
+                "confidence": "-1"
+            },
+            {
+                "value": "a51de59a-6490-498d-bdbb-f8c7a1b416a7",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12248",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "a51de59a-6490-498d-bdbb-f8c7a1b416a7",
+                "authority": "virtual::12250",
+                "confidence": "-1"
+            },
+            {
+                "value": "a51de59a-6490-498d-bdbb-f8c7a1b416a7",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12250",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::12252",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::12253",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12252",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12253",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "a51de59a-6490-498d-bdbb-f8c7a1b416a7",
+                "authority": "virtual::12249",
+                "confidence": "-1"
+            },
+            {
+                "value": "a51de59a-6490-498d-bdbb-f8c7a1b416a7",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12249",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "aa003bd5-ac65-4850-a1c3-421bbc579364",
+                "authority": "virtual::12251",
+                "confidence": "-1"
+            },
+            {
+                "value": "aa003bd5-ac65-4850-a1c3-421bbc579364",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12251",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_Documents_": [
+            {
+                "value": "c3ea85a4-5579-41cb-b167-e43767272d07",
+                "authority": "virtual::12257",
+                "confidence": "-1"
+            },
+            {
+                "value": "c3ea85a4-5579-41cb-b167-e43767272d07",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12257",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsDocumentedBy_OfP": [
+            {
+                "value": "c3ea85a4-5579-41cb-b167-e43767272d07",
+                "authority": "virtual::12256",
+                "confidence": "-1"
+            },
+            {
+                "value": "c3ea85a4-5579-41cb-b167-e43767272d07",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12256",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "f40fde4e-c6e1-4f1b-8dc0-4b093e381e6f",
+                "authority": "virtual::12269",
+                "confidence": "-1"
+            },
+            {
+                "value": "f40fde4e-c6e1-4f1b-8dc0-4b093e381e6f",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12269",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "f40fde4e-c6e1-4f1b-8dc0-4b093e381e6f",
+                "authority": "virtual::12254",
+                "confidence": "-1"
+            },
+            {
+                "value": "f40fde4e-c6e1-4f1b-8dc0-4b093e381e6f",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12254",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-2230",
+        "title": "Annotations on key information from a literature review on the links between diverse economies, biocultural diversity and assemblages of more-than-human relations",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2026,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Ortiz-Przychodzka, Stefan",
+                "givenName": "Stefan",
+                "familyName": "Ortiz-Przychodzka",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-8927-8636",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Ortiz-Przychodzka, Stefan",
+                "nameType": "Personal",
+                "givenName": "Stefan",
+                "familyName": "Ortiz-Przychodzka",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Ortiz-Przychodzka, Stefan",
+                "nameType": "Personal",
+                "givenName": "Stefan",
+                "familyName": "Ortiz-Przychodzka",
+                "affiliation": [],
+                "contributorType": "RightsHolder",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "This document presents the author's annotations based on a literature review depicting conceptual links between diverse economies, biocultural diversity, and assemblages of more-than-human relations. The annotations are related to a coding structure that supported the data analysis presented in the author's PhD thesis \"Economies of honey at the agrarian commodity frontier. How diverse economies emerge from the territorial fractures in the Bolivian Chiquitan\u00eda\".",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Analysis of text documents",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Literature analysis / Systematic review",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Literatur"
+            },
+            {
+                "subject": "Review"
+            },
+            {
+                "subject": "Bio\u00f6konomie"
+            },
+            {
+                "subject": "Diversit\u00e4t"
+            },
+            {
+                "subject": "Wirtschaft"
+            },
+            {
+                "subject": "Sozial-\u00f6konomisches System"
+            },
+            {
+                "subject": "Sozial-\u00f6kologisches System"
+            },
+            {
+                "subject": "Biodiversit\u00e4t"
+            },
+            {
+                "subject": "Kulturelle Diversit\u00e4t"
+            },
+            {
+                "subject": "Werte"
+            },
+            {
+                "subject": "Umwelt"
+            },
+            {
+                "subject": "Landwirtschaft"
+            },
+            {
+                "subject": "Nachhaltigkeit"
+            },
+            {
+                "subject": "Mensch-Natur-Beziehungen"
+            },
+            {
+                "subject": "Wissensanwendung"
+            },
+            {
+                "subject": "Literature"
+            },
+            {
+                "subject": "Bioeconomy"
+            },
+            {
+                "subject": "Diversity"
+            },
+            {
+                "subject": "Economy"
+            },
+            {
+                "subject": "Social-economic System"
+            },
+            {
+                "subject": "Social-ecological System"
+            },
+            {
+                "subject": "Biodiversity"
+            },
+            {
+                "subject": "Cultural Diversity"
+            },
+            {
+                "subject": "Values"
+            },
+            {
+                "subject": "Environment"
+            },
+            {
+                "subject": "Farming"
+            },
+            {
+                "subject": "Sustainability"
+            },
+            {
+                "subject": "Human-Nature Relations"
+            },
+            {
+                "subject": "Knowledge Practice"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-09-17",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-09-17",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2020-06-01/2021-02-28",
+                "dateType": "Created"
+            },
+            {
+                "date": "2020-02-01/2020-07-31",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.1016/j.ecolecon.2023.107866",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsDocumentedBy",
+                "relatedIdentifier": "10.48548/pubdata-2229",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-2347",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Biokulturelle Diversit\u00e4t in Agrarlandschaften des Globalen S\u00fcdens (BioKultDiv)",
+                "funderName": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "awardNumber": "01UU1903",
+                "funderIdentifier": "https://ror.org/04pz7b180",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/10559",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-09-17T12:15:14.000Z",
+        "registered": "2025-09-17T12:15:34.000Z",
+        "updated": "2025-10-01T12:15:14.000Z"
+    },
+    "doi": "10.48548/pubdata-2230",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

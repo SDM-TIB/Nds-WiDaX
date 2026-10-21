@@ -1,0 +1,197 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Wei\u00df, Fabio",
+            "givenName": "Fabio",
+            "familyName": "Wei\u00df",
+            "orcid": "0000-0003-1078-1528"
+        },
+        {
+            "author": "Winter, Susanne",
+            "givenName": "Susanne",
+            "familyName": "Winter",
+            "orcid": "0009-0009-5580-7550"
+        },
+        {
+            "author": "Pflugmacher, Dirk",
+            "givenName": "Dirk",
+            "familyName": "Pflugmacher",
+            "orcid": "0000-0002-2226-4029"
+        },
+        {
+            "author": "Kolling, Thomas",
+            "givenName": "Thomas",
+            "familyName": "Kolling",
+            "orcid": ""
+        },
+        {
+            "author": "Linde, Andreas",
+            "givenName": "Andreas",
+            "familyName": "Linde",
+            "orcid": "0000-0002-0154-7943"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-118",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Share Alike 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-118",
+    "notes": "This dataset compiles data investigating carabid beetles sampled from 1999 until 2001 and again from 2020 until 2022 at the same locations with identical methods. Sampling was conducted using pitfall traps. The traps consisted of a 400 ml honey jar featuring an extended PVC rim plate. They were placed in a piece of PVC pipe and covered with a metal roof. Each trap contained 200 ml of trapping fluid (50% solution of monoethylene glycol and water). From 2020 until 2022, the researchers located the exact trap locations (with a tolerance of <2 m) using the GPS locations and tree survey maps. In all years, sampling was conducted from mid-April to early November. The pitfall traps were emptied fortnightly, yielding 15 samples per trap and sampling year. Subsequently, the carabid beetles were determined to the species level according to M\u00fcller-Motzfeld (2004) by Thomas Kolling and Dirk Pflugmacher in 1999-2001 and by Fabio Weiss and Thomas Kolling in 2020-2022. The eleven study sites of this study were chosen as representative selection of managed and unmanaged beech forests of old stand age and comparable environmental site conditions. Two of the sites (Serrahn and Grumsin) have been declared UNESCO World Heritage Sites as part of the \"Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe\"; two others (Heilige Hallen and Fauler Ort) represent the oldest known lowland beech forests without timber use in Germany. The majority of the sites (seven, including Grumsin) are part of the Schorfheide-Chorin Biosphere Reserve, while Serrahn is part of the M\u00fcritz National Park.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Carabid beetles of old beech forests - repeated sampling 1999-2001 and 2020-2022",
+    "url": "https://doi.org/10.48548/pubdata-118",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_name": "Biodiversit\u00e4t"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Laufkfer",
+            "name": "Laufkfer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kfer",
+            "name": "Kfer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insekten",
+            "name": "Insekten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Vorkommen",
+            "name": "Vorkommen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wald",
+            "name": "Wald",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biosphrenreservat",
+            "name": "Biosphrenreservat",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insektenmonitoring",
+            "name": "Insektenmonitoring",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biodiversitt",
+            "name": "Biodiversitt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insektenrckgang",
+            "name": "Insektenrckgang",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Zeitreihe",
+            "name": "Zeitreihe",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Carabids",
+            "name": "Carabids",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ground Beetles",
+            "name": "Ground Beetles",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insects",
+            "name": "Insects",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Abundance",
+            "name": "Abundance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Forest",
+            "name": "Forest",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biosphere Reserve",
+            "name": "Biosphere Reserve",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insect Monitoring",
+            "name": "Insect Monitoring",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biodiversity",
+            "name": "Biodiversity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insect Decline",
+            "name": "Insect Decline",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Time Series",
+            "name": "Time Series",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

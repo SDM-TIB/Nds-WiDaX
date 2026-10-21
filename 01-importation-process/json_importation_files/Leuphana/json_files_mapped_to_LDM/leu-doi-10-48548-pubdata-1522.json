@@ -1,0 +1,155 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Hartmann, Eric",
+            "givenName": "Eric",
+            "familyName": "Hartmann",
+            "orcid": "0009-0005-4646-0031"
+        },
+        {
+            "author": "Heinrichs, Harald",
+            "givenName": "Harald",
+            "familyName": "Heinrichs",
+            "orcid": "0000-0003-1529-4235"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-1522",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-1522",
+    "notes": "Der Datensatz beinhaltet Umfrageergebnisse samt zugeh\u00f6rigem Fragebogen und Codebook des \"Betrieblichen Nachhaltigkeitsbarometers Niedersachsen\" (BNBN), einer standardisierten Online-Befragung von Personen aus dem Management sowie aus Betriebs- und Personalr\u00e4ten in nieders\u00e4chsischen Unternehmen. Der vorliegende Datensatz bezieht sich dabei ausschlie\u00dflich auf die Befragung der Personengruppe aus dem Management. Ziel dieser Umfrage war es, einen \u00dcberblick \u00fcber den Stand der Umsetzung von Nachhaltigkeit und Klimaschutz in der Wirtschaft in Niedersachsen aus Perspektive der Befragten zu erhalten. Die Daten wurden im Fr\u00fchjahr 2024 in Kooperation mit dem Nieders\u00e4chsischen Ministerium f\u00fcr Umwelt, Energie und Klimaschutz und der Niedersachsen Allianz f\u00fcr Nachhaltigkeit erhoben und statistisch ausgewertet. Das methodische Vorgehen und die Ergebnisse der Auswertung k\u00f6nnen im begleitenden Bericht \"Betriebliches Nachhaltigkeitsbarometer Niedersachsen 2024\" eingesehen werden.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Bnbn 2024: management-datensatz",
+    "url": "https://doi.org/10.48548/pubdata-1522",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_name": "Nachhaltige Transformation"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Klimaschutz",
+            "name": "Klimaschutz",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nachhaltigkeit",
+            "name": "Nachhaltigkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Unternehmen",
+            "name": "Unternehmen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Fhrungskraft",
+            "name": "Fhrungskraft",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Management",
+            "name": "Management",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Transformation",
+            "name": "Transformation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Dekarbonisierung",
+            "name": "Dekarbonisierung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Niedersachsen",
+            "name": "Niedersachsen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Climate Protection",
+            "name": "Climate Protection",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sustainability",
+            "name": "Sustainability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Company",
+            "name": "Company",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Manager",
+            "name": "Manager",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Management",
+            "name": "Management",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Transformation",
+            "name": "Transformation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Decarbonization",
+            "name": "Decarbonization",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lower Saxony",
+            "name": "Lower Saxony",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

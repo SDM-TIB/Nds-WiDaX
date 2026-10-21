@@ -1,0 +1,173 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Br\u00fcck, Maria",
+            "givenName": "Maria",
+            "familyName": "Br\u00fcck",
+            "orcid": "0000-0001-8656-8972"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-150",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-150",
+    "notes": "Der Datensatz f\u00fchrt drei verschiedene Datenarten zusammen, um sie f\u00fcr eine Analyse von \u00d6kosystemdienstleistungen und damit zusammenh\u00e4ngenden \u00f6kologischen und sozialen Aspekten heute und in der Zukunft zu nutzen. Der erste Teil (Datasheet 1) umfasst Daten zur Bereitstellung von elf lokal relevanten \u00d6kosystemdienstleistungen in 66 Kebeles (kleinste Verwaltungseinheiten in \u00c4thiopien) heute und unter vier Zukunftszenarien, welche auf Basis diverser Prim\u00e4r- und Sekund\u00e4rdaten (siehe integrierte Dokumentation) erhoben und ermittelt wurden. Der zweite Teil (Datasheet 2) ist das Produkt einer Interviewbefragung mit 164 teilnehmenden Personen. Der Fragebogen bestand aus einer \u00dcbung, um die Werttypen (instrumental, relational, intrinsisch) zu erfassen, die jedem von insgesamt zehn \u00d6kosystemdienstleistungen zugeschrieben werden. Der dritte Teil (Datasheet 3) ist das Ergebnis von semi-strukturierten Interviews und quantifiziert Stakeholdergruppen (Regierungsorganisationen, private, gemeinschaftsbasierte, Nicht-Regierungs-Organisationen) mit einem Interesse an \u00d6kosystemdienstleistungen in der Studienregion.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Ecosystem service provision, values and stakeholders in gera, gumay, and setema woreda, ethiopia",
+    "url": "https://doi.org/10.48548/pubdata-150",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_name": "Landwirtschaftliche Produktion"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "kosystem",
+            "name": "kosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thiopien",
+            "name": "thiopien",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Dienstleistung",
+            "name": "Dienstleistung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landwirtschaft",
+            "name": "Landwirtschaft",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Produktion",
+            "name": "Produktion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "kologie",
+            "name": "kologie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Umweltbewusstsein",
+            "name": "Umweltbewusstsein",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Soziokulturelle Werte",
+            "name": "Soziokulturelle Werte",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Stakeholder",
+            "name": "Stakeholder",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biokonomie",
+            "name": "Biokonomie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecosystem",
+            "name": "Ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ethiopia",
+            "name": "Ethiopia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Service Provision",
+            "name": "Service Provision",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Agriculture",
+            "name": "Agriculture",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Production",
+            "name": "Production",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecology",
+            "name": "Ecology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Environmental Consciousness",
+            "name": "Environmental Consciousness",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Socio-cultural Values",
+            "name": "Socio-cultural Values",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Stakeholder",
+            "name": "Stakeholder",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Bioeconomy",
+            "name": "Bioeconomy",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

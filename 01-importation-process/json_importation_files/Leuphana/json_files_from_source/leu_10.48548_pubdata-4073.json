@@ -1,0 +1,647 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/15842",
+        "datestamp": "2026-10-09T12:17:39Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Ndagijimana, Valery",
+                "qualifier": "author",
+                "authority": "virtual::20676",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2026-09-24T05:09:32Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2026-09-24",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/15842",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-4073",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "DFG-Forschungsgruppe 5501: Ein sozial-\u00f6kologischer Systemansatz zur Wiederherstellung von \u00d6kosystemen in l\u00e4ndlichen Regionen Afrikas",
+                "authority": "virtual::20680",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Impact of ecosystem restoration on social cohesion. The case of Rwanda",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Survey Data",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Ndagijimana, Valery",
+                "authority": "virtual::20678",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Sozial-\u00f6kologisches System",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Sozial-\u00f6konomisches System",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Ruanda",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Restaurierung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landschaft",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Auswirkung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Soziale Beziehungen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landwirt",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Agroforstwirtschaft",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Baumgarten",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wasserscheide",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Schutz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wald",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nutzfl\u00e4che",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Social-ecological System",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Rwanda",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Restoration",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Landscape",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Impact",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Social Relationships",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Farmer",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Agroforestry",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Homegarden",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Watershed",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Protection",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Woodlot",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "RWA",
+                "qualifier": "country"
+            },
+            {
+                "value": "Rutsiro and Ngororero districts (Western Rwanda)",
+                "qualifier": "region"
+            }
+        ],
+        "PublishingType": [
+            {
+                "value": "First publication"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::20679",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Ndagijimana"
+                    ],
+                    "givenName": [
+                        "Valery"
+                    ],
+                    "orcid": [
+                        "0009-0007-5193-8364"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::20676",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Deutsche Forschungsgemeinschaft (DFG)"
+                    ],
+                    "ror": [
+                        "018mejw64"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::20680",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Deutsche Forschungsgemeinschaft (DFG)",
+                "qualifier": "funderName",
+                "authority": "virtual::20680",
+                "confidence": "-1"
+            },
+            {
+                "value": "496337053",
+                "qualifier": "awardNumber",
+                "authority": "virtual::20680",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The dataset was collected through a household survey conducted in Rwanda between January 26 and February 28, 2026, using the Kobo Collect Household Survey questionnaire. The dataset represents the impact of ecosystem restoration approaches (agroforestry, watershed protection, woodlots, and homegardens) on social cohesion. The researchers used social cohesion indicators or their proxies to evaluate the impact of ecosystem restoration on social cohesion. The study focused on the Rutsiro and Ngororero districts in western Rwanda, both mountainous areas.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Questionnaire (Paper)",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Computer-assisted questionnaire",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2026-01-26 - 2026-02-28",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2026"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "2e54b5c2-570e-4945-b66e-fc818be30b17",
+                "authority": "virtual::20676",
+                "confidence": "-1"
+            },
+            {
+                "value": "2e54b5c2-570e-4945-b66e-fc818be30b17",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20676",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "2e54b5c2-570e-4945-b66e-fc818be30b17",
+                "authority": "virtual::20678",
+                "confidence": "-1"
+            },
+            {
+                "value": "2e54b5c2-570e-4945-b66e-fc818be30b17",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20678",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::20679",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20679",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "b76f995d-53a8-455d-be85-93c993cb8810",
+                "authority": "virtual::20680",
+                "confidence": "-1"
+            },
+            {
+                "value": "b76f995d-53a8-455d-be85-93c993cb8810",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20680",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "embargo"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-4073",
+        "title": "Impact of ecosystem restoration on social cohesion. The case of Rwanda",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2027,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Ndagijimana, Valery",
+                "givenName": "Valery",
+                "familyName": "Ndagijimana",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0007-5193-8364",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Ndagijimana, Valery",
+                "contributorType": "RightsHolder",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "en",
+                "description": "The dataset was collected through a household survey conducted in Rwanda between January 26 and February 28, 2026, using the Kobo Collect Household Survey questionnaire. The dataset represents the impact of ecosystem restoration approaches (agroforestry, watershed protection, woodlots, and homegardens) on social cohesion. The researchers used social cohesion indicators or their proxies to evaluate the impact of ecosystem restoration on social cohesion. The study focused on the Rutsiro and Ngororero districts in western Rwanda, both mountainous areas.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Questionnaire (Paper)",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Computer-assisted questionnaire",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Sozial-\u00f6konomisches System"
+            },
+            {
+                "subject": "Ruanda"
+            },
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "Restaurierung"
+            },
+            {
+                "subject": "Landschaft"
+            },
+            {
+                "subject": "Auswirkung"
+            },
+            {
+                "subject": "Soziale Beziehungen"
+            },
+            {
+                "subject": "Landwirt"
+            },
+            {
+                "subject": "Agroforstwirtschaft"
+            },
+            {
+                "subject": "Baumgarten"
+            },
+            {
+                "subject": "Wasserscheide"
+            },
+            {
+                "subject": "Schutz"
+            },
+            {
+                "subject": "Wald"
+            },
+            {
+                "subject": "Nutzfl\u00e4che"
+            },
+            {
+                "subject": "Social-ecological System"
+            },
+            {
+                "subject": "Rwanda"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Restoration"
+            },
+            {
+                "subject": "Landscape"
+            },
+            {
+                "subject": "Impact"
+            },
+            {
+                "subject": "Social Relationships"
+            },
+            {
+                "subject": "Farmer"
+            },
+            {
+                "subject": "Agroforestry"
+            },
+            {
+                "subject": "Homegarden"
+            },
+            {
+                "subject": "Watershed"
+            },
+            {
+                "subject": "Protection"
+            },
+            {
+                "subject": "Woodlot"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2026-09-24",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2026-09-24",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2026-01-26/2026-02-28",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "RWA"
+            },
+            {
+                "geoLocationPlace": "Rutsiro and Ngororero districts (Western Rwanda)"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "awardTitle": "DFG-Forschungsgruppe 5501: Ein sozial-\u00f6kologischer Systemansatz zur Wiederherstellung von \u00d6kosystemen in l\u00e4ndlichen Regionen Afrikas",
+                "funderName": "Deutsche Forschungsgemeinschaft (DFG)",
+                "awardNumber": "496337053",
+                "funderIdentifier": "https://ror.org/018mejw64",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/15842",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2026-09-24T07:15:34.000Z",
+        "registered": "2026-09-24T07:15:35.000Z",
+        "updated": "2026-10-09T13:15:16.000Z"
+    },
+    "doi": "10.48548/pubdata-4073",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

@@ -1,0 +1,167 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Isaac, Roman",
+            "givenName": "Roman",
+            "familyName": "Isaac",
+            "orcid": "0000-0002-0007-7433"
+        },
+        {
+            "author": "Hofmann, Johanna",
+            "givenName": "Johanna",
+            "familyName": "Hofmann",
+            "orcid": "0000-0002-5222-0414"
+        },
+        {
+            "author": "D\u00e4fler, Lene Salia",
+            "givenName": "Lene Salia",
+            "familyName": "D\u00e4fler",
+            "orcid": ""
+        },
+        {
+            "author": "Mart\u00edn-L\u00f3pez, Berta",
+            "givenName": "Berta",
+            "familyName": "Mart\u00edn-L\u00f3pez",
+            "orcid": "0000-0003-2622-0135"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-216",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Non Commercial 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-216",
+    "notes": "The researchers conducted a policy document analysis (PDA) to identify how policy document intend to govern anthropogenic capitals in the co-production of nature's contributions to people (NCP). They used a four step approach to identify policies. First, they checked the scientific literature for references to relevant documents. Second, they conducted an online search in databases of relevant institutions. Third, they assessed which Natura 2000 sites were located in their case study sites and plots to find relevant Natura 2000 management plans. Fourth, they interviewed 37 forest managers and 13 conservationists and asked them about policy documents relevant for their work. In total the researchers identified 96 policy documents from different policy fields. Of these 76 met their selection criteria of referring to governance of anthropogenic capitals in nature's contributions to people co-production in forests. The research group coded these policy documents using a deductive coding scheme. The data set consists of the coding set, the coding and a full list of the 76 documents.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Coding, coding set, and policy overview: policy document analysis data for the phd thesis \"more than trees\"",
+    "url": "https://doi.org/10.48548/pubdata-216",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_name": "Mensch-Natur-Beziehung"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Dokumentenanalyse",
+            "name": "Dokumentenanalyse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Steuerungsprozesse",
+            "name": "Steuerungsprozesse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Richtlinie",
+            "name": "Richtlinie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "kosystem",
+            "name": "kosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Dienstleistung",
+            "name": "Dienstleistung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Naturleistungen fr den Menschen NCP",
+            "name": "Naturleistungen fr den Menschen NCP",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wald",
+            "name": "Wald",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Koproduktion",
+            "name": "Koproduktion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Document Analysis",
+            "name": "Document Analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Governance",
+            "name": "Governance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Policy",
+            "name": "Policy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecosystem",
+            "name": "Ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Service Provision",
+            "name": "Service Provision",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Natures Contributions to People NCP",
+            "name": "Natures Contributions to People NCP",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Forest",
+            "name": "Forest",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Co-production",
+            "name": "Co-production",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

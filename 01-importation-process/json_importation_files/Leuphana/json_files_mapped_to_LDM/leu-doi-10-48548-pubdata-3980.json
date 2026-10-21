@@ -1,0 +1,161 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Neubauer, Kai",
+            "givenName": "Kai",
+            "familyName": "Neubauer",
+            "orcid": "0009-0003-1246-7011"
+        },
+        {
+            "author": "Matthiesen, Jennifer J.",
+            "givenName": "Jennifer J.",
+            "familyName": "Matthiesen",
+            "orcid": "0000-0003-0344-9682"
+        },
+        {
+            "author": "Brefeld, Ulf",
+            "givenName": "Ulf",
+            "familyName": "Brefeld",
+            "orcid": "0000-0001-9600-6463"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-3980",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-3980",
+    "notes": "This dataset consists of item-level responses and interaction logs, i.e. cursor movements, clicks, navigation, answer changes, collected from an admission test on a custom, online testing platform in 2021. The test was part of the application process for an English-taught Data Science-related Master's program at a German university. Taking the admission test was optional and applicants who did not participate were still considered for admission, while those who scored well could earn extra points under the program's admission regulations. It consisted mostly of math-related items and had a 45-minute time limit.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Admission test - cursor trajectory dataset",
+    "url": "https://doi.org/10.48548/pubdata-3980",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_name": "Maschinelles Lernen"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Mausbewegung",
+            "name": "Mausbewegung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Student",
+            "name": "Student",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Navigation",
+            "name": "Navigation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nutzerverhalten",
+            "name": "Nutzerverhalten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Antwortverhalten",
+            "name": "Antwortverhalten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Adaptives Lernen",
+            "name": "Adaptives Lernen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Zulassungstest",
+            "name": "Zulassungstest",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Test",
+            "name": "Test",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mouse Movement",
+            "name": "Mouse Movement",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "University Student",
+            "name": "University Student",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Navigation",
+            "name": "Navigation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "User Behavior",
+            "name": "User Behavior",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Response Behavior",
+            "name": "Response Behavior",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Adaptive Learning",
+            "name": "Adaptive Learning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Admission Test",
+            "name": "Admission Test",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Testing",
+            "name": "Testing",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

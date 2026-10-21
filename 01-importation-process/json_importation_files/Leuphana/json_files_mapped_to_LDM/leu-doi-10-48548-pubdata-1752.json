@@ -1,0 +1,197 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Winkler, Klara Johanna",
+            "givenName": "Klara Johanna",
+            "familyName": "Winkler",
+            "orcid": "0000-0001-7086-5585"
+        },
+        {
+            "author": "Kosanic, Aleksandra",
+            "givenName": "Aleksandra",
+            "familyName": "Kosanic",
+            "orcid": "0000-0002-6403-7801"
+        },
+        {
+            "author": "Mart\u00edn-L\u00f3pez, Berta",
+            "givenName": "Berta",
+            "familyName": "Mart\u00edn-L\u00f3pez",
+            "orcid": "0000-0003-2622-0135"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-1752",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-1752",
+    "notes": "This dataset comprises data on the accessibility measures of 167 Biosphere Reserves in 18 countries in Europe and North America. It refers to the paper \"Disabling barriers - coping with accessibility of nature in Biosphere Reserves\" by the same authors.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Data of the paper entitled \"disabling barriers - coping with accessibility of nature in biosphere reserves\"",
+    "url": "https://doi.org/10.48548/pubdata-1752",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_name": "Nachhaltige Transformation"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Biosphrenreservat",
+            "name": "Biosphrenreservat",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Behinderte Menschen",
+            "name": "Behinderte Menschen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Naturschutzgebiet",
+            "name": "Naturschutzgebiet",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Zugnglichkeit",
+            "name": "Zugnglichkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Behinderung",
+            "name": "Behinderung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Behindertengerecht",
+            "name": "Behindertengerecht",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Zugang",
+            "name": "Zugang",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mobilitt",
+            "name": "Mobilitt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Dienstleistung",
+            "name": "Dienstleistung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tourismus",
+            "name": "Tourismus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sozial-kologisches System",
+            "name": "Sozial-kologisches System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biosphere Reserve",
+            "name": "Biosphere Reserve",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Disabled People",
+            "name": "Disabled People",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Protected Area",
+            "name": "Protected Area",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Accessibility",
+            "name": "Accessibility",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Disability",
+            "name": "Disability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Handicapped Accessible",
+            "name": "Handicapped Accessible",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Access",
+            "name": "Access",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mobility",
+            "name": "Mobility",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Service Provision",
+            "name": "Service Provision",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tourism",
+            "name": "Tourism",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Social-ecological System",
+            "name": "Social-ecological System",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

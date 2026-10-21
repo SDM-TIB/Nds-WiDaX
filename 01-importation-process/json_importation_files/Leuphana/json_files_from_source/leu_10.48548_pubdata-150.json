@@ -1,0 +1,1015 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/169",
+        "datestamp": "2026-03-04T11:48:49Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Br\u00fcck, Maria",
+                "qualifier": "author",
+                "authority": "virtual::7582",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-02-23T08:50:46Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2024-02-23T08:50:46Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-02-23",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-02-15T14:23:42Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/169",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-150",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Bio\u00f6konomie als gesellschaftlicher Wandel, Modul 2 (2): ETH-Coffee - Towards a Sustainable Bioeconomy: A Scenario Analysis for the Jimma Coffee Landscape in Ethiopia",
+                "authority": "virtual::7546",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Ecosystem Service Provision, Values and Stakeholders in Gera, Gumay, and Setema Woreda, Ethiopia",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Survey Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Measurement Data / Measured Values",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Interview Data",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The overarching goal of this project is to identify environmental and socioeconomic outcomes of ecosystem service flows in an increasingly teleconnected bioeconomy in the Global South. The case study location, Jimma zone in southwestern Ethiopia, is a biodiversity hotspot where local people are heavily dependent on the landscape to provide essential ecosystem services. However, the landscape also provides services of global importance, and is becoming more teleconnected. Both internal and external drivers are altering the social-ecological trajectories of the region. The project \u2013 building on an ERC-funded, five-year research project in Jimma zone (\u201cIdentifying Social-Ecological System Properties Benefiting Biodiversity and Food Security \u2013 SESyP\u201d) \u2014 works with local stakeholders to investigate the social-ecological consequences of different development trajectories. Research is centered around the exploration of four scenarios with differing social-ecological conditions in southwestern Ethiopia for 2040. Specific objectives are: (1) to map biodiversity and ecosystem services in rural southwestern Ethiopian landscapes under four future scenarios; (2) to identify the beneficiaries of value flows of ecosystem services generated under the different scenarios; (3) to understand power influences of different stakeholders on local ecosystems and value flows under the different scenarios; and (4) to make insights relevant and applicable for local landscape management through the integration of stakeholders in the scenario analysis. (Project website)",
+                "qualifier": "researchDesign",
+                "lang": "-"
+            },
+            {
+                "value": "Das Codebuch ist im Datensatz enthalten.",
+                "qualifier": "note",
+                "lang": "de"
+            },
+            {
+                "value": "The codebook is part of the data set.",
+                "qualifier": "note",
+                "lang": "en"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Bekele Negash, Birhanu",
+                "authority": "virtual::7584",
+                "confidence": "-1"
+            },
+            {
+                "value": "Damu, Dadi Feyisa",
+                "authority": "virtual::8416",
+                "confidence": "-1"
+            },
+            {
+                "value": "Jiren, Tolera Senbeto",
+                "authority": "virtual::7622",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Landwirtschaftliche Produktion",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00c4thiopien",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Dienstleistung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landwirtschaft",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Produktion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00d6kologie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Umweltbewusstsein",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Soziokulturelle Werte",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Stakeholder",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bio\u00f6konomie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ethiopia",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Service Provision",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Agriculture",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Production",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ecology",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Environmental Consciousness",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Socio-cultural Values",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Stakeholder",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Bioeconomy",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "ETH",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "Woredas Gera, Gumay und Setema",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::10079",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::7658",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Br\u00fcck"
+                    ],
+                    "givenName": [
+                        "Maria"
+                    ],
+                    "orcid": [
+                        "0000-0001-8656-8972"
+                    ],
+                    "gnd": [
+                        "1164715968"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7582",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                    ],
+                    "ror": [
+                        "04pz7b180"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::7546",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-2558",
+                "qualifier": "IsReferencedBy",
+                "authority": "virtual::14886",
+                "confidence": "-1"
+            },
+            {
+                "value": "DOI: 10.48548/pubdata-228",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::7660",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "qualifier": "funderName",
+                "authority": "virtual::7546",
+                "confidence": "-1"
+            },
+            {
+                "value": "031B0786",
+                "qualifier": "awardNumber",
+                "authority": "virtual::7546",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Der Datensatz f\u00fchrt drei verschiedene Datenarten zusammen, um sie f\u00fcr eine Analyse von \u00d6kosystemdienstleistungen und damit zusammenh\u00e4ngenden \u00f6kologischen und sozialen Aspekten heute und in der Zukunft zu nutzen. Der erste Teil (Datasheet 1) umfasst Daten zur Bereitstellung von elf lokal relevanten \u00d6kosystemdienstleistungen in 66 Kebeles (kleinste Verwaltungseinheiten in \u00c4thiopien) heute und unter vier Zukunftszenarien, welche auf Basis diverser Prim\u00e4r- und Sekund\u00e4rdaten (siehe integrierte Dokumentation) erhoben und ermittelt wurden. Der zweite Teil (Datasheet 2) ist das Produkt einer Interviewbefragung mit 164 teilnehmenden Personen. Der Fragebogen bestand aus einer \u00dcbung, um die Werttypen (instrumental, relational, intrinsisch) zu erfassen, die jedem von insgesamt zehn \u00d6kosystemdienstleistungen zugeschrieben werden. Der dritte Teil (Datasheet 3) ist das Ergebnis von semi-strukturierten Interviews und quantifiziert Stakeholdergruppen (Regierungsorganisationen, private, gemeinschaftsbasierte, Nicht-Regierungs-Organisationen) mit einem Interesse an \u00d6kosystemdienstleistungen in der Studienregion.",
+                "qualifier": "Abstract",
+                "lang": "de"
+            },
+            {
+                "value": "The dataset brings together three different types of data to be used for an analysis of ecosystem services and related environmental and social aspects today and in the future. The first part (Datasheet 1) contains data on the provision of eleven locally relevant ecosystem services in 66 kebeles (the smallest administrative units in Ethiopia) today and under four future scenarios, which were collected and determined on the basis of various primary and secondary data (see details in the integrated documentation). Data sheet 2 is the product of an interview survey with 164 respondents. The questionnaire consisted of an exercise to assess the types of values (instrumental, relational, intrinsic) attributed to each of 10 ecosystem services. Datasheet 3 is the result of semi-structured interviews and quantifies stakeholder groups (governmental, private, community-based, non-governmental organizations) with an interest in ecosystem services in the study region.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Observation (Field)",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Questionnaire (Paper)",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2020-01 - 2020-04",
+                "qualifier": "Collected"
+            },
+            {
+                "value": "2021-11 - 2021-12",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "References"
+                    ],
+                    "freetext": [
+                        "Duguma, D. W., Law, E., Shumi, G., Rodrigues, P., Senbeta, F., Schultner, J., Abson, D. J., & Fischer, J. (2023). Spatial predictions for the distribution of woody plant species under different land-use scenarios in southwestern Ethiopia. Landscape Ecology, 38(5), 1249-1263."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1007/s10980-023-01614-0"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "References"
+                    ],
+                    "freetext": [
+                        "Br\u00fcck, M., Fischer, J., Law, E. A., Schultner, J., & Abson, D. J. (2023). Drivers of ecosystem service specialization in a smallholder agricultural landscape of the Global South: a case study in Ethiopia. Ecology and Society, 28(3), [1]."
+                    ],
+                    "relatedIdentifier": [
+                        "10.5751/ES-14185-280301"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "References"
+                    ],
+                    "freetext": [
+                        "Duguma, D. W., Schultner, J., Abson, D. J., & Fischer, J. (2022). From stories to maps: translating participatory scenario narratives into spatially explicit information. Ecology and Society, 27(2), [13]."
+                    ],
+                    "relatedIdentifier": [
+                        "10.5751/ES-13200-270213"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "References"
+                    ],
+                    "freetext": [
+                        "Central Statistical Agency of Ethiopia (2022). Statistical Report on area and production of crops, and farm management practices: Large and medium scale commercial farms sample survey (2021/22)."
+                    ],
+                    "relatedIdentifier": [
+                        ""
+                    ],
+                    "relatedIdentifierType": [
+                        ""
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "References"
+                    ],
+                    "freetext": [
+                        "Central Statistical Agency of Ethiopia (2021). Agricultural sample survey 2020/21: Volume I. Report on area and production of major crops (private peasant holdings, meher season)."
+                    ],
+                    "relatedIdentifier": [
+                        ""
+                    ],
+                    "relatedIdentifierType": [
+                        ""
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "References"
+                    ],
+                    "freetext": [
+                        "Duguma, D. W., Brueck, M., Shumi, G., Law, E., Benra, F., Schultner, J., Nemomissa, S., Abson, D. J., & Fischer, J. (2024). Future ecosystem service provision under land-use change scenarios in southwestern Ethiopia. Ecosystems and People, 20(1), Artikel 2321613."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1080/26395916.2024.2321613"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "IsDescribedBy"
+                    ],
+                    "freetext": [
+                        "Br\u00fcck, M., Schultner, J., Negash, B. B., Damu, D. F., & Abson, D. J. (2024). Plural valuation in southwestern Ethiopia: Disaggregating values associated with ecosystems in a smallholder landscape. People and Nature, 6(1), 91-106."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1002/pan3.10555"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "IsDescribedBy"
+                    ],
+                    "freetext": [
+                        "Jiren, T. S., Schultner, J., Abson, D., & Fischer, J. (2022). A multi-level assessment of changes in stakeholder constellations, interest and influence on ecosystem services under different landscape scenarios in southwestern Ethiopia. PLOS Sustanaibility and Transformation, 1(5), [e0000012]."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1371/journal.pstr.0000012"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "freetext": [
+                        "Br\u00fcck, M., Benra, F., Duguma, D. W., Fischer, J., Jiren, T. S., Law, E. A., Pacheco-Romero, M., Schultner, J., & Abson, D. J. (2024). A social-ecological approach to support equitable land use decision-making. Ambio, 53(12), 1752\u20131767"
+                    ],
+                    "relatedIdentifier": [
+                        "10.1007/s13280-024-02056-x"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationType": [
+                        "IsReferencedBy"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "c323717c-3322-4c8a-84b9-efc0fc12f582",
+                "authority": "virtual::7582",
+                "confidence": "-1"
+            },
+            {
+                "value": "c323717c-3322-4c8a-84b9-efc0fc12f582",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7582",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::10079",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::7658",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7658",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10079",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "5c950d63-e946-4f11-b4ee-5a344096289d",
+                "authority": "virtual::7584",
+                "confidence": "-1"
+            },
+            {
+                "value": "3012d392-2ec7-4117-8fd3-c0fdfc1c73b3",
+                "authority": "virtual::8416",
+                "confidence": "-1"
+            },
+            {
+                "value": "94fecc4e-cd59-4132-b187-073426b52df5",
+                "authority": "virtual::7622",
+                "confidence": "-1"
+            },
+            {
+                "value": "5c950d63-e946-4f11-b4ee-5a344096289d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7584",
+                "confidence": "-1"
+            },
+            {
+                "value": "94fecc4e-cd59-4132-b187-073426b52df5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7622",
+                "confidence": "-1"
+            },
+            {
+                "value": "3012d392-2ec7-4117-8fd3-c0fdfc1c73b3",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8416",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "1919a90c-972d-4f09-bc08-8310fc230d97",
+                "authority": "virtual::7546",
+                "confidence": "-1"
+            },
+            {
+                "value": "1919a90c-972d-4f09-bc08-8310fc230d97",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7546",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsReferencedBy_OfP": [
+            {
+                "value": "87380224-0de6-421a-a92f-d5f576eb7b3c",
+                "authority": "virtual::14886",
+                "confidence": "-1"
+            },
+            {
+                "value": "87380224-0de6-421a-a92f-d5f576eb7b3c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::14886",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "ceba8832-3f54-4c7a-8209-4527b6c04394",
+                "authority": "virtual::4214",
+                "confidence": "-1"
+            },
+            {
+                "value": "ceba8832-3f54-4c7a-8209-4527b6c04394",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4214",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "ceba8832-3f54-4c7a-8209-4527b6c04394",
+                "authority": "virtual::7660",
+                "confidence": "-1"
+            },
+            {
+                "value": "ceba8832-3f54-4c7a-8209-4527b6c04394",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7660",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_References_": [
+            {
+                "value": "87380224-0de6-421a-a92f-d5f576eb7b3c",
+                "authority": "virtual::14887",
+                "confidence": "-1"
+            },
+            {
+                "value": "87380224-0de6-421a-a92f-d5f576eb7b3c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::14887",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-150",
+        "title": "Ecosystem Service Provision, Values and Stakeholders in Gera, Gumay, and Setema Woreda, Ethiopia",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Br\u00fcck, Maria",
+                "givenName": "Maria",
+                "familyName": "Br\u00fcck",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-8656-8972",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Bekele Negash, Birhanu",
+                "nameType": "Personal",
+                "givenName": "Birhanu",
+                "familyName": "Bekele Negash",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Damu, Dadi Feyisa",
+                "nameType": "Personal",
+                "givenName": "Dadi Feyisa",
+                "familyName": "Damu",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Jiren, Tolera Senbeto",
+                "nameType": "Personal",
+                "givenName": "Tolera Senbeto",
+                "familyName": "Jiren",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "Der Datensatz f\u00fchrt drei verschiedene Datenarten zusammen, um sie f\u00fcr eine Analyse von \u00d6kosystemdienstleistungen und damit zusammenh\u00e4ngenden \u00f6kologischen und sozialen Aspekten heute und in der Zukunft zu nutzen. Der erste Teil (Datasheet 1) umfasst Daten zur Bereitstellung von elf lokal relevanten \u00d6kosystemdienstleistungen in 66 Kebeles (kleinste Verwaltungseinheiten in \u00c4thiopien) heute und unter vier Zukunftszenarien, welche auf Basis diverser Prim\u00e4r- und Sekund\u00e4rdaten (siehe integrierte Dokumentation) erhoben und ermittelt wurden. Der zweite Teil (Datasheet 2) ist das Produkt einer Interviewbefragung mit 164 teilnehmenden Personen. Der Fragebogen bestand aus einer \u00dcbung, um die Werttypen (instrumental, relational, intrinsisch) zu erfassen, die jedem von insgesamt zehn \u00d6kosystemdienstleistungen zugeschrieben werden. Der dritte Teil (Datasheet 3) ist das Ergebnis von semi-strukturierten Interviews und quantifiziert Stakeholdergruppen (Regierungsorganisationen, private, gemeinschaftsbasierte, Nicht-Regierungs-Organisationen) mit einem Interesse an \u00d6kosystemdienstleistungen in der Studienregion.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "The dataset brings together three different types of data to be used for an analysis of ecosystem services and related environmental and social aspects today and in the future. The first part (Datasheet 1) contains data on the provision of eleven locally relevant ecosystem services in 66 kebeles (the smallest administrative units in Ethiopia) today and under four future scenarios, which were collected and determined on the basis of various primary and secondary data (see details in the integrated documentation). Data sheet 2 is the product of an interview survey with 164 respondents. The questionnaire consisted of an exercise to assess the types of values (instrumental, relational, intrinsic) attributed to each of 10 ecosystem services. Datasheet 3 is the result of semi-structured interviews and quantifies stakeholder groups (governmental, private, community-based, non-governmental organizations) with an interest in ecosystem services in the study region.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Observation (Field)",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Questionnaire (Paper)",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "\u00c4thiopien"
+            },
+            {
+                "subject": "Dienstleistung"
+            },
+            {
+                "subject": "Landwirtschaft"
+            },
+            {
+                "subject": "Produktion"
+            },
+            {
+                "subject": "\u00d6kologie"
+            },
+            {
+                "subject": "Umweltbewusstsein"
+            },
+            {
+                "subject": "Soziokulturelle Werte"
+            },
+            {
+                "subject": "Stakeholder"
+            },
+            {
+                "subject": "Bio\u00f6konomie"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Ethiopia"
+            },
+            {
+                "subject": "Service Provision"
+            },
+            {
+                "subject": "Agriculture"
+            },
+            {
+                "subject": "Production"
+            },
+            {
+                "subject": "Ecology"
+            },
+            {
+                "subject": "FOS: Biological sciences",
+                "schemeUri": "http://www.oecd.org/science/inno/38235147.pdf",
+                "subjectScheme": "Fields of Science and Technology (FOS)"
+            },
+            {
+                "subject": "Environmental Consciousness"
+            },
+            {
+                "subject": "Socio-cultural Values"
+            },
+            {
+                "subject": "Bioeconomy"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-02-23",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2024-02-23",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-02-15",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-02-23",
+                "dateType": "Available"
+            },
+            {
+                "date": "2020-01/2020-04",
+                "dateType": "Collected"
+            },
+            {
+                "date": "2021-11/2021-12",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "References",
+                "relatedIdentifier": "10.1007/s10980-023-01614-0",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "References",
+                "relatedIdentifier": "10.5751/es-14185-280301",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "References",
+                "relatedIdentifier": "10.5751/es-13200-270213",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "References",
+                "relatedIdentifier": "10.1080/26395916.2024.2321613",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.1002/pan3.10555",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.1371/journal.pstr.0000012",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsReferencedBy",
+                "relatedIdentifier": "10.1007/s13280-024-02056-x",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsReferencedBy",
+                "relatedIdentifier": "10.48548/pubdata-2558",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-228",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "ETH"
+            },
+            {
+                "geoLocationPlace": "Woredas Gera, Gumay und Setema"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Bio\u00f6konomie als gesellschaftlicher Wandel, Modul 2 (2): ETH-Coffee - Towards a Sustainable Bioeconomy: A Scenario Analysis for the Jimma Coffee Landscape in Ethiopia",
+                "funderName": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "awardNumber": "031B0786",
+                "funderIdentifier": "https://ror.org/04pz7b180",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/169",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-02-23T09:15:15.000Z",
+        "registered": "2024-02-23T09:15:26.000Z",
+        "updated": "2026-03-04T12:15:25.000Z"
+    },
+    "doi": "10.48548/pubdata-150",
+    "license_uri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International"
+}

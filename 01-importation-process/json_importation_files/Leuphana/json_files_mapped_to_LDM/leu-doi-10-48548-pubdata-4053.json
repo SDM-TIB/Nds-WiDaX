@@ -1,0 +1,215 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Pfendtner-Heise, Jannis",
+            "givenName": "Jannis",
+            "familyName": "Pfendtner-Heise",
+            "orcid": "0009-0001-4248-6884"
+        },
+        {
+            "author": "Berg-M\u00f6lleken, Dagmar",
+            "givenName": "Dagmar",
+            "familyName": "Berg-M\u00f6lleken",
+            "orcid": "0009-0009-9399-7092"
+        },
+        {
+            "author": "Wehrden, Henrik von",
+            "givenName": "Henrik von",
+            "familyName": "Wehrden",
+            "orcid": "0000-0003-2087-5552"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-4053",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-4053",
+    "notes": "The dataset is the basis for a systematic literature reviews that compares transdisciplinary and lab-based sustainability research in urban and rural areas. It comprises data extracted from SCOPUS on February 11th, 2026. The search string yielded 1,604 hits for peer-reviewed journal articles. After Title-Abstract-Keyword screening 477 articles were included. The 100 most relevant articles were analysed in a qualitative full-text screening. Respective methodology and details on the coding process are found in the article and the corresponding electronic supplementary material.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Inclusion-exclusion-table and qualitative coding of a systematic literature review on transdisciplinary and lab-based sustainability research in urban and rural areas",
+    "url": "https://doi.org/10.48548/pubdata-4053",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_name": "Nachhaltigkeitswissenschaft"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Systematic Review",
+            "name": "Systematic Review",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Forschungsliteratur",
+            "name": "Forschungsliteratur",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nachhaltigkeitsforschung",
+            "name": "Nachhaltigkeitsforschung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Transdisziplinaritt",
+            "name": "Transdisziplinaritt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nachhaltigkeit",
+            "name": "Nachhaltigkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Laboransatz",
+            "name": "Laboransatz",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Reallabor",
+            "name": "Reallabor",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Stdtischer Raum",
+            "name": "Stdtischer Raum",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lndlicher Raum",
+            "name": "Lndlicher Raum",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ballungsraum",
+            "name": "Ballungsraum",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Stadt",
+            "name": "Stadt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Dorf",
+            "name": "Dorf",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Systematic Review",
+            "name": "Systematic Review",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Research Literature",
+            "name": "Research Literature",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sustainability Research",
+            "name": "Sustainability Research",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Transdisciplinarity",
+            "name": "Transdisciplinarity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sustainability",
+            "name": "Sustainability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lab Approach",
+            "name": "Lab Approach",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Real-world Laboratory",
+            "name": "Real-world Laboratory",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Urban Area",
+            "name": "Urban Area",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Rural Area",
+            "name": "Rural Area",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Agglomeration",
+            "name": "Agglomeration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "City",
+            "name": "City",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Town",
+            "name": "Town",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Village",
+            "name": "Village",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

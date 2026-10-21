@@ -1,0 +1,137 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2023",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Br\u00fcck, Maria",
+            "givenName": "Maria",
+            "familyName": "Br\u00fcck",
+            "orcid": "0000-0001-8656-8972"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-51",
+    "doi_date_published": "2023",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-51",
+    "notes": "Der Datensatz ist das Produkt einer Interviewbefragung mit 316 teilnehmenden Personen. Er enth\u00e4lt Daten mit Informationen und Angaben der Befragten \u00fcber die Rangfolge sowie die ihnen zugeschriebenen Werte von 11 lokal relevanten \u00d6kosystemprodukten (spezifische Produkte, die aus \u00d6kosystemen gewonnen werden) im S\u00fcdwesten \u00c4thiopiens, n\u00e4mlich zu: Rindfleisch, biologische Vielfalt, Rinder, Kaffee, Eukalyptus, Brennholz, Honig, Khat, Mais, Sorghum, Teff. Die Befragten stammten aus acht Kebeles (kleinste Verwaltungseinheiten in \u00c4thiopien) entlang eines sozial-\u00f6kologischen Gradienten und einer Stadt, die sich in drei Woredas (Bezirke) in der Zone Jimma, Region Oromia, \u00c4thiopien (Gera, Gumay und Setema Woreda) befinden. Der Fragebogen bestand aus (1) einem bildbasierten Ranking, um die allgemeine Bedeutung der 11 \u00d6kosystemprodukte zu bewerten, und (2) einer \u00dcbung, um die Werttypen (instrumental, relational, intrinsisch) zu erfassen, die jedem \u00d6kosystemprodukt zugeschrieben werden.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Ecosystem product rankings and values in gera, gumay, and setema woreda, ethiopia",
+    "url": "https://doi.org/10.48548/pubdata-51",
+    "citation": [],
+    "publication_year": "2023",
+    "subject_areas": [
+        {
+            "subject_area_name": "Landwirtschaftliche Produktion"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "kosystem",
+            "name": "kosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thiopien",
+            "name": "thiopien",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landwirtschaft",
+            "name": "Landwirtschaft",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Produktion",
+            "name": "Produktion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kleinbuerliche Strukturen",
+            "name": "Kleinbuerliche Strukturen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Soziokulturelle Werte",
+            "name": "Soziokulturelle Werte",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biokonomie",
+            "name": "Biokonomie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecosystem",
+            "name": "Ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ethiopia",
+            "name": "Ethiopia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Agriculture",
+            "name": "Agriculture",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Production",
+            "name": "Production",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Smallholder Structures",
+            "name": "Smallholder Structures",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Socio-cultural Values",
+            "name": "Socio-cultural Values",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Bioeconomy",
+            "name": "Bioeconomy",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

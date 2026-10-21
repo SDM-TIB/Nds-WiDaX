@@ -1,0 +1,1024 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/9967",
+        "datestamp": "2025-07-07T04:04:17Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Travers, Eliane",
+                "qualifier": "author",
+                "authority": "virtual::9771",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-06-25T06:53:30Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-06-25",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/9967",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-1821",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "\u00d6kologische Funktion von halboffenen Verbundkorridoren",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Supplementary data to \"The role of semi\u2010open habitats as dispersal corridors for plant species of woodlands and open habitats\"",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Observation Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Measurement Data / Measured Values",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Laboratory Results",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Travers, Eliane",
+                "authority": "virtual::9772",
+                "confidence": "-1"
+            },
+            {
+                "value": "Pitz, Witja Till",
+                "authority": "virtual::9773",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Travers, Eliane",
+                "authority": "virtual::9774",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Landschafts\u00f6kologie",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Vegetation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "L\u00fcneburger Heide",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Schw\u00e4bische Alb",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Pflanzen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Ausbreitung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kronendach",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Halboffener Lebensraum",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Offener Lebensraum",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wald",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Boden",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bodenqualit\u00e4t",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Licht",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Vegetation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "L\u00fcneburg Heath",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Swabian Alb",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Plants",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Dispersal",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Canopy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Semi-open Habitat",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Open Habitat",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Woodland",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Soil",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Soil Quality",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Light",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country"
+            },
+            {
+                "value": "L\u00fcneburger Heide",
+                "qualifier": "region"
+            },
+            {
+                "value": "Schw\u00e4bische Alb",
+                "qualifier": "region"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr \u00d6kologie (IE)",
+                "authority": "virtual::9776",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::9777",
+                "confidence": "-1"
+            }
+        ],
+        "ProjectLeader": [
+            {
+                "value": "A\u00dfmann, Thorsten",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            }
+        ],
+        "ProjectMember": [
+            {
+                "value": "Boutaud, Est\u00e8ve",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            },
+            {
+                "value": "Nolte, Dorothea Irmgard Ilse",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            },
+            {
+                "value": "Harry, Ingmar",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Travers"
+                    ],
+                    "givenName": [
+                        "Eliane"
+                    ],
+                    "gnd": [
+                        "112885080X"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::9771",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "A\u00dfmann"
+                    ],
+                    "givenName": [
+                        "Thorsten"
+                    ],
+                    "orcid": [
+                        "0000-0002-9203-769X"
+                    ],
+                    "gnd": [
+                        "1051421667"
+                    ]
+                },
+                "qualifier": "local_ProjectLeader",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Boutaud"
+                    ],
+                    "givenName": [
+                        "Est\u00e8ve"
+                    ],
+                    "orcid": [
+                        "0000-0001-9997-2165"
+                    ],
+                    "gnd": [
+                        "1128850869"
+                    ]
+                },
+                "qualifier": "local_ProjectMember",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Nolte"
+                    ],
+                    "givenName": [
+                        "Dorothea Irmgard Ilse"
+                    ],
+                    "orcid": [
+                        "0000-0002-6605-8518"
+                    ],
+                    "gnd": [
+                        "1128850729"
+                    ]
+                },
+                "qualifier": "local_ProjectMember",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Harry"
+                    ],
+                    "givenName": [
+                        "Ingmar"
+                    ],
+                    "orcid": [
+                        "0000-0003-3032-1609"
+                    ],
+                    "gnd": [
+                        "122791427X"
+                    ]
+                },
+                "qualifier": "local_ProjectMember",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Bundesamt f\u00fcr Naturschutz (BfN)"
+                    ],
+                    "ror": [
+                        "05j8qnr48"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-1799",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::10003",
+                "confidence": "-1"
+            },
+            {
+                "value": "DOI: 10.48548/pubdata-1856",
+                "qualifier": "References",
+                "authority": "virtual::10006",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Bundesamt f\u00fcr Naturschutz (BfN)",
+                "qualifier": "funderName",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            },
+            {
+                "value": "3512850100",
+                "qualifier": "awardNumber",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            }
+        ],
+        "Title": [
+            {
+                "value": "Supplementary data on environmental variables",
+                "qualifier": "AlternativeTitle",
+                "lang": "en"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Canopy closure was quantified for each plot by taking a hemispherical photograph 1 m above ground in the centre of each plot with a fish-eye lens (Nikon, Fisheye Converter FC-E8 0.21x, Japan). The photos were analysed using Gap Light Analyzer 2.0 (Cary Institute of Ecosystem Studies, 1999). Five samples of the upper mineral horizon were randomly taken in each plot and pooled to determine pH (H2O) value, base saturation and the C/N ratio using standard procedures (see Steubing and Fangmeier, 1992). Soil nitrogen and carbon content were determined with a CN-analyser (Elementaranalysator Vario El Cube, Hanau, Germany).",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Observation (Field)",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Experiment (Laboratory)",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2013-03 - 2019-12",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2013-03 - 2014-10",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2025"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "freetext": [
+                        "Travers, E., Pitz, W. T., Fichtner, A., Matthies, D. und H\u00e4rdtle, W. (2021). The role of semi\u2010open habitats as dispersal corridors for plant species of woodlands and open habitats. Applied Vegetation Science, 24, Article e12526"
+                    ],
+                    "relatedIdentifier": [
+                        "10.1111/avsc.12526"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationType": [
+                        "IsSupplementTo"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "95ebc1b0-8a2e-46b7-9c4c-a11d21b94c51",
+                "authority": "virtual::9771",
+                "confidence": "-1"
+            },
+            {
+                "value": "95ebc1b0-8a2e-46b7-9c4c-a11d21b94c51",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::9771",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "95ebc1b0-8a2e-46b7-9c4c-a11d21b94c51",
+                "authority": "virtual::9774",
+                "confidence": "-1"
+            },
+            {
+                "value": "95ebc1b0-8a2e-46b7-9c4c-a11d21b94c51",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::9774",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "c061e7ea-82d6-4f7d-b3bb-751224f6ecef",
+                "authority": "virtual::9776",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::9777",
+                "confidence": "-1"
+            },
+            {
+                "value": "c061e7ea-82d6-4f7d-b3bb-751224f6ecef",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::9776",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::9777",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "95ebc1b0-8a2e-46b7-9c4c-a11d21b94c51",
+                "authority": "virtual::9772",
+                "confidence": "-1"
+            },
+            {
+                "value": "f20ca4cf-bb33-4792-843a-bb6875a62b1e",
+                "authority": "virtual::9773",
+                "confidence": "-1"
+            },
+            {
+                "value": "95ebc1b0-8a2e-46b7-9c4c-a11d21b94c51",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::9772",
+                "confidence": "-1"
+            },
+            {
+                "value": "f20ca4cf-bb33-4792-843a-bb6875a62b1e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::9773",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "95a5a35b-354c-45ab-b3bd-ec3eeef7d208",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            },
+            {
+                "value": "95a5a35b-354c-45ab-b3bd-ec3eeef7d208",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::9775",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "2eb7c35b-04e8-4598-a5b1-c94d1d50e19e",
+                "authority": "virtual::10008",
+                "confidence": "-1"
+            },
+            {
+                "value": "2eb7c35b-04e8-4598-a5b1-c94d1d50e19e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10008",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "2eb7c35b-04e8-4598-a5b1-c94d1d50e19e",
+                "authority": "virtual::10003",
+                "confidence": "-1"
+            },
+            {
+                "value": "2eb7c35b-04e8-4598-a5b1-c94d1d50e19e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10003",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_References_OfP": [
+            {
+                "value": "f09b1628-1b92-494e-93d7-51e96aec6a3f",
+                "authority": "virtual::10006",
+                "confidence": "-1"
+            },
+            {
+                "value": "f09b1628-1b92-494e-93d7-51e96aec6a3f",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10006",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_References_": [
+            {
+                "value": "f09b1628-1b92-494e-93d7-51e96aec6a3f",
+                "authority": "virtual::10005",
+                "confidence": "-1"
+            },
+            {
+                "value": "f09b1628-1b92-494e-93d7-51e96aec6a3f",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10005",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "restricted"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-1821",
+        "title": "Supplementary data to \"The role of semi\u2010open habitats as dispersal corridors for plant species of woodlands and open habitats\"",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2025,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Travers, Eliane",
+                "nameType": "Personal",
+                "givenName": "Eliane",
+                "familyName": "Travers",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2244-2312",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "112885080X",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Travers, Eliane",
+                "nameType": "Personal",
+                "givenName": "Eliane",
+                "familyName": "Travers",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Pitz, Witja Till",
+                "nameType": "Personal",
+                "givenName": "Witja Till",
+                "familyName": "Pitz",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Travers, Eliane",
+                "nameType": "Personal",
+                "givenName": "Eliane",
+                "familyName": "Travers",
+                "affiliation": [],
+                "contributorType": "RightsHolder",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "A\u00dfmann, Thorsten",
+                "nameType": "Personal",
+                "givenName": "Thorsten",
+                "familyName": "A\u00dfmann",
+                "contributorType": "ProjectLeader",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-9203-769X",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1051421667",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Boutaud, Est\u00e8ve",
+                "nameType": "Personal",
+                "givenName": "Est\u00e8ve",
+                "familyName": "Boutaud",
+                "contributorType": "ProjectMember",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-9997-2165",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1128850869",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Nolte, Dorothea Irmgard Ilse",
+                "nameType": "Personal",
+                "givenName": "Dorothea Irmgard Ilse",
+                "familyName": "Nolte",
+                "contributorType": "ProjectMember",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-6605-8518",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1128850729",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Harry, Ingmar",
+                "nameType": "Personal",
+                "givenName": "Ingmar",
+                "familyName": "Harry",
+                "contributorType": "ProjectMember",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-3032-1609",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "122791427X",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "Canopy closure was quantified for each plot by taking a hemispherical photograph 1 m above ground in the centre of each plot with a fish-eye lens (Nikon, Fisheye Converter FC-E8 0.21x, Japan). The photos were analysed using Gap Light Analyzer 2.0 (Cary Institute of Ecosystem Studies, 1999). Five samples of the upper mineral horizon were randomly taken in each plot and pooled to determine pH (H2O) value, base saturation and the C/N ratio using standard procedures (see Steubing and Fangmeier, 1992). Soil nitrogen and carbon content were determined with a CN-analyser (Elementaranalysator Vario El Cube, Hanau, Germany).",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Observation (Field)",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Experiment (Laboratory)",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Vegetation"
+            },
+            {
+                "subject": "L\u00fcneburger Heide"
+            },
+            {
+                "subject": "Schw\u00e4bische Alb"
+            },
+            {
+                "subject": "Pflanzen"
+            },
+            {
+                "subject": "Ausbreitung"
+            },
+            {
+                "subject": "Kronendach"
+            },
+            {
+                "subject": "Halboffener Lebensraum"
+            },
+            {
+                "subject": "Offener Lebensraum"
+            },
+            {
+                "subject": "Wald"
+            },
+            {
+                "subject": "Boden"
+            },
+            {
+                "subject": "Bodenqualit\u00e4t"
+            },
+            {
+                "subject": "Licht"
+            },
+            {
+                "subject": "L\u00fcneburg Heath"
+            },
+            {
+                "subject": "Swabian Alb"
+            },
+            {
+                "subject": "Plants"
+            },
+            {
+                "subject": "Dispersal"
+            },
+            {
+                "subject": "Canopy"
+            },
+            {
+                "subject": "Semi-open Habitat"
+            },
+            {
+                "subject": "Open Habitat"
+            },
+            {
+                "subject": "Woodland"
+            },
+            {
+                "subject": "Soil"
+            },
+            {
+                "subject": "Soil Quality"
+            },
+            {
+                "subject": "Light"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-06-25",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-06-25",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2013-03/2019-12",
+                "dateType": "Created"
+            },
+            {
+                "date": "2013-03/2014-10",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.1111/avsc.12526",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-1799",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "References",
+                "relatedIdentifier": "10.48548/pubdata-1856",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "bitstream_8fc75f67-779c-4252-91a5-74ecb9a25d4a_access"
+            },
+            {
+                "lang": "en-US",
+                "rightsUri": "https://pubdata.leuphana.de/static/docs/research_data/PubData_UsageLicense_AccessProtected_ResearchData.pdf",
+                "rightsIdentifier": "pubdata-1.0"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "L\u00fcneburger Heide"
+            },
+            {
+                "geoLocationPlace": "Schw\u00e4bische Alb"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "\u00d6kologische Funktion von halboffenen Verbundkorridoren",
+                "funderName": "Bundesamt f\u00fcr Naturschutz (BfN)",
+                "awardNumber": "3512850100",
+                "funderIdentifier": "https://ror.org/05j8qnr48",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/9967",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-06-25T07:15:36.000Z",
+        "registered": "2025-06-25T07:15:36.000Z",
+        "updated": "2025-07-07T04:15:13.000Z"
+    },
+    "doi": "10.48548/pubdata-1821",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

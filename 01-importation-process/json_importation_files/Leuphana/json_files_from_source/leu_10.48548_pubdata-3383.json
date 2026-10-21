@@ -1,0 +1,918 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/13512",
+        "datestamp": "2026-05-12T07:29:18Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Nyiramvuyekure, Verene",
+                "qualifier": "author",
+                "authority": "virtual::16583",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fischer, J\u00f6rn",
+                "qualifier": "author",
+                "authority": "virtual::16584",
+                "confidence": "-1"
+            },
+            {
+                "value": "Temperton, Vicky M.",
+                "qualifier": "author",
+                "authority": "virtual::16585",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2026-04-20T10:30:44Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2026-04-20",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/13512",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-3383",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "DFG-Forschungsgruppe 5501: Ein sozial-\u00f6kologischer Systemansatz zur Wiederherstellung von \u00d6kosystemen in l\u00e4ndlichen Regionen Afrikas",
+                "authority": "virtual::16600",
+                "confidence": "-1"
+            },
+            {
+                "value": "FOR5501: Ein sozial-\u00f6kologischer Systemansatz zur Wiederherstellung von \u00d6kosystemen in l\u00e4ndlichen Regionen Afrikas. Teilprojekt SP1: Auswirkungen der Wiederherstellung von \u00d6kosystemen auf Biodiversit\u00e4t auf lokaler Ebene im westlichen Ruanda",
+                "authority": "virtual::16604",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Woody vegetation survey in a western Rwandan landscape",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Survey Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Measurement Data / Measured Values",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Geoinformation Data (GIS Data)",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Nyiramvuyekure, Verene",
+                "authority": "virtual::16586",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Nyiramvuyekure, Verene",
+                "authority": "virtual::16587",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fischer, J\u00f6rn",
+                "authority": "virtual::16588",
+                "confidence": "-1"
+            },
+            {
+                "value": "Temperton, Vicky M.",
+                "authority": "virtual::16589",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Biodiversit\u00e4t",
+                "qualifier": "topic"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Restaurierung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Holzgew\u00e4chse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Biodiversit\u00e4t",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Vorkommen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Artenreichtum",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Artenspektrum",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Vegetation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landnutzung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "L\u00e4ndlicher Raum",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Ruanda",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Restoration",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Woody Plants",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Biodiversity",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Abundance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Species Richness",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Species Composition",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Vegetation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Land Use",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Rural Area",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Rwanda",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "RWA",
+                "qualifier": "country"
+            },
+            {
+                "value": "Western Rwanda: Rubavu, Rutsiro, Nyabihu, and Ngororero Districts",
+                "qualifier": "region"
+            }
+        ],
+        "PublishingType": [
+            {
+                "value": "First publication"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::16590",
+                "confidence": "-1"
+            },
+            {
+                "value": "Institut f\u00fcr \u00d6kologie (IE)",
+                "authority": "virtual::16591",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::16592",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Nyiramvuyekure"
+                    ],
+                    "givenName": [
+                        "Verene"
+                    ],
+                    "orcid": [
+                        "0009-0001-5871-2399"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::16583",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Fischer"
+                    ],
+                    "givenName": [
+                        "J\u00f6rn"
+                    ],
+                    "orcid": [
+                        "0000-0003-3187-8978"
+                    ],
+                    "gnd": [
+                        "1051419840"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::16584",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Temperton"
+                    ],
+                    "givenName": [
+                        "Vicky M."
+                    ],
+                    "orcid": [
+                        "0000-0003-0543-4521"
+                    ],
+                    "gnd": [
+                        "1229575634"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::16585",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Deutsche Forschungsgemeinschaft (DFG)"
+                    ],
+                    "ror": [
+                        "018mejw64"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::16600",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Deutsche Forschungsgemeinschaft (DFG)"
+                    ],
+                    "ror": [
+                        "018mejw64"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::16604",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Deutsche Forschungsgemeinschaft (DFG)",
+                "qualifier": "funderName",
+                "authority": "virtual::16600",
+                "confidence": "-1"
+            },
+            {
+                "value": "Deutsche Forschungsgemeinschaft (DFG)",
+                "qualifier": "funderName",
+                "authority": "virtual::16604",
+                "confidence": "-1"
+            },
+            {
+                "value": "496337053",
+                "qualifier": "awardNumber",
+                "authority": "virtual::16600",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "This woody plant data was collected by ecological survey in western Rwanda in four districts: Rubavu, Rutsiro, Ngororero, and Nyabihu. The data collection covers different land-uses in the landscape: homegardens, pasture, agricultural mosaics, and tree patches. The data is a count data of woody plant species conducted using the established standard of ecological survey, such as height and DBH (diameter at breast height).",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Measurements and tests (Physical)",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Recording",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2024-06-03 - 2025-06-30",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2024-06-03 - 2024-08-31",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2026"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "freetext": [
+                        "Nyiramvuyekure, V., Fischer, J., Kaplin, B. A., Mukuralinda, A., & Temperton, V. M. (2026). Woody vegetation diversity remains low after extensive forest landscape restoration efforts in a western Rwandan landscape.\u00a0Biological Conservation,\u00a0317, 111812."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1016/j.biocon.2026.111812"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationType": [
+                        "IsDescribedBy"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "ded6be5f-90f4-45be-99eb-8b00a4d44864",
+                "authority": "virtual::16583",
+                "confidence": "-1"
+            },
+            {
+                "value": "83f373aa-91af-4377-a713-813bed27c356",
+                "authority": "virtual::16584",
+                "confidence": "-1"
+            },
+            {
+                "value": "b343ba6b-0bf4-4881-bacf-8ca4ff370f8e",
+                "authority": "virtual::16585",
+                "confidence": "-1"
+            },
+            {
+                "value": "ded6be5f-90f4-45be-99eb-8b00a4d44864",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16583",
+                "confidence": "-1"
+            },
+            {
+                "value": "83f373aa-91af-4377-a713-813bed27c356",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16584",
+                "confidence": "-1"
+            },
+            {
+                "value": "b343ba6b-0bf4-4881-bacf-8ca4ff370f8e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16585",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "ded6be5f-90f4-45be-99eb-8b00a4d44864",
+                "authority": "virtual::16587",
+                "confidence": "-1"
+            },
+            {
+                "value": "83f373aa-91af-4377-a713-813bed27c356",
+                "authority": "virtual::16588",
+                "confidence": "-1"
+            },
+            {
+                "value": "b343ba6b-0bf4-4881-bacf-8ca4ff370f8e",
+                "authority": "virtual::16589",
+                "confidence": "-1"
+            },
+            {
+                "value": "ded6be5f-90f4-45be-99eb-8b00a4d44864",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16587",
+                "confidence": "-1"
+            },
+            {
+                "value": "83f373aa-91af-4377-a713-813bed27c356",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16588",
+                "confidence": "-1"
+            },
+            {
+                "value": "b343ba6b-0bf4-4881-bacf-8ca4ff370f8e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16589",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::16590",
+                "confidence": "-1"
+            },
+            {
+                "value": "c061e7ea-82d6-4f7d-b3bb-751224f6ecef",
+                "authority": "virtual::16591",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::16592",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16590",
+                "confidence": "-1"
+            },
+            {
+                "value": "c061e7ea-82d6-4f7d-b3bb-751224f6ecef",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16591",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16592",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "ded6be5f-90f4-45be-99eb-8b00a4d44864",
+                "authority": "virtual::16586",
+                "confidence": "-1"
+            },
+            {
+                "value": "ded6be5f-90f4-45be-99eb-8b00a4d44864",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16586",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "b76f995d-53a8-455d-be85-93c993cb8810",
+                "authority": "virtual::16600",
+                "confidence": "-1"
+            },
+            {
+                "value": "b94f080e-a0b3-45c5-9a53-d13bf74df86b",
+                "authority": "virtual::16604",
+                "confidence": "-1"
+            },
+            {
+                "value": "b76f995d-53a8-455d-be85-93c993cb8810",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16600",
+                "confidence": "-1"
+            },
+            {
+                "value": "b94f080e-a0b3-45c5-9a53-d13bf74df86b",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16604",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-3383",
+        "title": "Woody vegetation survey in a western Rwandan landscape",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2026,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Nyiramvuyekure, Verene",
+                "givenName": "Verene",
+                "familyName": "Nyiramvuyekure",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0001-5871-2399",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Fischer, J\u00f6rn",
+                "givenName": "J\u00f6rn",
+                "familyName": "Fischer",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-3187-8978",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1051419840",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Temperton, Vicky M.",
+                "givenName": "Vicky M.",
+                "familyName": "Temperton",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-0543-4521",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1229575634",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Nyiramvuyekure, Verene",
+                "nameType": "Personal",
+                "givenName": "Verene",
+                "familyName": "Nyiramvuyekure",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Nyiramvuyekure, Verene",
+                "nameType": "Personal",
+                "givenName": "Verene",
+                "familyName": "Nyiramvuyekure",
+                "affiliation": [],
+                "contributorType": "RightsHolder",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Fischer, J\u00f6rn",
+                "nameType": "Personal",
+                "givenName": "J\u00f6rn",
+                "familyName": "Fischer",
+                "affiliation": [],
+                "contributorType": "RightsHolder",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Temperton, Vicky M.",
+                "nameType": "Personal",
+                "givenName": "Vicky M.",
+                "familyName": "Temperton",
+                "affiliation": [],
+                "contributorType": "RightsHolder",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "This woody plant data was collected by ecological survey in western Rwanda in four districts: Rubavu, Rutsiro, Ngororero, and Nyabihu. The data collection covers different land-uses in the landscape: homegardens, pasture, agricultural mosaics, and tree patches. The data is a count data of woody plant species conducted using the established standard of ecological survey, such as height and DBH (diameter at breast height).",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Measurements and tests (Physical)",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Recording",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "Restaurierung"
+            },
+            {
+                "subject": "Holzgew\u00e4chse"
+            },
+            {
+                "subject": "Biodiversit\u00e4t"
+            },
+            {
+                "subject": "Vorkommen"
+            },
+            {
+                "subject": "Artenreichtum"
+            },
+            {
+                "subject": "Artenspektrum"
+            },
+            {
+                "subject": "Vegetation"
+            },
+            {
+                "subject": "Landnutzung"
+            },
+            {
+                "subject": "L\u00e4ndlicher Raum"
+            },
+            {
+                "subject": "Ruanda"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Restoration"
+            },
+            {
+                "subject": "Woody Plants"
+            },
+            {
+                "subject": "Biodiversity"
+            },
+            {
+                "subject": "Abundance"
+            },
+            {
+                "subject": "Species Richness"
+            },
+            {
+                "subject": "Species Composition"
+            },
+            {
+                "subject": "Land Use"
+            },
+            {
+                "subject": "Rural Area"
+            },
+            {
+                "subject": "Rwanda"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2026-04-20",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2026-04-20",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-06-03/2025-06-30",
+                "dateType": "Created"
+            },
+            {
+                "date": "2024-06-03/2024-08-31",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.1016/j.biocon.2026.111812",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "RWA"
+            },
+            {
+                "geoLocationPlace": "Western Rwanda: Rubavu, Rutsiro, Nyabihu, and Ngororero Districts"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "DFG-Forschungsgruppe 5501: Ein sozial-\u00f6kologischer Systemansatz zur Wiederherstellung von \u00d6kosystemen in l\u00e4ndlichen Regionen Afrikas FOR5501: Ein sozial-\u00f6kologischer Systemansatz zur Wiederherstellung von \u00d6kosystemen in l\u00e4ndlichen Regionen Afrikas. Teilprojekt SP1: Auswirkungen der Wiederherstellung von \u00d6kosystemen auf Biodiversit\u00e4t auf lokaler Ebene im westlichen Ruanda",
+                "funderName": "Deutsche Forschungsgemeinschaft (DFG)",
+                "awardNumber": "496337053",
+                "funderIdentifier": "https://ror.org/018mejw64",
+                "funderIdentifierType": "ROR"
+            },
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "DFG-Forschungsgruppe 5501: Ein sozial-\u00f6kologischer Systemansatz zur Wiederherstellung von \u00d6kosystemen in l\u00e4ndlichen Regionen Afrikas FOR5501: Ein sozial-\u00f6kologischer Systemansatz zur Wiederherstellung von \u00d6kosystemen in l\u00e4ndlichen Regionen Afrikas. Teilprojekt SP1: Auswirkungen der Wiederherstellung von \u00d6kosystemen auf Biodiversit\u00e4t auf lokaler Ebene im westlichen Ruanda",
+                "funderName": "Deutsche Forschungsgemeinschaft (DFG)",
+                "awardNumber": "496337053",
+                "funderIdentifier": "https://ror.org/018mejw64",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/13512",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2026-04-20T11:15:33.000Z",
+        "registered": "2026-04-20T11:15:34.000Z",
+        "updated": "2026-04-20T12:15:14.000Z"
+    },
+    "doi": "10.48548/pubdata-3383",
+    "license_uri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial 4.0 International"
+}

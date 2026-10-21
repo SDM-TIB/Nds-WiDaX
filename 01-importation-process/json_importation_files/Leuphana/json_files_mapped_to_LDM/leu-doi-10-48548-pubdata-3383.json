@@ -1,0 +1,197 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Nyiramvuyekure, Verene",
+            "givenName": "Verene",
+            "familyName": "Nyiramvuyekure",
+            "orcid": "0009-0001-5871-2399"
+        },
+        {
+            "author": "Fischer, J\u00f6rn",
+            "givenName": "J\u00f6rn",
+            "familyName": "Fischer",
+            "orcid": "0000-0003-3187-8978"
+        },
+        {
+            "author": "Temperton, Vicky M.",
+            "givenName": "Vicky M.",
+            "familyName": "Temperton",
+            "orcid": "0000-0003-0543-4521"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-3383",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Non Commercial 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-3383",
+    "notes": "This woody plant data was collected by ecological survey in western Rwanda in four districts: Rubavu, Rutsiro, Ngororero, and Nyabihu. The data collection covers different land-uses in the landscape: homegardens, pasture, agricultural mosaics, and tree patches. The data is a count data of woody plant species conducted using the established standard of ecological survey, such as height and DBH (diameter at breast height).",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Woody vegetation survey in a western rwandan landscape",
+    "url": "https://doi.org/10.48548/pubdata-3383",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_name": "Biodiversit\u00e4t"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "kosystem",
+            "name": "kosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Restaurierung",
+            "name": "Restaurierung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Holzgewchse",
+            "name": "Holzgewchse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biodiversitt",
+            "name": "Biodiversitt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Vorkommen",
+            "name": "Vorkommen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Artenreichtum",
+            "name": "Artenreichtum",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Artenspektrum",
+            "name": "Artenspektrum",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Vegetation",
+            "name": "Vegetation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landnutzung",
+            "name": "Landnutzung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lndlicher Raum",
+            "name": "Lndlicher Raum",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ruanda",
+            "name": "Ruanda",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecosystem",
+            "name": "Ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Restoration",
+            "name": "Restoration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Woody Plants",
+            "name": "Woody Plants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biodiversity",
+            "name": "Biodiversity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Abundance",
+            "name": "Abundance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Species Richness",
+            "name": "Species Richness",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Species Composition",
+            "name": "Species Composition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Vegetation",
+            "name": "Vegetation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Land Use",
+            "name": "Land Use",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Rural Area",
+            "name": "Rural Area",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Rwanda",
+            "name": "Rwanda",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

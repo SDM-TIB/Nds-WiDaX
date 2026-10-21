@@ -1,0 +1,678 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/88.3",
+        "datestamp": "2025-06-25T14:29:32Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Maschewski, Jan",
+                "qualifier": "author",
+                "authority": "virtual::7709",
+                "confidence": "-1"
+            },
+            {
+                "value": "Richter, Kenneth",
+                "qualifier": "author",
+                "authority": "virtual::7723",
+                "confidence": "-1"
+            },
+            {
+                "value": "Zimmer, Markus Philipp",
+                "qualifier": "author",
+                "authority": "virtual::7747",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-03-12T05:03:19Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2023-11-21T13:14:55Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-03-12T05:03:19Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2023-11-21",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-03-08T10:50:11Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/88.3",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-69.3",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Digital Health Platform Governance Document Register",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Bibliography",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Digital Health",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Gesundheitswesen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Digitale Gesundheit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Datenschutz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Gesundheitsdaten",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Steuerungsprozesse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Datensicherheit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Daten\u00fcbertragung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Digitale Technologien",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Verfahrensweise",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Implementierung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Thematische Analyse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Dokumentenanalyse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Healthcare",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Digital Health",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Privacy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Health Data",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Governance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Data Security",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Data Transmission",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Digital Technologies",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Procedure",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Implementation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Thematic Analysis",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Document Analysis",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Wirtschaftsinformatik (IIS)",
+                "authority": "virtual::10038",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Management und Technologie",
+                "authority": "virtual::7761",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Maschewski"
+                    ],
+                    "givenName": [
+                        "Jan"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7709",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Richter"
+                    ],
+                    "givenName": [
+                        "Kenneth"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7723",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Zimmer"
+                    ],
+                    "givenName": [
+                        "Markus Philipp"
+                    ],
+                    "orcid": [
+                        "0000-0003-1499-5427"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7747",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-69",
+                "qualifier": "IsVersionOf",
+                "authority": "virtual::7785",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Description": [
+            {
+                "value": "This dataset is a register of documents included in an analysis of digital health platform governance sorted in two lists: The first list shows documents regarding Apple Health. The second list focuses on documents from (2) telematics infrastructure with a special view on German healthcare. The register provides author, year, title and referring link to every single document and includes various types of web resources such as laws, statements, guidelines, workflows, reports, articles, etc.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Analysis of text documents",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Analysis of digital content",
+                "qualifier": "Methods"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            },
+            {
+                "value": "deu",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2023"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "44713192-e35b-48a2-be8e-341be89e4708",
+                "authority": "virtual::7709",
+                "confidence": "-1"
+            },
+            {
+                "value": "b52d05fe-599b-439c-bddb-7abcb6790ecf",
+                "authority": "virtual::7723",
+                "confidence": "-1"
+            },
+            {
+                "value": "3e72a5ce-acd0-42f8-9f3d-c7bdc8686125",
+                "authority": "virtual::7747",
+                "confidence": "-1"
+            },
+            {
+                "value": "44713192-e35b-48a2-be8e-341be89e4708",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7709",
+                "confidence": "-1"
+            },
+            {
+                "value": "b52d05fe-599b-439c-bddb-7abcb6790ecf",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7723",
+                "confidence": "-1"
+            },
+            {
+                "value": "3e72a5ce-acd0-42f8-9f3d-c7bdc8686125",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7747",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "47dd3470-cbcd-4124-b53a-c5112dfeb219",
+                "authority": "virtual::10038",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "authority": "virtual::7761",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7761",
+                "confidence": "-1"
+            },
+            {
+                "value": "47dd3470-cbcd-4124-b53a-c5112dfeb219",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10038",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_HasVersion_": [
+            {
+                "value": "715f32fb-6edb-4776-9a30-f0339012bbd7",
+                "authority": "virtual::6244",
+                "confidence": "-1"
+            },
+            {
+                "value": "715f32fb-6edb-4776-9a30-f0339012bbd7",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::6244",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsVersionOf_OfP": [
+            {
+                "value": "715f32fb-6edb-4776-9a30-f0339012bbd7",
+                "authority": "virtual::7785",
+                "confidence": "-1"
+            },
+            {
+                "value": "715f32fb-6edb-4776-9a30-f0339012bbd7",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7785",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-69.3",
+        "title": "Digital Health Platform Governance Document Register",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2023,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Maschewski, Jan",
+                "nameType": "Personal",
+                "givenName": "Jan",
+                "familyName": "Maschewski",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Richter, Kenneth",
+                "nameType": "Personal",
+                "givenName": "Kenneth",
+                "familyName": "Richter",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Zimmer, Markus Philipp",
+                "nameType": "Personal",
+                "givenName": "Markus Philipp",
+                "familyName": "Zimmer",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-1499-5427",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "This dataset is a register of documents included in an analysis of digital health platform governance sorted in two lists: The first list shows documents regarding Apple Health. The second list focuses on documents from (2) telematics infrastructure with a special view on German healthcare. The register provides author, year, title and referring link to every single document and includes various types of web resources such as laws, statements, guidelines, workflows, reports, articles, etc.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Analysis of text documents",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Analysis of digital content",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Gesundheitswesen"
+            },
+            {
+                "subject": "Digitale Gesundheit"
+            },
+            {
+                "subject": "Datenschutz"
+            },
+            {
+                "subject": "Gesundheitsdaten"
+            },
+            {
+                "subject": "Steuerungsprozesse"
+            },
+            {
+                "subject": "Datensicherheit"
+            },
+            {
+                "subject": "Daten\u00fcbertragung"
+            },
+            {
+                "subject": "Digitale Technologien"
+            },
+            {
+                "subject": "Verfahrensweise"
+            },
+            {
+                "subject": "Implementierung"
+            },
+            {
+                "subject": "Thematische Analyse"
+            },
+            {
+                "subject": "Dokumentenanalyse"
+            },
+            {
+                "subject": "Healthcare"
+            },
+            {
+                "subject": "Digital Health"
+            },
+            {
+                "subject": "Privacy"
+            },
+            {
+                "subject": "Health Data"
+            },
+            {
+                "subject": "Governance"
+            },
+            {
+                "subject": "Data Security"
+            },
+            {
+                "subject": "Data Transmission"
+            },
+            {
+                "subject": "Digital Technologies"
+            },
+            {
+                "subject": "Procedure"
+            },
+            {
+                "subject": "Implementation"
+            },
+            {
+                "subject": "Thematic Analysis"
+            },
+            {
+                "subject": "Document Analysis"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-03-12",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2023-11-21",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-03-08",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-03-12",
+                "dateType": "Available"
+            },
+            {
+                "date": "2024-03-08",
+                "dateType": "Updated",
+                "dateInformation": "English titles added for telematics infrastructure (TI) documents"
+            }
+        ],
+        "language": "mul",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsVersionOf",
+                "relatedIdentifier": "10.48548/pubdata-69",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/88.3",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-03-08T11:15:19.000Z",
+        "registered": "2024-03-12T05:15:19.000Z",
+        "updated": "2025-06-25T15:15:48.000Z"
+    },
+    "doi": "10.48548/pubdata-69.3",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

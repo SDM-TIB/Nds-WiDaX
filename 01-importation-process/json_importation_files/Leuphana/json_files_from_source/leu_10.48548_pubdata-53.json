@@ -1,0 +1,884 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/72",
+        "datestamp": "2025-06-26T05:33:05Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Duguma, Dula Wakassa",
+                "qualifier": "author",
+                "authority": "virtual::3193",
+                "confidence": "-1"
+            },
+            {
+                "value": "Shumi, Girma",
+                "qualifier": "author",
+                "authority": "virtual::3231",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fischer, J\u00f6rn",
+                "qualifier": "author",
+                "authority": "virtual::3269",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-03-11T13:11:27Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2024-03-11T13:11:27Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-03-11",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-03-08T13:56:45Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/72",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-53",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Bio\u00f6konomie als gesellschaftlicher Wandel, Modul 2 (2): ETH-Coffee - Towards a Sustainable Bioeconomy: A Scenario Analysis for the Jimma Coffee Landscape in Ethiopia",
+                "authority": "virtual::3155",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Woody-plant based ecosystem services based on household survey: Data from southwestern Ethiopia",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Survey Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Geoinformation Data (GIS Data)",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Models / Modellings",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Contact": [
+            {
+                "value": "dula.duguma@leuphana.de",
+                "lang": "-"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The overarching goal of this project is to identify environmental and socioeconomic outcomes of ecosystem service flows in an increasingly teleconnected bioeconomy in the Global South. The case study location, Jimma zone in southwestern Ethiopia, is a biodiversity hotspot where local people are heavily dependent on the landscape to provide essential ecosystem services. However, the landscape also provides services of global importance, and is becoming more teleconnected. Both internal and external drivers are altering the social-ecological trajectories of the region. The project \u2013 building on an ERC-funded, five-year research project in Jimma zone (\u201cIdentifying Social-Ecological System Properties Benefiting Biodiversity and Food Security \u2013 SESyP\u201d) \u2014 works with local stakeholders to investigate the social-ecological consequences of different development trajectories. Research is centered around the exploration of four scenarios with differing social-ecological conditions in southwestern Ethiopia for 2040. Specific objectives are: (1) to map biodiversity and ecosystem services in rural southwestern Ethiopian landscapes under four future scenarios; (2) to identify the beneficiaries of value flows of ecosystem services generated under the different scenarios; (3) to understand power influences of different stakeholders on local ecosystems and value flows under the different scenarios; and (4) to make insights relevant and applicable for local landscape management through the integration of stakeholders in the scenario analysis. (Project website)",
+                "qualifier": "researchDesign",
+                "lang": "-"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "\u00d6kosystemdienstleistungen",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00c4thiopien",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Dienstleistung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Holzgew\u00e4chse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Vorkommen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wald",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Afromontaner Regenwald",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landnutzung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Waldfl\u00e4che",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Ackerland",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bio\u00f6konomie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ethiopia",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Service Provision",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Woody Plants",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Abundance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Forest",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Afromontane Rainforest",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Land Use",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Woodland",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Farmland",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Bioeconomy",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "ETH",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "Jimma Zone, Oromia",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::10082",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::3307",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Duguma"
+                    ],
+                    "givenName": [
+                        "Dula Wakassa"
+                    ],
+                    "orcid": [
+                        "0000-0003-4581-8351"
+                    ],
+                    "gnd": [
+                        "1315076632"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::3193",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Shumi"
+                    ],
+                    "givenName": [
+                        "Girma"
+                    ],
+                    "orcid": [
+                        "0000-0001-7386-6815"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::3231",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Fischer"
+                    ],
+                    "givenName": [
+                        "J\u00f6rn"
+                    ],
+                    "orcid": [
+                        "0000-0003-3187-8978"
+                    ],
+                    "gnd": [
+                        "1051419840"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::3269",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                    ],
+                    "ror": [
+                        "04pz7b180"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::3155",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-734",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::3345",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "qualifier": "funderName",
+                "authority": "virtual::3155",
+                "confidence": "-1"
+            },
+            {
+                "value": "031B0786",
+                "qualifier": "awardNumber",
+                "authority": "virtual::3155",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The data contains household surveys of woody-plant use in three districts of Jimma zone of Oromia region of Ethiopia, surveyed from 180 households. It also contains woody-plant survey at 71 sites in farmland and 107 sites in forest that shows the abundance of individual stems of trees and shrubs used for different purposes by the local community. Besides, it contains environmental and human disturbance variables used to predict the availability of woody-plant based ecosystem services in the entire landscape.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Messungen und Tests (Physical)",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Observation (Field)",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2022-03-01 - 2022-05-30",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2015-11 - 2016-01 (Woody plant survey)",
+                "qualifier": "Collected"
+            },
+            {
+                "value": "2017-02 - 2017-03 (Household survey on woody-plant use)",
+                "qualifier": "Collected"
+            },
+            {
+                "value": "2017-04 - 2017-05 (Woody plant survey)",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "Continues"
+                    ],
+                    "freetext": [
+                        "Girma Shumi, Ine Dorresteijn, Jannik Schultner, Kristoffer Hylander, Feyera Senbeta, Jan Hanspach, Tola Gemechu Ango & Joern Fischer (2019) Woody plant use and management in relation to property rights: a social-ecological case study from southwestern Ethiopia, Ecosystems and People, 15:1, 303-316."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1080/26395916.2019.1674382"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "Continues"
+                    ],
+                    "freetext": [
+                        "Shumi, G., Rodrigues, P., Hanspach, J. et al. Woody plant species diversity as a predictor of ecosystem services in a social\u2013ecological system of southwestern Ethiopia. Landscape Ecol 36, 373\u2013391 (2021)."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1007/s10980-020-01170-x"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "73557231-56c1-400b-ae50-1db28c25b55e",
+                "authority": "virtual::3193",
+                "confidence": "-1"
+            },
+            {
+                "value": "b86d7649-3c2b-47b2-b07b-1e0c91d987c6",
+                "authority": "virtual::3231",
+                "confidence": "-1"
+            },
+            {
+                "value": "83f373aa-91af-4377-a713-813bed27c356",
+                "authority": "virtual::3269",
+                "confidence": "-1"
+            },
+            {
+                "value": "73557231-56c1-400b-ae50-1db28c25b55e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3193",
+                "confidence": "-1"
+            },
+            {
+                "value": "b86d7649-3c2b-47b2-b07b-1e0c91d987c6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3231",
+                "confidence": "-1"
+            },
+            {
+                "value": "83f373aa-91af-4377-a713-813bed27c356",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3269",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::10082",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::3307",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3307",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10082",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "1919a90c-972d-4f09-bc08-8310fc230d97",
+                "authority": "virtual::3155",
+                "confidence": "-1"
+            },
+            {
+                "value": "1919a90c-972d-4f09-bc08-8310fc230d97",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3155",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "e3d54b0a-3ef6-41b7-8ff4-160e17bd9730",
+                "authority": "virtual::7804",
+                "confidence": "-1"
+            },
+            {
+                "value": "e3d54b0a-3ef6-41b7-8ff4-160e17bd9730",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7804",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "e3d54b0a-3ef6-41b7-8ff4-160e17bd9730",
+                "authority": "virtual::3345",
+                "confidence": "-1"
+            },
+            {
+                "value": "e3d54b0a-3ef6-41b7-8ff4-160e17bd9730",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3345",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-53",
+        "title": "Woody-plant based ecosystem services based on household survey: Data from southwestern Ethiopia",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Duguma, Dula Wakassa",
+                "nameType": "Personal",
+                "givenName": "Dula Wakassa",
+                "familyName": "Duguma",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-4581-8351",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1315076632",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Shumi, Girma",
+                "nameType": "Personal",
+                "givenName": "Girma",
+                "familyName": "Shumi",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-7386-6815",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Fischer, J\u00f6rn",
+                "nameType": "Personal",
+                "givenName": "J\u00f6rn",
+                "familyName": "Fischer",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-3187-8978",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1051419840",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "dula.duguma@leuphana.de",
+                "affiliation": [],
+                "contributorType": "ContactPerson",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "The data contains household surveys of woody-plant use in three districts of Jimma zone of Oromia region of Ethiopia, surveyed from 180 households. It also contains woody-plant survey at 71 sites in farmland and 107 sites in forest that shows the abundance of individual stems of trees and shrubs used for different purposes by the local community. Besides, it contains environmental and human disturbance variables used to predict the availability of woody-plant based ecosystem services in the entire landscape.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Messungen und Tests (Physical)",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Observation (Field)",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "\u00c4thiopien"
+            },
+            {
+                "subject": "Dienstleistung"
+            },
+            {
+                "subject": "Holzgew\u00e4chse"
+            },
+            {
+                "subject": "Vorkommen"
+            },
+            {
+                "subject": "Wald"
+            },
+            {
+                "subject": "Afromontaner Regenwald"
+            },
+            {
+                "subject": "Landnutzung"
+            },
+            {
+                "subject": "Waldfl\u00e4che"
+            },
+            {
+                "subject": "Ackerland"
+            },
+            {
+                "subject": "Bio\u00f6konomie"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Ethiopia"
+            },
+            {
+                "subject": "Service Provision"
+            },
+            {
+                "subject": "Woody Plants"
+            },
+            {
+                "subject": "Abundance"
+            },
+            {
+                "subject": "Forest"
+            },
+            {
+                "subject": "Afromontane Rainforest"
+            },
+            {
+                "subject": "Land Use"
+            },
+            {
+                "subject": "Woodland"
+            },
+            {
+                "subject": "Farmland"
+            },
+            {
+                "subject": "Bioeconomy"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-03-11",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2024-03-11",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-03-08",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-03-11",
+                "dateType": "Available"
+            },
+            {
+                "date": "2022-03-01/2022-05-30",
+                "dateType": "Created"
+            },
+            {
+                "date": "2015-11/2016-01",
+                "dateType": "Collected"
+            },
+            {
+                "date": "2017-02/2017-03",
+                "dateType": "Collected"
+            },
+            {
+                "date": "2017-04/2017-05",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "Continues",
+                "relatedIdentifier": "10.1080/26395916.2019.1674382",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "Continues",
+                "relatedIdentifier": "10.1007/s10980-020-01170-x",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-734",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "ETH"
+            },
+            {
+                "geoLocationPlace": "Jimma Zone, Oromia"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Bio\u00f6konomie als gesellschaftlicher Wandel, Modul 2 (2): ETH-Coffee - Towards a Sustainable Bioeconomy: A Scenario Analysis for the Jimma Coffee Landscape in Ethiopia",
+                "funderName": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "awardNumber": "031B0786",
+                "funderIdentifier": "https://ror.org/04pz7b180",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/72",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-03-11T13:15:14.000Z",
+        "registered": "2024-03-11T13:15:24.000Z",
+        "updated": "2025-06-26T06:15:17.000Z"
+    },
+    "doi": "10.48548/pubdata-53",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

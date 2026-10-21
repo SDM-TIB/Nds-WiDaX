@@ -1,0 +1,215 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Fuhrmann, Timm",
+            "givenName": "Timm",
+            "familyName": "Fuhrmann",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-3422",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-3422",
+    "notes": "F\u00fcr die Gestaltung inklusiven Fachunterrichts ist es bedeutsam, die Perspektiven der Sch\u00fclerinnen und Sch\u00fcler systematisch zu erheben. So gelingt ein Blick darauf, wie fachliche Anforderungen, Unterst\u00fctzungsangebote und M\u00f6glichkeiten zur Partizipation im konkreten Unterricht tats\u00e4chlich erlebt, genutzt und bewertet werden. Die Arbeit folgte einem qualitativ-explorativen Design, in dem ein inklusives naturwissenschaftliches Lernarrangement videografiert, zu einer Videovignette verdichtet und in leitfadengest\u00fctzten Interviews mit Sch\u00fclerinnen und Sch\u00fclern als Erz\u00e4hlimpuls eingesetzt wurde. Auf dieser Grundlage wurden die Perspektiven der Sch\u00fclerinnen und Sch\u00fcler auf den Einsatz von Tippkarten und Hilfekarten rekonstruiert und mithilfe einer inhaltlich-strukturierenden qualitativen Inhaltsanalyse ausgewertet, um sich so Implikationen f\u00fcr die schulische Praxis ableiten zu k\u00f6nnen. Insgesamt wurden 24 Interviews aus insgesamt drei verschiedenen Schulen (zwei verschiedene Schulformen) in Hamburg gef\u00fchrt, transkribiert und ausgewertet. Den Interviews lag ein Gespr\u00e4chsimpuls in Form einer Videovignette sowie ein Interviewleitfaden zu Grunde. Im Datensatz sind alle 24 Transkripte der Interviews in anonymisierter Form sowie der Interviewleitfaden enthalten.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Interviewtranskripte zur studie: perspektiven von sch\u00fcler*innen auf lernunterst\u00fctzungen im inklusiven naturwissenschaftlichen unterricht",
+    "url": "https://doi.org/10.48548/pubdata-3422",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_name": "Inklusiver Unterricht"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Schler",
+            "name": "Schler",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Perspektive",
+            "name": "Perspektive",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Naturwissenschaften",
+            "name": "Naturwissenschaften",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Unterricht",
+            "name": "Unterricht",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Didaktik",
+            "name": "Didaktik",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Unterrichtsmaterial",
+            "name": "Unterrichtsmaterial",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Veranschaulichung",
+            "name": "Veranschaulichung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Unterrichtsmethode",
+            "name": "Unterrichtsmethode",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Unterrichtseinheit",
+            "name": "Unterrichtseinheit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wahrnehmung",
+            "name": "Wahrnehmung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Arbeitsprozess",
+            "name": "Arbeitsprozess",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lernprozess",
+            "name": "Lernprozess",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lernarrangement",
+            "name": "Lernarrangement",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Inklusion",
+            "name": "Inklusion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Student",
+            "name": "Student",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Perspective",
+            "name": "Perspective",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Science Education",
+            "name": "Science Education",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Didactics",
+            "name": "Didactics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Teaching Material",
+            "name": "Teaching Material",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Illustration",
+            "name": "Illustration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Teaching Method",
+            "name": "Teaching Method",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Teaching Unit",
+            "name": "Teaching Unit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Perception",
+            "name": "Perception",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Work Process",
+            "name": "Work Process",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Learning Process",
+            "name": "Learning Process",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Learning Package",
+            "name": "Learning Package",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Inclusion",
+            "name": "Inclusion",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

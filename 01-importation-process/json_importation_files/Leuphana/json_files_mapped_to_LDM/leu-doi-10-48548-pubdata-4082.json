@@ -1,0 +1,185 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Ndagijimana, Valery",
+            "givenName": "Valery",
+            "familyName": "Ndagijimana",
+            "orcid": "0009-0007-5193-8364"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-4082",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-4082",
+    "notes": "The dataset includes social network data about restoration actors' relationships, including resource flow, collaboration, communication, and trust. The study focused on the Rutsiro and Ngororero districts in western Rwanda, both mountainous areas. Three villages were selected in each district: Shyembe, Rwamiyaga, and Gisunzu in Rutsiro District, and Kabuga, Kagarama, and Bereshi in Ngororero District. These villages were chosen because their communities are interconnected through restoration landscape projects. Individual interviews and participatory workshops were combined within a mixed-method approach and conducted from 4 to 27 June 2024. Key interviewees were identified through snowball sampling. In Rutsiro, 20 Net-Map interviews were conducted, including five women and 15 men. In Ngororero, 15 interviews were conducted, comprising three women and 12 men. Interviewees ranged from local stakeholders, including community members, government representatives, and companies, to international and local NGOs. After the Net-Map interviews, participatory one-day workshops were conducted in each village to validate the interview data and collaboratively map a common network for each district.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Social cohesion in restoration landscapes: evidence from western rwanda",
+    "url": "https://doi.org/10.48548/pubdata-4082",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_name": "Sozial-\u00f6kologisches System"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Sozial-konomisches System",
+            "name": "Sozial-konomisches System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ruanda",
+            "name": "Ruanda",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "kosystem",
+            "name": "kosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Restaurierung",
+            "name": "Restaurierung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landschaft",
+            "name": "Landschaft",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Stakeholder",
+            "name": "Stakeholder",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Soziales Netzwerk",
+            "name": "Soziales Netzwerk",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Soziale Beziehungen",
+            "name": "Soziale Beziehungen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Steuerungsprozesse",
+            "name": "Steuerungsprozesse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Politische Akteure",
+            "name": "Politische Akteure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wissensaustausch",
+            "name": "Wissensaustausch",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Social-ecological System",
+            "name": "Social-ecological System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Rwanda",
+            "name": "Rwanda",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecosystem",
+            "name": "Ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Restoration",
+            "name": "Restoration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landscape",
+            "name": "Landscape",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Stakeholder",
+            "name": "Stakeholder",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Social Network",
+            "name": "Social Network",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Social Relationships",
+            "name": "Social Relationships",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Governance",
+            "name": "Governance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Political Actors",
+            "name": "Political Actors",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Knowledge Exchange",
+            "name": "Knowledge Exchange",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

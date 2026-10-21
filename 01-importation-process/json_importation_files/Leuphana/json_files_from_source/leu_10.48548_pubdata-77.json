@@ -1,0 +1,686 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/96",
+        "datestamp": "2025-06-27T08:22:08Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Olsson, Oliver",
+                "qualifier": "author",
+                "authority": "virtual::2971",
+                "confidence": "-1"
+            },
+            {
+                "value": "Logunova, Evgenia",
+                "qualifier": "author",
+                "authority": "virtual::2997",
+                "confidence": "-1"
+            },
+            {
+                "value": "Suk, Morten",
+                "qualifier": "author",
+                "authority": "virtual::3009",
+                "confidence": "-1"
+            },
+            {
+                "value": "K\u00fcmmerer, Klaus",
+                "qualifier": "author",
+                "authority": "virtual::3035",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-02-14T09:31:15Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2024-02-14T09:31:15Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-02-14",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-02-12T11:05:00Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/96",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-77",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Experimental data on ready biodegradability, OECD 301D (Closed Bottle Test), 2023, V1",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Laboratory Results",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Contact": [
+            {
+                "value": "klaus.k\u00fcmmerer@leuphana.de; oliver.olsson@leuphana.de",
+                "lang": "-"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Green Chemistry",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Biologische Abbaubarkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Experiment",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Test",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltige Chemie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kl\u00e4rwasser",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Abwasser",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Gr\u00fcne Chemie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Messung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Sauerstoffgehalt",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Giftigkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Biodegradability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Experiment",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Test",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainable Chemistry",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sewage Water",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Effluent",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Green Chemistry",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Assessment",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Oxygen Concentration",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Toxicity",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "L\u00fcneburg",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Nachhaltige Chemie (INSC)",
+                "authority": "virtual::10085",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::3047",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Olsson"
+                    ],
+                    "givenName": [
+                        "Oliver"
+                    ],
+                    "orcid": [
+                        "0000-0003-0082-1442"
+                    ],
+                    "gnd": [
+                        "140577270"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2971",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Logunova"
+                    ],
+                    "givenName": [
+                        "Evgenia"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2997",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Suk"
+                    ],
+                    "givenName": [
+                        "Morten"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::3009",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "K\u00fcmmerer"
+                    ],
+                    "givenName": [
+                        "Klaus"
+                    ],
+                    "orcid": [
+                        "0000-0003-2027-6488"
+                    ],
+                    "gnd": [
+                        "118066382"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::3035",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Description": [
+            {
+                "value": "Closed Bottle Test (CBT) is a simple test to evaluate the ready biodegradability of an organic compound in the environment. It was performed according to the OECD test guidelines (OECD, 1992) using a low bacterial density (2 drops STP effluent/L), low nutrient content, and at room temperature (20 \u00b1 1 \u00b0C) in the dark. The test system consisted of four different series, each series run in parallel. The readily biodegradable sodium acetate and the test substance used in the test were adjusted to a concentration corresponding to 5 mg L\u22121 theoretical oxygen demand without nitrification (ThODNH3). All test bottles were inoculated with an aliquot from the effluent of the municipal sewage treatment plant (STP) in AGL L\u00fcneburg, Germany (144,000 inhabitant equivalents). Throughout the test, the biochemical oxygen demand (BOD) was monitored by measuring the dissolved oxygen concentration. A test compound is classified as \u201creadily biodegradable\u201d if biodegradation, expressed as a percentage of oxygen consumed in the test bottle, exceeds 60% within a period of 10 days after the oxygen consumption reached 10% ThOD. Toxicity was assessed by comparing oxygen consumption, as measured in the toxicity controls, with the predicted level calculated based on the oxygen consumption in the quality control and in the test bottles, respectively. Toxicity controls allow for the recognition of false negative results caused by the toxicity of the test compound against the degrading bacteria. --- Validity criteria (all must be fulfilled): (1) The difference of the double determination on day 28 must not be more than 20%. (2) The toxicity control must not be less than 25% degraded on day 14. (3) The oxygen consumption of the blank must be less than 1.5 mg/l on day 28. (4) The oxygen concentration of the test preparations must not be less than 0.5 mg/l. (5) The quality control must be 60% degraded on day 14. --- The data set includes for each tested substance: the smilescode, the biodegradation rate in % of the two test runs, the mean value of these two test results as a basis for the classification easily biodegradable, yes (1) or no (0).",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Experiment (Laboratory)",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2003 - 2022",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "46b0cb36-d9b5-429a-930a-9dee62213354",
+                "authority": "virtual::2971",
+                "confidence": "-1"
+            },
+            {
+                "value": "4ec364ee-6f58-411d-b74b-682c10c1ea1a",
+                "authority": "virtual::2997",
+                "confidence": "-1"
+            },
+            {
+                "value": "09d59429-a161-401b-9146-ddad72983b94",
+                "authority": "virtual::3009",
+                "confidence": "-1"
+            },
+            {
+                "value": "c854d259-c767-477b-8d0e-73096b5f0250",
+                "authority": "virtual::3035",
+                "confidence": "-1"
+            },
+            {
+                "value": "46b0cb36-d9b5-429a-930a-9dee62213354",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2971",
+                "confidence": "-1"
+            },
+            {
+                "value": "4ec364ee-6f58-411d-b74b-682c10c1ea1a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2997",
+                "confidence": "-1"
+            },
+            {
+                "value": "09d59429-a161-401b-9146-ddad72983b94",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3009",
+                "confidence": "-1"
+            },
+            {
+                "value": "c854d259-c767-477b-8d0e-73096b5f0250",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3035",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "9df554d3-9c1e-42bd-97cd-58b4baf51d28",
+                "authority": "virtual::10085",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::3047",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3047",
+                "confidence": "-1"
+            },
+            {
+                "value": "9df554d3-9c1e-42bd-97cd-58b4baf51d28",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10085",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-77",
+        "title": "Experimental data on ready biodegradability, OECD 301D (Closed Bottle Test), 2023, V1",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Olsson, Oliver",
+                "nameType": "Personal",
+                "givenName": "Oliver",
+                "familyName": "Olsson",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-0082-1442",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "140577270",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Logunova, Evgenia",
+                "nameType": "Personal",
+                "givenName": "Evgenia",
+                "familyName": "Logunova",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Suk, Morten",
+                "nameType": "Personal",
+                "givenName": "Morten",
+                "familyName": "Suk",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "K\u00fcmmerer, Klaus",
+                "nameType": "Personal",
+                "givenName": "Klaus",
+                "familyName": "K\u00fcmmerer",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2027-6488",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "118066382",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "klaus.k\u00fcmmerer@leuphana.de; oliver.olsson@leuphana.de",
+                "affiliation": [],
+                "contributorType": "ContactPerson",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "Closed Bottle Test (CBT) is a simple test to evaluate the ready biodegradability of an organic compound in the environment. It was performed according to the OECD test guidelines (OECD, 1992) using a low bacterial density (2 drops STP effluent/L), low nutrient content, and at room temperature (20 \u00b1 1 \u00b0C) in the dark. The test system consisted of four different series, each series run in parallel. The readily biodegradable sodium acetate and the test substance used in the test were adjusted to a concentration corresponding to 5 mg L\u22121 theoretical oxygen demand without nitrification (ThODNH3). All test bottles were inoculated with an aliquot from the effluent of the municipal sewage treatment plant (STP) in AGL L\u00fcneburg, Germany (144,000 inhabitant equivalents). Throughout the test, the biochemical oxygen demand (BOD) was monitored by measuring the dissolved oxygen concentration. A test compound is classified as \u201creadily biodegradable\u201d if biodegradation, expressed as a percentage of oxygen consumed in the test bottle, exceeds 60% within a period of 10 days after the oxygen consumption reached 10% ThOD. Toxicity was assessed by comparing oxygen consumption, as measured in the toxicity controls, with the predicted level calculated based on the oxygen consumption in the quality control and in the test bottles, respectively. Toxicity controls allow for the recognition of false negative results caused by the toxicity of the test compound against the degrading bacteria. --- Validity criteria (all must be fulfilled): (1) The difference of the double determination on day 28 must not be more than 20%. (2) The toxicity control must not be less than 25% degraded on day 14. (3) The oxygen consumption of the blank must be less than 1.5 mg/l on day 28. (4) The oxygen concentration of the test preparations must not be less than 0.5 mg/l. (5) The quality control must be 60% degraded on day 14. --- The data set includes for each tested substance: the smilescode, the biodegradation rate in % of the two test runs, the mean value of these two test results as a basis for the classification easily biodegradable, yes (1) or no (0).",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Experiment (Laboratory)",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Biologische Abbaubarkeit"
+            },
+            {
+                "subject": "Experiment"
+            },
+            {
+                "subject": "Test"
+            },
+            {
+                "subject": "Nachhaltige Chemie"
+            },
+            {
+                "subject": "Kl\u00e4rwasser"
+            },
+            {
+                "subject": "Abwasser"
+            },
+            {
+                "subject": "Gr\u00fcne Chemie"
+            },
+            {
+                "subject": "Messung"
+            },
+            {
+                "subject": "Sauerstoffgehalt"
+            },
+            {
+                "subject": "Giftigkeit"
+            },
+            {
+                "subject": "Biodegradability"
+            },
+            {
+                "subject": "Sustainable Chemistry"
+            },
+            {
+                "subject": "Sewage Water"
+            },
+            {
+                "subject": "Effluent"
+            },
+            {
+                "subject": "Green Chemistry"
+            },
+            {
+                "subject": "Assessment"
+            },
+            {
+                "subject": "Oxygen Concentration"
+            },
+            {
+                "subject": "Toxicity"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-02-14",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2024-02-14",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-02-12",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-02-14",
+                "dateType": "Available"
+            },
+            {
+                "date": "2003/2022",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "L\u00fcneburg"
+            }
+        ],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/96",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-02-14T10:15:16.000Z",
+        "registered": "2024-02-14T10:15:26.000Z",
+        "updated": "2025-06-27T09:15:28.000Z"
+    },
+    "doi": "10.48548/pubdata-77",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

@@ -1,0 +1,185 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Travers, Eliane",
+            "givenName": "Eliane",
+            "familyName": "Travers",
+            "orcid": "0000-0003-2244-2312"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-1856",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-1856",
+    "notes": "In four 25 ha study sites in each region the research group conducted vegetation surveys in five randomly selected plots of 5 m x 4 m in four habitat types of habitats: woodlands, semi-open habitats where canopy closure was high, semi-open habitats where canopy closure was low, and open habitats. In each plot the researchers determined all vascular plants and epigaeic bryophytes and estimated their cover (Dierschke, 1994). Nomenclature is based on J\u00e4ger (2011) for vascular plants and Frahm and Frey (2004) for bryophytes.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Supplementary data to \"the role of semi\u2010open habitats as dispersal corridors for plant species of woodlands and open habitats\"",
+    "url": "https://doi.org/10.48548/pubdata-1856",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_name": "Landschafts\u00f6kologie"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Vegetation",
+            "name": "Vegetation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lneburger Heide",
+            "name": "Lneburger Heide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Schwbische Alb",
+            "name": "Schwbische Alb",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wald",
+            "name": "Wald",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Halboffener Lebensraum",
+            "name": "Halboffener Lebensraum",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Offener Lebensraum",
+            "name": "Offener Lebensraum",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kronendach",
+            "name": "Kronendach",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Pflanzen",
+            "name": "Pflanzen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ausbreitung",
+            "name": "Ausbreitung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Gefpflanzen",
+            "name": "Gefpflanzen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Laubmoose",
+            "name": "Laubmoose",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Vegetation",
+            "name": "Vegetation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lneburg Heath",
+            "name": "Lneburg Heath",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Swabian Alb",
+            "name": "Swabian Alb",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Woodland",
+            "name": "Woodland",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Semi-open Habitat",
+            "name": "Semi-open Habitat",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Open Habitat",
+            "name": "Open Habitat",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Canopy",
+            "name": "Canopy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Plants",
+            "name": "Plants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Dispersal",
+            "name": "Dispersal",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Bryophytes",
+            "name": "Bryophytes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Vascular Plants",
+            "name": "Vascular Plants",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

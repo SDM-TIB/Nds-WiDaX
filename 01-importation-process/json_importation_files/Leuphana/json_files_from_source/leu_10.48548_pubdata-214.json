@@ -1,0 +1,760 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/246",
+        "datestamp": "2026-07-17T05:08:47Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Isaac, Roman",
+                "qualifier": "author",
+                "authority": "virtual::1063",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mart\u00edn-L\u00f3pez, Berta",
+                "qualifier": "author",
+                "authority": "virtual::1067",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-04-29T13:32:53Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2024-04-29T13:32:53Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-04-29",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-04-26T08:14:25Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/246",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-214",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Effects of land management on the Supply and Distribution of ecosystem services (ESuDis)",
+                "authority": "virtual::8783",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Coding, Coding Set, and Document List: Systematic Literature Review Data for the PhD Thesis \"More than trees\u201d",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Context Materials / Supporting information",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Bibliography",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Codings; Coding Sets",
+                "qualifier": "kindsOfDataOther"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Albrecht, Eerika",
+                "authority": "virtual::1101",
+                "confidence": "-1"
+            },
+            {
+                "value": "Felipe-Lucia, Mar\u00eda R.",
+                "authority": "virtual::1105",
+                "confidence": "-1"
+            },
+            {
+                "value": "Kachler, Jana",
+                "authority": "virtual::1139",
+                "confidence": "-1"
+            },
+            {
+                "value": "Winkler, Klara Johanna",
+                "authority": "virtual::1143",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Mensch-Natur-Beziehung",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Systematic Review",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Steuerungsprozesse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Dienstleistung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Naturleistungen f\u00fcr den Menschen (NCP)",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wald",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Koproduktion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Systematic Review",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Governance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Service Provision",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Nature's Contributions to People (NCP)",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Forest",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Co-production",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::10067",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::1177",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Isaac"
+                    ],
+                    "givenName": [
+                        "Roman"
+                    ],
+                    "orcid": [
+                        "0000-0002-0007-7433"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::1063",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mart\u00edn-L\u00f3pez"
+                    ],
+                    "givenName": [
+                        "Berta"
+                    ],
+                    "orcid": [
+                        "0000-0003-2622-0135"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::1067",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Deutsche Forschungsgemeinschaft (DFG)"
+                    ],
+                    "ror": [
+                        "018mejw64"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::8783",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-210",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::1181",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Deutsche Forschungsgemeinschaft (DFG)",
+                "qualifier": "funderName",
+                "authority": "virtual::8783",
+                "confidence": "-1"
+            },
+            {
+                "value": "65300036",
+                "qualifier": "awardNumber",
+                "authority": "virtual::8783",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The research group conducted a systematic literature review on peer-reviewed publications dealing with the governance of co-produced nature's contributions to people (NCP) and ecosystem services. The researchers used two search strings. The first search string covered NCP and ecosystem services co-production literature and returned 384 publications. When assessing the abstracts the researchers found that 170 papers potentially included NCP co-production. This narrowed down to 25 publications that explicitly (i.e. stated by authors) or implicitly (i.e. not stated by authors but covered in the paper) referred to NCP co-production when assessing the full-text. The second search string covered ecosystem services governance. This search string resulted in 157 publications covering empirical cases of ecosystem services governance. Of these 21 were found to deal with NCP co-production. The researchers found one duplicate in both searches resulting in 45 publications used within the full text review. The researchers followed a deductive coding scheme to assess the publications. This data set presents the coding set, the publication list and the coding.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Content coding",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Analysis of text documents",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Literature analysis / Systematic review",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2020-09 - 2023-12",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2020-09 - 2020-11",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "IsSupplementTo"
+                    ],
+                    "freetext": [
+                        "Isaac, R., Kachler, J., Winkler, K. J., Albrecht, E., Felipe-Lucia, M. R., & Mart\u00edn-L\u00f3pez, B. (2022). Governance to manage the complexity of nature's contributions to people co-production. Advances in Ecological Research, 66, 293-321."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1016/bs.aecr.2022.04.009"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "dc668790-224e-45e6-9fc6-30f1cbe96cdd",
+                "authority": "virtual::1063",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "authority": "virtual::1067",
+                "confidence": "-1"
+            },
+            {
+                "value": "dc668790-224e-45e6-9fc6-30f1cbe96cdd",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::1063",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::1067",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::10067",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::1177",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::1177",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10067",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "e603d72a-6544-4ff4-a497-74b5d19369fa",
+                "authority": "virtual::1101",
+                "confidence": "-1"
+            },
+            {
+                "value": "a0693673-e185-4f9e-bad2-d2d3d77bc6cc",
+                "authority": "virtual::1105",
+                "confidence": "-1"
+            },
+            {
+                "value": "9743c928-8caf-475d-9c6e-ee0a7258f581",
+                "authority": "virtual::1139",
+                "confidence": "-1"
+            },
+            {
+                "value": "18e04cca-9838-4e91-a976-a0d77f485a5d",
+                "authority": "virtual::1143",
+                "confidence": "-1"
+            },
+            {
+                "value": "e603d72a-6544-4ff4-a497-74b5d19369fa",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::1101",
+                "confidence": "-1"
+            },
+            {
+                "value": "a0693673-e185-4f9e-bad2-d2d3d77bc6cc",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::1105",
+                "confidence": "-1"
+            },
+            {
+                "value": "9743c928-8caf-475d-9c6e-ee0a7258f581",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::1139",
+                "confidence": "-1"
+            },
+            {
+                "value": "18e04cca-9838-4e91-a976-a0d77f485a5d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::1143",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "bf13e527-518e-4c03-8543-7238a9203b1f",
+                "authority": "virtual::8783",
+                "confidence": "-1"
+            },
+            {
+                "value": "bf13e527-518e-4c03-8543-7238a9203b1f",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8783",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "7084f45e-c3ba-4b31-9835-117119cda85b",
+                "authority": "virtual::2469",
+                "confidence": "-1"
+            },
+            {
+                "value": "7084f45e-c3ba-4b31-9835-117119cda85b",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2469",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "7084f45e-c3ba-4b31-9835-117119cda85b",
+                "authority": "virtual::1181",
+                "confidence": "-1"
+            },
+            {
+                "value": "7084f45e-c3ba-4b31-9835-117119cda85b",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::1181",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-214",
+        "title": "Coding, Coding Set, and Document List: Systematic Literature Review Data for the PhD Thesis \"More than trees\u201d",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Isaac, Roman",
+                "givenName": "Roman",
+                "familyName": "Isaac",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-0007-7433",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Mart\u00edn-L\u00f3pez, Berta",
+                "givenName": "Berta",
+                "familyName": "Mart\u00edn-L\u00f3pez",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2622-0135",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Albrecht, Eerika",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Felipe-Lucia, Mar\u00eda R.",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Kachler, Jana",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Winkler, Klara Johanna",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "en",
+                "description": "The research group conducted a systematic literature review on peer-reviewed publications dealing with the governance of co-produced nature's contributions to people (NCP) and ecosystem services. The researchers used two search strings. The first search string covered NCP and ecosystem services co-production literature and returned 384 publications. When assessing the abstracts the researchers found that 170 papers potentially included NCP co-production. This narrowed down to 25 publications that explicitly (i.e. stated by authors) or implicitly (i.e. not stated by authors but covered in the paper) referred to NCP co-production when assessing the full-text. The second search string covered ecosystem services governance. This search string resulted in 157 publications covering empirical cases of ecosystem services governance. Of these 21 were found to deal with NCP co-production. The researchers found one duplicate in both searches resulting in 45 publications used within the full text review. The researchers followed a deductive coding scheme to assess the publications. This data set presents the coding set, the publication list and the coding.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Content coding",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Analysis of text documents",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Literature analysis / Systematic review",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Systematic Review"
+            },
+            {
+                "subject": "Steuerungsprozesse"
+            },
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "Dienstleistung"
+            },
+            {
+                "subject": "Naturleistungen f\u00fcr den Menschen (NCP)"
+            },
+            {
+                "subject": "Wald"
+            },
+            {
+                "subject": "Koproduktion"
+            },
+            {
+                "subject": "Governance"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Service Provision"
+            },
+            {
+                "subject": "Nature's Contributions to People (NCP)"
+            },
+            {
+                "subject": "Forest"
+            },
+            {
+                "subject": "Co-production"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-04-29",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2024-04-29",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-04-26",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-04-29",
+                "dateType": "Available"
+            },
+            {
+                "date": "2020-09/2023-12",
+                "dateType": "Created"
+            },
+            {
+                "date": "2020-09/2020-11",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.1016/bs.aecr.2022.04.009",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-210",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [
+            {
+                "awardTitle": "Effects of land management on the Supply and Distribution of ecosystem services (ESuDis)",
+                "funderName": "Deutsche Forschungsgemeinschaft (DFG)",
+                "awardNumber": "65300036",
+                "funderIdentifier": "https://ror.org/018mejw64",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/246",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-04-29T14:15:11.000Z",
+        "registered": "2024-04-29T14:15:23.000Z",
+        "updated": "2026-07-17T05:15:16.000Z"
+    },
+    "doi": "10.48548/pubdata-214",
+    "license_uri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial 4.0 International"
+}

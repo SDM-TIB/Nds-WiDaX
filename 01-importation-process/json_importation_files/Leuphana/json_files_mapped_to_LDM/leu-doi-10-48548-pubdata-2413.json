@@ -1,0 +1,305 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Sanya Julius, John",
+            "givenName": "John",
+            "familyName": "Sanya Julius",
+            "orcid": "0000-0002-2986-9813"
+        },
+        {
+            "author": "Gross, Milena",
+            "givenName": "Milena",
+            "familyName": "Gross",
+            "orcid": "0000-0003-3148-627X"
+        },
+        {
+            "author": "Mwampamba, Tuyeni H.",
+            "givenName": "Tuyeni H.",
+            "familyName": "Mwampamba",
+            "orcid": "0000-0003-4635-5774"
+        },
+        {
+            "author": "Krail, Viviane",
+            "givenName": "Viviane",
+            "familyName": "Krail",
+            "orcid": "0009-0006-2600-1599"
+        },
+        {
+            "author": "Pearson, Jasmine",
+            "givenName": "Jasmine",
+            "familyName": "Pearson",
+            "orcid": "0000-0001-6341-1382"
+        },
+        {
+            "author": "Sesabo, Jennifer Kasanda",
+            "givenName": "Jennifer Kasanda",
+            "familyName": "Sesabo",
+            "orcid": "0000-0002-8518-9011"
+        },
+        {
+            "author": "Mart\u00edn-L\u00f3pez, Berta",
+            "givenName": "Berta",
+            "familyName": "Mart\u00edn-L\u00f3pez",
+            "orcid": "0000-0003-2622-0135"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-2413",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-2413",
+    "notes": "The dataset entails data frames from transcripts of 25 interviews conducted with smallholder farmers on the slopes of Mount Kilimanjaro, Tanzania, to understand the motivations for applying indigeneous and local knowledge (ILK) in different farming practices within the Chagga homegarden - a traditional, pre-colonial farming system. It contains socio-demographic information, knowledge acquisition and transmission methods, and framing practices.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Diverse motivations underpinning the differential use of indigenous and local knowledge in chagga homegardens, tanzania_dataset",
+    "url": "https://doi.org/10.48548/pubdata-2413",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_name": "Mensch-Natur-Beziehung"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Chagga",
+            "name": "Chagga",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landwirt",
+            "name": "Landwirt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kleinbuerliche Strukturen",
+            "name": "Kleinbuerliche Strukturen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wissen",
+            "name": "Wissen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tradition",
+            "name": "Tradition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "kosystem",
+            "name": "kosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landwirtschaft",
+            "name": "Landwirtschaft",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ernhrungssystem",
+            "name": "Ernhrungssystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Indigenes Wissen",
+            "name": "Indigenes Wissen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mensch-Natur-Interaktion",
+            "name": "Mensch-Natur-Interaktion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Motivation",
+            "name": "Motivation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Naturschutz",
+            "name": "Naturschutz",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Baumgarten",
+            "name": "Baumgarten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sozial-kologisches System",
+            "name": "Sozial-kologisches System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nachhaltigkeit",
+            "name": "Nachhaltigkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Gebirge",
+            "name": "Gebirge",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kilimandscharo",
+            "name": "Kilimandscharo",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tansania",
+            "name": "Tansania",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Chagga",
+            "name": "Chagga",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Farmer",
+            "name": "Farmer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Smallholder Structures",
+            "name": "Smallholder Structures",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Knowledge",
+            "name": "Knowledge",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tradition",
+            "name": "Tradition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecosystem",
+            "name": "Ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Farming",
+            "name": "Farming",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Food System",
+            "name": "Food System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Indigenous Knowledge",
+            "name": "Indigenous Knowledge",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Human-Nature Interaction",
+            "name": "Human-Nature Interaction",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Motivation",
+            "name": "Motivation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nature Conservation",
+            "name": "Nature Conservation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Homegarden",
+            "name": "Homegarden",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Social-ecological System",
+            "name": "Social-ecological System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sustainability",
+            "name": "Sustainability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mountain",
+            "name": "Mountain",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mount Kilimanjaro",
+            "name": "Mount Kilimanjaro",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tanzania",
+            "name": "Tanzania",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

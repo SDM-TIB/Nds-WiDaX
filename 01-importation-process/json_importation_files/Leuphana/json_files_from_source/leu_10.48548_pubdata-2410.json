@@ -1,0 +1,937 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/10903",
+        "datestamp": "2026-05-19T11:43:48Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Sanya Julius, John",
+                "qualifier": "author",
+                "authority": "virtual::12573",
+                "confidence": "-1"
+            },
+            {
+                "value": "Pearson, Jasmine",
+                "qualifier": "author",
+                "authority": "virtual::12574",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mwampamba, Tuyeni H.",
+                "qualifier": "author",
+                "authority": "virtual::12575",
+                "confidence": "-1"
+            },
+            {
+                "value": "Sesabo, Jennifer Kasanda",
+                "qualifier": "author",
+                "authority": "virtual::12577",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mart\u00edn-L\u00f3pez, Berta",
+                "qualifier": "author",
+                "authority": "virtual::12576",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-10-20T09:33:36Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-10-20",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/10903",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-2410",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Die Rolle der Natur f\u00fcr das menschliche Wohlergehen im sozial-\u00f6kologischen System des Kilimandscharo (Kili-SES) - Teilprojekt \"Sozial-\u00f6kologische Transformationsprozesses verstehen: die Rolle von Werten, Regeln und Wissen von Initiativen\"",
+                "authority": "virtual::12579",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Interplays between nature's contributions to people, values of nature, and emotions expressed by smallholder farmers in Kilimanjaro, Tanzania: insights for inclusive conservation_Dataset",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Interview Data",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Sanya Julius, John",
+                "authority": "virtual::12578",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Mensch-Natur-Beziehung",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Chagga",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landwirt",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kleinb\u00e4uerliche Strukturen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Naturleistungen f\u00fcr den Menschen (NCP)",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Werte",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Emotion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bewertung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Naturschutz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Sozial-\u00f6kologisches System",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Baumgarten",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Gebirge",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kilimandscharo",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Tansania",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Mensch-Natur-Interaktion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Chagga",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Farmer",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Smallholder Structures",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Nature's Contributions to People (NCP)",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Values",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Emotion",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Valuation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Nature Conservation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Social-ecological System",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Homegarden",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Mountain",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Mount Kilimanjaro",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Tanzania",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Human-Nature Interaction",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "TZA",
+                "qualifier": "country"
+            },
+            {
+                "value": "Kilimandscharo",
+                "qualifier": "region"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::12581",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::12580",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Photovoice method",
+                "qualifier": "methodsOther"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Sanya Julius"
+                    ],
+                    "givenName": [
+                        "John"
+                    ],
+                    "orcid": [
+                        "0000-0002-2986-9813"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12573",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Pearson"
+                    ],
+                    "givenName": [
+                        "Jasmine"
+                    ],
+                    "orcid": [
+                        "0000-0001-6341-1382"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12574",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mwampamba"
+                    ],
+                    "givenName": [
+                        "Tuyeni H."
+                    ],
+                    "orcid": [
+                        "0000-0003-4635-5774"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12575",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Sesabo"
+                    ],
+                    "givenName": [
+                        "Jennifer Kasanda"
+                    ],
+                    "orcid": [
+                        "0000-0002-8518-9011"
+                    ],
+                    "gnd": [
+                        "1022360663"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12577",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mart\u00edn-L\u00f3pez"
+                    ],
+                    "givenName": [
+                        "Berta"
+                    ],
+                    "orcid": [
+                        "0000-0003-2622-0135"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12576",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Deutsche Forschungsgemeinschaft (DFG)"
+                    ],
+                    "ror": [
+                        "018mejw64"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::12579",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-3655",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::17596",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Deutsche Forschungsgemeinschaft (DFG)",
+                "qualifier": "funderName",
+                "authority": "virtual::12579",
+                "confidence": "-1"
+            },
+            {
+                "value": "428658210",
+                "qualifier": "awardNumber",
+                "authority": "virtual::12579",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The dataset entails data frames from transcripts of 26 interviews conducted through the photovoice method with smallholder farmers at Mount Kilimanjaro, Tanzania, to understand how smallholder farmers in Kilimanjaro benefit from, value, and emotionally connect with nature. Additionally, the photovoice method included a transect walk with a photo taking exercise that included 84 photos. Through the exercise, the authors were able to understand the interplays between the nature's contributions to people (NCP), the values of nature and the emotional connection with nature.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Other",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2025-10-20 -",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2022-09-01 - 2022-11-30",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2025"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "778266d1-6c7b-4414-b264-38ec58bd434e",
+                "authority": "virtual::12573",
+                "confidence": "-1"
+            },
+            {
+                "value": "f32b40fc-93d9-4654-a002-0ac1cd9dba15",
+                "authority": "virtual::12574",
+                "confidence": "-1"
+            },
+            {
+                "value": "9d3b6c48-b817-4fa3-9a50-064d5c53dc45",
+                "authority": "virtual::12575",
+                "confidence": "-1"
+            },
+            {
+                "value": "868c5a2d-cc5c-483a-9f81-12917372d953",
+                "authority": "virtual::12577",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "authority": "virtual::12576",
+                "confidence": "-1"
+            },
+            {
+                "value": "778266d1-6c7b-4414-b264-38ec58bd434e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12573",
+                "confidence": "-1"
+            },
+            {
+                "value": "f32b40fc-93d9-4654-a002-0ac1cd9dba15",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12574",
+                "confidence": "-1"
+            },
+            {
+                "value": "9d3b6c48-b817-4fa3-9a50-064d5c53dc45",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12575",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12576",
+                "confidence": "-1"
+            },
+            {
+                "value": "868c5a2d-cc5c-483a-9f81-12917372d953",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12577",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::12581",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::12580",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12580",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12581",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "778266d1-6c7b-4414-b264-38ec58bd434e",
+                "authority": "virtual::12578",
+                "confidence": "-1"
+            },
+            {
+                "value": "778266d1-6c7b-4414-b264-38ec58bd434e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12578",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "a08985a1-fb56-4c12-8c1a-6769f1cd440e",
+                "authority": "virtual::12579",
+                "confidence": "-1"
+            },
+            {
+                "value": "a08985a1-fb56-4c12-8c1a-6769f1cd440e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12579",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "08e638ca-9290-46cb-9639-37ba0c09965c",
+                "authority": "virtual::17627",
+                "confidence": "-1"
+            },
+            {
+                "value": "08e638ca-9290-46cb-9639-37ba0c09965c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::17627",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "08e638ca-9290-46cb-9639-37ba0c09965c",
+                "authority": "virtual::17596",
+                "confidence": "-1"
+            },
+            {
+                "value": "08e638ca-9290-46cb-9639-37ba0c09965c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::17596",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-2410",
+        "title": "Interplays between nature's contributions to people, values of nature, and emotions expressed by smallholder farmers in Kilimanjaro, Tanzania: insights for inclusive conservation_Dataset",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2025,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Sanya Julius, John",
+                "givenName": "John",
+                "familyName": "Sanya Julius",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-2986-9813",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Pearson, Jasmine",
+                "givenName": "Jasmine",
+                "familyName": "Pearson",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-6341-1382",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Mwampamba, Tuyeni H.",
+                "givenName": "Tuyeni H.",
+                "familyName": "Mwampamba",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-4635-5774",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Sesabo, Jennifer Kasanda",
+                "givenName": "Jennifer Kasanda",
+                "familyName": "Sesabo",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-8518-9011",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1022360663",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Mart\u00edn-L\u00f3pez, Berta",
+                "givenName": "Berta",
+                "familyName": "Mart\u00edn-L\u00f3pez",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2622-0135",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Sanya Julius, John",
+                "nameType": "Personal",
+                "givenName": "John",
+                "familyName": "Sanya Julius",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "The dataset entails data frames from transcripts of 26 interviews conducted through the photovoice method with smallholder farmers at Mount Kilimanjaro, Tanzania, to understand how smallholder farmers in Kilimanjaro benefit from, value, and emotionally connect with nature. Additionally, the photovoice method included a transect walk with a photo taking exercise that included 84 photos. Through the exercise, the authors were able to understand the interplays between the nature's contributions to people (NCP), the values of nature and the emotional connection with nature.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Other",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Chagga"
+            },
+            {
+                "subject": "Landwirt"
+            },
+            {
+                "subject": "Kleinb\u00e4uerliche Strukturen"
+            },
+            {
+                "subject": "Naturleistungen f\u00fcr den Menschen (NCP)"
+            },
+            {
+                "subject": "Werte"
+            },
+            {
+                "subject": "Emotion"
+            },
+            {
+                "subject": "Bewertung"
+            },
+            {
+                "subject": "Naturschutz"
+            },
+            {
+                "subject": "Sozial-\u00f6kologisches System"
+            },
+            {
+                "subject": "Baumgarten"
+            },
+            {
+                "subject": "Gebirge"
+            },
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "Kilimandscharo"
+            },
+            {
+                "subject": "Tansania"
+            },
+            {
+                "subject": "Mensch-Natur-Interaktion"
+            },
+            {
+                "subject": "Farmer"
+            },
+            {
+                "subject": "Smallholder Structures"
+            },
+            {
+                "subject": "Nature's Contributions to People (NCP)"
+            },
+            {
+                "subject": "Values"
+            },
+            {
+                "subject": "Valuation"
+            },
+            {
+                "subject": "Nature Conservation"
+            },
+            {
+                "subject": "Social-ecological System"
+            },
+            {
+                "subject": "Homegarden"
+            },
+            {
+                "subject": "Mountain"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Mount Kilimanjaro"
+            },
+            {
+                "subject": "Tanzania"
+            },
+            {
+                "subject": "Human-Nature Interaction"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-10-20",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-10-20",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2025-10-20/2025-10-20",
+                "dateType": "Created"
+            },
+            {
+                "date": "2022-09-01/2022-11-30",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "20.500.14123/14823",
+                "relatedIdentifierType": "Handle"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "TZA"
+            },
+            {
+                "geoLocationPlace": "Kilimandscharo"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Die Rolle der Natur f\u00fcr das menschliche Wohlergehen im sozial-\u00f6kologischen System des Kilimandscharo (Kili-SES) - Teilprojekt \"Sozial-\u00f6kologische Transformationsprozesses verstehen: die Rolle von Werten, Regeln und Wissen von Initiativen\"",
+                "funderName": "Deutsche Forschungsgemeinschaft (DFG)",
+                "awardNumber": "428658210",
+                "funderIdentifier": "https://ror.org/018mejw64",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/10903",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-10-20T10:15:29.000Z",
+        "registered": "2025-10-20T10:15:30.000Z",
+        "updated": "2026-05-19T12:15:13.000Z"
+    },
+    "doi": "10.48548/pubdata-2410",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

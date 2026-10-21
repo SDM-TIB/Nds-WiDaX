@@ -1,0 +1,311 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Bo\u00df, Leif",
+            "givenName": "Leif",
+            "familyName": "Bo\u00df",
+            "orcid": "0000-0001-9012-0839"
+        },
+        {
+            "author": "Ross, Jennifer",
+            "givenName": "Jennifer",
+            "familyName": "Ross",
+            "orcid": ""
+        },
+        {
+            "author": "Reis, Dorota",
+            "givenName": "Dorota",
+            "familyName": "Reis",
+            "orcid": "0000-0002-0027-9713"
+        },
+        {
+            "author": "Pischel, Sarah",
+            "givenName": "Sarah",
+            "familyName": "Pischel",
+            "orcid": "0000-0001-8949-0488"
+        },
+        {
+            "author": "Mallwitz, Tim",
+            "givenName": "Tim",
+            "familyName": "Mallwitz",
+            "orcid": "0000-0002-2558-9603"
+        },
+        {
+            "author": "Br\u00fcckner, Hanna Amira",
+            "givenName": "Hanna Amira",
+            "familyName": "Br\u00fcckner",
+            "orcid": "0009-0003-4406-7872"
+        },
+        {
+            "author": "Tanner, Grit",
+            "givenName": "Grit",
+            "familyName": "Tanner",
+            "orcid": "0000-0003-2966-9894"
+        },
+        {
+            "author": "Nissen, Helge",
+            "givenName": "Helge",
+            "familyName": "Nissen",
+            "orcid": ""
+        },
+        {
+            "author": "Kalon, Lina",
+            "givenName": "Lina",
+            "familyName": "Kalon",
+            "orcid": ""
+        },
+        {
+            "author": "Sch\u00fcmann, Marlies",
+            "givenName": "Marlies",
+            "familyName": "Sch\u00fcmann",
+            "orcid": "0000-0003-3112-3575"
+        },
+        {
+            "author": "Lennefer, Thomas",
+            "givenName": "Thomas",
+            "familyName": "Lennefer",
+            "orcid": ""
+        },
+        {
+            "author": "Janneck, Monique",
+            "givenName": "Monique",
+            "familyName": "Janneck",
+            "orcid": "0000-0003-4269-009X"
+        },
+        {
+            "author": "Felfe, J\u00f6rg",
+            "givenName": "J\u00f6rg",
+            "familyName": "Felfe",
+            "orcid": "0000-0003-0634-6232"
+        },
+        {
+            "author": "Ducki, Antje",
+            "givenName": "Antje",
+            "familyName": "Ducki",
+            "orcid": ""
+        },
+        {
+            "author": "Lehr, Dirk",
+            "givenName": "Dirk",
+            "familyName": "Lehr",
+            "orcid": "0000-0002-5560-3605"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-1371",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-1371",
+    "notes": "The dataset is the result of a cluster-randomized controlled trial as part of the project Care4Care. Following an integrated approach, the research group developed an occupational e-mental health platform, Care4Care, which integrates both work-directed and person-directed interventions for promoting mental health in nurses. They evaluated the effects of the platform compared with those of an extended care-as-usual control condition. 357 nurses and professional carers (intervention: 211, control: 136) from 33 healthcare service facilities have been investigated. The participants received either immediate access to the platform or access to two short subcomponents of the platform plus routine occupational health promotion offerings as well as delayed access to the whole platform after six months. The primary outcome was improvement in the psychosocial safety climate after six months. The secondary outcomes included perceived stress, depressive symptoms, and other strain-related indicators. The results indicate: Bayesian multilevel analyses revealed a meaningful improvement in the psychosocial safety climate in the intervention group compared with the control group (Median = 2.04 [95% CrI: -0.32 to 4.44], Cohen's d = 0.25]. The analysis showed that the intervention was superior with a probability of 95.4%. In addition, analyses of the secondary outcomes revealed a probability of 99.3% for a superior effect of the intervention compared with the control on perceived stress and lower probabilities (83.5% to 91.6%) for effects on cognitive and emotional strain, self-care, and depression. No meaningful effects on presenteeism, absenteeism, reward, effort, vigour or job satisfaction were found. A total of 85 (40%) participants in the intervention group used Care4Care, whereas 37 (27%) participants in the control group used the two subcomponents of the platform.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Care4care outcome data 2024",
+    "url": "https://doi.org/10.48548/pubdata-1371",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_name": "Digital Health"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Pflegepersonal",
+            "name": "Pflegepersonal",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Beruf",
+            "name": "Beruf",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Gesundheitswesen",
+            "name": "Gesundheitswesen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Arbeitsgesundheit",
+            "name": "Arbeitsgesundheit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Gesundheitsfrderung",
+            "name": "Gesundheitsfrderung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mentale Gesundheit",
+            "name": "Mentale Gesundheit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Digitale Gesundheit",
+            "name": "Digitale Gesundheit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Intervention",
+            "name": "Intervention",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Onlineplattform",
+            "name": "Onlineplattform",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wirksamkeit",
+            "name": "Wirksamkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Arbeitsumfeld",
+            "name": "Arbeitsumfeld",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Psychosoziale Faktoren",
+            "name": "Psychosoziale Faktoren",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Stress",
+            "name": "Stress",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Psychische Erkrankung",
+            "name": "Psychische Erkrankung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nurse",
+            "name": "Nurse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Healthcare Professional",
+            "name": "Healthcare Professional",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Occupation",
+            "name": "Occupation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Healthcare",
+            "name": "Healthcare",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Occupational Health",
+            "name": "Occupational Health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Health Promotion",
+            "name": "Health Promotion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mental Health",
+            "name": "Mental Health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Digital Health",
+            "name": "Digital Health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Intervention",
+            "name": "Intervention",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Online Platform",
+            "name": "Online Platform",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Efficiency",
+            "name": "Efficiency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Work Environment",
+            "name": "Work Environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Psychosocial Factors",
+            "name": "Psychosocial Factors",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Stress",
+            "name": "Stress",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mental Disorder",
+            "name": "Mental Disorder",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

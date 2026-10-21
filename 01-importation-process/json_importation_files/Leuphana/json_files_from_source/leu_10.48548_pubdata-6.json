@@ -1,0 +1,1029 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/11",
+        "datestamp": "2026-05-12T07:29:10Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Br\u00fcck, Maria",
+                "qualifier": "author",
+                "authority": "virtual::7905",
+                "confidence": "-1"
+            },
+            {
+                "value": "Duguma, Dula Wakassa",
+                "qualifier": "author",
+                "authority": "virtual::7907",
+                "confidence": "-1"
+            },
+            {
+                "value": "Law, Elizabeth",
+                "qualifier": "author",
+                "authority": "virtual::7943",
+                "confidence": "-1"
+            },
+            {
+                "value": "Abson, David J.",
+                "qualifier": "author",
+                "authority": "virtual::7945",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fischer, J\u00f6rn",
+                "qualifier": "author",
+                "authority": "virtual::7981",
+                "confidence": "-1"
+            },
+            {
+                "value": "Schultner, Jannik",
+                "qualifier": "author",
+                "authority": "virtual::7983",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2022-04-22T14:03:09Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2022-04-22T14:03:09Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2022-04-22",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2022-04-11T10:08:51Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/11",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-6",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Bio\u00f6konomie als gesellschaftlicher Wandel, Modul 2 (2): ETH-Coffee - Towards a Sustainable Bioeconomy: A Scenario Analysis for the Jimma Coffee Landscape in Ethiopia",
+                "authority": "virtual::7869",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Ecosystem Service Production and Flows in Gera, Gumay, and Setema Woreda, Ethiopia",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Programs and Applications",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The overarching goal of this project is to identify environmental and socioeconomic outcomes of ecosystem service flows in an increasingly teleconnected bioeconomy in the Global South. The case study location, Jimma zone in southwestern Ethiopia, is a biodiversity hotspot where local people are heavily dependent on the landscape to provide essential ecosystem services. However, the landscape also provides services of global importance, and is becoming more teleconnected. Both internal and external drivers are altering the social-ecological trajectories of the region. The project \u2013 building on an ERC-funded, five-year research project in Jimma zone (\u201cIdentifying Social-Ecological System Properties Benefiting Biodiversity and Food Security \u2013 SESyP\u201d) \u2014 works with local stakeholders to investigate the social-ecological consequences of different development trajectories. Research is centered around the exploration of four scenarios with differing social-ecological conditions in southwestern Ethiopia for 2040. Specific objectives are: (1) to map biodiversity and ecosystem services in rural southwestern Ethiopian landscapes under four future scenarios; (2) to identify the beneficiaries of value flows of ecosystem services generated under the different scenarios; (3) to understand power influences of different stakeholders on local ecosystems and value flows under the different scenarios; and (4) to make insights relevant and applicable for local landscape management through the integration of stakeholders in the scenario analysis. (Project website)",
+                "qualifier": "researchDesign",
+                "lang": "-"
+            },
+            {
+                "value": "Census data (total_pop, male, female, no_hh) are from: The 2007 Population and Housing Census of Ethiopia: Statistical Report for Oromiya Region; Part V: Population Size of Kebeles; Table 9.1. Population, Households and Housing Units for Urban Kebeles by Sex: 2007; Table 9.2. Population, Households and Housing Units for Rural Kebeles by Sex: 2007.",
+                "qualifier": "note",
+                "lang": "en"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Bekele Negash, Birhanu",
+                "authority": "virtual::8019",
+                "confidence": "-1"
+            },
+            {
+                "value": "Damu, Dadi Feyisa",
+                "authority": "virtual::8417",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Landwirtschaftliche Produktion",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00c4thiopien",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landwirtschaft",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Produktion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Warenfluss",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Produktionsbedingungen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bio\u00f6konomie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ethiopia",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Agriculture",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Production",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Flow",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Bioeconomy",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "ETH",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "Woredas Gera, Gumay und Setema",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::10014",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::8057",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Br\u00fcck"
+                    ],
+                    "givenName": [
+                        "Maria"
+                    ],
+                    "orcid": [
+                        "0000-0001-8656-8972"
+                    ],
+                    "gnd": [
+                        "1164715968"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7905",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Duguma"
+                    ],
+                    "givenName": [
+                        "Dula Wakassa"
+                    ],
+                    "orcid": [
+                        "0000-0003-4581-8351"
+                    ],
+                    "gnd": [
+                        "1315076632"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7907",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Law"
+                    ],
+                    "givenName": [
+                        "Elizabeth"
+                    ],
+                    "orcid": [
+                        "0000-0003-4456-1259"
+                    ],
+                    "gnd": [
+                        "1202727549"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7943",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Abson"
+                    ],
+                    "givenName": [
+                        "David J."
+                    ],
+                    "orcid": [
+                        "0000-0003-3755-785X"
+                    ],
+                    "gnd": [
+                        "1293398292"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7945",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Fischer"
+                    ],
+                    "givenName": [
+                        "J\u00f6rn"
+                    ],
+                    "orcid": [
+                        "0000-0003-3187-8978"
+                    ],
+                    "gnd": [
+                        "1051419840"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7981",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Schultner"
+                    ],
+                    "givenName": [
+                        "Jannik"
+                    ],
+                    "orcid": [
+                        "0000-0002-5865-7975"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7983",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                    ],
+                    "ror": [
+                        "04pz7b180"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::7869",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-228",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::8059",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "qualifier": "funderName",
+                "authority": "virtual::7869",
+                "confidence": "-1"
+            },
+            {
+                "value": "031B0786",
+                "qualifier": "awardNumber",
+                "authority": "virtual::7869",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Der Datensatz beinhaltet statistische Angaben und aggregierte Daten zur Produktion und zu Warenfl\u00fcssen von \u00d6kosystemdienstleistungen in den drei \u00e4thiopischen Woredas (Distrikten) Gera, Gumay und Setema und den zugeh\u00f6rigen Kebeles (kleinste Verwaltungsbezirke). Die Daten wurden aus diversen Quellen wie offiziellen Statistiken (u.a. Census Data 2007, Woreda Reports aus den Jahren 2019 und 2020) sowie \u00fcber Experteninterviews bezogen, zusammengestellt und mit beigelegtem Code analysiert. Weitere Daten zu den Kebeles (H\u00f6he, Wohlstand, Abgeschiedenheit, Gr\u00f6\u00dfe, Landnutzung nach zw\u00f6lf Kategorien) wurden, u.a. durch Remote Sensing Techniken, berechnet und zusammengetragen.",
+                "qualifier": "Abstract",
+                "lang": "de"
+            },
+            {
+                "value": "The dataset includes statistical information and aggregated data on ecosystem services production and flows in three Ethiopian woredas (districts Gera, Gumay and Setema) and their associated kebeles (smallest administrative units). Data were obtained from diverse sources such as official statistics (including Census Data 2007, Woreda Reports from 2019 and 2020) and via expert interviews, compiled and analyzed with attached code. Additional data on the kebeles (altitude, wealth, remoteness, size, land cover and use by twelve categories) were calculated and compiled, inter alia through remote sensing techniques.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Programming / Script-based data collection",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Aggregation",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2020-11 - 2022-03",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2020-11-02 - 2020-11-23",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2022"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "IsReferencedBy"
+                    ],
+                    "freetext": [
+                        "Br\u00fcck, M., Fischer, J., Law, E. A., Schultner, J., & Abson, D. J. (2023). Drivers of ecosystem service specialization in a smallholder agricultural landscape of the Global South: a case study in Ethiopia. Ecology and Society, 28(3), [1]."
+                    ],
+                    "relatedIdentifier": [
+                        "10.5751/ES-14185-280301"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "IsReferencedBy"
+                    ],
+                    "freetext": [
+                        "Duguma, D. W., Schultner, J., Abson, D. J., & Fischer, J. (2022). From stories to maps: translating participatory scenario narratives into spatially explicit information. Ecology and Society, 27(2), [13]."
+                    ],
+                    "relatedIdentifier": [
+                        "10.5751/ES-13200-270213"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "Compiles"
+                    ],
+                    "freetext": [
+                        "The 2007 Population and Housing Census of Ethiopia: Statistical Report for Oromiya Region."
+                    ],
+                    "relatedIdentifier": [
+                        ""
+                    ],
+                    "relatedIdentifierType": [
+                        ""
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "c323717c-3322-4c8a-84b9-efc0fc12f582",
+                "authority": "virtual::7905",
+                "confidence": "-1"
+            },
+            {
+                "value": "73557231-56c1-400b-ae50-1db28c25b55e",
+                "authority": "virtual::7907",
+                "confidence": "-1"
+            },
+            {
+                "value": "9e9dcd0c-d41d-48fb-915b-84652005360c",
+                "authority": "virtual::7943",
+                "confidence": "-1"
+            },
+            {
+                "value": "d1aa9287-64d4-45dd-9f6b-6c6341a41f9c",
+                "authority": "virtual::7945",
+                "confidence": "-1"
+            },
+            {
+                "value": "83f373aa-91af-4377-a713-813bed27c356",
+                "authority": "virtual::7981",
+                "confidence": "-1"
+            },
+            {
+                "value": "9df2367d-093a-4901-bdeb-ede11ccb2df1",
+                "authority": "virtual::7983",
+                "confidence": "-1"
+            },
+            {
+                "value": "c323717c-3322-4c8a-84b9-efc0fc12f582",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7905",
+                "confidence": "-1"
+            },
+            {
+                "value": "73557231-56c1-400b-ae50-1db28c25b55e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7907",
+                "confidence": "-1"
+            },
+            {
+                "value": "9e9dcd0c-d41d-48fb-915b-84652005360c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7943",
+                "confidence": "-1"
+            },
+            {
+                "value": "d1aa9287-64d4-45dd-9f6b-6c6341a41f9c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7945",
+                "confidence": "-1"
+            },
+            {
+                "value": "83f373aa-91af-4377-a713-813bed27c356",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7981",
+                "confidence": "-1"
+            },
+            {
+                "value": "9df2367d-093a-4901-bdeb-ede11ccb2df1",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7983",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::10014",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::8057",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8057",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10014",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "5c950d63-e946-4f11-b4ee-5a344096289d",
+                "authority": "virtual::8019",
+                "confidence": "-1"
+            },
+            {
+                "value": "3012d392-2ec7-4117-8fd3-c0fdfc1c73b3",
+                "authority": "virtual::8417",
+                "confidence": "-1"
+            },
+            {
+                "value": "5c950d63-e946-4f11-b4ee-5a344096289d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8019",
+                "confidence": "-1"
+            },
+            {
+                "value": "3012d392-2ec7-4117-8fd3-c0fdfc1c73b3",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8417",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "1919a90c-972d-4f09-bc08-8310fc230d97",
+                "authority": "virtual::7869",
+                "confidence": "-1"
+            },
+            {
+                "value": "1919a90c-972d-4f09-bc08-8310fc230d97",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7869",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "ceba8832-3f54-4c7a-8209-4527b6c04394",
+                "authority": "virtual::4176",
+                "confidence": "-1"
+            },
+            {
+                "value": "ceba8832-3f54-4c7a-8209-4527b6c04394",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4176",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "ceba8832-3f54-4c7a-8209-4527b6c04394",
+                "authority": "virtual::8059",
+                "confidence": "-1"
+            },
+            {
+                "value": "ceba8832-3f54-4c7a-8209-4527b6c04394",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8059",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-6",
+        "title": "Ecosystem Service Production and Flows in Gera, Gumay, and Setema Woreda, Ethiopia",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2022,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Br\u00fcck, Maria",
+                "nameType": "Personal",
+                "givenName": "Maria",
+                "familyName": "Br\u00fcck",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-8656-8972",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Duguma, Dula Wakassa",
+                "nameType": "Personal",
+                "givenName": "Dula Wakassa",
+                "familyName": "Duguma",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-4581-8351",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1315076632",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Law, Elizabeth",
+                "nameType": "Personal",
+                "givenName": "Elizabeth",
+                "familyName": "Law",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-4456-1259",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Abson, David J.",
+                "nameType": "Personal",
+                "givenName": "David J.",
+                "familyName": "Abson",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-3755-785X",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1293398292",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Fischer, J\u00f6rn",
+                "nameType": "Personal",
+                "givenName": "J\u00f6rn",
+                "familyName": "Fischer",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-3187-8978",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1051419840",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Schultner, Jannik",
+                "nameType": "Personal",
+                "givenName": "Jannik",
+                "familyName": "Schultner",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-5865-7975",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Bekele Negash, Birhanu",
+                "nameType": "Personal",
+                "givenName": "Birhanu",
+                "familyName": "Bekele Negash",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Damu, Dadi Feyisa",
+                "nameType": "Personal",
+                "givenName": "Dadi Feyisa",
+                "familyName": "Damu",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "Der Datensatz beinhaltet statistische Angaben und aggregierte Daten zur Produktion und zu Warenfl\u00fcssen von \u00d6kosystemdienstleistungen in den drei \u00e4thiopischen Woredas (Distrikten) Gera, Gumay und Setema und den zugeh\u00f6rigen Kebeles (kleinste Verwaltungsbezirke). Die Daten wurden aus diversen Quellen wie offiziellen Statistiken (u.a. Census Data 2007, Woreda Reports aus den Jahren 2019 und 2020) sowie \u00fcber Experteninterviews bezogen, zusammengestellt und mit beigelegtem Code analysiert. Weitere Daten zu den Kebeles (H\u00f6he, Wohlstand, Abgeschiedenheit, Gr\u00f6\u00dfe, Landnutzung nach zw\u00f6lf Kategorien) wurden, u.a. durch Remote Sensing Techniken, berechnet und zusammengetragen.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "The dataset includes statistical information and aggregated data on ecosystem services production and flows in three Ethiopian woredas (districts Gera, Gumay and Setema) and their associated kebeles (smallest administrative units). Data were obtained from diverse sources such as official statistics (including Census Data 2007, Woreda Reports from 2019 and 2020) and via expert interviews, compiled and analyzed with attached code. Additional data on the kebeles (altitude, wealth, remoteness, size, land cover and use by twelve categories) were calculated and compiled, inter alia through remote sensing techniques.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Programming / Script-based data collection",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Aggregation",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "\u00c4thiopien"
+            },
+            {
+                "subject": "Landwirtschaft"
+            },
+            {
+                "subject": "Produktion"
+            },
+            {
+                "subject": "Warenfluss"
+            },
+            {
+                "subject": "Produktionsbedingungen"
+            },
+            {
+                "subject": "Bio\u00f6konomie"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Ethiopia"
+            },
+            {
+                "subject": "Agriculture"
+            },
+            {
+                "subject": "Production"
+            },
+            {
+                "subject": "Flow"
+            },
+            {
+                "subject": "Bioeconomy"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2022-04-22",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2022-04-22",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2022-04-11",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2022-04-22",
+                "dateType": "Available"
+            },
+            {
+                "date": "2020-11/2022-03",
+                "dateType": "Created"
+            },
+            {
+                "date": "2020-11-02/2020-11-23",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsReferencedBy",
+                "relatedIdentifier": "10.5751/es-14185-280301",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsReferencedBy",
+                "relatedIdentifier": "10.5751/es-13200-270213",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-228",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "ETH"
+            },
+            {
+                "geoLocationPlace": "Woredas Gera, Gumay und Setema"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Bio\u00f6konomie als gesellschaftlicher Wandel, Modul 2 (2): ETH-Coffee - Towards a Sustainable Bioeconomy: A Scenario Analysis for the Jimma Coffee Landscape in Ethiopia",
+                "funderName": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "awardNumber": "031B0786",
+                "funderIdentifier": "https://ror.org/04pz7b180",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/11",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2022-04-25T12:15:12.000Z",
+        "registered": "2022-04-25T12:15:24.000Z",
+        "updated": "2025-06-25T14:15:15.000Z"
+    },
+    "doi": "10.48548/pubdata-6",
+    "license_uri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International"
+}

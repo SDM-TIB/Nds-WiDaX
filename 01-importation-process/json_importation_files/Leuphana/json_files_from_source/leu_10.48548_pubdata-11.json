@@ -1,0 +1,711 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/18",
+        "datestamp": "2026-05-28T09:10:05Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Linde, Andreas",
+                "qualifier": "author",
+                "authority": "virtual::7335",
+                "confidence": "-1"
+            },
+            {
+                "value": "Wei\u00df, Fabio",
+                "qualifier": "author",
+                "authority": "virtual::7337",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2022-07-14T07:40:20Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2022-07-14T07:40:20Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2022-07-14",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2022-07-13T15:05:07Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/18",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-11",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Investigating long-term trends and their drivers in epigeal forest insect communities: A reassessment of ground beetles (Coleoptera: Carabidae) in lowland beech forests of the Schorfheide-Chorin Biosphere Reserve",
+                "authority": "virtual::7299",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Eberswalde Carabid Abundances 1999-2021",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Measurement Data / Measured Values",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Contact": [
+            {
+                "value": "fabio.weiss@hnee.de; andreas.linde@hnee.de",
+                "lang": "-"
+            }
+        ],
+        "Description": [
+            {
+                "value": "This research project aims to investigate long-term population dynamics and trends in carabids with a special focus on the lowland beech forests of Schorfheide-Chorin Biosphere Reserve. The researchers work with continuous fine-scale time series data as well as with a larger-scale repeated survey. Other aspects of the project focus on the improvement of methods used to investigate trends in insect populations.",
+                "qualifier": "researchDesign",
+                "lang": "-"
+            },
+            {
+                "value": "Data was collected in the course of teaching activities at Eberswalde University for Sustainable Development.",
+                "qualifier": "note",
+                "lang": "en"
+            },
+            {
+                "value": "Insektenfallen",
+                "qualifier": "methodsOther"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Biodiversit\u00e4t",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Laufk\u00e4fer",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "K\u00e4fer",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Insekten",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Vorkommen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wald",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Insektenmonitoring",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Biodiversit\u00e4t",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Insektenr\u00fcckgang",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Zeitreihe",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Carabids",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ground Beetles",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Insects",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Abundance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Forest",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Insect Monitoring",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Biodiversity",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Insect Decline",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Time Series",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "Eberswalde, Brandenburg",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::7373",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Linde"
+                    ],
+                    "givenName": [
+                        "Andreas"
+                    ],
+                    "orcid": [
+                        "0000-0002-0154-7943"
+                    ],
+                    "gnd": [
+                        "1136873228"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7335",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Wei\u00df"
+                    ],
+                    "givenName": [
+                        "Fabio"
+                    ],
+                    "orcid": [
+                        "0000-0003-1078-1528"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7337",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Ministerium f\u00fcr Wissenschaft, Forschung und Kultur (MWFK) Brandenburg"
+                    ],
+                    "ror": [
+                        "02vcjcj30"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::7299",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-23",
+                "qualifier": "IsPreviousVersionOf",
+                "authority": "virtual::7375",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Ministerium f\u00fcr Wissenschaft, Forschung und Kultur (MWFK) Brandenburg",
+                "qualifier": "funderName",
+                "authority": "virtual::7299",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Ground beetles were caught from 1999 to 2021, between the beginning of May and the end of July each year on forest plots near Eberswalde, Germany (52.820000, 13.790000). Not all plots were sampled each year. The dataset included only data of plots, which were sampled in three years or more. The researchers used pitfall traps consisting of a 400ml honey jars positioned in a pipe, formaldehyde as trapping fluid and metal roofs. There were four pitfall traps at each plot, usually organized in a square with approximately 20 meters between the traps. The traps were emptied three times each year (variable \u201cinterval\u201d). The emptying usually took place after four weeks (28 days), however, the sampling length occasionally varied (variable \u201csampling_length\u201d). Ground beetle abundances were pooled for all four traps of one plot for each catching interval (variable \u201cabundance\u201d).",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Other",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "1999 - 2022",
+                "qualifier": "Created"
+            },
+            {
+                "value": "1999 - 2021",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "52.820000,13.790000",
+                "qualifier": "geoLocationPoint"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2022"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "e468b3eb-a25f-4506-8797-f76d75121b7e",
+                "authority": "virtual::7335",
+                "confidence": "-1"
+            },
+            {
+                "value": "43c2afb5-5b08-4307-9011-e2c1516f8198",
+                "authority": "virtual::7337",
+                "confidence": "-1"
+            },
+            {
+                "value": "e468b3eb-a25f-4506-8797-f76d75121b7e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7335",
+                "confidence": "-1"
+            },
+            {
+                "value": "43c2afb5-5b08-4307-9011-e2c1516f8198",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7337",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::7373",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7373",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "f69dbca4-d6bb-420e-a38b-d55fc6c9bbf8",
+                "authority": "virtual::7299",
+                "confidence": "-1"
+            },
+            {
+                "value": "f69dbca4-d6bb-420e-a38b-d55fc6c9bbf8",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7299",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsNewVersionOf_": [
+            {
+                "value": "f9b33aac-4b6f-4813-9087-a9afe30bc2a8",
+                "authority": "virtual::4708",
+                "confidence": "-1"
+            },
+            {
+                "value": "f9b33aac-4b6f-4813-9087-a9afe30bc2a8",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4708",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsPreviousVersionOf_OfP": [
+            {
+                "value": "f9b33aac-4b6f-4813-9087-a9afe30bc2a8",
+                "authority": "virtual::7375",
+                "confidence": "-1"
+            },
+            {
+                "value": "f9b33aac-4b6f-4813-9087-a9afe30bc2a8",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7375",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-11",
+        "title": "Eberswalde Carabid Abundances 1999-2021",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2022,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Linde, Andreas",
+                "givenName": "Andreas",
+                "familyName": "Linde",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-0154-7943",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1136873228",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Wei\u00df, Fabio",
+                "givenName": "Fabio",
+                "familyName": "Wei\u00df",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-1078-1528",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "fabio.weiss@hnee.de; andreas.linde@hnee.de",
+                "affiliation": [],
+                "contributorType": "ContactPerson",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "Ground beetles were caught from 1999 to 2021, between the beginning of May and the end of July each year on forest plots near Eberswalde, Germany (52.820000, 13.790000). Not all plots were sampled each year. The dataset included only data of plots, which were sampled in three years or more. The researchers used pitfall traps consisting of a 400ml honey jars positioned in a pipe, formaldehyde as trapping fluid and metal roofs. There were four pitfall traps at each plot, usually organized in a square with approximately 20 meters between the traps. The traps were emptied three times each year (variable \u201cinterval\u201d). The emptying usually took place after four weeks (28 days), however, the sampling length occasionally varied (variable \u201csampling_length\u201d). Ground beetle abundances were pooled for all four traps of one plot for each catching interval (variable \u201cabundance\u201d).",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Other",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Readme file to Eberswalde_carabid_abundances_1999-2021: Description of the variables",
+                "descriptionType": "TechnicalInfo"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Laufk\u00e4fer"
+            },
+            {
+                "subject": "K\u00e4fer"
+            },
+            {
+                "subject": "Insekten"
+            },
+            {
+                "subject": "Vorkommen"
+            },
+            {
+                "subject": "Wald"
+            },
+            {
+                "subject": "Insektenmonitoring"
+            },
+            {
+                "subject": "Biodiversit\u00e4t"
+            },
+            {
+                "subject": "Insektenr\u00fcckgang"
+            },
+            {
+                "subject": "Zeitreihe"
+            },
+            {
+                "subject": "Carabids"
+            },
+            {
+                "subject": "Ground Beetles"
+            },
+            {
+                "subject": "Insects"
+            },
+            {
+                "subject": "Abundance"
+            },
+            {
+                "subject": "Forest"
+            },
+            {
+                "subject": "Insect Monitoring"
+            },
+            {
+                "subject": "Biodiversity"
+            },
+            {
+                "subject": "Insect Decline"
+            },
+            {
+                "subject": "Time Series"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2022-07-14",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2022-07-14",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2022-07-13",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2022-07-14",
+                "dateType": "Available"
+            },
+            {
+                "date": "1999/2022",
+                "dateType": "Created"
+            },
+            {
+                "date": "1999/2021",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsPreviousVersionOf",
+                "relatedIdentifier": "10.48548/pubdata-23",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "Eberswalde, Brandenburg"
+            },
+            {
+                "geoLocationPoint": {
+                    "pointLatitude": 52.82,
+                    "pointLongitude": 13.79
+                }
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Investigating long-term trends and their drivers in epigeal forest insect communities: A reassessment of ground beetles (Coleoptera: Carabidae) in lowland beech forests of the Schorfheide-Chorin Biosphere Reserve",
+                "funderName": "Ministerium f\u00fcr Wissenschaft, Forschung und Kultur (MWFK) Brandenburg",
+                "funderIdentifier": "https://ror.org/02vcjcj30",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/18",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2022-07-14T08:15:08.000Z",
+        "registered": "2022-07-14T08:15:19.000Z",
+        "updated": "2026-05-28T09:15:13.000Z"
+    },
+    "doi": "10.48548/pubdata-11",
+    "license_uri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "license": "Creative Commons Attribution Share Alike 4.0 International"
+}

@@ -1,0 +1,227 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Apetrei, Cristina I.",
+            "givenName": "Cristina I.",
+            "familyName": "Apetrei",
+            "orcid": "0000-0003-2109-6470"
+        },
+        {
+            "author": "Strelkovskii, Nikita",
+            "givenName": "Nikita",
+            "familyName": "Strelkovskii",
+            "orcid": "0000-0001-6862-1768"
+        },
+        {
+            "author": "Khabarov, Nikolay",
+            "givenName": "Nikolay",
+            "familyName": "Khabarov",
+            "orcid": "0000-0001-5372-4668"
+        },
+        {
+            "author": "Javalera Rinc\u00f3n, Valeria",
+            "givenName": "Valeria",
+            "familyName": "Javalera Rinc\u00f3n",
+            "orcid": "0000-0001-8743-9777"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-2614",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-2614",
+    "notes": "This dataset contains the supplementary materials for the paper \"Improving the representation of smallholder farmers\u2019 adaptive behaviour in agent-based models: Learning-by-doing and social learning\". It consists of the ODD+D protocol of agent-based model extension, additional details of parameters and settings used for the simulations described in the associated publication, and the results of sensitivity analyses.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Electronic supplementary material for apetrei et al. 2024 \"improving the representation of smallholder farmers\u2019 adaptive behaviour in agent-based models: learning-by-doing and social learning\"",
+    "url": "https://doi.org/10.48548/pubdata-2614",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_name": "Nachhaltige Transformation"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Modellierung",
+            "name": "Modellierung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landwirt",
+            "name": "Landwirt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kleinbuerliche Strukturen",
+            "name": "Kleinbuerliche Strukturen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Entscheidungsfindung",
+            "name": "Entscheidungsfindung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lernen",
+            "name": "Lernen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Verhalten",
+            "name": "Verhalten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Adaptives Lernen",
+            "name": "Adaptives Lernen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Praxislernen",
+            "name": "Praxislernen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Soziales Lernen",
+            "name": "Soziales Lernen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sozial-kologisches System",
+            "name": "Sozial-kologisches System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nachhaltigkeit",
+            "name": "Nachhaltigkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Transformation",
+            "name": "Transformation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lernprozess",
+            "name": "Lernprozess",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Modeling",
+            "name": "Modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Farmer",
+            "name": "Farmer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Smallholder Structures",
+            "name": "Smallholder Structures",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Decision Making",
+            "name": "Decision Making",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Learning",
+            "name": "Learning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Behavior",
+            "name": "Behavior",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Adaptive Learning",
+            "name": "Adaptive Learning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Learning by Doing",
+            "name": "Learning by Doing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Social Learning",
+            "name": "Social Learning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Learning Process",
+            "name": "Learning Process",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Social-ecological System",
+            "name": "Social-ecological System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sustainability",
+            "name": "Sustainability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Transformation",
+            "name": "Transformation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

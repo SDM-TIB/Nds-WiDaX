@@ -1,0 +1,921 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/1804",
+        "datestamp": "2026-07-17T04:59:41Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Gross, Milena",
+                "qualifier": "author",
+                "authority": "virtual::4345",
+                "confidence": "-1"
+            },
+            {
+                "value": "Pearson, Jasmine",
+                "qualifier": "author",
+                "authority": "virtual::4359",
+                "confidence": "-1"
+            },
+            {
+                "value": "Arbieu, Ugo",
+                "qualifier": "author",
+                "authority": "virtual::4383",
+                "confidence": "-1"
+            },
+            {
+                "value": "Riechers, Maraja",
+                "qualifier": "author",
+                "authority": "virtual::4397",
+                "confidence": "-1"
+            },
+            {
+                "value": "Thomsen, Simon",
+                "qualifier": "author",
+                "authority": "virtual::4421",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mart\u00edn-L\u00f3pez, Berta",
+                "qualifier": "author",
+                "authority": "virtual::4435",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-03-18T08:24:18Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-03-18T08:24:18Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2025-03-18",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2025-03-17T14:31:22Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/1804",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-1709",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Die Rolle der Natur f\u00fcr das menschliche Wohlergehen im sozial-\u00f6kologischen System des Kilimandscharo (Kili-SES) - Teilprojekt \"Sozial-\u00f6kologische Transformationsprozesses verstehen: die Rolle von Werten, Regeln und Wissen von Initiativen\"",
+                "authority": "virtual::4321",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Tourists' valuation of nature in protected areas: A systematic review_dataset",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Other",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Systematic Literature Review",
+                "qualifier": "kindsOfDataOther"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Mensch-Natur-Beziehung",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Systematic Review",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Forschungsliteratur",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Stakeholder",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Tourismus",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Naturschutzgebiet",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bewertung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Soziokulturelle Werte",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Monet\u00e4re Werte",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Systematic Review",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Research Literature",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Stakeholder",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Tourism",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Protected Area",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Valuation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Socio-cultural Values",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Monetary Values",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "Weltweit",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::10057",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::4459",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Gross"
+                    ],
+                    "givenName": [
+                        "Milena"
+                    ],
+                    "orcid": [
+                        "0000-0003-3148-627X"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::4345",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Pearson"
+                    ],
+                    "givenName": [
+                        "Jasmine"
+                    ],
+                    "orcid": [
+                        "0000-0001-6341-1382"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::4359",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Arbieu"
+                    ],
+                    "givenName": [
+                        "Ugo"
+                    ],
+                    "orcid": [
+                        "0000-0002-0655-8756"
+                    ],
+                    "gnd": [
+                        "1151920444"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::4383",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Riechers"
+                    ],
+                    "givenName": [
+                        "Maraja"
+                    ],
+                    "orcid": [
+                        "0000-0003-3916-8102"
+                    ],
+                    "gnd": [
+                        "1299307191"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::4397",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Thomsen"
+                    ],
+                    "givenName": [
+                        "Simon"
+                    ],
+                    "orcid": [
+                        "0000-0003-1575-9629"
+                    ],
+                    "gnd": [
+                        "1371472041"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::4421",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mart\u00edn-L\u00f3pez"
+                    ],
+                    "givenName": [
+                        "Berta"
+                    ],
+                    "orcid": [
+                        "0000-0003-2622-0135"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::4435",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Deutsche Forschungsgemeinschaft (DFG)"
+                    ],
+                    "ror": [
+                        "018mejw64"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::4321",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-1704",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::4473",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Deutsche Forschungsgemeinschaft (DFG)",
+                "qualifier": "funderName",
+                "authority": "virtual::4321",
+                "confidence": "-1"
+            },
+            {
+                "value": "428658210",
+                "qualifier": "awardNumber",
+                "authority": "virtual::4321",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The dataset entails 152 articles identified as relevant through a systematic literature search. It contains information about their meta-information, biogeographical data, valuation (methodological approach), value types and objects.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Literature analysis / Systematic review",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Analysis of text documents",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2021-06 - 2022-06",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2021-06 - 2022-02",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2023"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "IsIdenticalTo"
+                    ],
+                    "freetext": [
+                        "Gross, M., Pearson, J., Arbieu, U., Riechers, M., Thomsen, S., & Mart\u00edn-L\u00f3pez, B. (2023). Tourist's valuation of nature in protected areas \u2013 a systematic review data."
+                    ],
+                    "relatedIdentifier": [
+                        "10.13140/rg.2.2.29999.00161"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "IsSupplementTo"
+                    ],
+                    "freetext": [
+                        "Gross, M., Pearson, J., Arbieu, U., Riechers, M., Thomsen, S., & Mart\u00edn-L\u00f3pez, B. (2023). Tourists\u2019 valuation of nature in protected areas: A systematic review. Ambio, 52(6), 1065-1084."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1007/s13280-023-01845-0"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "2101f113-84c9-4e26-8d61-0f63e9d2882a",
+                "authority": "virtual::4345",
+                "confidence": "-1"
+            },
+            {
+                "value": "f32b40fc-93d9-4654-a002-0ac1cd9dba15",
+                "authority": "virtual::4359",
+                "confidence": "-1"
+            },
+            {
+                "value": "15ba2318-d61b-4ad5-ae79-b5f3151991f4",
+                "authority": "virtual::4383",
+                "confidence": "-1"
+            },
+            {
+                "value": "5f585fab-8271-4d96-b951-d90dd7cbb9b8",
+                "authority": "virtual::4397",
+                "confidence": "-1"
+            },
+            {
+                "value": "4dc5a632-8e6a-4075-9a10-85b623c31c85",
+                "authority": "virtual::4421",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "authority": "virtual::4435",
+                "confidence": "-1"
+            },
+            {
+                "value": "2101f113-84c9-4e26-8d61-0f63e9d2882a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4345",
+                "confidence": "-1"
+            },
+            {
+                "value": "f32b40fc-93d9-4654-a002-0ac1cd9dba15",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4359",
+                "confidence": "-1"
+            },
+            {
+                "value": "15ba2318-d61b-4ad5-ae79-b5f3151991f4",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4383",
+                "confidence": "-1"
+            },
+            {
+                "value": "5f585fab-8271-4d96-b951-d90dd7cbb9b8",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4397",
+                "confidence": "-1"
+            },
+            {
+                "value": "4dc5a632-8e6a-4075-9a10-85b623c31c85",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4421",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4435",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::10057",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::4459",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4459",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10057",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "a08985a1-fb56-4c12-8c1a-6769f1cd440e",
+                "authority": "virtual::4321",
+                "confidence": "-1"
+            },
+            {
+                "value": "a08985a1-fb56-4c12-8c1a-6769f1cd440e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4321",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "8b159f62-18c0-4bcd-9051-20995cdb49a1",
+                "authority": "virtual::1543",
+                "confidence": "-1"
+            },
+            {
+                "value": "8b159f62-18c0-4bcd-9051-20995cdb49a1",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::1543",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "8b159f62-18c0-4bcd-9051-20995cdb49a1",
+                "authority": "virtual::4473",
+                "confidence": "-1"
+            },
+            {
+                "value": "8b159f62-18c0-4bcd-9051-20995cdb49a1",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4473",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-1709",
+        "title": "Tourists' valuation of nature in protected areas: A systematic review_dataset",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2023,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Gross, Milena",
+                "givenName": "Milena",
+                "familyName": "Gross",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-3148-627X",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Pearson, Jasmine",
+                "givenName": "Jasmine",
+                "familyName": "Pearson",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-6341-1382",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Arbieu, Ugo",
+                "givenName": "Ugo",
+                "familyName": "Arbieu",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-0655-8756",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1151920444",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Riechers, Maraja",
+                "givenName": "Maraja",
+                "familyName": "Riechers",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-3916-8102",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1299307191",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Thomsen, Simon",
+                "givenName": "Simon",
+                "familyName": "Thomsen",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-1575-9629",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1371472041",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Mart\u00edn-L\u00f3pez, Berta",
+                "givenName": "Berta",
+                "familyName": "Mart\u00edn-L\u00f3pez",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2622-0135",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "en",
+                "description": "The dataset entails 152 articles identified as relevant through a systematic literature search. It contains information about their meta-information, biogeographical data, valuation (methodological approach), value types and objects.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Literature analysis / Systematic review",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Analysis of text documents",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Systematic Review"
+            },
+            {
+                "subject": "Forschungsliteratur"
+            },
+            {
+                "subject": "Stakeholder"
+            },
+            {
+                "subject": "Tourismus"
+            },
+            {
+                "subject": "Naturschutzgebiet"
+            },
+            {
+                "subject": "Bewertung"
+            },
+            {
+                "subject": "Soziokulturelle Werte"
+            },
+            {
+                "subject": "Monet\u00e4re Werte"
+            },
+            {
+                "subject": "Research Literature"
+            },
+            {
+                "subject": "Tourism"
+            },
+            {
+                "subject": "Protected Area"
+            },
+            {
+                "subject": "Valuation"
+            },
+            {
+                "subject": "Socio-cultural Values"
+            },
+            {
+                "subject": "Monetary Values"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-03-18",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-03-18",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2025-03-17",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2025-03-18",
+                "dateType": "Available"
+            },
+            {
+                "date": "2021-06/2022-06",
+                "dateType": "Created"
+            },
+            {
+                "date": "2021-06/2022-02",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsIdenticalTo",
+                "relatedIdentifier": "10.13140/rg.2.2.29999.00161",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.1007/s13280-023-01845-0",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-1704",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "Weltweit"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "awardTitle": "Die Rolle der Natur f\u00fcr das menschliche Wohlergehen im sozial-\u00f6kologischen System des Kilimandscharo (Kili-SES) - Teilprojekt \"Sozial-\u00f6kologische Transformationsprozesses verstehen: die Rolle von Werten, Regeln und Wissen von Initiativen\"",
+                "funderName": "Deutsche Forschungsgemeinschaft (DFG)",
+                "awardNumber": "428658210",
+                "funderIdentifier": "https://ror.org/018mejw64",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/1804",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-03-18T09:15:07.000Z",
+        "registered": "2025-03-18T09:15:19.000Z",
+        "updated": "2026-07-17T05:15:22.000Z"
+    },
+    "doi": "10.48548/pubdata-1709",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

@@ -1,0 +1,728 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/1449",
+        "datestamp": "2026-05-08T08:37:26Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Br\u00fcckner, Hanna Amira",
+                "qualifier": "author",
+                "authority": "virtual::2163",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-10-02T07:26:16Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2024-10-02T07:26:16Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-10-02",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-09-30T14:39:54Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/1449",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-1384",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Care4Care",
+                "authority": "virtual::2133",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Sleepcare Outcome Data 2024",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Survey Data",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Br\u00fcckner, Hanna Amira",
+                "authority": "virtual::2171",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Br\u00fcckner, Hanna Amira",
+                "authority": "virtual::2201",
+                "confidence": "-1"
+            },
+            {
+                "value": "Lehr, Dirk",
+                "authority": "virtual::2209",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Digital Health",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Schlaflosigkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Schlaf",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Schlafst\u00f6rung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Pflegepersonal",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Schichtarbeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Arbeitsgesundheit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Mentale Gesundheit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Verhaltenstherapie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Intervention",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Internetbasiert",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wirksamkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Cortisol",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Digitale Gesundheit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Insomnia",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sleep",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sleep Disorder",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Nurse",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Shift Work",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Occupational Health",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Mental Health",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Behavioral Therapy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Intervention",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Internet-based",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Efficiency",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Cortisol",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Digital Health",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "Bundesweit",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institute of Sustainability Psychology (ISP)",
+                "authority": "virtual::10073",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::2239",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Br\u00fcckner"
+                    ],
+                    "givenName": [
+                        "Hanna Amira"
+                    ],
+                    "orcid": [
+                        "0009-0003-4406-7872"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2163",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Allgemeine Ortskrankenkasse (AOK)"
+                    ],
+                    "ror": [
+                        "004cmqw89"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::2133",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Allgemeine Ortskrankenkasse (AOK)",
+                "qualifier": "funderName",
+                "authority": "virtual::2133",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "This study investigated the effectiveness of the digital SleepCare intervention for reducing insomnia in nurses suffering from shift work sleep disorder. In a two-arm randomized controlled trial (N=74), SleepCare was compared to shift work-specific psychoeducation published digitally by the German Sleep Society. The diagnosis of shift work sleep disorder was established through a clinical interview. The primary outcome was insomnia severity measured using the Insomnia Severity Index (ISI) at baseline, 8 weeks and 3 months. Further indicators of mental health and long-term hair cortisol concentration were evaluated as secondary endpoints. The intention-to-treat analysis of covariance showed a greater reduction in insomnia severity in the intervention group versus psychoeducation, at both post-intervention (d=1.11) and follow-up (d=0.97), corresponding to between-group differences of 5.0 and 5.3 ISI points, respectively. Significant effects were observed for sleep-related, but not other mental health indicators. The effects on insomnia were reflected in reduced long-term hair cortisol in the intervention group. SleepCare was effective at reducing insomnia symptoms to a clinically-meaningful extent and is one of the first program adapted to a digital cognitive-behavioral therapy for insomnia  (CBT-I) intervention to address nurses' needs, including specific exercises for shift workers. Biological evaluation using hair cortisol, collected from participants at home, was feasible and appropriate for preserving the advantages of digital interventions; namely, flexibility in time and place.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Computer-assisted questionnaire",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2022 - 2023",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2022-05-13 - 2023-12-31",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "deu",
+                "lang": "-"
+            },
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "4fc0ac53-14b4-43cf-a002-fc3d9e18635d",
+                "authority": "virtual::2163",
+                "confidence": "-1"
+            },
+            {
+                "value": "4fc0ac53-14b4-43cf-a002-fc3d9e18635d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2163",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "4fc0ac53-14b4-43cf-a002-fc3d9e18635d",
+                "authority": "virtual::2201",
+                "confidence": "-1"
+            },
+            {
+                "value": "cdbfbf91-d4ee-4d1a-80b6-a665b70b4cc5",
+                "authority": "virtual::2209",
+                "confidence": "-1"
+            },
+            {
+                "value": "4fc0ac53-14b4-43cf-a002-fc3d9e18635d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2201",
+                "confidence": "-1"
+            },
+            {
+                "value": "cdbfbf91-d4ee-4d1a-80b6-a665b70b4cc5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2209",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "c5770d0c-232e-4d6c-ad29-701b509c6426",
+                "authority": "virtual::10073",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::2239",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2239",
+                "confidence": "-1"
+            },
+            {
+                "value": "c5770d0c-232e-4d6c-ad29-701b509c6426",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10073",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "4fc0ac53-14b4-43cf-a002-fc3d9e18635d",
+                "authority": "virtual::2171",
+                "confidence": "-1"
+            },
+            {
+                "value": "4fc0ac53-14b4-43cf-a002-fc3d9e18635d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2171",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "b4170063-a3b8-457e-b155-7d830455d2b1",
+                "authority": "virtual::2133",
+                "confidence": "-1"
+            },
+            {
+                "value": "b4170063-a3b8-457e-b155-7d830455d2b1",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2133",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "restricted"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-1384",
+        "title": "Sleepcare Outcome Data 2024",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Br\u00fcckner, Hanna Amira",
+                "givenName": "Hanna Amira",
+                "familyName": "Br\u00fcckner",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0003-4406-7872",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Br\u00fcckner, Hanna Amira",
+                "nameType": "Personal",
+                "givenName": "Hanna Amira",
+                "familyName": "Br\u00fcckner",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Br\u00fcckner, Hanna Amira",
+                "nameType": "Personal",
+                "givenName": "Hanna Amira",
+                "familyName": "Br\u00fcckner",
+                "affiliation": [],
+                "contributorType": "RightsHolder",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Lehr, Dirk",
+                "nameType": "Personal",
+                "givenName": "Dirk",
+                "familyName": "Lehr",
+                "affiliation": [],
+                "contributorType": "RightsHolder",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "This study investigated the effectiveness of the digital SleepCare intervention for reducing insomnia in nurses suffering from shift work sleep disorder. In a two-arm randomized controlled trial (N=74), SleepCare was compared to shift work-specific psychoeducation published digitally by the German Sleep Society. The diagnosis of shift work sleep disorder was established through a clinical interview. The primary outcome was insomnia severity measured using the Insomnia Severity Index (ISI) at baseline, 8 weeks and 3 months. Further indicators of mental health and long-term hair cortisol concentration were evaluated as secondary endpoints. The intention-to-treat analysis of covariance showed a greater reduction in insomnia severity in the intervention group versus psychoeducation, at both post-intervention (d=1.11) and follow-up (d=0.97), corresponding to between-group differences of 5.0 and 5.3 ISI points, respectively. Significant effects were observed for sleep-related, but not other mental health indicators. The effects on insomnia were reflected in reduced long-term hair cortisol in the intervention group. SleepCare was effective at reducing insomnia symptoms to a clinically-meaningful extent and is one of the first program adapted to a digital cognitive-behavioral therapy for insomnia (CBT-I) intervention to address nurses' needs, including specific exercises for shift workers. Biological evaluation using hair cortisol, collected from participants at home, was feasible and appropriate for preserving the advantages of digital interventions; namely, flexibility in time and place.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Computer-assisted questionnaire",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Schlaflosigkeit"
+            },
+            {
+                "subject": "Schlaf"
+            },
+            {
+                "subject": "Schlafst\u00f6rung"
+            },
+            {
+                "subject": "Pflegepersonal"
+            },
+            {
+                "subject": "Schichtarbeit"
+            },
+            {
+                "subject": "Arbeitsgesundheit"
+            },
+            {
+                "subject": "Mentale Gesundheit"
+            },
+            {
+                "subject": "Verhaltenstherapie"
+            },
+            {
+                "subject": "Intervention"
+            },
+            {
+                "subject": "Internetbasiert"
+            },
+            {
+                "subject": "Wirksamkeit"
+            },
+            {
+                "subject": "Cortisol"
+            },
+            {
+                "subject": "Digitale Gesundheit"
+            },
+            {
+                "subject": "Insomnia"
+            },
+            {
+                "subject": "Sleep"
+            },
+            {
+                "subject": "Sleep Disorder"
+            },
+            {
+                "subject": "Nurse"
+            },
+            {
+                "subject": "Shift Work"
+            },
+            {
+                "subject": "Occupational Health"
+            },
+            {
+                "subject": "Mental Health"
+            },
+            {
+                "subject": "Behavioral Therapy"
+            },
+            {
+                "subject": "Internet-based"
+            },
+            {
+                "subject": "Efficiency"
+            },
+            {
+                "subject": "Digital Health"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-10-02",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2024-10-02",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-09-30",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-10-02",
+                "dateType": "Available"
+            },
+            {
+                "date": "2022/2023",
+                "dateType": "Created"
+            },
+            {
+                "date": "2022-05-13/2023-12-31",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "mul",
+        "relatedIdentifiers": [],
+        "rightsList": [
+            {
+                "rights": "bitstream_e7885444-6380-430c-8267-ac218c00ba92_access"
+            },
+            {
+                "lang": "en-US",
+                "rightsUri": "https://pubdata.leuphana.de/static/docs/research_data/PubData_UsageLicense_AccessProtected_ResearchData.pdf",
+                "rightsIdentifier": "pubdata-1.0"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "Bundesweit"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Care4Care",
+                "funderName": "Allgemeine Ortskrankenkasse (AOK)",
+                "funderIdentifier": "https://ror.org/004cmqw89",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/1449",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-10-02T08:15:14.000Z",
+        "registered": "2024-10-02T08:15:25.000Z",
+        "updated": "2026-05-08T09:15:16.000Z"
+    },
+    "doi": "10.48548/pubdata-1384",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

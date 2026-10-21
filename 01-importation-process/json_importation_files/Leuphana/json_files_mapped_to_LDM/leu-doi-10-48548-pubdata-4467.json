@@ -1,0 +1,161 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Loschelder, David D.",
+            "givenName": "David D.",
+            "familyName": "Loschelder",
+            "orcid": "0000-0001-5818-0559"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-4467",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-4467",
+    "notes": "This dataset consists of the data of one of the experiments (Experiment 3) of the Menstrual Cycle Project. The experimental data examine and investigate the influence of the menstrual cycle on the participant's perceived work performance during their working hours, focusing in particular on task performance, contextual performance, and counterproductive behaviors.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Menstrual cycle data",
+    "url": "https://doi.org/10.48548/pubdata-4467",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_name": "Organisationspsychologie"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Menstruationszyklus",
+            "name": "Menstruationszyklus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Auswirkung",
+            "name": "Auswirkung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Arbeitsleistung",
+            "name": "Arbeitsleistung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Krperliche Verfassung",
+            "name": "Krperliche Verfassung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Psychosoziale Faktoren",
+            "name": "Psychosoziale Faktoren",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Verhalten",
+            "name": "Verhalten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Arbeit",
+            "name": "Arbeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Arbeitspsychologie",
+            "name": "Arbeitspsychologie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Organisationspsychologie",
+            "name": "Organisationspsychologie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Menstrual Cycle",
+            "name": "Menstrual Cycle",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Impact",
+            "name": "Impact",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Work Performance",
+            "name": "Work Performance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Physical Condition",
+            "name": "Physical Condition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Psychosocial Factors",
+            "name": "Psychosocial Factors",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Behavior",
+            "name": "Behavior",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Work",
+            "name": "Work",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Occupational Psychology",
+            "name": "Occupational Psychology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Organizational Psychology",
+            "name": "Organizational Psychology",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

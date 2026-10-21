@@ -1,0 +1,1534 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/1816",
+        "datestamp": "2026-05-05T10:11:07Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Finsel, Julia S.",
+                "qualifier": "author",
+                "authority": "virtual::1990",
+                "confidence": "-1"
+            },
+            {
+                "value": "Axelrad, Hila",
+                "qualifier": "author",
+                "authority": "virtual::2002",
+                "confidence": "-1"
+            },
+            {
+                "value": "Choi, Su Jung",
+                "qualifier": "author",
+                "authority": "virtual::2028",
+                "confidence": "-1"
+            },
+            {
+                "value": "Derous, Eva",
+                "qualifier": "author",
+                "authority": "virtual::2040",
+                "confidence": "-1"
+            },
+            {
+                "value": "Gu, Xiuzhu",
+                "qualifier": "author",
+                "authority": "virtual::2066",
+                "confidence": "-1"
+            },
+            {
+                "value": "Guandalini, Paolo",
+                "qualifier": "author",
+                "authority": "virtual::2078",
+                "confidence": "-1"
+            },
+            {
+                "value": "Ha, Jaeyoung",
+                "qualifier": "author",
+                "authority": "virtual::2104",
+                "confidence": "-1"
+            },
+            {
+                "value": "Kim, Eun Seok",
+                "qualifier": "author",
+                "authority": "virtual::2116",
+                "confidence": "-1"
+            },
+            {
+                "value": "Marzec, Izabela",
+                "qualifier": "author",
+                "authority": "virtual::2142",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mykletun, Reidar Johan",
+                "qualifier": "author",
+                "authority": "virtual::2154",
+                "confidence": "-1"
+            },
+            {
+                "value": "Oliveira, Eduardo",
+                "qualifier": "author",
+                "authority": "virtual::2180",
+                "confidence": "-1"
+            },
+            {
+                "value": "Pajic, Sofija",
+                "qualifier": "author",
+                "authority": "virtual::2192",
+                "confidence": "-1"
+            },
+            {
+                "value": "Schellaert, Maaike",
+                "qualifier": "author",
+                "authority": "virtual::2218",
+                "confidence": "-1"
+            },
+            {
+                "value": "Heijden, Beatrice I. J. M. van der",
+                "qualifier": "author",
+                "authority": "virtual::2230",
+                "confidence": "-1"
+            },
+            {
+                "value": "Vignoli, Michela",
+                "qualifier": "author",
+                "authority": "virtual::2256",
+                "confidence": "-1"
+            },
+            {
+                "value": "W\u00f6hrmann, Anne Marit",
+                "qualifier": "author",
+                "authority": "virtual::2268",
+                "confidence": "-1"
+            },
+            {
+                "value": "Deller, J\u00fcrgen",
+                "qualifier": "author",
+                "authority": "virtual::2294",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-03-28T14:35:18Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-03-28T14:35:18Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2025-03-28",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2025-03-28T13:13:37Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/1816",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-1716",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Online Supplemental Material for \"Development and Validation of the Short Form of the Later Life Workplace Index (LLWI-SF): A Study Across Ten Countries\"",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Survey Instruments / Measuring Instruments",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Altersgerechtes Arbeiten",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Validierung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Skalen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Erhebungsinstrument",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Arbeiten im Alter",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00c4lterer Arbeitnehmer",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Arbeitsbedingungen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Organisationsklima",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Gesundheit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "F\u00fchrung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Personalmanagement",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Arbeitsleistung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Arbeitsmotivation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Demografischer Wandel",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Validation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Scales",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Research Instrument",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Later Life Work",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Older Worker",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Working Conditions",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Organizational Climate",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Health",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Leadership",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Human Resources",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Work Performance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Work Motivation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Demographic Change",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "BEL",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "DEU",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "ITA",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "JPN",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "KOR",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "NOR",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "POL",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "PRT",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "NLD",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "USA",
+                "qualifier": "country",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Management und Organisation (IMO)",
+                "authority": "virtual::10055",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Management und Technologie",
+                "authority": "virtual::2306",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Finsel"
+                    ],
+                    "givenName": [
+                        "Julia S."
+                    ],
+                    "orcid": [
+                        "0000-0002-0392-5346"
+                    ],
+                    "gnd": [
+                        "1261488466"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::1990",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Axelrad"
+                    ],
+                    "givenName": [
+                        "Hila"
+                    ],
+                    "orcid": [
+                        "0000-0002-2152-6488"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2002",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Choi"
+                    ],
+                    "givenName": [
+                        "Su Jung"
+                    ],
+                    "orcid": [
+                        "0000-0003-0842-9752"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2028",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Derous"
+                    ],
+                    "givenName": [
+                        "Eva"
+                    ],
+                    "orcid": [
+                        "0000-0001-7874-5836"
+                    ],
+                    "gnd": [
+                        "121465729X"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2040",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Gu"
+                    ],
+                    "givenName": [
+                        "Xiuzhu"
+                    ],
+                    "orcid": [
+                        "0000-0003-2641-1740"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2066",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Guandalini"
+                    ],
+                    "givenName": [
+                        "Paolo"
+                    ],
+                    "orcid": [
+                        "0009-0004-1954-1752"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2078",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Ha"
+                    ],
+                    "givenName": [
+                        "Jaeyoung"
+                    ],
+                    "orcid": [
+                        "0000-0002-8489-6566"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2104",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Kim"
+                    ],
+                    "givenName": [
+                        "Eun Seok"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2116",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Marzec"
+                    ],
+                    "givenName": [
+                        "Izabela"
+                    ],
+                    "orcid": [
+                        "0000-0002-7149-7566"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2142",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mykletun"
+                    ],
+                    "givenName": [
+                        "Reidar Johan"
+                    ],
+                    "orcid": [
+                        "0000-0001-9212-7233"
+                    ],
+                    "gnd": [
+                        "1318169631"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2154",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Oliveira"
+                    ],
+                    "givenName": [
+                        "Eduardo"
+                    ],
+                    "orcid": [
+                        "0000-0001-9149-0348"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2180",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Pajic"
+                    ],
+                    "givenName": [
+                        "Sofija"
+                    ],
+                    "orcid": [
+                        "0000-0001-9453-3796"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2192",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Schellaert"
+                    ],
+                    "givenName": [
+                        "Maaike"
+                    ],
+                    "orcid": [
+                        "0000-0001-7101-2736"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2218",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Heijden"
+                    ],
+                    "givenName": [
+                        "Beatrice I. J. M. van der"
+                    ],
+                    "orcid": [
+                        "0000-0001-8672-5368"
+                    ],
+                    "gnd": [
+                        "1014133599"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2230",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Vignoli"
+                    ],
+                    "givenName": [
+                        "Michela"
+                    ],
+                    "orcid": [
+                        "0000-0002-2583-5384"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2256",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "W\u00f6hrmann"
+                    ],
+                    "givenName": [
+                        "Anne Marit"
+                    ],
+                    "orcid": [
+                        "0000-0002-0430-8331"
+                    ],
+                    "gnd": [
+                        "1046442449"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2268",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Deller"
+                    ],
+                    "givenName": [
+                        "J\u00fcrgen"
+                    ],
+                    "orcid": [
+                        "0000-0001-6735-950X"
+                    ],
+                    "gnd": [
+                        "121986861"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2294",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Description": [
+            {
+                "value": "This document serves as the supplemental material for the paper \"Development and Validation of the Short Form of the Later Life Workplace Index (LLWI-SF): A Study Across Ten Countries\". The paper aimed to develop and validate a short form of the Later Life Workplace Index (LLWI-SF) in ten countries. This supplemental material includes the LLWI-SF scales in Dutch, English (U.S.), Flemish, German, Italian, Japanese, Korean, Norwegian, Polish, and Portuguese language. It further includes country-level data analysis results to supplement the overall sample results presented in the paper (i.e., LLWI-SF item statistics and correlation tables for each country).",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Questionnaire (Paper)",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Computer-assisted questionnaire",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2022-10 - 2023-06",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            },
+            {
+                "value": "Flemish",
+                "lang": "-"
+            },
+            {
+                "value": "deu",
+                "lang": "-"
+            },
+            {
+                "value": "ita",
+                "lang": "-"
+            },
+            {
+                "value": "jpn",
+                "lang": "-"
+            },
+            {
+                "value": "kor",
+                "lang": "-"
+            },
+            {
+                "value": "nor",
+                "lang": "-"
+            },
+            {
+                "value": "pol",
+                "lang": "-"
+            },
+            {
+                "value": "por",
+                "lang": "-"
+            },
+            {
+                "value": "nld",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2025"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "IsSupplementTo"
+                    ],
+                    "freetext": [
+                        "Finsel, J. S., Axelrad, H., Choi, S. J., Derous, E., Gu, X., Guandalini, P., Ha, J., Kim, E. S., Marzec, I., Mykletun, R. J., Oliveira, E., Pajic, S., Schellaert, M., Van der Heijden, B. I. J. M., Vignoli, M., W\u00f6hrmann, A. M., & Deller, J. (2025). Development and Validation of the Short Form of the Later Life Workplace Index\r\n(LLWI-SF): A Study Across Ten Countries. Work Aging and Retirement."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1093/workar/waaf006"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "55dcbb5e-8fb6-4dfd-8f49-01b22a38f196",
+                "authority": "virtual::1990",
+                "confidence": "-1"
+            },
+            {
+                "value": "a848be99-9b1f-4f62-a35d-7243bc63ae9e",
+                "authority": "virtual::2002",
+                "confidence": "-1"
+            },
+            {
+                "value": "ab710e52-e4fe-4018-92ab-4866f4377cbe",
+                "authority": "virtual::2028",
+                "confidence": "-1"
+            },
+            {
+                "value": "f11830c1-d8dd-4575-8cbf-93c369af4a95",
+                "authority": "virtual::2040",
+                "confidence": "-1"
+            },
+            {
+                "value": "b232593e-b0f7-4ad4-a7e1-bfa114e601b3",
+                "authority": "virtual::2066",
+                "confidence": "-1"
+            },
+            {
+                "value": "8a86c230-9d27-4fc5-8d90-104e25faa314",
+                "authority": "virtual::2078",
+                "confidence": "-1"
+            },
+            {
+                "value": "3a9b0632-0113-4d22-8f6b-da975eb5588e",
+                "authority": "virtual::2104",
+                "confidence": "-1"
+            },
+            {
+                "value": "3e4f7612-a257-4cf2-b26a-a5be70e85e3c",
+                "authority": "virtual::2116",
+                "confidence": "-1"
+            },
+            {
+                "value": "4c3be2ab-edb8-4f63-a382-f826b0da772b",
+                "authority": "virtual::2142",
+                "confidence": "-1"
+            },
+            {
+                "value": "1bfe5591-cd77-4e2b-873e-4ff370af5bb1",
+                "authority": "virtual::2154",
+                "confidence": "-1"
+            },
+            {
+                "value": "7661b8f3-9022-4f4f-80d6-30bbaa0ec1b2",
+                "authority": "virtual::2180",
+                "confidence": "-1"
+            },
+            {
+                "value": "36c1f216-2cde-4ea5-91f0-0649de70ddd1",
+                "authority": "virtual::2192",
+                "confidence": "-1"
+            },
+            {
+                "value": "9522ef1f-0d59-4830-b3b2-b16d439cf151",
+                "authority": "virtual::2218",
+                "confidence": "-1"
+            },
+            {
+                "value": "80366c84-0b4a-4333-8cb4-c1c2befffcd4",
+                "authority": "virtual::2230",
+                "confidence": "-1"
+            },
+            {
+                "value": "cec78774-6154-4070-945a-003807f606cd",
+                "authority": "virtual::2256",
+                "confidence": "-1"
+            },
+            {
+                "value": "3e23d116-6a39-4a29-9833-f62794e632fc",
+                "authority": "virtual::2268",
+                "confidence": "-1"
+            },
+            {
+                "value": "61aa9930-5b3f-46be-ba42-737df277111d",
+                "authority": "virtual::2294",
+                "confidence": "-1"
+            },
+            {
+                "value": "55dcbb5e-8fb6-4dfd-8f49-01b22a38f196",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::1990",
+                "confidence": "-1"
+            },
+            {
+                "value": "a848be99-9b1f-4f62-a35d-7243bc63ae9e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2002",
+                "confidence": "-1"
+            },
+            {
+                "value": "ab710e52-e4fe-4018-92ab-4866f4377cbe",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2028",
+                "confidence": "-1"
+            },
+            {
+                "value": "f11830c1-d8dd-4575-8cbf-93c369af4a95",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2040",
+                "confidence": "-1"
+            },
+            {
+                "value": "b232593e-b0f7-4ad4-a7e1-bfa114e601b3",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2066",
+                "confidence": "-1"
+            },
+            {
+                "value": "8a86c230-9d27-4fc5-8d90-104e25faa314",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2078",
+                "confidence": "-1"
+            },
+            {
+                "value": "3a9b0632-0113-4d22-8f6b-da975eb5588e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2104",
+                "confidence": "-1"
+            },
+            {
+                "value": "3e4f7612-a257-4cf2-b26a-a5be70e85e3c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2116",
+                "confidence": "-1"
+            },
+            {
+                "value": "4c3be2ab-edb8-4f63-a382-f826b0da772b",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2142",
+                "confidence": "-1"
+            },
+            {
+                "value": "1bfe5591-cd77-4e2b-873e-4ff370af5bb1",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2154",
+                "confidence": "-1"
+            },
+            {
+                "value": "7661b8f3-9022-4f4f-80d6-30bbaa0ec1b2",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2180",
+                "confidence": "-1"
+            },
+            {
+                "value": "36c1f216-2cde-4ea5-91f0-0649de70ddd1",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2192",
+                "confidence": "-1"
+            },
+            {
+                "value": "9522ef1f-0d59-4830-b3b2-b16d439cf151",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2218",
+                "confidence": "-1"
+            },
+            {
+                "value": "80366c84-0b4a-4333-8cb4-c1c2befffcd4",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2230",
+                "confidence": "-1"
+            },
+            {
+                "value": "cec78774-6154-4070-945a-003807f606cd",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2256",
+                "confidence": "-1"
+            },
+            {
+                "value": "3e23d116-6a39-4a29-9833-f62794e632fc",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2268",
+                "confidence": "-1"
+            },
+            {
+                "value": "61aa9930-5b3f-46be-ba42-737df277111d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2294",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "8395c146-4b00-4112-b5df-eb9d0ccccfb4",
+                "authority": "virtual::10055",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "authority": "virtual::2306",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2306",
+                "confidence": "-1"
+            },
+            {
+                "value": "8395c146-4b00-4112-b5df-eb9d0ccccfb4",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10055",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "57d28755-1afe-4316-a335-0115223a12ca",
+                "authority": "virtual::17233",
+                "confidence": "-1"
+            },
+            {
+                "value": "57d28755-1afe-4316-a335-0115223a12ca",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::17233",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-1716",
+        "title": "Online Supplemental Material for \"Development and Validation of the Short Form of the Later Life Workplace Index (LLWI-SF): A Study Across Ten Countries\"",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2025,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Finsel, Julia S.",
+                "givenName": "Julia S.",
+                "familyName": "Finsel",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-0392-5346",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1261488466",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Axelrad, Hila",
+                "givenName": "Hila",
+                "familyName": "Axelrad",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-2152-6488",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Choi, Su Jung",
+                "givenName": "Su Jung",
+                "familyName": "Choi",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Derous, Eva",
+                "givenName": "Eva",
+                "familyName": "Derous",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-7874-5836",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "121465729X",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Gu, Xiuzhu",
+                "givenName": "Xiuzhu",
+                "familyName": "Gu",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2641-1740",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Guandalini, Paolo",
+                "givenName": "Paolo",
+                "familyName": "Guandalini",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0004-1954-1752",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Ha, Jaeyoung",
+                "givenName": "Jaeyoung",
+                "familyName": "Ha",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Kim, Eun Seok",
+                "givenName": "Eun Seok",
+                "familyName": "Kim",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Marzec, Izabela",
+                "givenName": "Izabela",
+                "familyName": "Marzec",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-7149-7566",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Mykletun, Reidar Johan",
+                "givenName": "Reidar Johan",
+                "familyName": "Mykletun",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-9212-7233",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Oliveira, Eduardo",
+                "givenName": "Eduardo",
+                "familyName": "Oliveira",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-9149-0348",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Pajic, Sofija",
+                "givenName": "Sofija",
+                "familyName": "Pajic",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-9453-3796",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Schellaert, Maaike",
+                "givenName": "Maaike",
+                "familyName": "Schellaert",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-7101-2736",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Heijden, Beatrice I. J. M. van der",
+                "givenName": "Beatrice I. J. M. van der",
+                "familyName": "Heijden",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-8672-5368",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1014133599",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Vignoli, Michela",
+                "givenName": "Michela",
+                "familyName": "Vignoli",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-2583-5384",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "W\u00f6hrmann, Anne Marit",
+                "givenName": "Anne Marit",
+                "familyName": "W\u00f6hrmann",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-0430-8331",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1046442449",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Deller, J\u00fcrgen",
+                "givenName": "J\u00fcrgen",
+                "familyName": "Deller",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-6735-950X",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "121986861",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "This document serves as the supplemental material for the paper \"Development and Validation of the Short Form of the Later Life Workplace Index (LLWI-SF): A Study Across Ten Countries\". The paper aimed to develop and validate a short form of the Later Life Workplace Index (LLWI-SF) in ten countries. This supplemental material includes the LLWI-SF scales in Dutch, English (U.S.), Flemish, German, Italian, Japanese, Korean, Norwegian, Polish, and Portuguese language. It further includes country-level data analysis results to supplement the overall sample results presented in the paper (i.e., LLWI-SF item statistics and correlation tables for each country).",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Questionnaire (Paper)",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Computer-assisted questionnaire",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Validierung"
+            },
+            {
+                "subject": "Skalen"
+            },
+            {
+                "subject": "Erhebungsinstrument"
+            },
+            {
+                "subject": "Arbeiten im Alter"
+            },
+            {
+                "subject": "\u00c4lterer Arbeitnehmer"
+            },
+            {
+                "subject": "Arbeitsbedingungen"
+            },
+            {
+                "subject": "Organisationsklima"
+            },
+            {
+                "subject": "Gesundheit"
+            },
+            {
+                "subject": "F\u00fchrung"
+            },
+            {
+                "subject": "Personalmanagement"
+            },
+            {
+                "subject": "Arbeitsleistung"
+            },
+            {
+                "subject": "Arbeitsmotivation"
+            },
+            {
+                "subject": "Demografischer Wandel"
+            },
+            {
+                "subject": "Validation"
+            },
+            {
+                "subject": "Scales"
+            },
+            {
+                "subject": "Research Instrument"
+            },
+            {
+                "subject": "Later Life Work"
+            },
+            {
+                "subject": "Older Worker"
+            },
+            {
+                "subject": "Working Conditions"
+            },
+            {
+                "subject": "Organizational Climate"
+            },
+            {
+                "subject": "Health"
+            },
+            {
+                "subject": "Leadership"
+            },
+            {
+                "subject": "Human Resources"
+            },
+            {
+                "subject": "Work Performance"
+            },
+            {
+                "subject": "Work Motivation"
+            },
+            {
+                "subject": "Demographic Change"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-03-28",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-03-28",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2025-03-28",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2025-03-28",
+                "dateType": "Available"
+            },
+            {
+                "date": "2022-10/2023-06",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "mul",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.1093/workar/waaf006",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-nd-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "BEL"
+            },
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "ITA"
+            },
+            {
+                "geoLocationPlace": "JPN"
+            },
+            {
+                "geoLocationPlace": "KOR"
+            },
+            {
+                "geoLocationPlace": "NOR"
+            },
+            {
+                "geoLocationPlace": "POL"
+            },
+            {
+                "geoLocationPlace": "PRT"
+            },
+            {
+                "geoLocationPlace": "NLD"
+            },
+            {
+                "geoLocationPlace": "USA"
+            }
+        ],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/1816",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-03-28T15:15:08.000Z",
+        "registered": "2025-03-28T15:15:20.000Z",
+        "updated": "2026-05-05T10:15:13.000Z"
+    },
+    "doi": "10.48548/pubdata-1716",
+    "license_uri": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
+}

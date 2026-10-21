@@ -1,0 +1,740 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/11121",
+        "datestamp": "2025-11-05T13:01:12Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Kuhn, Lukas",
+                "qualifier": "author",
+                "authority": "virtual::12881",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-11-05T09:47:57Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-11-05",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/11121",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-2473",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "BiodiWert II: Konzepte zur Wiederherstellung von artenreichem Gr\u00fcnland in Deutschland (Grassworks-2) - Koordination, Sozial\u00f6kologie und Modellregion Nord",
+                "authority": "virtual::12886",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Eliciting plural nature's values and social networks of grassland restoration actors",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Survey Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Interview Data",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Kuhn, Lukas",
+                "authority": "virtual::12884",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Kuhn, Lukas",
+                "authority": "virtual::12885",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Mensch-Natur-Beziehung",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Grasland",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Restaurierung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Stakeholder",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Werte",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bewertung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Biodiversit\u00e4t",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Naturschutz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Soziales Netzwerk",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Umweltmanagement",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Grasslands",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Restoration",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Stakeholder",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Values",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Valuation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Biodiversity",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Nature Conservation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Social Network",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Environmental Management",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The full interview guide can be accessed in the supplementary materials of the dissertation Chapter 2 or the manuscript (see related publications).",
+                "qualifier": "note",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country"
+            },
+            {
+                "value": "Gifhorn, Lower Saxony",
+                "qualifier": "region"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr \u00d6kologie (IE)",
+                "authority": "virtual::12887",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::12888",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Kuhn"
+                    ],
+                    "givenName": [
+                        "Lukas"
+                    ],
+                    "orcid": [
+                        "0000-0003-4490-3554"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12881",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                    ],
+                    "ror": [
+                        "04pz7b180"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::12886",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-2405",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::12914",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "qualifier": "funderName",
+                "authority": "virtual::12886",
+                "confidence": "-1"
+            },
+            {
+                "value": "16LW0094K",
+                "qualifier": "awardNumber",
+                "authority": "virtual::12886",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "This data set contains all the data to reproduce the analyses of the dissertation \u201cInterlinking value-articulating institutions for plural values in restoration\u201d. All data is based on interviews with 39 actors related with extensive grassland management and restoration in the district of Gifhorn, Lower Saxony. Actors were affiliated with various actor groups (i.e., conservation and environmental agencies and non-governmental organization, farmers, ecologists, agricultural consultants, political offices, and land holdings). Interviews served to (i) elicit the plural values that diverse actors associate with grasslands and (ii) to uncover social network structures and dynamics. (i) The elicitation of values was based individual-based elicitation using three commonly used types of methods (i.e., open-ended questions, agreement-based elicitation, and preference-based testing). Four exercises were used (i.e., open-ended questions, list of proposed value statements with a 4-point Likert-Scale, ranking of top 5 statements, and rating top 5 statements by attributing 10 points across them). (ii) Identification of social network structures and dynamics was achieved by snowball sampling on the basis of three different social interactions (i.e., sharing information, co-decision making, and sharing visions and goals). Interviewees were asked to refer to approximately three individuals with whom they engage in each one of the social interactions. These identifications served as candidates for further interviews.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Recording",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Transcription",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2023-01-04 - 2023-04-25",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2025"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "freetext": [
+                        "Kuhn, L., Cebri\u00e1n-Piqueras, M. \u00c1., Riechers, M., Loos, J., & Mart\u00edn-L\u00f3pez, B. (2025). How methods influence nature's values we find \u2013 A comparison of three elicitation methods. Ecological Economics, 238, Artikel 108721"
+                    ],
+                    "relatedIdentifier": [
+                        "10.1016/j.ecolecon.2025.108721"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationType": [
+                        "IsSupplementTo"
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "freetext": [
+                        "Kuhn, L., Cebri\u00e1n-Piqueras, M. \u00c1., Loos, J., Mart\u00edn-L\u00f3pez, B. (under review). How do relationships articulate decision contexts of social-ecological restoration, submitted to Sustainability Science."
+                    ],
+                    "relatedIdentifier": [
+                        ""
+                    ],
+                    "relatedIdentifierType": [
+                        ""
+                    ],
+                    "relationType": [
+                        "IsSupplementTo"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "a97c580f-cc40-4a6b-8173-213f35a1ddfb",
+                "authority": "virtual::12881",
+                "confidence": "-1"
+            },
+            {
+                "value": "a97c580f-cc40-4a6b-8173-213f35a1ddfb",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12881",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "a97c580f-cc40-4a6b-8173-213f35a1ddfb",
+                "authority": "virtual::12885",
+                "confidence": "-1"
+            },
+            {
+                "value": "a97c580f-cc40-4a6b-8173-213f35a1ddfb",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12885",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "c061e7ea-82d6-4f7d-b3bb-751224f6ecef",
+                "authority": "virtual::12887",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::12888",
+                "confidence": "-1"
+            },
+            {
+                "value": "c061e7ea-82d6-4f7d-b3bb-751224f6ecef",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12887",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12888",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "a97c580f-cc40-4a6b-8173-213f35a1ddfb",
+                "authority": "virtual::12884",
+                "confidence": "-1"
+            },
+            {
+                "value": "a97c580f-cc40-4a6b-8173-213f35a1ddfb",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12884",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "b4929419-71ff-4eb9-bbf5-68576c7d74ad",
+                "authority": "virtual::12886",
+                "confidence": "-1"
+            },
+            {
+                "value": "b4929419-71ff-4eb9-bbf5-68576c7d74ad",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12886",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "e7ff242a-1cd9-4137-aa79-dcec0bb94f95",
+                "authority": "virtual::12913",
+                "confidence": "-1"
+            },
+            {
+                "value": "e7ff242a-1cd9-4137-aa79-dcec0bb94f95",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12913",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "e7ff242a-1cd9-4137-aa79-dcec0bb94f95",
+                "authority": "virtual::12914",
+                "confidence": "-1"
+            },
+            {
+                "value": "e7ff242a-1cd9-4137-aa79-dcec0bb94f95",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12914",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-2473",
+        "title": "Eliciting plural nature's values and social networks of grassland restoration actors",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2025,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Kuhn, Lukas",
+                "givenName": "Lukas",
+                "familyName": "Kuhn",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-4490-3554",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Kuhn, Lukas",
+                "nameType": "Personal",
+                "givenName": "Lukas",
+                "familyName": "Kuhn",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Kuhn, Lukas",
+                "nameType": "Personal",
+                "givenName": "Lukas",
+                "familyName": "Kuhn",
+                "affiliation": [],
+                "contributorType": "RightsHolder",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "This data set contains all the data to reproduce the analyses of the dissertation \u201cInterlinking value-articulating institutions for plural values in restoration\u201d. All data is based on interviews with 39 actors related with extensive grassland management and restoration in the district of Gifhorn, Lower Saxony. Actors were affiliated with various actor groups (i.e., conservation and environmental agencies and non-governmental organization, farmers, ecologists, agricultural consultants, political offices, and land holdings). Interviews served to (i) elicit the plural values that diverse actors associate with grasslands and (ii) to uncover social network structures and dynamics. (i) The elicitation of values was based individual-based elicitation using three commonly used types of methods (i.e., open-ended questions, agreement-based elicitation, and preference-based testing). Four exercises were used (i.e., open-ended questions, list of proposed value statements with a 4-point Likert-Scale, ranking of top 5 statements, and rating top 5 statements by attributing 10 points across them). (ii) Identification of social network structures and dynamics was achieved by snowball sampling on the basis of three different social interactions (i.e., sharing information, co-decision making, and sharing visions and goals). Interviewees were asked to refer to approximately three individuals with whom they engage in each one of the social interactions. These identifications served as candidates for further interviews.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Recording",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Transcription",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Grasland"
+            },
+            {
+                "subject": "Restaurierung"
+            },
+            {
+                "subject": "Stakeholder"
+            },
+            {
+                "subject": "Werte"
+            },
+            {
+                "subject": "Bewertung"
+            },
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "Biodiversit\u00e4t"
+            },
+            {
+                "subject": "Naturschutz"
+            },
+            {
+                "subject": "Soziales Netzwerk"
+            },
+            {
+                "subject": "Umweltmanagement"
+            },
+            {
+                "subject": "Grasslands"
+            },
+            {
+                "subject": "Restoration"
+            },
+            {
+                "subject": "Values"
+            },
+            {
+                "subject": "Valuation"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Biodiversity"
+            },
+            {
+                "subject": "Nature Conservation"
+            },
+            {
+                "subject": "Social Network"
+            },
+            {
+                "subject": "Environmental Management"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-11-05",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-11-05",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2023-01-04/2023-04-25",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.1016/j.ecolecon.2025.108721",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-2405",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "Gifhorn, Lower Saxony"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "BiodiWert II: Konzepte zur Wiederherstellung von artenreichem Gr\u00fcnland in Deutschland (Grassworks-2) - Koordination, Sozial\u00f6kologie und Modellregion Nord",
+                "funderName": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "awardNumber": "16LW0094K",
+                "funderIdentifier": "https://ror.org/04pz7b180",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/11121",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-11-05T10:15:13.000Z",
+        "registered": "2025-11-05T10:15:31.000Z",
+        "updated": "2025-11-05T13:15:15.000Z"
+    },
+    "doi": "10.48548/pubdata-2473",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

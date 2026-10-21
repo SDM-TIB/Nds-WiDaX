@@ -1,0 +1,660 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/15536",
+        "datestamp": "2026-07-15T08:26:45Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Neubauer, Kai",
+                "qualifier": "author",
+                "authority": "virtual::18963",
+                "confidence": "-1"
+            },
+            {
+                "value": "Matthiesen, Jennifer J.",
+                "qualifier": "author",
+                "authority": "virtual::18961",
+                "confidence": "-1"
+            },
+            {
+                "value": "Brefeld, Ulf",
+                "qualifier": "author",
+                "authority": "virtual::18957",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2026-07-14T08:39:19Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2026-07-14",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/15536",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-3980",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Admission Test - Cursor Trajectory Dataset",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Logfiles / Usage Data / Protocols",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Machine Learning Group (ML3) Leuphana University L\u00fcneburg",
+                "authority": "virtual::18964",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Maschinelles Lernen",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Mausbewegung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Student",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Navigation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nutzerverhalten",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Antwortverhalten",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Adaptives Lernen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Zulassungstest",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Test",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Mouse Movement",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "University Student",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Navigation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "User Behavior",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Response Behavior",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Adaptive Learning",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Admission Test",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Testing",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country"
+            }
+        ],
+        "PublishingType": [
+            {
+                "value": "First publication"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institute of Information Systems (IIS)",
+                "authority": "virtual::18959",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Management und Technologie",
+                "authority": "virtual::18960",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Neubauer"
+                    ],
+                    "givenName": [
+                        "Kai"
+                    ],
+                    "orcid": [
+                        "0009-0003-1246-7011"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::18963",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "nameVariant": [
+                        "Matthiesen, Jennifer J."
+                    ],
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Matthiesen"
+                    ],
+                    "givenName": [
+                        "Jennifer J."
+                    ],
+                    "orcid": [
+                        "0000-0003-0344-9682"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::18961",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Brefeld"
+                    ],
+                    "givenName": [
+                        "Ulf"
+                    ],
+                    "orcid": [
+                        "0000-0001-9600-6463"
+                    ],
+                    "gnd": [
+                        "135704669"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::18957",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Date": [
+            {
+                "value": "2021",
+                "qualifier": "Coverage"
+            },
+            {
+                "value": "2021",
+                "qualifier": "Collected"
+            }
+        ],
+        "Description": [
+            {
+                "value": "This dataset consists of item-level responses and interaction logs, i.e. cursor movements, clicks, navigation, answer changes, collected from an admission test on a custom, online testing platform in 2021. The test was part of the application process for an English-taught Data Science-related Master's program at a German university. Taking the admission test was optional and applicants who did not participate were still considered for admission, while those who scored well could earn extra points under the program's admission regulations. It consisted mostly of math-related items and had a 45-minute time limit.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Programming / Script-based data collection",
+                "qualifier": "Methods"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2026"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "38200804-1d8c-43e5-b10b-b3b09431e7df",
+                "authority": "virtual::18963",
+                "confidence": "-1"
+            },
+            {
+                "value": "047e31bc-25c8-40f0-9022-021d76544cbf",
+                "authority": "virtual::18961",
+                "confidence": "-1"
+            },
+            {
+                "value": "9b9da10d-c6d0-438f-a3be-7fdb49bf2dd3",
+                "authority": "virtual::18957",
+                "confidence": "-1"
+            },
+            {
+                "value": "9b9da10d-c6d0-438f-a3be-7fdb49bf2dd3",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::18957",
+                "confidence": "-1"
+            },
+            {
+                "value": "047e31bc-25c8-40f0-9022-021d76544cbf",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::18961",
+                "confidence": "-1"
+            },
+            {
+                "value": "38200804-1d8c-43e5-b10b-b3b09431e7df",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::18963",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "47dd3470-cbcd-4124-b53a-c5112dfeb219",
+                "authority": "virtual::18959",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "authority": "virtual::18960",
+                "confidence": "-1"
+            },
+            {
+                "value": "47dd3470-cbcd-4124-b53a-c5112dfeb219",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::18959",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::18960",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "8d78c969-c0ac-4e3a-8d16-17ef0088d570",
+                "authority": "virtual::18964",
+                "confidence": "-1"
+            },
+            {
+                "value": "8d78c969-c0ac-4e3a-8d16-17ef0088d570",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::18964",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "embargo"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-3980",
+        "title": "Admission Test - Cursor Trajectory Dataset",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2026,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Neubauer, Kai",
+                "givenName": "Kai",
+                "familyName": "Neubauer",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0003-1246-7011",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Matthiesen, Jennifer J.",
+                "givenName": "Jennifer J.",
+                "familyName": "Matthiesen",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-0344-9682",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Brefeld, Ulf",
+                "givenName": "Ulf",
+                "familyName": "Brefeld",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-9600-6463",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "135704669",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Machine Learning Group (ML3) Leuphana University L\u00fcneburg",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "en",
+                "description": "This dataset consists of item-level responses and interaction logs, i.e. cursor movements, clicks, navigation, answer changes, collected from an admission test on a custom, online testing platform in 2021. The test was part of the application process for an English-taught Data Science-related Master's program at a German university. Taking the admission test was optional and applicants who did not participate were still considered for admission, while those who scored well could earn extra points under the program's admission regulations. It consisted mostly of math-related items and had a 45-minute time limit.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Programming / Script-based data collection",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Mausbewegung"
+            },
+            {
+                "subject": "Student"
+            },
+            {
+                "subject": "Navigation"
+            },
+            {
+                "subject": "Nutzerverhalten"
+            },
+            {
+                "subject": "Antwortverhalten"
+            },
+            {
+                "subject": "Adaptives Lernen"
+            },
+            {
+                "subject": "Zulassungstest"
+            },
+            {
+                "subject": "Test"
+            },
+            {
+                "subject": "Mouse Movement"
+            },
+            {
+                "subject": "University Student"
+            },
+            {
+                "subject": "User Behavior"
+            },
+            {
+                "subject": "Response Behavior"
+            },
+            {
+                "subject": "Adaptive Learning"
+            },
+            {
+                "subject": "Admission Test"
+            },
+            {
+                "subject": "Testing"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2026-07-14",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2026-07-14",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2021/2021",
+                "dateType": "Coverage"
+            },
+            {
+                "date": "2021/2021",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            }
+        ],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/15536",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2026-07-14T09:15:32.000Z",
+        "registered": "2026-07-14T09:15:33.000Z",
+        "updated": "2026-07-15T09:15:20.000Z"
+    },
+    "doi": "10.48548/pubdata-3980",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

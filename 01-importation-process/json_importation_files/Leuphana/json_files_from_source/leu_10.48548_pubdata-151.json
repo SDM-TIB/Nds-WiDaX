@@ -1,0 +1,818 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/170",
+        "datestamp": "2025-06-26T05:35:34Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Amsel, Ann-Kathrin",
+                "qualifier": "author",
+                "authority": "virtual::2402",
+                "confidence": "-1"
+            },
+            {
+                "value": "Olsson, Oliver",
+                "qualifier": "author",
+                "authority": "virtual::2426",
+                "confidence": "-1"
+            },
+            {
+                "value": "K\u00fcmmerer, Klaus",
+                "qualifier": "author",
+                "authority": "virtual::2440",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-02-19T13:21:18Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2024-02-19T13:21:18Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-02-19",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-02-16T07:57:19Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/170",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-151",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Ready biodegradability data of ionic liquids, OECD 301D (Closed Bottle Test), 2024, V1",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Laboratory Results",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Contact": [
+            {
+                "value": "klaus.k\u00fcmmerer@leuphana.de; oliver.olsson@leuphana.de",
+                "lang": "-"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Green Chemistry",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Biologische Abbaubarkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Experiment",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Test",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltige Chemie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Ionische Fl\u00fcssigkeiten",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Salze",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Gr\u00fcne Chemie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Messung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Biodegradability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Experiment",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Test",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainable Chemistry",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ionic Liquids",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Salts",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Green Chemistry",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Assessment",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "L\u00fcneburg",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Nachhaltige Chemie (INSC)",
+                "authority": "virtual::10084",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::2464",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Amsel"
+                    ],
+                    "givenName": [
+                        "Ann-Kathrin"
+                    ],
+                    "orcid": [
+                        "0000-0003-1097-4063"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2402",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Olsson"
+                    ],
+                    "givenName": [
+                        "Oliver"
+                    ],
+                    "orcid": [
+                        "0000-0003-0082-1442"
+                    ],
+                    "gnd": [
+                        "140577270"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2426",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "K\u00fcmmerer"
+                    ],
+                    "givenName": [
+                        "Klaus"
+                    ],
+                    "orcid": [
+                        "0000-0003-2027-6488"
+                    ],
+                    "gnd": [
+                        "118066382"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2440",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "Handle: 20.500.14123/241",
+                "qualifier": "IsReferencedBy",
+                "authority": "virtual::2502",
+                "confidence": "-1"
+            },
+            {
+                "value": "Handle: 20.500.14123/239",
+                "qualifier": "IsSourceOf",
+                "authority": "virtual::2478",
+                "confidence": "-1"
+            },
+            {
+                "value": "DOI: 10.48548/pubdata-1557",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::2516",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Description": [
+            {
+                "value": "The data set contains biodegradability data according to OECD 301D  (Closed Bottle Test) for ionic liquids. Two data sources were used to compile OECD 301D data: (a) data from the Leuphana Institute of Sustainable Chemistry (INSC) in-house biodegradation experiments and (b) literature data. The literature data and the INSC in-house data was combined. Two data sets were compiled: set IL contains just ionic liquids and set ILNI contains ionic liquids and non-ionic compounds. Duplicates were combined to one ionic liquid by calculating the mean biodegradation rate. Negative biodegradation rates were zeroed. In case several tests per substance were conducted, the mean value was calculated. The biodegradability data was classified in red: 0\u201319%, amber: 20\u201359%, green: \u226560%.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Experiment (Laboratory)",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Analysis of text documents",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2022 - 2024",
+                "qualifier": "Created"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "IsDescribedBy"
+                    ],
+                    "freetext": [
+                        "Hai\u00df, A.; Jordan, A.; Westphal, J.; Logunova, E.; Gathergood, N.; K\u00fcmmerer, K. On the way to greener ionic liquids: identification of a fully mineralizable phenylalanine-based ionic liquid. Green Chem. 2016, 18 (16), 4361\u20134373. DOI: 10.1039/c6gc00417b."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1039/c6gc00417b"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "IsDescribedBy"
+                    ],
+                    "freetext": [
+                        "Suk, M.; Hai\u00df, A.; Westphal, J.; Jordan, A.; Kellett, A.; Kapitanov, I. V.; Karpichev, Y.; Gathergood, N.; K\u00fcmmerer, K. Design rules for environmental biodegradability of phenylalanine alkyl ester linked ionic liquids. Green Chem. 2020, 22 (14), 4498\u20134508. DOI: 10.1039/D0GC00918K."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1039/D0GC00918K"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "IsSupplementTo"
+                    ],
+                    "freetext": [
+                        "Amsel, A. K., Chakravarti, S., Olsson, O., & K\u00fcmmerer, K. (2024). Modelling biodegradability based on OECD 301D data for the design of mineralising ionic liquids. Green Chemistry , 26(12), 7363-7376."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1039/d4gc00889h"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "1f2ddaef-a48b-41fc-be05-598563a32c88",
+                "authority": "virtual::2402",
+                "confidence": "-1"
+            },
+            {
+                "value": "46b0cb36-d9b5-429a-930a-9dee62213354",
+                "authority": "virtual::2426",
+                "confidence": "-1"
+            },
+            {
+                "value": "c854d259-c767-477b-8d0e-73096b5f0250",
+                "authority": "virtual::2440",
+                "confidence": "-1"
+            },
+            {
+                "value": "1f2ddaef-a48b-41fc-be05-598563a32c88",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2402",
+                "confidence": "-1"
+            },
+            {
+                "value": "46b0cb36-d9b5-429a-930a-9dee62213354",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2426",
+                "confidence": "-1"
+            },
+            {
+                "value": "c854d259-c767-477b-8d0e-73096b5f0250",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2440",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "9df554d3-9c1e-42bd-97cd-58b4baf51d28",
+                "authority": "virtual::10084",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::2464",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2464",
+                "confidence": "-1"
+            },
+            {
+                "value": "9df554d3-9c1e-42bd-97cd-58b4baf51d28",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10084",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsDerivedFrom_": [
+            {
+                "value": "6d604fdd-f8a6-43e3-bd99-ab3b724c6ce9",
+                "authority": "virtual::1056",
+                "confidence": "-1"
+            },
+            {
+                "value": "6d604fdd-f8a6-43e3-bd99-ab3b724c6ce9",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::1056",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsReferencedBy_OfP": [
+            {
+                "value": "dac59e70-9f9b-4d49-aa5a-5f68fb0eb117",
+                "authority": "virtual::2502",
+                "confidence": "-1"
+            },
+            {
+                "value": "dac59e70-9f9b-4d49-aa5a-5f68fb0eb117",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2502",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSourceOf_OfP": [
+            {
+                "value": "6d604fdd-f8a6-43e3-bd99-ab3b724c6ce9",
+                "authority": "virtual::2478",
+                "confidence": "-1"
+            },
+            {
+                "value": "6d604fdd-f8a6-43e3-bd99-ab3b724c6ce9",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2478",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "6e2a6ab9-9a53-4b3d-8693-9b26ed986e09",
+                "authority": "virtual::6464",
+                "confidence": "-1"
+            },
+            {
+                "value": "6e2a6ab9-9a53-4b3d-8693-9b26ed986e09",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::6464",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "6e2a6ab9-9a53-4b3d-8693-9b26ed986e09",
+                "authority": "virtual::2516",
+                "confidence": "-1"
+            },
+            {
+                "value": "6e2a6ab9-9a53-4b3d-8693-9b26ed986e09",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2516",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_References_": [
+            {
+                "value": "dac59e70-9f9b-4d49-aa5a-5f68fb0eb117",
+                "authority": "virtual::4960",
+                "confidence": "-1"
+            },
+            {
+                "value": "dac59e70-9f9b-4d49-aa5a-5f68fb0eb117",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4960",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-151",
+        "title": "Ready biodegradability data of ionic liquids, OECD 301D (Closed Bottle Test), 2024, V1",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Amsel, Ann-Kathrin",
+                "nameType": "Personal",
+                "givenName": "Ann-Kathrin",
+                "familyName": "Amsel",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-1097-4063",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Olsson, Oliver",
+                "nameType": "Personal",
+                "givenName": "Oliver",
+                "familyName": "Olsson",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-0082-1442",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "140577270",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "K\u00fcmmerer, Klaus",
+                "nameType": "Personal",
+                "givenName": "Klaus",
+                "familyName": "K\u00fcmmerer",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2027-6488",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "118066382",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "klaus.k\u00fcmmerer@leuphana.de; oliver.olsson@leuphana.de",
+                "affiliation": [],
+                "contributorType": "ContactPerson",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "The data set contains biodegradability data according to OECD 301D (Closed Bottle Test) for ionic liquids. Two data sources were used to compile OECD 301D data: (a) data from the Leuphana Institute of Sustainable Chemistry (INSC) in-house biodegradation experiments and (b) literature data. The literature data and the INSC in-house data was combined. Two data sets were compiled: set IL contains just ionic liquids and set ILNI contains ionic liquids and non-ionic compounds. Duplicates were combined to one ionic liquid by calculating the mean biodegradation rate. Negative biodegradation rates were zeroed. In case several tests per substance were conducted, the mean value was calculated. The biodegradability data was classified in red: 0\u201319%, amber: 20\u201359%, green: \u226560%.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Experiment (Laboratory)",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Analysis of text documents",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Biologische Abbaubarkeit"
+            },
+            {
+                "subject": "Experiment"
+            },
+            {
+                "subject": "Test"
+            },
+            {
+                "subject": "Nachhaltige Chemie"
+            },
+            {
+                "subject": "Ionische Fl\u00fcssigkeiten"
+            },
+            {
+                "subject": "Salze"
+            },
+            {
+                "subject": "Gr\u00fcne Chemie"
+            },
+            {
+                "subject": "Messung"
+            },
+            {
+                "subject": "Biodegradability"
+            },
+            {
+                "subject": "Sustainable Chemistry"
+            },
+            {
+                "subject": "Ionic Liquids"
+            },
+            {
+                "subject": "Salts"
+            },
+            {
+                "subject": "Green Chemistry"
+            },
+            {
+                "subject": "Assessment"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-02-19",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2024-02-19",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-02-16",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-02-19",
+                "dateType": "Available"
+            },
+            {
+                "date": "2022/2024",
+                "dateType": "Created"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.1039/c6gc00417b",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.1039/d0gc00918k",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.1039/d4gc00889h",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsReferencedBy",
+                "relatedIdentifier": "20.500.14123/241",
+                "relatedIdentifierType": "Handle"
+            },
+            {
+                "relationType": "IsSourceOf",
+                "relatedIdentifier": "20.500.14123/239",
+                "relatedIdentifierType": "Handle"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-1557",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "L\u00fcneburg"
+            }
+        ],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/170",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-02-19T14:15:20.000Z",
+        "registered": "2024-02-19T14:15:56.000Z",
+        "updated": "2025-06-26T06:15:25.000Z"
+    },
+    "doi": "10.48548/pubdata-151",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

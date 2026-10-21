@@ -1,0 +1,1120 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/10907",
+        "datestamp": "2025-10-30T09:43:00Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Sanya Julius, John",
+                "qualifier": "author",
+                "authority": "virtual::12589",
+                "confidence": "-1"
+            },
+            {
+                "value": "Gross, Milena",
+                "qualifier": "author",
+                "authority": "virtual::12590",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mwampamba, Tuyeni H.",
+                "qualifier": "author",
+                "authority": "virtual::12591",
+                "confidence": "-1"
+            },
+            {
+                "value": "Krail, Viviane",
+                "qualifier": "author",
+                "authority": "virtual::12592",
+                "confidence": "-1"
+            },
+            {
+                "value": "Pearson, Jasmine",
+                "qualifier": "author",
+                "authority": "virtual::12593",
+                "confidence": "-1"
+            },
+            {
+                "value": "Sesabo, Jennifer Kasanda",
+                "qualifier": "author",
+                "authority": "virtual::12594",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mart\u00edn-L\u00f3pez, Berta",
+                "qualifier": "author",
+                "authority": "virtual::12595",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-10-21T12:08:58Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-10-21",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/10907",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-2413",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Die Rolle der Natur f\u00fcr das menschliche Wohlergehen im sozial-\u00f6kologischen System des Kilimandscharo (Kili-SES) - Teilprojekt \"Sozial-\u00f6kologische Transformationsprozesses verstehen: die Rolle von Werten, Regeln und Wissen von Initiativen\"",
+                "authority": "virtual::12599",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Diverse motivations underpinning the differential use of Indigenous and Local Knowledge in Chagga homegardens, Tanzania_Dataset",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Interview Data",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Sanya Julius, John",
+                "authority": "virtual::12596",
+                "confidence": "-1"
+            },
+            {
+                "value": "Massawe, Joyce Joseph",
+                "authority": "virtual::12598",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Mart\u00edn-L\u00f3pez, Berta",
+                "authority": "virtual::12597",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Mensch-Natur-Beziehung",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Chagga",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landwirt",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kleinb\u00e4uerliche Strukturen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wissen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Tradition",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landwirtschaft",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Ern\u00e4hrungssystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Indigenes Wissen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Mensch-Natur-Interaktion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Motivation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Naturschutz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Baumgarten",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Sozial-\u00f6kologisches System",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltigkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Gebirge",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kilimandscharo",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Tansania",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Chagga",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Farmer",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Smallholder Structures",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Knowledge",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Tradition",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Farming",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Food System",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Indigenous Knowledge",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Human-Nature Interaction",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Motivation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Nature Conservation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Homegarden",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Social-ecological System",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Mountain",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Mount Kilimanjaro",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Tanzania",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "TZA",
+                "qualifier": "country"
+            },
+            {
+                "value": "Kilimandscharo",
+                "qualifier": "region"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::12600",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::12601",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Sanya Julius"
+                    ],
+                    "givenName": [
+                        "John"
+                    ],
+                    "orcid": [
+                        "0000-0002-2986-9813"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12589",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Gross"
+                    ],
+                    "givenName": [
+                        "Milena"
+                    ],
+                    "orcid": [
+                        "0000-0003-3148-627X"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12590",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mwampamba"
+                    ],
+                    "givenName": [
+                        "Tuyeni H."
+                    ],
+                    "orcid": [
+                        "0000-0003-4635-5774"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12591",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Krail"
+                    ],
+                    "givenName": [
+                        "Viviane"
+                    ],
+                    "orcid": [
+                        "0009-0006-2600-1599"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12592",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Pearson"
+                    ],
+                    "givenName": [
+                        "Jasmine"
+                    ],
+                    "orcid": [
+                        "0000-0001-6341-1382"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12593",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Sesabo"
+                    ],
+                    "givenName": [
+                        "Jennifer Kasanda"
+                    ],
+                    "orcid": [
+                        "0000-0002-8518-9011"
+                    ],
+                    "gnd": [
+                        "1022360663"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12594",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mart\u00edn-L\u00f3pez"
+                    ],
+                    "givenName": [
+                        "Berta"
+                    ],
+                    "orcid": [
+                        "0000-0003-2622-0135"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12595",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Deutsche Forschungsgemeinschaft (DFG)"
+                    ],
+                    "ror": [
+                        "018mejw64"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::12599",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-2401",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::12847",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Deutsche Forschungsgemeinschaft (DFG)",
+                "qualifier": "funderName",
+                "authority": "virtual::12599",
+                "confidence": "-1"
+            },
+            {
+                "value": "428658210",
+                "qualifier": "awardNumber",
+                "authority": "virtual::12599",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The dataset entails data frames from transcripts of 25 interviews conducted with smallholder farmers on the slopes of Mount Kilimanjaro, Tanzania, to understand the motivations for applying indigeneous and local knowledge (ILK) in different farming practices within the Chagga homegarden - a traditional, pre-colonial farming system. It contains socio-demographic information, knowledge acquisition and transmission methods, and framing practices.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2025-10-20 -",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2022-01-15 - 2022-03-25",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2025"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "778266d1-6c7b-4414-b264-38ec58bd434e",
+                "authority": "virtual::12589",
+                "confidence": "-1"
+            },
+            {
+                "value": "2101f113-84c9-4e26-8d61-0f63e9d2882a",
+                "authority": "virtual::12590",
+                "confidence": "-1"
+            },
+            {
+                "value": "9d3b6c48-b817-4fa3-9a50-064d5c53dc45",
+                "authority": "virtual::12591",
+                "confidence": "-1"
+            },
+            {
+                "value": "f989d35b-16fe-4f41-9515-5d9f1064a378",
+                "authority": "virtual::12592",
+                "confidence": "-1"
+            },
+            {
+                "value": "f32b40fc-93d9-4654-a002-0ac1cd9dba15",
+                "authority": "virtual::12593",
+                "confidence": "-1"
+            },
+            {
+                "value": "868c5a2d-cc5c-483a-9f81-12917372d953",
+                "authority": "virtual::12594",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "authority": "virtual::12595",
+                "confidence": "-1"
+            },
+            {
+                "value": "778266d1-6c7b-4414-b264-38ec58bd434e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12589",
+                "confidence": "-1"
+            },
+            {
+                "value": "2101f113-84c9-4e26-8d61-0f63e9d2882a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12590",
+                "confidence": "-1"
+            },
+            {
+                "value": "9d3b6c48-b817-4fa3-9a50-064d5c53dc45",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12591",
+                "confidence": "-1"
+            },
+            {
+                "value": "f989d35b-16fe-4f41-9515-5d9f1064a378",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12592",
+                "confidence": "-1"
+            },
+            {
+                "value": "f32b40fc-93d9-4654-a002-0ac1cd9dba15",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12593",
+                "confidence": "-1"
+            },
+            {
+                "value": "868c5a2d-cc5c-483a-9f81-12917372d953",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12594",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12595",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "authority": "virtual::12597",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12597",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::12600",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::12601",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12600",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12601",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "778266d1-6c7b-4414-b264-38ec58bd434e",
+                "authority": "virtual::12596",
+                "confidence": "-1"
+            },
+            {
+                "value": "0b20e29f-c7a2-48e8-a0f3-f4c57eed0b76",
+                "authority": "virtual::12598",
+                "confidence": "-1"
+            },
+            {
+                "value": "778266d1-6c7b-4414-b264-38ec58bd434e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12596",
+                "confidence": "-1"
+            },
+            {
+                "value": "0b20e29f-c7a2-48e8-a0f3-f4c57eed0b76",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12598",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "a08985a1-fb56-4c12-8c1a-6769f1cd440e",
+                "authority": "virtual::12599",
+                "confidence": "-1"
+            },
+            {
+                "value": "a08985a1-fb56-4c12-8c1a-6769f1cd440e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12599",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "6e304737-1154-441c-8b6f-0cd8272f0d28",
+                "authority": "virtual::12846",
+                "confidence": "-1"
+            },
+            {
+                "value": "6e304737-1154-441c-8b6f-0cd8272f0d28",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12846",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "6e304737-1154-441c-8b6f-0cd8272f0d28",
+                "authority": "virtual::12847",
+                "confidence": "-1"
+            },
+            {
+                "value": "6e304737-1154-441c-8b6f-0cd8272f0d28",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12847",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-2413",
+        "title": "Diverse motivations underpinning the differential use of Indigenous and Local Knowledge in Chagga homegardens, Tanzania_Dataset",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2025,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Sanya Julius, John",
+                "givenName": "John",
+                "familyName": "Sanya Julius",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-2986-9813",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Gross, Milena",
+                "givenName": "Milena",
+                "familyName": "Gross",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-3148-627X",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Mwampamba, Tuyeni H.",
+                "givenName": "Tuyeni H.",
+                "familyName": "Mwampamba",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-4635-5774",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Krail, Viviane",
+                "givenName": "Viviane",
+                "familyName": "Krail",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0006-2600-1599",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Pearson, Jasmine",
+                "givenName": "Jasmine",
+                "familyName": "Pearson",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-6341-1382",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Sesabo, Jennifer Kasanda",
+                "givenName": "Jennifer Kasanda",
+                "familyName": "Sesabo",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-8518-9011",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1022360663",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Mart\u00edn-L\u00f3pez, Berta",
+                "givenName": "Berta",
+                "familyName": "Mart\u00edn-L\u00f3pez",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2622-0135",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Sanya Julius, John",
+                "nameType": "Personal",
+                "givenName": "John",
+                "familyName": "Sanya Julius",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Massawe, Joyce Joseph",
+                "nameType": "Personal",
+                "givenName": "Joyce Joseph",
+                "familyName": "Massawe",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Mart\u00edn-L\u00f3pez, Berta",
+                "nameType": "Personal",
+                "givenName": "Berta",
+                "familyName": "Mart\u00edn-L\u00f3pez",
+                "affiliation": [],
+                "contributorType": "RightsHolder",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "The dataset entails data frames from transcripts of 25 interviews conducted with smallholder farmers on the slopes of Mount Kilimanjaro, Tanzania, to understand the motivations for applying indigeneous and local knowledge (ILK) in different farming practices within the Chagga homegarden - a traditional, pre-colonial farming system. It contains socio-demographic information, knowledge acquisition and transmission methods, and framing practices.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Chagga"
+            },
+            {
+                "subject": "Landwirt"
+            },
+            {
+                "subject": "Kleinb\u00e4uerliche Strukturen"
+            },
+            {
+                "subject": "Wissen"
+            },
+            {
+                "subject": "Tradition"
+            },
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "Landwirtschaft"
+            },
+            {
+                "subject": "Ern\u00e4hrungssystem"
+            },
+            {
+                "subject": "Indigenes Wissen"
+            },
+            {
+                "subject": "Mensch-Natur-Interaktion"
+            },
+            {
+                "subject": "Motivation"
+            },
+            {
+                "subject": "Naturschutz"
+            },
+            {
+                "subject": "Baumgarten"
+            },
+            {
+                "subject": "Sozial-\u00f6kologisches System"
+            },
+            {
+                "subject": "Nachhaltigkeit"
+            },
+            {
+                "subject": "Gebirge"
+            },
+            {
+                "subject": "Kilimandscharo"
+            },
+            {
+                "subject": "Tansania"
+            },
+            {
+                "subject": "Farmer"
+            },
+            {
+                "subject": "Smallholder Structures"
+            },
+            {
+                "subject": "Knowledge"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Farming"
+            },
+            {
+                "subject": "Food System"
+            },
+            {
+                "subject": "Indigenous Knowledge"
+            },
+            {
+                "subject": "Human-Nature Interaction"
+            },
+            {
+                "subject": "Nature Conservation"
+            },
+            {
+                "subject": "Homegarden"
+            },
+            {
+                "subject": "Social-ecological System"
+            },
+            {
+                "subject": "Sustainability"
+            },
+            {
+                "subject": "Mountain"
+            },
+            {
+                "subject": "Mount Kilimanjaro"
+            },
+            {
+                "subject": "Tanzania"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-10-21",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-10-21",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2025-10-20/2025-10-20",
+                "dateType": "Created"
+            },
+            {
+                "date": "2022-01-15/2022-03-25",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-2401",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "TZA"
+            },
+            {
+                "geoLocationPlace": "Kilimandscharo"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Die Rolle der Natur f\u00fcr das menschliche Wohlergehen im sozial-\u00f6kologischen System des Kilimandscharo (Kili-SES) - Teilprojekt \"Sozial-\u00f6kologische Transformationsprozesses verstehen: die Rolle von Werten, Regeln und Wissen von Initiativen\"",
+                "funderName": "Deutsche Forschungsgemeinschaft (DFG)",
+                "awardNumber": "428658210",
+                "funderIdentifier": "https://ror.org/018mejw64",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/10907",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-10-21T12:15:30.000Z",
+        "registered": "2025-10-21T12:15:31.000Z",
+        "updated": "2025-10-30T10:15:13.000Z"
+    },
+    "doi": "10.48548/pubdata-2413",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

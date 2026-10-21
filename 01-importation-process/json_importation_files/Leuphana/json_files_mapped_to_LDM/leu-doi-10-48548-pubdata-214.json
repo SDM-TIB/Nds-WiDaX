@@ -1,0 +1,143 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Isaac, Roman",
+            "givenName": "Roman",
+            "familyName": "Isaac",
+            "orcid": "0000-0002-0007-7433"
+        },
+        {
+            "author": "Mart\u00edn-L\u00f3pez, Berta",
+            "givenName": "Berta",
+            "familyName": "Mart\u00edn-L\u00f3pez",
+            "orcid": "0000-0003-2622-0135"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-214",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Non Commercial 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-214",
+    "notes": "The research group conducted a systematic literature review on peer-reviewed publications dealing with the governance of co-produced nature's contributions to people (NCP) and ecosystem services. The researchers used two search strings. The first search string covered NCP and ecosystem services co-production literature and returned 384 publications. When assessing the abstracts the researchers found that 170 papers potentially included NCP co-production. This narrowed down to 25 publications that explicitly (i.e. stated by authors) or implicitly (i.e. not stated by authors but covered in the paper) referred to NCP co-production when assessing the full-text. The second search string covered ecosystem services governance. This search string resulted in 157 publications covering empirical cases of ecosystem services governance. Of these 21 were found to deal with NCP co-production. The researchers found one duplicate in both searches resulting in 45 publications used within the full text review. The researchers followed a deductive coding scheme to assess the publications. This data set presents the coding set, the publication list and the coding.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Coding, coding set, and document list: systematic literature review data for the phd thesis \"more than trees\u201d",
+    "url": "https://doi.org/10.48548/pubdata-214",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_name": "Mensch-Natur-Beziehung"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Systematic Review",
+            "name": "Systematic Review",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Steuerungsprozesse",
+            "name": "Steuerungsprozesse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "kosystem",
+            "name": "kosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Dienstleistung",
+            "name": "Dienstleistung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Naturleistungen fr den Menschen NCP",
+            "name": "Naturleistungen fr den Menschen NCP",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wald",
+            "name": "Wald",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Koproduktion",
+            "name": "Koproduktion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Systematic Review",
+            "name": "Systematic Review",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Governance",
+            "name": "Governance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecosystem",
+            "name": "Ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Service Provision",
+            "name": "Service Provision",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Natures Contributions to People NCP",
+            "name": "Natures Contributions to People NCP",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Forest",
+            "name": "Forest",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Co-production",
+            "name": "Co-production",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

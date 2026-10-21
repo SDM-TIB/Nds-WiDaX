@@ -1,0 +1,1204 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/9871",
+        "datestamp": "2025-10-30T08:12:57Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Sanya Julius, John",
+                "qualifier": "author",
+                "authority": "virtual::8629",
+                "confidence": "-1"
+            },
+            {
+                "value": "Gross, Milena",
+                "qualifier": "author",
+                "authority": "virtual::8630",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mwampamba, Tuyeni H.",
+                "qualifier": "author",
+                "authority": "virtual::8634",
+                "confidence": "-1"
+            },
+            {
+                "value": "Pearson, Jasmine",
+                "qualifier": "author",
+                "authority": "virtual::8631",
+                "confidence": "-1"
+            },
+            {
+                "value": "Sesabo, Jennifer Kasanda",
+                "qualifier": "author",
+                "authority": "virtual::8635",
+                "confidence": "-1"
+            },
+            {
+                "value": "Riechers, Maraja",
+                "qualifier": "author",
+                "authority": "virtual::8632",
+                "confidence": "-1"
+            },
+            {
+                "value": "Kinabo, Neema Robert",
+                "qualifier": "author",
+                "authority": "virtual::8636",
+                "confidence": "-1"
+            },
+            {
+                "value": "Krail, Viviane",
+                "qualifier": "author",
+                "authority": "virtual::8638",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mart\u00edn-L\u00f3pez, Berta",
+                "qualifier": "author",
+                "authority": "virtual::8633",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-05-08T07:40:13Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-05-08",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/9871",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-1775",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Die Rolle der Natur f\u00fcr das menschliche Wohlergehen im sozial-\u00f6kologischen System des Kilimandscharo (Kili-SES) - Teilprojekt \"Sozial-\u00f6kologische Transformationsprozesses verstehen: die Rolle von Werten, Regeln und Wissen von Initiativen\"",
+                "authority": "virtual::8643",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Heterogeneity of demands for nature's contributions to people and nature's values by farmers-insights from the Kilimanjaro social-ecological system_Dataset",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Survey Data",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Sanya Julius, John",
+                "authority": "virtual::8639",
+                "confidence": "-1"
+            },
+            {
+                "value": "Kinabo, Neema Robert",
+                "authority": "virtual::8644",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Mensch-Natur-Beziehung",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Naturleistungen f\u00fcr den Menschen (NCP)",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Sozial-\u00f6kologisches System",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Gebirge",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kleinb\u00e4uerliche Strukturen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landwirt",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Umfrage",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bewertung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Stakeholder",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Werte",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Pr\u00e4ferenz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Soziokulturelle Werte",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Mensch-Natur-Interaktion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Naturschutz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltigkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kilimandscharo",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Tansania",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nature's Contributions to People (NCP)",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Social-ecological System",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Mountain",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Smallholder Structures",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Farmer",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Survey",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Valuation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Stakeholder",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Values",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Preference",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Socio-cultural Values",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Human-Nature Interaction",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Nature Conservation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Mount Kilimanjaro",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Tanzania",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "TZA",
+                "qualifier": "country"
+            },
+            {
+                "value": "Kilimanjaro",
+                "qualifier": "region"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::10048",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::8641",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Face-to-face Survey",
+                "qualifier": "methodsOther"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Sanya Julius"
+                    ],
+                    "givenName": [
+                        "John"
+                    ],
+                    "orcid": [
+                        "0000-0002-2986-9813"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8629",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Gross"
+                    ],
+                    "givenName": [
+                        "Milena"
+                    ],
+                    "orcid": [
+                        "0000-0003-3148-627X"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8630",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mwampamba"
+                    ],
+                    "givenName": [
+                        "Tuyeni H."
+                    ],
+                    "orcid": [
+                        "0000-0003-4635-5774"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8634",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Pearson"
+                    ],
+                    "givenName": [
+                        "Jasmine"
+                    ],
+                    "orcid": [
+                        "0000-0001-6341-1382"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8631",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Sesabo"
+                    ],
+                    "givenName": [
+                        "Jennifer Kasanda"
+                    ],
+                    "orcid": [
+                        "0000-0002-8518-9011"
+                    ],
+                    "gnd": [
+                        "1022360663"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8635",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Riechers"
+                    ],
+                    "givenName": [
+                        "Maraja"
+                    ],
+                    "orcid": [
+                        "0000-0003-3916-8102"
+                    ],
+                    "gnd": [
+                        "1299307191"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8632",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Kinabo"
+                    ],
+                    "givenName": [
+                        "Neema Robert"
+                    ],
+                    "orcid": [
+                        "0000-0002-5062-3172"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8636",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Krail"
+                    ],
+                    "givenName": [
+                        "Viviane"
+                    ],
+                    "orcid": [
+                        "0009-0006-2600-1599"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8638",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mart\u00edn-L\u00f3pez"
+                    ],
+                    "givenName": [
+                        "Berta"
+                    ],
+                    "orcid": [
+                        "0000-0003-2622-0135"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8633",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Deutsche Forschungsgemeinschaft (DFG)"
+                    ],
+                    "ror": [
+                        "018mejw64"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::8643",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-2402",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::12550",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Deutsche Forschungsgemeinschaft (DFG)",
+                "qualifier": "funderName",
+                "authority": "virtual::8643",
+                "confidence": "-1"
+            },
+            {
+                "value": "428658210",
+                "qualifier": "awardNumber",
+                "authority": "virtual::8643",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The dataset entails face-to-face surveys conducted in Tanzania, with 364 smallholder farmers residing in 14 villages located on the southern slope of Mount Kilimanjaro. It contains preferences for 25 context-specific nature's contributions to people (NCP) and expressions of values of nature and socio-demographic attributes.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Other",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2022-08-01 - 2022-11-30",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2025"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "778266d1-6c7b-4414-b264-38ec58bd434e",
+                "authority": "virtual::8629",
+                "confidence": "-1"
+            },
+            {
+                "value": "2101f113-84c9-4e26-8d61-0f63e9d2882a",
+                "authority": "virtual::8630",
+                "confidence": "-1"
+            },
+            {
+                "value": "9d3b6c48-b817-4fa3-9a50-064d5c53dc45",
+                "authority": "virtual::8634",
+                "confidence": "-1"
+            },
+            {
+                "value": "f32b40fc-93d9-4654-a002-0ac1cd9dba15",
+                "authority": "virtual::8631",
+                "confidence": "-1"
+            },
+            {
+                "value": "868c5a2d-cc5c-483a-9f81-12917372d953",
+                "authority": "virtual::8635",
+                "confidence": "-1"
+            },
+            {
+                "value": "5f585fab-8271-4d96-b951-d90dd7cbb9b8",
+                "authority": "virtual::8632",
+                "confidence": "-1"
+            },
+            {
+                "value": "8bb951b9-51e8-4a60-916c-4ac8dead3d77",
+                "authority": "virtual::8636",
+                "confidence": "-1"
+            },
+            {
+                "value": "f989d35b-16fe-4f41-9515-5d9f1064a378",
+                "authority": "virtual::8638",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "authority": "virtual::8633",
+                "confidence": "-1"
+            },
+            {
+                "value": "778266d1-6c7b-4414-b264-38ec58bd434e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8629",
+                "confidence": "-1"
+            },
+            {
+                "value": "2101f113-84c9-4e26-8d61-0f63e9d2882a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8630",
+                "confidence": "-1"
+            },
+            {
+                "value": "f32b40fc-93d9-4654-a002-0ac1cd9dba15",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8631",
+                "confidence": "-1"
+            },
+            {
+                "value": "5f585fab-8271-4d96-b951-d90dd7cbb9b8",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8632",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8633",
+                "confidence": "-1"
+            },
+            {
+                "value": "9d3b6c48-b817-4fa3-9a50-064d5c53dc45",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8634",
+                "confidence": "-1"
+            },
+            {
+                "value": "868c5a2d-cc5c-483a-9f81-12917372d953",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8635",
+                "confidence": "-1"
+            },
+            {
+                "value": "8bb951b9-51e8-4a60-916c-4ac8dead3d77",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8636",
+                "confidence": "-1"
+            },
+            {
+                "value": "f989d35b-16fe-4f41-9515-5d9f1064a378",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8638",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::10048",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::8641",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8641",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10048",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "778266d1-6c7b-4414-b264-38ec58bd434e",
+                "authority": "virtual::8639",
+                "confidence": "-1"
+            },
+            {
+                "value": "8bb951b9-51e8-4a60-916c-4ac8dead3d77",
+                "authority": "virtual::8644",
+                "confidence": "-1"
+            },
+            {
+                "value": "778266d1-6c7b-4414-b264-38ec58bd434e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8639",
+                "confidence": "-1"
+            },
+            {
+                "value": "8bb951b9-51e8-4a60-916c-4ac8dead3d77",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8644",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "a08985a1-fb56-4c12-8c1a-6769f1cd440e",
+                "authority": "virtual::8643",
+                "confidence": "-1"
+            },
+            {
+                "value": "a08985a1-fb56-4c12-8c1a-6769f1cd440e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8643",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "20183a1d-4c81-4007-8f21-7c85a3bd35dd",
+                "authority": "virtual::12541",
+                "confidence": "-1"
+            },
+            {
+                "value": "6e304737-1154-441c-8b6f-0cd8272f0d28",
+                "authority": "virtual::12844",
+                "confidence": "-1"
+            },
+            {
+                "value": "20183a1d-4c81-4007-8f21-7c85a3bd35dd",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12541",
+                "confidence": "-1"
+            },
+            {
+                "value": "6e304737-1154-441c-8b6f-0cd8272f0d28",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12844",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "20183a1d-4c81-4007-8f21-7c85a3bd35dd",
+                "authority": "virtual::12550",
+                "confidence": "-1"
+            },
+            {
+                "value": "20183a1d-4c81-4007-8f21-7c85a3bd35dd",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12550",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-1775",
+        "title": "Heterogeneity of demands for nature's contributions to people and nature's values by farmers-insights from the Kilimanjaro social-ecological system_Dataset",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2025,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Sanya Julius, John",
+                "givenName": "John",
+                "familyName": "Sanya Julius",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-2986-9813",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Gross, Milena",
+                "givenName": "Milena",
+                "familyName": "Gross",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-3148-627X",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Mwampamba, Tuyeni H.",
+                "givenName": "Tuyeni H.",
+                "familyName": "Mwampamba",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-4635-5774",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Pearson, Jasmine",
+                "givenName": "Jasmine",
+                "familyName": "Pearson",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-6341-1382",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Sesabo, Jennifer Kasanda",
+                "givenName": "Jennifer Kasanda",
+                "familyName": "Sesabo",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-8518-9011",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1022360663",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Riechers, Maraja",
+                "givenName": "Maraja",
+                "familyName": "Riechers",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-3916-8102",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1299307191",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Kinabo, Neema Robert",
+                "givenName": "Neema Robert",
+                "familyName": "Kinabo",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-5062-3172",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Krail, Viviane",
+                "givenName": "Viviane",
+                "familyName": "Krail",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0006-2600-1599",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Mart\u00edn-L\u00f3pez, Berta",
+                "givenName": "Berta",
+                "familyName": "Mart\u00edn-L\u00f3pez",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2622-0135",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Sanya Julius, John",
+                "nameType": "Personal",
+                "givenName": "John",
+                "familyName": "Sanya Julius",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Kinabo, Neema Robert",
+                "nameType": "Personal",
+                "givenName": "Neema Robert",
+                "familyName": "Kinabo",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "The dataset entails face-to-face surveys conducted in Tanzania, with 364 smallholder farmers residing in 14 villages located on the southern slope of Mount Kilimanjaro. It contains preferences for 25 context-specific nature's contributions to people (NCP) and expressions of values of nature and socio-demographic attributes.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Other",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Naturleistungen f\u00fcr den Menschen (NCP)"
+            },
+            {
+                "subject": "Sozial-\u00f6kologisches System"
+            },
+            {
+                "subject": "Gebirge"
+            },
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "Kleinb\u00e4uerliche Strukturen"
+            },
+            {
+                "subject": "Landwirt"
+            },
+            {
+                "subject": "Umfrage"
+            },
+            {
+                "subject": "Bewertung"
+            },
+            {
+                "subject": "Stakeholder"
+            },
+            {
+                "subject": "Werte"
+            },
+            {
+                "subject": "Pr\u00e4ferenz"
+            },
+            {
+                "subject": "Soziokulturelle Werte"
+            },
+            {
+                "subject": "Mensch-Natur-Interaktion"
+            },
+            {
+                "subject": "Naturschutz"
+            },
+            {
+                "subject": "Nachhaltigkeit"
+            },
+            {
+                "subject": "Kilimandscharo"
+            },
+            {
+                "subject": "Tansania"
+            },
+            {
+                "subject": "Nature's Contributions to People (NCP)"
+            },
+            {
+                "subject": "Social-ecological System"
+            },
+            {
+                "subject": "Mountain"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Smallholder Structures"
+            },
+            {
+                "subject": "Farmer"
+            },
+            {
+                "subject": "Survey"
+            },
+            {
+                "subject": "Valuation"
+            },
+            {
+                "subject": "Values"
+            },
+            {
+                "subject": "Preference"
+            },
+            {
+                "subject": "Socio-cultural Values"
+            },
+            {
+                "subject": "Human-Nature Interaction"
+            },
+            {
+                "subject": "Nature Conservation"
+            },
+            {
+                "subject": "Sustainability"
+            },
+            {
+                "subject": "Mount Kilimanjaro"
+            },
+            {
+                "subject": "Tanzania"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-05-08",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-05-08",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2022-08-01/2022-11-30",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-2402",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "TZA"
+            },
+            {
+                "geoLocationPlace": "Kilimanjaro"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Die Rolle der Natur f\u00fcr das menschliche Wohlergehen im sozial-\u00f6kologischen System des Kilimandscharo (Kili-SES) - Teilprojekt \"Sozial-\u00f6kologische Transformationsprozesses verstehen: die Rolle von Werten, Regeln und Wissen von Initiativen\"",
+                "funderName": "Deutsche Forschungsgemeinschaft (DFG)",
+                "awardNumber": "428658210",
+                "funderIdentifier": "https://ror.org/018mejw64",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/9871",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-05-08T08:15:29.000Z",
+        "registered": "2025-05-08T08:15:30.000Z",
+        "updated": "2025-10-30T08:15:13.000Z"
+    },
+    "doi": "10.48548/pubdata-1775",
+    "license_uri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial 4.0 International"
+}

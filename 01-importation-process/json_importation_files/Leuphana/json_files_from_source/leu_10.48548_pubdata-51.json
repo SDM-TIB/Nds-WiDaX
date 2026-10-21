@@ -1,0 +1,691 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/70",
+        "datestamp": "2025-06-25T14:14:22Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Br\u00fcck, Maria",
+                "qualifier": "author",
+                "authority": "virtual::7997",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2023-10-20T07:27:55Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2023-10-20T07:27:55Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2023-10-20",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2023-10-19T11:56:39Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/70",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-51",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Bio\u00f6konomie als gesellschaftlicher Wandel, Modul 2 (2): ETH-Coffee - Towards a Sustainable Bioeconomy: A Scenario Analysis for the Jimma Coffee Landscape in Ethiopia",
+                "authority": "virtual::7967",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Ecosystem Product Rankings and Values in Gera, Gumay, and Setema Woreda, Ethiopia",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Survey Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The overarching goal of this project is to identify environmental and socioeconomic outcomes of ecosystem service flows in an increasingly teleconnected bioeconomy in the Global South. The case study location, Jimma zone in southwestern Ethiopia, is a biodiversity hotspot where local people are heavily dependent on the landscape to provide essential ecosystem services. However, the landscape also provides services of global importance, and is becoming more teleconnected. Both internal and external drivers are altering the social-ecological trajectories of the region. The project \u2013 building on an ERC-funded, five-year research project in Jimma zone (\u201cIdentifying Social-Ecological System Properties Benefiting Biodiversity and Food Security \u2013 SESyP\u201d) \u2014 works with local stakeholders to investigate the social-ecological consequences of different development trajectories. Research is centered around the exploration of four scenarios with differing social-ecological conditions in southwestern Ethiopia for 2040. Specific objectives are: (1) to map biodiversity and ecosystem services in rural southwestern Ethiopian landscapes under four future scenarios; (2) to identify the beneficiaries of value flows of ecosystem services generated under the different scenarios; (3) to understand power influences of different stakeholders on local ecosystems and value flows under the different scenarios; and (4) to make insights relevant and applicable for local landscape management through the integration of stakeholders in the scenario analysis. (Project website)",
+                "qualifier": "researchDesign",
+                "lang": "-"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Bekele Negash, Birhanu",
+                "authority": "virtual::8005",
+                "confidence": "-1"
+            },
+            {
+                "value": "Damu, Dadi Feyisa",
+                "authority": "virtual::8415",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Landwirtschaftliche Produktion",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00c4thiopien",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landwirtschaft",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Produktion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kleinb\u00e4uerliche Strukturen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Soziokulturelle Werte",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bio\u00f6konomie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ethiopia",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Agriculture",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Production",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Smallholder Structures",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Socio-cultural Values",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Bioeconomy",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "ETH",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "Woredas Gera, Gumay und Setema",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::10017",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::8043",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Br\u00fcck"
+                    ],
+                    "givenName": [
+                        "Maria"
+                    ],
+                    "orcid": [
+                        "0000-0001-8656-8972"
+                    ],
+                    "gnd": [
+                        "1164715968"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7997",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)"
+                    ],
+                    "ror": [
+                        "04pz7b180"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::7967",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-228",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::8073",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "qualifier": "funderName",
+                "authority": "virtual::7967",
+                "confidence": "-1"
+            },
+            {
+                "value": "031B0786",
+                "qualifier": "awardNumber",
+                "authority": "virtual::7967",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Der Datensatz ist das Produkt einer Interviewbefragung mit 316 teilnehmenden Personen. Er enth\u00e4lt Daten mit Informationen und Angaben der Befragten \u00fcber die Rangfolge sowie die ihnen zugeschriebenen Werte von 11 lokal relevanten \u00d6kosystemprodukten (spezifische Produkte, die aus \u00d6kosystemen gewonnen werden) im S\u00fcdwesten \u00c4thiopiens, n\u00e4mlich zu: Rindfleisch, biologische Vielfalt, Rinder, Kaffee, Eukalyptus, Brennholz, Honig, Khat, Mais, Sorghum, Teff. Die Befragten stammten aus acht Kebeles (kleinste Verwaltungseinheiten in \u00c4thiopien) entlang eines sozial-\u00f6kologischen Gradienten und einer Stadt, die sich in drei Woredas (Bezirke) in der Zone Jimma, Region Oromia, \u00c4thiopien (Gera, Gumay und Setema Woreda) befinden. Der Fragebogen bestand aus (1) einem bildbasierten Ranking, um die allgemeine Bedeutung der 11 \u00d6kosystemprodukte zu bewerten, und (2) einer \u00dcbung, um die Werttypen (instrumental, relational, intrinsisch) zu erfassen, die jedem \u00d6kosystemprodukt zugeschrieben werden.",
+                "qualifier": "Abstract",
+                "lang": "de"
+            },
+            {
+                "value": "The dataset includes data comprising information on rankings of and values ascribed to 11 locally relevant ecosystem products (specific products appropriated from ecosystems) by 316 participants in southwestern Ethiopia, i.e. beef, biodiversity, cattle, coffee, eucalyptus, firewood, honey, khat, maize, sorghum, teff. Participants originated from eight kebeles (smallest administrative units in Ethiopia) along a social-ecological gradient and one town located in three woredas (districts), in Jimma Zone, Oromia Region, Ethiopia, namely Gera, Gumay and Setema woreda. The questionnaire consisted of (1) a picture-based ranking exercise to assess the general importance of the 11 ecosystem products to participants\u2019 livelihoods, and (2) an exercise (token distribution) to assess the value types (instrumental, relational, intrinsic) ascribed to each ecosystem product.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2022-01 - 2022-03",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2021-11 - 2021-12",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2023"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "IsReferencedBy"
+                    ],
+                    "freetext": [
+                        "Br\u00fcck, M., Schultner, J., Negash, B. B., Damu, D. F., & Abson, D. J. (2024). Plural valuation in southwestern Ethiopia: Disaggregating values associated with ecosystems in a smallholder landscape. People and Nature, 6(1), 91-106."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1002/pan3.10555"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "c323717c-3322-4c8a-84b9-efc0fc12f582",
+                "authority": "virtual::7997",
+                "confidence": "-1"
+            },
+            {
+                "value": "c323717c-3322-4c8a-84b9-efc0fc12f582",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7997",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::10017",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::8043",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8043",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10017",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "5c950d63-e946-4f11-b4ee-5a344096289d",
+                "authority": "virtual::8005",
+                "confidence": "-1"
+            },
+            {
+                "value": "3012d392-2ec7-4117-8fd3-c0fdfc1c73b3",
+                "authority": "virtual::8415",
+                "confidence": "-1"
+            },
+            {
+                "value": "5c950d63-e946-4f11-b4ee-5a344096289d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8005",
+                "confidence": "-1"
+            },
+            {
+                "value": "3012d392-2ec7-4117-8fd3-c0fdfc1c73b3",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8415",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "1919a90c-972d-4f09-bc08-8310fc230d97",
+                "authority": "virtual::7967",
+                "confidence": "-1"
+            },
+            {
+                "value": "1919a90c-972d-4f09-bc08-8310fc230d97",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7967",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "ceba8832-3f54-4c7a-8209-4527b6c04394",
+                "authority": "virtual::4186",
+                "confidence": "-1"
+            },
+            {
+                "value": "ceba8832-3f54-4c7a-8209-4527b6c04394",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4186",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "ceba8832-3f54-4c7a-8209-4527b6c04394",
+                "authority": "virtual::8073",
+                "confidence": "-1"
+            },
+            {
+                "value": "ceba8832-3f54-4c7a-8209-4527b6c04394",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8073",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-51",
+        "title": "Ecosystem Product Rankings and Values in Gera, Gumay, and Setema Woreda, Ethiopia",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2023,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Br\u00fcck, Maria",
+                "nameType": "Personal",
+                "givenName": "Maria",
+                "familyName": "Br\u00fcck",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-8656-8972",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Bekele Negash, Birhanu",
+                "nameType": "Personal",
+                "givenName": "Birhanu",
+                "familyName": "Bekele Negash",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Damu, Dadi Feyisa",
+                "nameType": "Personal",
+                "givenName": "Dadi Feyisa",
+                "familyName": "Damu",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "Der Datensatz ist das Produkt einer Interviewbefragung mit 316 teilnehmenden Personen. Er enth\u00e4lt Daten mit Informationen und Angaben der Befragten \u00fcber die Rangfolge sowie die ihnen zugeschriebenen Werte von 11 lokal relevanten \u00d6kosystemprodukten (spezifische Produkte, die aus \u00d6kosystemen gewonnen werden) im S\u00fcdwesten \u00c4thiopiens, n\u00e4mlich zu: Rindfleisch, biologische Vielfalt, Rinder, Kaffee, Eukalyptus, Brennholz, Honig, Khat, Mais, Sorghum, Teff. Die Befragten stammten aus acht Kebeles (kleinste Verwaltungseinheiten in \u00c4thiopien) entlang eines sozial-\u00f6kologischen Gradienten und einer Stadt, die sich in drei Woredas (Bezirke) in der Zone Jimma, Region Oromia, \u00c4thiopien (Gera, Gumay und Setema Woreda) befinden. Der Fragebogen bestand aus (1) einem bildbasierten Ranking, um die allgemeine Bedeutung der 11 \u00d6kosystemprodukte zu bewerten, und (2) einer \u00dcbung, um die Werttypen (instrumental, relational, intrinsisch) zu erfassen, die jedem \u00d6kosystemprodukt zugeschrieben werden.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "The dataset includes data comprising information on rankings of and values ascribed to 11 locally relevant ecosystem products (specific products appropriated from ecosystems) by 316 participants in southwestern Ethiopia, i.e. beef, biodiversity, cattle, coffee, eucalyptus, firewood, honey, khat, maize, sorghum, teff. Participants originated from eight kebeles (smallest administrative units in Ethiopia) along a social-ecological gradient and one town located in three woredas (districts), in Jimma Zone, Oromia Region, Ethiopia, namely Gera, Gumay and Setema woreda. The questionnaire consisted of (1) a picture-based ranking exercise to assess the general importance of the 11 ecosystem products to participants\u2019 livelihoods, and (2) an exercise (token distribution) to assess the value types (instrumental, relational, intrinsic) ascribed to each ecosystem product.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "\u00c4thiopien"
+            },
+            {
+                "subject": "Landwirtschaft"
+            },
+            {
+                "subject": "Produktion"
+            },
+            {
+                "subject": "Kleinb\u00e4uerliche Strukturen"
+            },
+            {
+                "subject": "Soziokulturelle Werte"
+            },
+            {
+                "subject": "Bio\u00f6konomie"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Ethiopia"
+            },
+            {
+                "subject": "Agriculture"
+            },
+            {
+                "subject": "Production"
+            },
+            {
+                "subject": "Smallholder Structures"
+            },
+            {
+                "subject": "Socio-cultural Values"
+            },
+            {
+                "subject": "Bioeconomy"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2023-10-20",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2023-10-20",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2023-10-19",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2023-10-20",
+                "dateType": "Available"
+            },
+            {
+                "date": "2022-01/2022-03",
+                "dateType": "Created"
+            },
+            {
+                "date": "2021-11/2021-12",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsReferencedBy",
+                "relatedIdentifier": "10.1002/pan3.10555",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-228",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "ETH"
+            },
+            {
+                "geoLocationPlace": "Woredas Gera, Gumay und Setema"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Bio\u00f6konomie als gesellschaftlicher Wandel, Modul 2 (2): ETH-Coffee - Towards a Sustainable Bioeconomy: A Scenario Analysis for the Jimma Coffee Landscape in Ethiopia",
+                "funderName": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+                "awardNumber": "031B0786",
+                "funderIdentifier": "https://ror.org/04pz7b180",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/70",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2023-10-20T08:15:09.000Z",
+        "registered": "2023-10-20T08:15:20.000Z",
+        "updated": "2025-06-25T14:15:20.000Z"
+    },
+    "doi": "10.48548/pubdata-51",
+    "license_uri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International"
+}

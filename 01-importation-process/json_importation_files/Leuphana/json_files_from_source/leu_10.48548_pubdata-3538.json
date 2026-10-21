@@ -1,0 +1,565 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/13890",
+        "datestamp": "2026-05-04T08:15:35Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Schulz, Jonah",
+                "qualifier": "author",
+                "authority": "virtual::17146",
+                "confidence": "-1"
+            },
+            {
+                "value": "Stamer, Florian",
+                "qualifier": "author",
+                "authority": "virtual::17147",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2026-05-04T07:51:15Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2026-05-04",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/13890",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-3538",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Supplementary Files for Publication \"Configuring Production Planning and Control for Remanufacturing Systems: A DMAIC-based Methodology\"",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Context Materials / Supporting information",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Produktionssysteme",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Produktionssystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Produktion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Planung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kontrolle",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kompetenz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Management",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wiederaufbereitung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "System",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Production System",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Production",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Planning",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Control",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Competence",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Management",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Remanufacturing",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "System",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "PublishingType": [
+            {
+                "value": "First publication"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Produktionstechnik und -systeme (IPTS)",
+                "authority": "virtual::17148",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Management und Technologie",
+                "authority": "virtual::17149",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Schulz"
+                    ],
+                    "givenName": [
+                        "Jonah"
+                    ],
+                    "orcid": [
+                        "0009-0001-0148-6060"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::17146",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Stamer"
+                    ],
+                    "givenName": [
+                        "Florian"
+                    ],
+                    "orcid": [
+                        "0000-0002-9704-8611"
+                    ],
+                    "gnd": [
+                        "1271447568"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::17147",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Description": [
+            {
+                "value": "This data set provides the supporting material for the publication \"Configuring Production Planning and Control for Remanufacturing Systems: A DMAIC-based Methodology\" including a simulation and various tables. The supplemetary materials consist of the raw data, interview sheets, and the matrices presented in the paper, in detail (1) the structured interview sheet used for company surveys / interviews, (2) data related to the general evaluation of competence for the procedure, (3) detailed explanation of the rating of fulfilment and required competencies, (4) detailed calculations for the suitability matrix, and (5) detailed calculations for the competence matrix.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Analysis of text documents",
+                "qualifier": "Methods"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2026"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "037894b7-9313-45d3-8755-3e8c7b63dd01",
+                "authority": "virtual::17146",
+                "confidence": "-1"
+            },
+            {
+                "value": "572fe8ed-a06e-46bb-a525-18e078db7d77",
+                "authority": "virtual::17147",
+                "confidence": "-1"
+            },
+            {
+                "value": "037894b7-9313-45d3-8755-3e8c7b63dd01",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::17146",
+                "confidence": "-1"
+            },
+            {
+                "value": "572fe8ed-a06e-46bb-a525-18e078db7d77",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::17147",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "a63604b8-2293-410f-8959-56b47b2a5bfa",
+                "authority": "virtual::17148",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "authority": "virtual::17149",
+                "confidence": "-1"
+            },
+            {
+                "value": "a63604b8-2293-410f-8959-56b47b2a5bfa",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::17148",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::17149",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-3538",
+        "title": "Supplementary Files for Publication \"Configuring Production Planning and Control for Remanufacturing Systems: A DMAIC-based Methodology\"",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2026,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Schulz, Jonah",
+                "givenName": "Jonah",
+                "familyName": "Schulz",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0001-0148-6060",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Stamer, Florian",
+                "givenName": "Florian",
+                "familyName": "Stamer",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-9704-8611",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1271447568",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "This data set provides the supporting material for the publication \"Configuring Production Planning and Control for Remanufacturing Systems: A DMAIC-based Methodology\" including a simulation and various tables. The supplemetary materials consist of the raw data, interview sheets, and the matrices presented in the paper, in detail (1) the structured interview sheet used for company surveys / interviews, (2) data related to the general evaluation of competence for the procedure, (3) detailed explanation of the rating of fulfilment and required competencies, (4) detailed calculations for the suitability matrix, and (5) detailed calculations for the competence matrix.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Analysis of text documents",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Produktionssystem"
+            },
+            {
+                "subject": "Produktion"
+            },
+            {
+                "subject": "Planung"
+            },
+            {
+                "subject": "Kontrolle"
+            },
+            {
+                "subject": "Kompetenz"
+            },
+            {
+                "subject": "Management"
+            },
+            {
+                "subject": "Wiederaufbereitung"
+            },
+            {
+                "subject": "System"
+            },
+            {
+                "subject": "Production System"
+            },
+            {
+                "subject": "Production"
+            },
+            {
+                "subject": "Planning"
+            },
+            {
+                "subject": "Control"
+            },
+            {
+                "subject": "Competence"
+            },
+            {
+                "subject": "Remanufacturing"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2026-05-04",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2026-05-04",
+                "dateType": "Issued"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/13890",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2026-05-04T08:15:34.000Z",
+        "registered": "2026-05-04T08:15:35.000Z",
+        "updated": "2026-05-04T09:15:15.000Z"
+    },
+    "doi": "10.48548/pubdata-3538",
+    "license_uri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial 4.0 International"
+}

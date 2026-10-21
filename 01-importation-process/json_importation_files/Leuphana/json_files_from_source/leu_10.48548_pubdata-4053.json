@@ -1,0 +1,733 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/15798",
+        "datestamp": "2026-08-04T10:15:39Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Pfendtner-Heise, Jannis",
+                "qualifier": "author",
+                "authority": "virtual::19486",
+                "confidence": "-1"
+            },
+            {
+                "value": "Berg-M\u00f6lleken, Dagmar",
+                "qualifier": "author",
+                "authority": "virtual::19487",
+                "confidence": "-1"
+            },
+            {
+                "value": "Wehrden, Henrik von",
+                "qualifier": "author",
+                "authority": "virtual::19488",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2026-08-04T09:18:23Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2026-08-04",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/15798",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-4053",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Inclusion-Exclusion-Table and Qualitative Coding of a Systematic Literature Review on Transdisciplinary and Lab-based Sustainability Research in Urban and Rural Areas",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Pfendtner-Heise, Jannis",
+                "authority": "virtual::19489",
+                "confidence": "-1"
+            },
+            {
+                "value": "Berg-M\u00f6lleken, Dagmar",
+                "authority": "virtual::19490",
+                "confidence": "-1"
+            },
+            {
+                "value": "Wehrden, Henrik von",
+                "authority": "virtual::19491",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Pfendtner-Heise, Jannis",
+                "authority": "virtual::19492",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Nachhaltigkeitswissenschaft",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Systematic Review",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Forschungsliteratur",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltigkeitsforschung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Transdisziplinarit\u00e4t",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltigkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Laboransatz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Reallabor",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "St\u00e4dtischer Raum",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "L\u00e4ndlicher Raum",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Ballungsraum",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Stadt",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Dorf",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Systematic Review",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Research Literature",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainability Research",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Transdisciplinarity",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Lab Approach",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Real-world Laboratory",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Urban Area",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Rural Area",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Agglomeration",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "City",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Town",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Village",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "PublishingType": [
+            {
+                "value": "First publication"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Methodenzentrum",
+                "authority": "virtual::19493",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Pfendtner-Heise"
+                    ],
+                    "givenName": [
+                        "Jannis"
+                    ],
+                    "orcid": [
+                        "0009-0001-4248-6884"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::19486",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Berg-M\u00f6lleken"
+                    ],
+                    "givenName": [
+                        "Dagmar"
+                    ],
+                    "orcid": [
+                        "0009-0009-9399-7092"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::19487",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Wehrden"
+                    ],
+                    "givenName": [
+                        "Henrik von"
+                    ],
+                    "orcid": [
+                        "0000-0003-2087-5552"
+                    ],
+                    "gnd": [
+                        "142263834"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::19488",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Description": [
+            {
+                "value": "The dataset is the basis for a systematic literature reviews that compares transdisciplinary and lab-based sustainability research in urban and rural areas. It comprises data extracted from SCOPUS on February 11th, 2026. The search string yielded 1,604 hits for peer-reviewed journal articles. After Title-Abstract-Keyword screening 477 articles were included. The 100 most relevant articles were analysed in a qualitative full-text screening. Respective methodology and details on the coding process are found in the article and the corresponding electronic supplementary material.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Literature analysis / Systematic review",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2026-02-11 - 2026-07-24",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2026-02-11 -",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2026"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "0f9d0f88-c572-40a6-a283-38e9ca259633",
+                "authority": "virtual::19486",
+                "confidence": "-1"
+            },
+            {
+                "value": "e05c449e-7ac5-41f5-9781-8ff334557e9d",
+                "authority": "virtual::19487",
+                "confidence": "-1"
+            },
+            {
+                "value": "b58cd055-322f-47fe-9c04-396d4f8c0173",
+                "authority": "virtual::19488",
+                "confidence": "-1"
+            },
+            {
+                "value": "0f9d0f88-c572-40a6-a283-38e9ca259633",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19486",
+                "confidence": "-1"
+            },
+            {
+                "value": "e05c449e-7ac5-41f5-9781-8ff334557e9d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19487",
+                "confidence": "-1"
+            },
+            {
+                "value": "b58cd055-322f-47fe-9c04-396d4f8c0173",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19488",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "0f9d0f88-c572-40a6-a283-38e9ca259633",
+                "authority": "virtual::19492",
+                "confidence": "-1"
+            },
+            {
+                "value": "0f9d0f88-c572-40a6-a283-38e9ca259633",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19492",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "64d0c73e-bb42-4098-a4c8-f01f348eb273",
+                "authority": "virtual::19493",
+                "confidence": "-1"
+            },
+            {
+                "value": "64d0c73e-bb42-4098-a4c8-f01f348eb273",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19493",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "0f9d0f88-c572-40a6-a283-38e9ca259633",
+                "authority": "virtual::19489",
+                "confidence": "-1"
+            },
+            {
+                "value": "e05c449e-7ac5-41f5-9781-8ff334557e9d",
+                "authority": "virtual::19490",
+                "confidence": "-1"
+            },
+            {
+                "value": "b58cd055-322f-47fe-9c04-396d4f8c0173",
+                "authority": "virtual::19491",
+                "confidence": "-1"
+            },
+            {
+                "value": "0f9d0f88-c572-40a6-a283-38e9ca259633",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19489",
+                "confidence": "-1"
+            },
+            {
+                "value": "e05c449e-7ac5-41f5-9781-8ff334557e9d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19490",
+                "confidence": "-1"
+            },
+            {
+                "value": "b58cd055-322f-47fe-9c04-396d4f8c0173",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19491",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "embargo"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-4053",
+        "title": "Inclusion-Exclusion-Table and Qualitative Coding of a Systematic Literature Review on Transdisciplinary and Lab-based Sustainability Research in Urban and Rural Areas",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2027,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Pfendtner-Heise, Jannis",
+                "givenName": "Jannis",
+                "familyName": "Pfendtner-Heise",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0001-4248-6884",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Berg-M\u00f6lleken, Dagmar",
+                "givenName": "Dagmar",
+                "familyName": "Berg-M\u00f6lleken",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0009-9399-7092",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Wehrden, Henrik von",
+                "givenName": "Henrik von",
+                "familyName": "Wehrden",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2087-5552",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "142263834",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Pfendtner-Heise, Jannis",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Berg-M\u00f6lleken, Dagmar",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Wehrden, Henrik von",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Pfendtner-Heise, Jannis",
+                "contributorType": "RightsHolder",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "en",
+                "description": "The dataset is the basis for a systematic literature reviews that compares transdisciplinary and lab-based sustainability research in urban and rural areas. It comprises data extracted from SCOPUS on February 11th, 2026. The search string yielded 1,604 hits for peer-reviewed journal articles. After Title-Abstract-Keyword screening 477 articles were included. The 100 most relevant articles were analysed in a qualitative full-text screening. Respective methodology and details on the coding process are found in the article and the corresponding electronic supplementary material.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Literature analysis / Systematic review",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Excel file document (.xlsx)",
+                "descriptionType": "TechnicalInfo"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Systematic Review"
+            },
+            {
+                "subject": "Forschungsliteratur"
+            },
+            {
+                "subject": "Nachhaltigkeitsforschung"
+            },
+            {
+                "subject": "Transdisziplinarit\u00e4t"
+            },
+            {
+                "subject": "Nachhaltigkeit"
+            },
+            {
+                "subject": "Laboransatz"
+            },
+            {
+                "subject": "Reallabor"
+            },
+            {
+                "subject": "St\u00e4dtischer Raum"
+            },
+            {
+                "subject": "L\u00e4ndlicher Raum"
+            },
+            {
+                "subject": "Ballungsraum"
+            },
+            {
+                "subject": "Stadt"
+            },
+            {
+                "subject": "Dorf"
+            },
+            {
+                "subject": "Research Literature"
+            },
+            {
+                "subject": "Sustainability Research"
+            },
+            {
+                "subject": "Transdisciplinarity"
+            },
+            {
+                "subject": "Sustainability"
+            },
+            {
+                "subject": "Lab Approach"
+            },
+            {
+                "subject": "Real-world Laboratory"
+            },
+            {
+                "subject": "Urban Area"
+            },
+            {
+                "subject": "Rural Area"
+            },
+            {
+                "subject": "Agglomeration"
+            },
+            {
+                "subject": "City"
+            },
+            {
+                "subject": "Town"
+            },
+            {
+                "subject": "Village"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2026-08-04",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2026-08-04",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2026-02-11/2026-07-24",
+                "dateType": "Created"
+            },
+            {
+                "date": "2026-02-11/2026-02-11",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-nd-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/15798",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2026-08-04T10:15:37.000Z",
+        "registered": "2026-08-04T10:15:38.000Z",
+        "updated": "2026-08-04T11:15:15.000Z"
+    },
+    "doi": "10.48548/pubdata-4053",
+    "license_uri": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
+}

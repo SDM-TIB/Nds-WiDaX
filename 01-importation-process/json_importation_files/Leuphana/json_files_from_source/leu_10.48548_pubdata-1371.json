@@ -1,0 +1,1363 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/1434",
+        "datestamp": "2026-05-08T08:37:27Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Bo\u00df, Leif",
+                "qualifier": "author",
+                "authority": "virtual::2075",
+                "confidence": "-1"
+            },
+            {
+                "value": "Ross, Jennifer",
+                "qualifier": "author",
+                "authority": "virtual::2107",
+                "confidence": "-1"
+            },
+            {
+                "value": "Reis, Dorota",
+                "qualifier": "author",
+                "authority": "virtual::2113",
+                "confidence": "-1"
+            },
+            {
+                "value": "Pischel, Sarah",
+                "qualifier": "author",
+                "authority": "virtual::2145",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mallwitz, Tim",
+                "qualifier": "author",
+                "authority": "virtual::2151",
+                "confidence": "-1"
+            },
+            {
+                "value": "Br\u00fcckner, Hanna Amira",
+                "qualifier": "author",
+                "authority": "virtual::2183",
+                "confidence": "-1"
+            },
+            {
+                "value": "Tanner, Grit",
+                "qualifier": "author",
+                "authority": "virtual::2189",
+                "confidence": "-1"
+            },
+            {
+                "value": "Nissen, Helge",
+                "qualifier": "author",
+                "authority": "virtual::2221",
+                "confidence": "-1"
+            },
+            {
+                "value": "Kalon, Lina",
+                "qualifier": "author",
+                "authority": "virtual::2227",
+                "confidence": "-1"
+            },
+            {
+                "value": "Sch\u00fcmann, Marlies",
+                "qualifier": "author",
+                "authority": "virtual::2259",
+                "confidence": "-1"
+            },
+            {
+                "value": "Lennefer, Thomas",
+                "qualifier": "author",
+                "authority": "virtual::2265",
+                "confidence": "-1"
+            },
+            {
+                "value": "Janneck, Monique",
+                "qualifier": "author",
+                "authority": "virtual::2297",
+                "confidence": "-1"
+            },
+            {
+                "value": "Felfe, J\u00f6rg",
+                "qualifier": "author",
+                "authority": "virtual::2303",
+                "confidence": "-1"
+            },
+            {
+                "value": "Ducki, Antje",
+                "qualifier": "author",
+                "authority": "virtual::2335",
+                "confidence": "-1"
+            },
+            {
+                "value": "Lehr, Dirk",
+                "qualifier": "author",
+                "authority": "virtual::2341",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-09-11T10:20:03Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2024-09-11T10:20:03Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-09-11",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-09-05T06:33:25Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/1434",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-1371",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Care4Care",
+                "authority": "virtual::2069",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Care4Care outcome data 2024"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Survey Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Logfiles / Usage Data / Protocols",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Digital Health",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Pflegepersonal",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Beruf",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Gesundheitswesen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Arbeitsgesundheit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Gesundheitsf\u00f6rderung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Mentale Gesundheit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Digitale Gesundheit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Intervention",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Onlineplattform",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wirksamkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Arbeitsumfeld",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Psychosoziale Faktoren",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Stress",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Psychische Erkrankung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nurse",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Healthcare Professional",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Occupation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Healthcare",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Occupational Health",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Health Promotion",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Mental Health",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Digital Health",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Intervention",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Online Platform",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Efficiency",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Work Environment",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Psychosocial Factors",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Stress",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Mental Disorder",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Outcome data of variables as defined and pre-registered in the German Clinical Trials. Register: https://drks.de/search/en/trial/DRKS00027869.",
+                "qualifier": "note"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "Bundesweit",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institute of Sustainability Psychology (ISP)",
+                "authority": "virtual::10074",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::2373",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Bo\u00df"
+                    ],
+                    "givenName": [
+                        "Leif"
+                    ],
+                    "orcid": [
+                        "0000-0001-9012-0839"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2075",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Ross"
+                    ],
+                    "givenName": [
+                        "Jennifer"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2107",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Reis"
+                    ],
+                    "givenName": [
+                        "Dorota"
+                    ],
+                    "orcid": [
+                        "0000-0002-0027-9713"
+                    ],
+                    "gnd": [
+                        "1044437324"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2113",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Pischel"
+                    ],
+                    "givenName": [
+                        "Sarah"
+                    ],
+                    "orcid": [
+                        "0000-0001-8949-0488"
+                    ],
+                    "gnd": [
+                        "1279639954"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2145",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mallwitz"
+                    ],
+                    "givenName": [
+                        "Tim"
+                    ],
+                    "orcid": [
+                        "0000-0002-2558-9603"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2151",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Br\u00fcckner"
+                    ],
+                    "givenName": [
+                        "Hanna Amira"
+                    ],
+                    "orcid": [
+                        "0009-0003-4406-7872"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2183",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Tanner"
+                    ],
+                    "givenName": [
+                        "Grit"
+                    ],
+                    "orcid": [
+                        "0000-0003-2966-9894"
+                    ],
+                    "gnd": [
+                        "1147899983"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2189",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Nissen"
+                    ],
+                    "givenName": [
+                        "Helge"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2221",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Kalon"
+                    ],
+                    "givenName": [
+                        "Lina"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2227",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Sch\u00fcmann"
+                    ],
+                    "givenName": [
+                        "Marlies"
+                    ],
+                    "orcid": [
+                        "0000-0003-3112-3575"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2259",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Lennefer"
+                    ],
+                    "givenName": [
+                        "Thomas"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2265",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Janneck"
+                    ],
+                    "givenName": [
+                        "Monique"
+                    ],
+                    "orcid": [
+                        "0000-0003-4269-009X"
+                    ],
+                    "gnd": [
+                        "133512959"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2297",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Felfe"
+                    ],
+                    "givenName": [
+                        "J\u00f6rg"
+                    ],
+                    "orcid": [
+                        "0000-0003-0634-6232"
+                    ],
+                    "gnd": [
+                        "123496853"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2303",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Ducki"
+                    ],
+                    "givenName": [
+                        "Antje"
+                    ],
+                    "gnd": [
+                        "120446693"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2335",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Lehr"
+                    ],
+                    "givenName": [
+                        "Dirk"
+                    ],
+                    "orcid": [
+                        "0000-0002-5560-3605"
+                    ],
+                    "gnd": [
+                        "133912663"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::2341",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Allgemeine Ortskrankenkasse (AOK)"
+                    ],
+                    "ror": [
+                        "004cmqw89"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::2069",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Allgemeine Ortskrankenkasse (AOK)",
+                "qualifier": "funderName",
+                "authority": "virtual::2069",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The dataset is the result of a cluster-randomized controlled trial as part of the project Care4Care. Following an integrated approach, the research group developed an occupational e-mental health platform, Care4Care, which integrates both work-directed and person-directed interventions for promoting mental health in nurses. They evaluated the effects of the platform compared with those of an extended care-as-usual control condition. 357 nurses and professional carers (intervention: 211, control: 136) from 33 healthcare service facilities have been investigated. The participants received either immediate access to the platform or access to two short subcomponents of the platform plus routine occupational health promotion offerings as well as delayed access to the whole platform after six months. The primary outcome was improvement in the psychosocial safety climate after six months. The secondary outcomes included perceived stress, depressive symptoms, and other strain-related indicators. The results indicate: Bayesian multilevel analyses revealed a meaningful improvement in the psychosocial safety climate in the intervention group compared with the control group (Median = 2.04 [95% CrI: -0.32 to 4.44], Cohen's d = 0.25]. The analysis showed that the intervention was superior with a probability of 95.4%. In addition, analyses of the secondary outcomes revealed a probability of 99.3% for a superior effect of the intervention compared with the control on perceived stress and lower probabilities (83.5% to 91.6%) for effects on cognitive and emotional strain, self-care, and depression. No meaningful effects on presenteeism, absenteeism, reward, effort, vigour or job satisfaction were found. A total of 85 (40%) participants in the intervention group used Care4Care, whereas 37 (27%) participants in the control group used the two subcomponents of the platform.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Computer-assisted questionnaire",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2022-06-21 - 2023-06-15",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "deu",
+                "lang": "-"
+            },
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "614c537a-f04a-4556-8738-f59bd632a2dc",
+                "authority": "virtual::2075",
+                "confidence": "-1"
+            },
+            {
+                "value": "2365f5b0-f81c-4d4a-a069-b47c966ba385",
+                "authority": "virtual::2107",
+                "confidence": "-1"
+            },
+            {
+                "value": "921ebe49-0c4c-4985-b405-406156e99a15",
+                "authority": "virtual::2113",
+                "confidence": "-1"
+            },
+            {
+                "value": "e25d2b3e-03ee-447a-96fc-4ea4145dee43",
+                "authority": "virtual::2145",
+                "confidence": "-1"
+            },
+            {
+                "value": "6544bb5a-b02a-49f0-a1fb-0c7a86b30e4b",
+                "authority": "virtual::2151",
+                "confidence": "-1"
+            },
+            {
+                "value": "4fc0ac53-14b4-43cf-a002-fc3d9e18635d",
+                "authority": "virtual::2183",
+                "confidence": "-1"
+            },
+            {
+                "value": "d6494c60-9143-4be8-b6f5-8c57868f11ab",
+                "authority": "virtual::2189",
+                "confidence": "-1"
+            },
+            {
+                "value": "6148b4b8-2a26-4e1d-ac9a-1c183f9cbd3a",
+                "authority": "virtual::2221",
+                "confidence": "-1"
+            },
+            {
+                "value": "b8526616-0145-436f-9446-3822286c8a5d",
+                "authority": "virtual::2227",
+                "confidence": "-1"
+            },
+            {
+                "value": "0f963324-3583-4e24-bfb9-ad353e32122f",
+                "authority": "virtual::2259",
+                "confidence": "-1"
+            },
+            {
+                "value": "81149a2e-54b3-4fa9-8fbf-4fbb9db8f85a",
+                "authority": "virtual::2265",
+                "confidence": "-1"
+            },
+            {
+                "value": "a84aa946-e8cf-4404-b297-3db639a3f6fd",
+                "authority": "virtual::2297",
+                "confidence": "-1"
+            },
+            {
+                "value": "d31fe9a5-18cb-4ccb-901d-985d6630e46b",
+                "authority": "virtual::2303",
+                "confidence": "-1"
+            },
+            {
+                "value": "66c1b5b2-c725-433a-93c3-9a0c4dde61d1",
+                "authority": "virtual::2335",
+                "confidence": "-1"
+            },
+            {
+                "value": "cdbfbf91-d4ee-4d1a-80b6-a665b70b4cc5",
+                "authority": "virtual::2341",
+                "confidence": "-1"
+            },
+            {
+                "value": "614c537a-f04a-4556-8738-f59bd632a2dc",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2075",
+                "confidence": "-1"
+            },
+            {
+                "value": "2365f5b0-f81c-4d4a-a069-b47c966ba385",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2107",
+                "confidence": "-1"
+            },
+            {
+                "value": "921ebe49-0c4c-4985-b405-406156e99a15",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2113",
+                "confidence": "-1"
+            },
+            {
+                "value": "e25d2b3e-03ee-447a-96fc-4ea4145dee43",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2145",
+                "confidence": "-1"
+            },
+            {
+                "value": "6544bb5a-b02a-49f0-a1fb-0c7a86b30e4b",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2151",
+                "confidence": "-1"
+            },
+            {
+                "value": "4fc0ac53-14b4-43cf-a002-fc3d9e18635d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2183",
+                "confidence": "-1"
+            },
+            {
+                "value": "d6494c60-9143-4be8-b6f5-8c57868f11ab",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2189",
+                "confidence": "-1"
+            },
+            {
+                "value": "6148b4b8-2a26-4e1d-ac9a-1c183f9cbd3a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2221",
+                "confidence": "-1"
+            },
+            {
+                "value": "b8526616-0145-436f-9446-3822286c8a5d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2227",
+                "confidence": "-1"
+            },
+            {
+                "value": "0f963324-3583-4e24-bfb9-ad353e32122f",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2259",
+                "confidence": "-1"
+            },
+            {
+                "value": "81149a2e-54b3-4fa9-8fbf-4fbb9db8f85a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2265",
+                "confidence": "-1"
+            },
+            {
+                "value": "a84aa946-e8cf-4404-b297-3db639a3f6fd",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2297",
+                "confidence": "-1"
+            },
+            {
+                "value": "d31fe9a5-18cb-4ccb-901d-985d6630e46b",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2303",
+                "confidence": "-1"
+            },
+            {
+                "value": "66c1b5b2-c725-433a-93c3-9a0c4dde61d1",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2335",
+                "confidence": "-1"
+            },
+            {
+                "value": "cdbfbf91-d4ee-4d1a-80b6-a665b70b4cc5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2341",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "c5770d0c-232e-4d6c-ad29-701b509c6426",
+                "authority": "virtual::10074",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::2373",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2373",
+                "confidence": "-1"
+            },
+            {
+                "value": "c5770d0c-232e-4d6c-ad29-701b509c6426",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10074",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "b4170063-a3b8-457e-b155-7d830455d2b1",
+                "authority": "virtual::2069",
+                "confidence": "-1"
+            },
+            {
+                "value": "b4170063-a3b8-457e-b155-7d830455d2b1",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2069",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-1371",
+        "title": "Care4Care outcome data 2024",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Bo\u00df, Leif",
+                "givenName": "Leif",
+                "familyName": "Bo\u00df",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-9012-0839",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Ross, Jennifer",
+                "givenName": "Jennifer",
+                "familyName": "Ross",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Reis, Dorota",
+                "givenName": "Dorota",
+                "familyName": "Reis",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-0027-9713",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1044437324",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Pischel, Sarah",
+                "givenName": "Sarah",
+                "familyName": "Pischel",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-8949-0488",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1279639954",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Mallwitz, Tim",
+                "givenName": "Tim",
+                "familyName": "Mallwitz",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-2558-9603",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Br\u00fcckner, Hanna Amira",
+                "givenName": "Hanna Amira",
+                "familyName": "Br\u00fcckner",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0003-4406-7872",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Tanner, Grit",
+                "givenName": "Grit",
+                "familyName": "Tanner",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2966-9894",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1147899983",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Nissen, Helge",
+                "givenName": "Helge",
+                "familyName": "Nissen",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Kalon, Lina",
+                "givenName": "Lina",
+                "familyName": "Kalon",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Sch\u00fcmann, Marlies",
+                "givenName": "Marlies",
+                "familyName": "Sch\u00fcmann",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-3112-3575",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Lennefer, Thomas",
+                "givenName": "Thomas",
+                "familyName": "Lennefer",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Janneck, Monique",
+                "givenName": "Monique",
+                "familyName": "Janneck",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-4269-009X",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Felfe, J\u00f6rg",
+                "givenName": "J\u00f6rg",
+                "familyName": "Felfe",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-0634-6232",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "123496853",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Ducki, Antje",
+                "givenName": "Antje",
+                "familyName": "Ducki",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "120446693",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Lehr, Dirk",
+                "givenName": "Dirk",
+                "familyName": "Lehr",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-5560-3605",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "133912663",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "The dataset is the result of a cluster-randomized controlled trial as part of the project Care4Care. Following an integrated approach, the research group developed an occupational e-mental health platform, Care4Care, which integrates both work-directed and person-directed interventions for promoting mental health in nurses. They evaluated the effects of the platform compared with those of an extended care-as-usual control condition. 357 nurses and professional carers (intervention: 211, control: 136) from 33 healthcare service facilities have been investigated. The participants received either immediate access to the platform or access to two short subcomponents of the platform plus routine occupational health promotion offerings as well as delayed access to the whole platform after six months. The primary outcome was improvement in the psychosocial safety climate after six months. The secondary outcomes included perceived stress, depressive symptoms, and other strain-related indicators. The results indicate: Bayesian multilevel analyses revealed a meaningful improvement in the psychosocial safety climate in the intervention group compared with the control group (Median = 2.04 [95% CrI: -0.32 to 4.44], Cohen's d = 0.25]. The analysis showed that the intervention was superior with a probability of 95.4%. In addition, analyses of the secondary outcomes revealed a probability of 99.3% for a superior effect of the intervention compared with the control on perceived stress and lower probabilities (83.5% to 91.6%) for effects on cognitive and emotional strain, self-care, and depression. No meaningful effects on presenteeism, absenteeism, reward, effort, vigour or job satisfaction were found. A total of 85 (40%) participants in the intervention group used Care4Care, whereas 37 (27%) participants in the control group used the two subcomponents of the platform.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Computer-assisted questionnaire",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Pflegepersonal"
+            },
+            {
+                "subject": "Beruf"
+            },
+            {
+                "subject": "Gesundheitswesen"
+            },
+            {
+                "subject": "Arbeitsgesundheit"
+            },
+            {
+                "subject": "Gesundheitsf\u00f6rderung"
+            },
+            {
+                "subject": "Mentale Gesundheit"
+            },
+            {
+                "subject": "Digitale Gesundheit"
+            },
+            {
+                "subject": "Intervention"
+            },
+            {
+                "subject": "Onlineplattform"
+            },
+            {
+                "subject": "Wirksamkeit"
+            },
+            {
+                "subject": "Arbeitsumfeld"
+            },
+            {
+                "subject": "Psychosoziale Faktoren"
+            },
+            {
+                "subject": "Stress"
+            },
+            {
+                "subject": "Psychische Erkrankung"
+            },
+            {
+                "subject": "Nurse"
+            },
+            {
+                "subject": "Healthcare Professional"
+            },
+            {
+                "subject": "Occupation"
+            },
+            {
+                "subject": "Healthcare"
+            },
+            {
+                "subject": "Occupational Health"
+            },
+            {
+                "subject": "Health Promotion"
+            },
+            {
+                "subject": "Mental Health"
+            },
+            {
+                "subject": "Digital Health"
+            },
+            {
+                "subject": "Online Platform"
+            },
+            {
+                "subject": "Efficiency"
+            },
+            {
+                "subject": "Work Environment"
+            },
+            {
+                "subject": "Psychosocial Factors"
+            },
+            {
+                "subject": "Mental Disorder"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-09-11",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2024-09-11",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-09-05",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-09-11",
+                "dateType": "Available"
+            },
+            {
+                "date": "2022-06-21/2023-06-15",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "mul",
+        "relatedIdentifiers": [],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "bitstream_603c9220-b274-4c56-94e2-dc6424c69ddd_access"
+            },
+            {
+                "lang": "en-US",
+                "rightsUri": "https://pubdata.leuphana.de/static/docs/research_data/PubData_UsageLicense_AccessProtected_ResearchData.pdf",
+                "rightsIdentifier": "pubdata-1.0"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "Bundesweit"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Care4Care",
+                "funderName": "Allgemeine Ortskrankenkasse (AOK)",
+                "funderIdentifier": "https://ror.org/004cmqw89",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/1434",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-09-11T11:15:13.000Z",
+        "registered": "2024-09-11T11:15:24.000Z",
+        "updated": "2026-05-08T09:15:14.000Z"
+    },
+    "doi": "10.48548/pubdata-1371",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

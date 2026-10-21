@@ -1,0 +1,209 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2023",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Maschewski, Jan",
+            "givenName": "Jan",
+            "familyName": "Maschewski",
+            "orcid": ""
+        },
+        {
+            "author": "Richter, Kenneth",
+            "givenName": "Kenneth",
+            "familyName": "Richter",
+            "orcid": ""
+        },
+        {
+            "author": "Zimmer, Markus Philipp",
+            "givenName": "Markus Philipp",
+            "familyName": "Zimmer",
+            "orcid": "0000-0003-1499-5427"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-69.3",
+    "doi_date_published": "2023",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-69-3",
+    "notes": "This dataset is a register of documents included in an analysis of digital health platform governance sorted in two lists: The first list shows documents regarding Apple Health. The second list focuses on documents from (2) telematics infrastructure with a special view on German healthcare. The register provides author, year, title and referring link to every single document and includes various types of web resources such as laws, statements, guidelines, workflows, reports, articles, etc.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Digital health platform governance document register",
+    "url": "https://doi.org/10.48548/pubdata-69.3",
+    "citation": [],
+    "publication_year": "2023",
+    "subject_areas": [
+        {
+            "subject_area_name": "Digital Health"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Gesundheitswesen",
+            "name": "Gesundheitswesen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Digitale Gesundheit",
+            "name": "Digitale Gesundheit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Datenschutz",
+            "name": "Datenschutz",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Gesundheitsdaten",
+            "name": "Gesundheitsdaten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Steuerungsprozesse",
+            "name": "Steuerungsprozesse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Datensicherheit",
+            "name": "Datensicherheit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Datenbertragung",
+            "name": "Datenbertragung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Digitale Technologien",
+            "name": "Digitale Technologien",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Verfahrensweise",
+            "name": "Verfahrensweise",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Implementierung",
+            "name": "Implementierung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Thematische Analyse",
+            "name": "Thematische Analyse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Dokumentenanalyse",
+            "name": "Dokumentenanalyse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Healthcare",
+            "name": "Healthcare",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Digital Health",
+            "name": "Digital Health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Privacy",
+            "name": "Privacy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Health Data",
+            "name": "Health Data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Governance",
+            "name": "Governance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Data Security",
+            "name": "Data Security",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Data Transmission",
+            "name": "Data Transmission",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Digital Technologies",
+            "name": "Digital Technologies",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Procedure",
+            "name": "Procedure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Implementation",
+            "name": "Implementation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Thematic Analysis",
+            "name": "Thematic Analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Document Analysis",
+            "name": "Document Analysis",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

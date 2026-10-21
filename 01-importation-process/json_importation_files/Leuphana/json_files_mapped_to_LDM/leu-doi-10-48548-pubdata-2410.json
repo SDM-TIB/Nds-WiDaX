@@ -1,0 +1,257 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Sanya Julius, John",
+            "givenName": "John",
+            "familyName": "Sanya Julius",
+            "orcid": "0000-0002-2986-9813"
+        },
+        {
+            "author": "Pearson, Jasmine",
+            "givenName": "Jasmine",
+            "familyName": "Pearson",
+            "orcid": "0000-0001-6341-1382"
+        },
+        {
+            "author": "Mwampamba, Tuyeni H.",
+            "givenName": "Tuyeni H.",
+            "familyName": "Mwampamba",
+            "orcid": "0000-0003-4635-5774"
+        },
+        {
+            "author": "Sesabo, Jennifer Kasanda",
+            "givenName": "Jennifer Kasanda",
+            "familyName": "Sesabo",
+            "orcid": "0000-0002-8518-9011"
+        },
+        {
+            "author": "Mart\u00edn-L\u00f3pez, Berta",
+            "givenName": "Berta",
+            "familyName": "Mart\u00edn-L\u00f3pez",
+            "orcid": "0000-0003-2622-0135"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-2410",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-2410",
+    "notes": "The dataset entails data frames from transcripts of 26 interviews conducted through the photovoice method with smallholder farmers at Mount Kilimanjaro, Tanzania, to understand how smallholder farmers in Kilimanjaro benefit from, value, and emotionally connect with nature. Additionally, the photovoice method included a transect walk with a photo taking exercise that included 84 photos. Through the exercise, the authors were able to understand the interplays between the nature's contributions to people (NCP), the values of nature and the emotional connection with nature.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Interplays between nature's contributions to people, values of nature, and emotions expressed by smallholder farmers in kilimanjaro, tanzania: insights for inclusive conservation_dataset",
+    "url": "https://doi.org/10.48548/pubdata-2410",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_name": "Mensch-Natur-Beziehung"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Chagga",
+            "name": "Chagga",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landwirt",
+            "name": "Landwirt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kleinbuerliche Strukturen",
+            "name": "Kleinbuerliche Strukturen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Naturleistungen fr den Menschen NCP",
+            "name": "Naturleistungen fr den Menschen NCP",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Werte",
+            "name": "Werte",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Emotion",
+            "name": "Emotion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Bewertung",
+            "name": "Bewertung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Naturschutz",
+            "name": "Naturschutz",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sozial-kologisches System",
+            "name": "Sozial-kologisches System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Baumgarten",
+            "name": "Baumgarten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Gebirge",
+            "name": "Gebirge",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "kosystem",
+            "name": "kosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kilimandscharo",
+            "name": "Kilimandscharo",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tansania",
+            "name": "Tansania",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mensch-Natur-Interaktion",
+            "name": "Mensch-Natur-Interaktion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Chagga",
+            "name": "Chagga",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Farmer",
+            "name": "Farmer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Smallholder Structures",
+            "name": "Smallholder Structures",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Natures Contributions to People NCP",
+            "name": "Natures Contributions to People NCP",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Values",
+            "name": "Values",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Emotion",
+            "name": "Emotion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Valuation",
+            "name": "Valuation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nature Conservation",
+            "name": "Nature Conservation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Social-ecological System",
+            "name": "Social-ecological System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Homegarden",
+            "name": "Homegarden",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mountain",
+            "name": "Mountain",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecosystem",
+            "name": "Ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mount Kilimanjaro",
+            "name": "Mount Kilimanjaro",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tanzania",
+            "name": "Tanzania",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Human-Nature Interaction",
+            "name": "Human-Nature Interaction",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

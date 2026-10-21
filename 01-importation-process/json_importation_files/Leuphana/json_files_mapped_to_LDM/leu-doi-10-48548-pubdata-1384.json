@@ -1,0 +1,209 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Br\u00fcckner, Hanna Amira",
+            "givenName": "Hanna Amira",
+            "familyName": "Br\u00fcckner",
+            "orcid": "0009-0003-4406-7872"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-1384",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-1384",
+    "notes": "This study investigated the effectiveness of the digital SleepCare intervention for reducing insomnia in nurses suffering from shift work sleep disorder. In a two-arm randomized controlled trial (N=74), SleepCare was compared to shift work-specific psychoeducation published digitally by the German Sleep Society. The diagnosis of shift work sleep disorder was established through a clinical interview. The primary outcome was insomnia severity measured using the Insomnia Severity Index (ISI) at baseline, 8 weeks and 3 months. Further indicators of mental health and long-term hair cortisol concentration were evaluated as secondary endpoints. The intention-to-treat analysis of covariance showed a greater reduction in insomnia severity in the intervention group versus psychoeducation, at both post-intervention (d=1.11) and follow-up (d=0.97), corresponding to between-group differences of 5.0 and 5.3 ISI points, respectively. Significant effects were observed for sleep-related, but not other mental health indicators. The effects on insomnia were reflected in reduced long-term hair cortisol in the intervention group. SleepCare was effective at reducing insomnia symptoms to a clinically-meaningful extent and is one of the first program adapted to a digital cognitive-behavioral therapy for insomnia  (CBT-I) intervention to address nurses' needs, including specific exercises for shift workers. Biological evaluation using hair cortisol, collected from participants at home, was feasible and appropriate for preserving the advantages of digital interventions; namely, flexibility in time and place.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Sleepcare outcome data 2024",
+    "url": "https://doi.org/10.48548/pubdata-1384",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_name": "Digital Health"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Schlaflosigkeit",
+            "name": "Schlaflosigkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Schlaf",
+            "name": "Schlaf",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Schlafstrung",
+            "name": "Schlafstrung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Pflegepersonal",
+            "name": "Pflegepersonal",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Schichtarbeit",
+            "name": "Schichtarbeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Arbeitsgesundheit",
+            "name": "Arbeitsgesundheit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mentale Gesundheit",
+            "name": "Mentale Gesundheit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Verhaltenstherapie",
+            "name": "Verhaltenstherapie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Intervention",
+            "name": "Intervention",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Internetbasiert",
+            "name": "Internetbasiert",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wirksamkeit",
+            "name": "Wirksamkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Cortisol",
+            "name": "Cortisol",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Digitale Gesundheit",
+            "name": "Digitale Gesundheit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insomnia",
+            "name": "Insomnia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sleep",
+            "name": "Sleep",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sleep Disorder",
+            "name": "Sleep Disorder",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nurse",
+            "name": "Nurse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Shift Work",
+            "name": "Shift Work",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Occupational Health",
+            "name": "Occupational Health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mental Health",
+            "name": "Mental Health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Behavioral Therapy",
+            "name": "Behavioral Therapy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Intervention",
+            "name": "Intervention",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Internet-based",
+            "name": "Internet-based",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Efficiency",
+            "name": "Efficiency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Cortisol",
+            "name": "Cortisol",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Digital Health",
+            "name": "Digital Health",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

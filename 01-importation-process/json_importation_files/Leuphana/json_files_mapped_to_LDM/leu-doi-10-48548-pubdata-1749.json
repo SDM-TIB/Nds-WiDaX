@@ -1,0 +1,281 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Knabbe, Friederike",
+            "givenName": "Friederike",
+            "familyName": "Knabbe",
+            "orcid": "0009-0005-1359-4201"
+        },
+        {
+            "author": "Escher, Yannik A.",
+            "givenName": "Yannik A.",
+            "familyName": "Escher",
+            "orcid": "0000-0002-8976-5805"
+        },
+        {
+            "author": "Petrowsky, Hannes M.",
+            "givenName": "Hannes M.",
+            "familyName": "Petrowsky",
+            "orcid": "0000-0002-2512-3256"
+        },
+        {
+            "author": "Loschelder, David D.",
+            "givenName": "David D.",
+            "familyName": "Loschelder",
+            "orcid": "0000-0001-5818-0559"
+        },
+        {
+            "author": "Kuhl, Poldi",
+            "givenName": "Poldi",
+            "familyName": "Kuhl",
+            "orcid": "0000-0001-8021-8840"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-1749",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Non Commercial 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-1749",
+    "notes": "Bei der Anwendung handelt es sich um ein immersives Virtual Reality (VR)-Trainingsprogramm, das Personen in verschiedenen Phasen ihrer p\u00e4dagogischen Laufbahn unterst\u00fctzt, darunter Studierende, Absolventinnen und Absolventen sowie Berufseinsteigerinnen und Berufseinsteiger. Das Training konzentriert sich auf die Weiterentwicklung von Beratungskompetenzen, die Bew\u00e4ltigung von Angst und das Erlernen effektiver Techniken f\u00fcr den Umgang mit einem Elterngespr\u00e4ch. Das VR-Training bietet ein sicheres und interaktives Umfeld, in dem die Teilnehmenden praktische Erfahrungen sammeln und Sicherheit im Umgang mit Elterngespr\u00e4chen gewinnen k\u00f6nnen. Durch den Einsatz modernster VR-Technologie dient dieses Training als praktisches Instrument f\u00fcr angewandtes Lernen, das die Teilnehmenden in die Lage versetzt, Elterngespr\u00e4che mit Zuversicht und Kompetenz zu f\u00fchren. Das Training ist halbautomatisiert. Ein menschlicher Instruktor ist notwendig, um den Teilnehmenden durch das Gespr\u00e4ch zu f\u00fchren. Das Training umfasst verschiedene Aussagen aus einem problemorientierten Elterngespr\u00e4ch. Die Nutzerinnen und Nutzer werden aufgefordert, das Elterngespr\u00e4ch zu f\u00fchren und verbal auf die Aussagen und Fragen der (virtuellen) Mutter zu antworten. In diesem Anwendungsfall geht es um das Problem, dass der Sch\u00fcler die Hausaufgaben vergisst, weshalb die Mutter zu dem Treffen eingeladen wurde. Ziel des Trainings ist es, gemeinsam mit der interagierenden Mutter m\u00f6gliche Gr\u00fcnde und L\u00f6sungen f\u00fcr das Problem zu finden. Das VR-Format bietet eine virtuell vermittelte Umgebung, die es den Lernenden erm\u00f6glicht, Gespr\u00e4chsszenarien auf eine ansprechende und realistische Weise zu \u00fcben. Das Training wurde in einer mehrw\u00f6chigen Interventionsstudie mit einer Kontrollbedingung empirisch validiert, an der 102 Personen teilnahmen. Die Ergebnisse zeigen, dass das Training die Vorbereitung der Teilnehmenden auf Elterngespr\u00e4che verbessert und die Angst vor dem Gespr\u00e4ch reduziert.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Virtual reality elterngespr\u00e4chstraining",
+    "url": "https://doi.org/10.48548/pubdata-1749",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_name": "Digitales Lernen"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Virtual Reality",
+            "name": "Virtual Reality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Elterngesprch",
+            "name": "Elterngesprch",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Simulation",
+            "name": "Simulation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lehrkrfte",
+            "name": "Lehrkrfte",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Beratungskompetenz",
+            "name": "Beratungskompetenz",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Beratung",
+            "name": "Beratung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Eltern",
+            "name": "Eltern",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Professionalisierung",
+            "name": "Professionalisierung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Berufliche Kompetenz",
+            "name": "Berufliche Kompetenz",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lehrkrftebildung",
+            "name": "Lehrkrftebildung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kompetenzentwicklung",
+            "name": "Kompetenzentwicklung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Training",
+            "name": "Training",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Programm",
+            "name": "Programm",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lehramtsstudium",
+            "name": "Lehramtsstudium",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Angewandtes Lernen",
+            "name": "Angewandtes Lernen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "E-Learning",
+            "name": "E-Learning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kommunikation",
+            "name": "Kommunikation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Virtual Reality",
+            "name": "Virtual Reality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Parent-Teacher Meeting",
+            "name": "Parent-Teacher Meeting",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Simulation",
+            "name": "Simulation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Teacher",
+            "name": "Teacher",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Consultation Competence",
+            "name": "Consultation Competence",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Consultation",
+            "name": "Consultation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Parents",
+            "name": "Parents",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Professionalisation",
+            "name": "Professionalisation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Professional Competence",
+            "name": "Professional Competence",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Teacher Training",
+            "name": "Teacher Training",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Competence Development",
+            "name": "Competence Development",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Training",
+            "name": "Training",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Programme",
+            "name": "Programme",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Teacher Education",
+            "name": "Teacher Education",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Applied Learning",
+            "name": "Applied Learning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "E-Learning",
+            "name": "E-Learning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Communication",
+            "name": "Communication",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

@@ -1,0 +1,707 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/13404",
+        "datestamp": "2026-04-24T09:15:48Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Hartmann, Eric",
+                "qualifier": "author",
+                "authority": "virtual::16914",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2026-04-24T09:13:53Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2026-04-24",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/13404",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-3337",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "The Sufficiency Perspective on Climate Change Mitigation - Policy Measures towards Transformation in Germany",
+                "authority": "virtual::16918",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "German Climate Change Mitigation Policy Database 2026",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Databases",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Context Materials / Supporting information",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Hartmann, Eric",
+                "authority": "virtual::16915",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Hartmann, Eric",
+                "authority": "virtual::16916",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Nachhaltigkeitssteuerung",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Klimapolitik",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Politik",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Strategie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltigkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Steuerungsprozesse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Klimawandel",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Abschw\u00e4chung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Suffizienz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bund",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Gesetz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Richtlinie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Transformation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Deutschland <Bundesrepublik>",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00d6konomie",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Climate Policy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Policy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Strategy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Governance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Climate Change",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Migitation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sufficiency",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Federal Government",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Law",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Transformation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Economy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Germany <Federal Republic>",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The source for the consolidated German Federal Laws published by the German Federal Ministry of Justice and Consumer Protection is the digital service gesetze-im-internet.de.",
+                "qualifier": "note",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country"
+            }
+        ],
+        "PublishingType": [
+            {
+                "value": "First publication"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Nachhaltigkeitssteuerung (INSUGO)",
+                "authority": "virtual::16919",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::16920",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Hartmann"
+                    ],
+                    "givenName": [
+                        "Eric"
+                    ],
+                    "orcid": [
+                        "0009-0005-4646-0031"
+                    ],
+                    "gnd": [
+                        "1324173548"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::16914",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Description": [
+            {
+                "value": "This research data contains 1) a policy database with policy instruments from German federal laws targeting climate change mitigation, 2) a coding guide, explaining the categories assigned during the qualitative content analysis, and 3) a list of all analyzed laws with at least one identified policy instruments.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Content coding",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Analysis of text documents",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2025-01-05 - 2026-04-20",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2025-01-05 ",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            },
+            {
+                "value": "deu"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2026"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "4597dd97-1d21-4bf2-9791-33c4c47890b2",
+                "authority": "virtual::16914",
+                "confidence": "-1"
+            },
+            {
+                "value": "4597dd97-1d21-4bf2-9791-33c4c47890b2",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16914",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "4597dd97-1d21-4bf2-9791-33c4c47890b2",
+                "authority": "virtual::16916",
+                "confidence": "-1"
+            },
+            {
+                "value": "4597dd97-1d21-4bf2-9791-33c4c47890b2",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16916",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "eef5da7c-acf0-4b25-9574-3621e79f851a",
+                "authority": "virtual::16919",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::16920",
+                "confidence": "-1"
+            },
+            {
+                "value": "eef5da7c-acf0-4b25-9574-3621e79f851a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16919",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16920",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "4597dd97-1d21-4bf2-9791-33c4c47890b2",
+                "authority": "virtual::16915",
+                "confidence": "-1"
+            },
+            {
+                "value": "4597dd97-1d21-4bf2-9791-33c4c47890b2",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16915",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "1064832b-3cca-431f-91fa-48811483e69c",
+                "authority": "virtual::16918",
+                "confidence": "-1"
+            },
+            {
+                "value": "1064832b-3cca-431f-91fa-48811483e69c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16918",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-3337",
+        "title": "German Climate Change Mitigation Policy Database 2026",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2026,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Hartmann, Eric",
+                "givenName": "Eric",
+                "familyName": "Hartmann",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0005-4646-0031",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1324173548",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Hartmann, Eric",
+                "nameType": "Personal",
+                "givenName": "Eric",
+                "familyName": "Hartmann",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Hartmann, Eric",
+                "nameType": "Personal",
+                "givenName": "Eric",
+                "familyName": "Hartmann",
+                "affiliation": [],
+                "contributorType": "RightsHolder",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "This research data contains 1) a policy database with policy instruments from German federal laws targeting climate change mitigation, 2) a coding guide, explaining the categories assigned during the qualitative content analysis, and 3) a list of all analyzed laws with at least one identified policy instruments.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Content coding",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Analysis of text documents",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Klimapolitik"
+            },
+            {
+                "subject": "Politik"
+            },
+            {
+                "subject": "Strategie"
+            },
+            {
+                "subject": "Nachhaltigkeit"
+            },
+            {
+                "subject": "Steuerungsprozesse"
+            },
+            {
+                "subject": "Klimawandel"
+            },
+            {
+                "subject": "Abschw\u00e4chung"
+            },
+            {
+                "subject": "Suffizienz"
+            },
+            {
+                "subject": "Bund"
+            },
+            {
+                "subject": "Gesetz"
+            },
+            {
+                "subject": "Richtlinie"
+            },
+            {
+                "subject": "Transformation"
+            },
+            {
+                "subject": "\u00d6konomie"
+            },
+            {
+                "subject": "Deutschland"
+            },
+            {
+                "subject": "Climate Policy"
+            },
+            {
+                "subject": "Policy"
+            },
+            {
+                "subject": "Strategy"
+            },
+            {
+                "subject": "Sustainability"
+            },
+            {
+                "subject": "Governance"
+            },
+            {
+                "subject": "Climate Change"
+            },
+            {
+                "subject": "Migitation"
+            },
+            {
+                "subject": "Sufficiency"
+            },
+            {
+                "subject": "Federal Government"
+            },
+            {
+                "subject": "Law"
+            },
+            {
+                "subject": "FOS: Law",
+                "schemeUri": "http://www.oecd.org/science/inno/38235147.pdf",
+                "subjectScheme": "Fields of Science and Technology (FOS)"
+            },
+            {
+                "subject": "Economy"
+            },
+            {
+                "subject": "Germany"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2026-04-24",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2026-04-24",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2025-01-05/2026-04-20",
+                "dateType": "Created"
+            },
+            {
+                "date": "2025-01-05/2025-01-05",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "mul",
+        "relatedIdentifiers": [],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            }
+        ],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/13404",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2026-04-24T09:15:32.000Z",
+        "registered": "2026-04-24T09:15:33.000Z",
+        "updated": "2026-04-24T10:15:14.000Z"
+    },
+    "doi": "10.48548/pubdata-3337",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

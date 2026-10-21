@@ -1,0 +1,702 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/249",
+        "datestamp": "2026-03-04T13:03:21Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Isaac, Roman",
+                "qualifier": "author",
+                "authority": "virtual::7293",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mart\u00edn-L\u00f3pez, Berta",
+                "qualifier": "author",
+                "authority": "virtual::7303",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-04-30T04:43:31Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2024-04-30T04:43:31Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-04-30",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-04-29T10:38:11Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/249",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-217",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Effects of land management on the Supply and Distribution of ecosystem services (ESuDis)",
+                "authority": "virtual::8781",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Coding Set: Social Network Analysis Data for the PhD Thesis \"More than trees\"",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Context Materials / Supporting information",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Coding Sets",
+                "qualifier": "kindsOfDataOther"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Mensch-Natur-Beziehung",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Netzwerkanalyse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Steuerungsprozesse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Dienstleistung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Naturleistungen f\u00fcr den Menschen (NCP)",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wald",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Koproduktion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Network Analysis",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Governance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Service Provision",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Nature's Contributions to People (NCP)",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Forest",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Co-production",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::10068",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::7331",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Isaac"
+                    ],
+                    "givenName": [
+                        "Roman"
+                    ],
+                    "orcid": [
+                        "0000-0002-0007-7433"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7293",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mart\u00edn-L\u00f3pez"
+                    ],
+                    "givenName": [
+                        "Berta"
+                    ],
+                    "orcid": [
+                        "0000-0003-2622-0135"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::7303",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Deutsche Forschungsgemeinschaft (DFG)"
+                    ],
+                    "ror": [
+                        "018mejw64"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::8781",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-218",
+                "qualifier": "IsDocumentedBy",
+                "authority": "virtual::7369",
+                "confidence": "-1"
+            },
+            {
+                "value": "DOI: 10.48548/pubdata-210",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::7341",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Deutsche Forschungsgemeinschaft (DFG)",
+                "qualifier": "funderName",
+                "authority": "virtual::8781",
+                "confidence": "-1"
+            },
+            {
+                "value": "65300036",
+                "qualifier": "awardNumber",
+                "authority": "virtual::8781",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "To identify relevant actors for the governance of co-produced forest nature's contributions to people (NCP) the researchers conducted a social-network analysis based on 39 semi-structured interviews with foresters and conservation managers. These interviews were conducted across three case study sites in Germany: Schorfheide-Chorin in the Northeast, Hainich-D\u00fcn in the Centre, and Schw\u00e4bische Alb in the Southwest. All three case study sites belong to the large-scale and long-term research platform Biodiversity Exploratories. The researchers employed a predefined coding set to analyse the interviews and grasp the relationships between different actors based on the anthropogenic capitals they used to co-produce forest nature's contributions to people (NCP). To secure the interviewees anonymity this coding cannot be published. Therefore, this data set is limited to this coding set.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Content coding",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2020-09 - 2023-11",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2021-05 - 2021-11",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "IsSupplementTo"
+                    ],
+                    "freetext": [
+                        "Isaac, R., Cumming, G. S., Felipe-Lucia, M. R., & Mart\u00edn-L\u00f3pez, B. (2025). The forest beyond the trees: A network perspective on governing co-production of nature\u2019s contributions to people. Ambio, 54(11), 1835-1851."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1007/s13280-025-02187-9"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "dc668790-224e-45e6-9fc6-30f1cbe96cdd",
+                "authority": "virtual::7293",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "authority": "virtual::7303",
+                "confidence": "-1"
+            },
+            {
+                "value": "dc668790-224e-45e6-9fc6-30f1cbe96cdd",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7293",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7303",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::10068",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::7331",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7331",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10068",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "bf13e527-518e-4c03-8543-7238a9203b1f",
+                "authority": "virtual::8781",
+                "confidence": "-1"
+            },
+            {
+                "value": "bf13e527-518e-4c03-8543-7238a9203b1f",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8781",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_Documents_": [
+            {
+                "value": "5c6c407c-b60e-46dd-ac51-c9fd354b518f",
+                "authority": "virtual::7264",
+                "confidence": "-1"
+            },
+            {
+                "value": "5c6c407c-b60e-46dd-ac51-c9fd354b518f",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7264",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsDocumentedBy_OfP": [
+            {
+                "value": "5c6c407c-b60e-46dd-ac51-c9fd354b518f",
+                "authority": "virtual::7369",
+                "confidence": "-1"
+            },
+            {
+                "value": "5c6c407c-b60e-46dd-ac51-c9fd354b518f",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7369",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "7084f45e-c3ba-4b31-9835-117119cda85b",
+                "authority": "virtual::2507",
+                "confidence": "-1"
+            },
+            {
+                "value": "7084f45e-c3ba-4b31-9835-117119cda85b",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2507",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "7084f45e-c3ba-4b31-9835-117119cda85b",
+                "authority": "virtual::7341",
+                "confidence": "-1"
+            },
+            {
+                "value": "7084f45e-c3ba-4b31-9835-117119cda85b",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::7341",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-217",
+        "title": "Coding Set: Social Network Analysis Data for the PhD Thesis \"More than trees\"",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Isaac, Roman",
+                "givenName": "Roman",
+                "familyName": "Isaac",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-0007-7433",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Mart\u00edn-L\u00f3pez, Berta",
+                "givenName": "Berta",
+                "familyName": "Mart\u00edn-L\u00f3pez",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2622-0135",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "To identify relevant actors for the governance of co-produced forest nature's contributions to people (NCP) the researchers conducted a social-network analysis based on 39 semi-structured interviews with foresters and conservation managers. These interviews were conducted across three case study sites in Germany: Schorfheide-Chorin in the Northeast, Hainich-D\u00fcn in the Centre, and Schw\u00e4bische Alb in the Southwest. All three case study sites belong to the large-scale and long-term research platform Biodiversity Exploratories. The researchers employed a predefined coding set to analyse the interviews and grasp the relationships between different actors based on the anthropogenic capitals they used to co-produce forest nature's contributions to people (NCP). To secure the interviewees anonymity this coding cannot be published. Therefore, this data set is limited to this coding set.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Content coding",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Netzwerkanalyse"
+            },
+            {
+                "subject": "Steuerungsprozesse"
+            },
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "Dienstleistung"
+            },
+            {
+                "subject": "Naturleistungen f\u00fcr den Menschen (NCP)"
+            },
+            {
+                "subject": "Wald"
+            },
+            {
+                "subject": "Koproduktion"
+            },
+            {
+                "subject": "Network Analysis"
+            },
+            {
+                "subject": "Governance"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Service Provision"
+            },
+            {
+                "subject": "Nature's Contributions to People (NCP)"
+            },
+            {
+                "subject": "Forest"
+            },
+            {
+                "subject": "Co-production"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-04-30",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2024-04-30",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-04-29",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-04-30",
+                "dateType": "Available"
+            },
+            {
+                "date": "2020-09/2023-11",
+                "dateType": "Created"
+            },
+            {
+                "date": "2021-05/2021-11",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.1007/s13280-025-02187-9",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsDocumentedBy",
+                "relatedIdentifier": "10.48548/pubdata-218",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-210",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Effects of land management on the Supply and Distribution of ecosystem services (ESuDis)",
+                "funderName": "Deutsche Forschungsgemeinschaft (DFG)",
+                "awardNumber": "65300036",
+                "funderIdentifier": "https://ror.org/018mejw64",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/249",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-04-30T05:15:13.000Z",
+        "registered": "2024-04-30T05:15:26.000Z",
+        "updated": "2026-03-04T13:15:16.000Z"
+    },
+    "doi": "10.48548/pubdata-217",
+    "license_uri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial 4.0 International"
+}

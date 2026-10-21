@@ -1,0 +1,167 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2021",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Apetrei, Cristina I.",
+            "givenName": "Cristina I.",
+            "familyName": "Apetrei",
+            "orcid": "0000-0003-2109-6470"
+        },
+        {
+            "author": "Caniglia, Guido",
+            "givenName": "Guido",
+            "familyName": "Caniglia",
+            "orcid": "0000-0002-8096-2087"
+        },
+        {
+            "author": "Wehrden, Henrik von",
+            "givenName": "Henrik von",
+            "familyName": "Wehrden",
+            "orcid": "0000-0003-2087-5552"
+        },
+        {
+            "author": "Lang, Daniel J.",
+            "givenName": "Daniel J.",
+            "familyName": "Lang",
+            "orcid": "0000-0001-5435-1488"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-2613",
+    "doi_date_published": "2021",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-2613",
+    "notes": "This dataset represents the review protocol and methodological details of a systematic literature review of knowledge related concepts in sustainability science. This also includes the list of all original articles analyzed. The search results were based on a specific combination of keywords related to knowledge, learning and sustainability. In order to identify mainstream knowledge concepts, results were limited to journal articles in English with an average citation per year of at least 1.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Electronic supplementary material for apetrei et al. 2021 \u201cjust another buzzword? a systematic literature review of knowledge related concepts in sustainability science\u201d",
+    "url": "https://doi.org/10.48548/pubdata-2613",
+    "citation": [],
+    "publication_year": "2021",
+    "subject_areas": [
+        {
+            "subject_area_name": "Nachhaltigkeitswissenschaft"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Systematic Review",
+            "name": "Systematic Review",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Forschungsliteratur",
+            "name": "Forschungsliteratur",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nachhaltigkeitswissenschaft",
+            "name": "Nachhaltigkeitswissenschaft",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Konzept",
+            "name": "Konzept",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wissen",
+            "name": "Wissen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Handeln",
+            "name": "Handeln",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wissensproduktion",
+            "name": "Wissensproduktion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wissensmanagement",
+            "name": "Wissensmanagement",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Systematic Review",
+            "name": "Systematic Review",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Research Literature",
+            "name": "Research Literature",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sustainability Science",
+            "name": "Sustainability Science",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Concept",
+            "name": "Concept",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Knowledge",
+            "name": "Knowledge",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Action",
+            "name": "Action",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Knowledge Production",
+            "name": "Knowledge Production",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Knowledge Management",
+            "name": "Knowledge Management",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

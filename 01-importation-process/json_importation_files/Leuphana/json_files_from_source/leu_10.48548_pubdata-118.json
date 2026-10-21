@@ -1,0 +1,1135 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/138",
+        "datestamp": "2026-05-28T09:06:02Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Wei\u00df, Fabio",
+                "qualifier": "author",
+                "authority": "virtual::4989",
+                "confidence": "-1"
+            },
+            {
+                "value": "Winter, Susanne",
+                "qualifier": "author",
+                "authority": "virtual::5007",
+                "confidence": "-1"
+            },
+            {
+                "value": "Pflugmacher, Dirk",
+                "qualifier": "author",
+                "authority": "virtual::5027",
+                "confidence": "-1"
+            },
+            {
+                "value": "Kolling, Thomas",
+                "qualifier": "author",
+                "authority": "virtual::5045",
+                "confidence": "-1"
+            },
+            {
+                "value": "Linde, Andreas",
+                "qualifier": "author",
+                "authority": "virtual::5065",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-01-26T12:54:01Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2024-01-26T12:54:01Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-01-26",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-01-24T08:01:06Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/138",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-118",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Investigating long-term trends and their drivers in epigeal forest insect communities: A reassessment of ground beetles (Coleoptera: Carabidae) in lowland beech forests of the Schorfheide-Chorin Biosphere Reserve",
+                "authority": "virtual::4969",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Carabid beetles of old beech forests - repeated sampling 1999-2001 and 2020-2022",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Measurement Data / Measured Values",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Secondary Data",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Contact": [
+            {
+                "value": "fabio.weiss@posteo.de; andreas.linde@hnee.de",
+                "lang": "-"
+            }
+        ],
+        "Description": [
+            {
+                "value": "This research project aims to investigate long-term population dynamics and trends in carabids with a special focus on the lowland beech forests of Schorfheide-Chorin Biosphere Reserve. The researchers work with continuous fine-scale time series data as well as with a large-scale repeated survey. Other aspects of the project focus on the improvement of methods used to investigate trends in insect populations.",
+                "qualifier": "researchDesign",
+                "lang": "-"
+            },
+            {
+                "value": "Insektenfallen",
+                "qualifier": "methodsOther"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Biodiversit\u00e4t",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Laufk\u00e4fer",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "K\u00e4fer",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Insekten",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Vorkommen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wald",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Biosph\u00e4renreservat",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Insektenmonitoring",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Biodiversit\u00e4t",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Insektenr\u00fcckgang",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Zeitreihe",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Carabids",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ground Beetles",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Insects",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Abundance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Forest",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Biosphere Reserve",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Insect Monitoring",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Biodiversity",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Insect Decline",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Time Series",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "Brandenburg",
+                "qualifier": "region",
+                "lang": "-"
+            },
+            {
+                "value": "Mecklenburg-Vorpommern",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::5083",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Wei\u00df"
+                    ],
+                    "givenName": [
+                        "Fabio"
+                    ],
+                    "orcid": [
+                        "0000-0003-1078-1528"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::4989",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Winter"
+                    ],
+                    "givenName": [
+                        "Susanne"
+                    ],
+                    "orcid": [
+                        "0009-0009-5580-7550"
+                    ],
+                    "gnd": [
+                        "130823635"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::5007",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Pflugmacher"
+                    ],
+                    "givenName": [
+                        "Dirk"
+                    ],
+                    "orcid": [
+                        "0000-0002-2226-4029"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::5027",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Kolling"
+                    ],
+                    "givenName": [
+                        "Thomas"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::5045",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Linde"
+                    ],
+                    "givenName": [
+                        "Andreas"
+                    ],
+                    "orcid": [
+                        "0000-0002-0154-7943"
+                    ],
+                    "gnd": [
+                        "1136873228"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::5065",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Ministerium f\u00fcr Wissenschaft, Forschung und Kultur (MWFK) Brandenburg"
+                    ],
+                    "ror": [
+                        "02vcjcj30"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::4969",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-1377",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::5103",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Date": [
+            {
+                "value": "1999-04 - 2001-11",
+                "qualifier": "Coverage"
+            },
+            {
+                "value": "2020-04 - 2022-11",
+                "qualifier": "Coverage"
+            },
+            {
+                "value": "1999-04 - 2001-11",
+                "qualifier": "Collected"
+            },
+            {
+                "value": "2020-04 - 2022-11",
+                "qualifier": "Collected"
+            }
+        ],
+        "FundingReference": [
+            {
+                "value": "Ministerium f\u00fcr Wissenschaft, Forschung und Kultur (MWFK) Brandenburg",
+                "qualifier": "funderName",
+                "authority": "virtual::4969",
+                "confidence": "-1"
+            }
+        ],
+        "Title": [
+            {
+                "value": "Ermittlung von Struktur-Indikatoren zur Absch\u00e4tzung des Einflusses forstlicher Bewirtschaftung auf die Bioz\u00f6nosen von Tiefland-Buchenw\u00e4ldern: Carabiden",
+                "qualifier": "AlternativeTitle",
+                "lang": "de"
+            }
+        ],
+        "Description": [
+            {
+                "value": "This dataset compiles data investigating carabid beetles sampled from 1999 until 2001 and again from 2020 until 2022 at the same locations with identical methods. Sampling was conducted using pitfall traps. The traps consisted of a 400 ml honey jar featuring an extended PVC rim plate. They were placed in a piece of PVC pipe and covered with a metal roof. Each trap contained 200 ml of trapping fluid (50% solution of monoethylene glycol and water). From 2020 until 2022, the researchers located the exact trap locations (with a tolerance of <2 m) using the GPS locations and tree survey maps. In all years, sampling was conducted from mid-April to early November. The pitfall traps were emptied fortnightly, yielding 15 samples per trap and sampling year. Subsequently, the carabid beetles were determined to the species level according to M\u00fcller-Motzfeld (2004) by Thomas Kolling and Dirk Pflugmacher in 1999-2001 and by Fabio Weiss and Thomas Kolling in 2020-2022. The eleven study sites of this study were chosen as representative selection of managed and unmanaged beech forests of old stand age and comparable environmental site conditions. Two of the sites (Serrahn and Grumsin) have been declared UNESCO World Heritage Sites as part of the \"Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe\"; two others (Heilige Hallen and Fauler Ort) represent the oldest known lowland beech forests without timber use in Germany. The majority of the sites (seven, including Grumsin) are part of the Schorfheide-Chorin Biosphere Reserve, while Serrahn is part of the M\u00fcritz National Park.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Observation (Field)",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Other",
+                "qualifier": "Methods"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "52.7997,13.0035,53.3425,13.9100\n",
+                "qualifier": "geoLocationBox"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "IsDescribedBy"
+                    ],
+                    "freetext": [
+                        "Weiss, F., Winter, S., Pflugmacher, D., Kolling, T. Linde, A. (2024). Evidence for regional-scale declines in carabid beetles in old lowland beech forests following a period of severe drought. Landscape Ecology, 39(7), Article 123."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1007/s10980-024-01920-1"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "IsDescribedBy"
+                    ],
+                    "freetext": [
+                        "Winter, S. (2005). Ermittlung von Struktur-Indikatoren zur Absch\u00e4tzung des Einflusses forstlicher Bewirtschaftung auf die Bioz\u00f6nosen von Tiefland-Buchenw\u00e4ldern. Dissertation. Technische Universit\u00e4t Dresden."
+                    ],
+                    "relatedIdentifier": [
+                        "urn:nbn:de:swb:14-1129722204456-76128"
+                    ],
+                    "relatedIdentifierType": [
+                        "URN"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "IsDescribedBy"
+                    ],
+                    "freetext": [
+                        "Winter, S., Flade, M., Schumacher, H., Kerstan, E., & M\u00f6ller, G. (2005)). The importance of near-natural stand structures for the biocoenosis of lowland beech forests. Forest Snow and Landscape Research, 79(1-2), 127-144."
+                    ],
+                    "relatedIdentifier": [
+                        "https://www.dora.lib4ri.ch/wsl/item/wsl:15453"
+                    ],
+                    "relatedIdentifierType": [
+                        "PURL"
+                    ],
+                    "relationCategory": [
+                        ""
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "43c2afb5-5b08-4307-9011-e2c1516f8198",
+                "authority": "virtual::4989",
+                "confidence": "-1"
+            },
+            {
+                "value": "65d63e80-eea2-40e7-aa59-ec2801299c4c",
+                "authority": "virtual::5007",
+                "confidence": "-1"
+            },
+            {
+                "value": "4248fb74-6722-42ba-86fe-dbba1b69f63a",
+                "authority": "virtual::5027",
+                "confidence": "-1"
+            },
+            {
+                "value": "5c4275d3-0b54-45b0-b4c4-9a4c72de13c0",
+                "authority": "virtual::5045",
+                "confidence": "-1"
+            },
+            {
+                "value": "e468b3eb-a25f-4506-8797-f76d75121b7e",
+                "authority": "virtual::5065",
+                "confidence": "-1"
+            },
+            {
+                "value": "43c2afb5-5b08-4307-9011-e2c1516f8198",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4989",
+                "confidence": "-1"
+            },
+            {
+                "value": "65d63e80-eea2-40e7-aa59-ec2801299c4c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5007",
+                "confidence": "-1"
+            },
+            {
+                "value": "4248fb74-6722-42ba-86fe-dbba1b69f63a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5027",
+                "confidence": "-1"
+            },
+            {
+                "value": "5c4275d3-0b54-45b0-b4c4-9a4c72de13c0",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5045",
+                "confidence": "-1"
+            },
+            {
+                "value": "e468b3eb-a25f-4506-8797-f76d75121b7e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5065",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::5083",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5083",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "f69dbca4-d6bb-420e-a38b-d55fc6c9bbf8",
+                "authority": "virtual::4969",
+                "confidence": "-1"
+            },
+            {
+                "value": "f69dbca4-d6bb-420e-a38b-d55fc6c9bbf8",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::4969",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "51ab4413-b43f-498e-bf55-d723efe10516",
+                "authority": "virtual::5704",
+                "confidence": "-1"
+            },
+            {
+                "value": "51ab4413-b43f-498e-bf55-d723efe10516",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5704",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "51ab4413-b43f-498e-bf55-d723efe10516",
+                "authority": "virtual::5103",
+                "confidence": "-1"
+            },
+            {
+                "value": "51ab4413-b43f-498e-bf55-d723efe10516",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5103",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-118",
+        "title": "Carabid beetles of old beech forests - repeated sampling 1999-2001 and 2020-2022",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Wei\u00df, Fabio",
+                "givenName": "Fabio",
+                "familyName": "Wei\u00df",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-1078-1528",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Winter, Susanne",
+                "givenName": "Susanne",
+                "familyName": "Winter",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0009-5580-7550",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "130823635",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Pflugmacher, Dirk",
+                "givenName": "Dirk",
+                "familyName": "Pflugmacher",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-2226-4029",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Kolling, Thomas",
+                "givenName": "Thomas",
+                "familyName": "Kolling",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Linde, Andreas",
+                "givenName": "Andreas",
+                "familyName": "Linde",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-0154-7943",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1136873228",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "fabio.weiss@posteo.de; andreas.linde@hnee.de",
+                "affiliation": [],
+                "contributorType": "ContactPerson",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "This dataset compiles data investigating carabid beetles sampled from 1999 until 2001 and again from 2020 until 2022 at the same locations with identical methods. Sampling was conducted using pitfall traps. The traps consisted of a 400 ml honey jar featuring an extended PVC rim plate. They were placed in a piece of PVC pipe and covered with a metal roof. Each trap contained 200 ml of trapping fluid (50% solution of monoethylene glycol and water). From 2020 until 2022, the researchers located the exact trap locations (with a tolerance of &lt;2 m) using the GPS locations and tree survey maps. In all years, sampling was conducted from mid-April to early November. The pitfall traps were emptied fortnightly, yielding 15 samples per trap and sampling year. Subsequently, the carabid beetles were determined to the species level according to M\u00fcller-Motzfeld (2004) by Thomas Kolling and Dirk Pflugmacher in 1999-2001 and by Fabio Weiss and Thomas Kolling in 2020-2022. The eleven study sites of this study were chosen as representative selection of managed and unmanaged beech forests of old stand age and comparable environmental site conditions. Two of the sites (Serrahn and Grumsin) have been declared UNESCO World Heritage Sites as part of the \"Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe\"; two others (Heilige Hallen and Fauler Ort) represent the oldest known lowland beech forests without timber use in Germany. The majority of the sites (seven, including Grumsin) are part of the Schorfheide-Chorin Biosphere Reserve, while Serrahn is part of the M\u00fcritz National Park.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Observation (Field)",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Other",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Collection of variables describing properties of the eleven sampling sites",
+                "descriptionType": "TechnicalInfo"
+            },
+            {
+                "description": "Average body sizes of carabid species",
+                "descriptionType": "TechnicalInfo"
+            },
+            {
+                "description": "Species traits of carabid species",
+                "descriptionType": "TechnicalInfo"
+            },
+            {
+                "description": "Geographic coordinates of pitfall trap locations",
+                "descriptionType": "TechnicalInfo"
+            },
+            {
+                "description": "Information on DWD meteorological stations in the study area",
+                "descriptionType": "TechnicalInfo"
+            },
+            {
+                "description": "Raw data of sampled carabid beetles",
+                "descriptionType": "TechnicalInfo"
+            },
+            {
+                "description": "Centered coordinates of sampling sites",
+                "descriptionType": "TechnicalInfo"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Laufk\u00e4fer"
+            },
+            {
+                "subject": "K\u00e4fer"
+            },
+            {
+                "subject": "Insekten"
+            },
+            {
+                "subject": "Vorkommen"
+            },
+            {
+                "subject": "Wald"
+            },
+            {
+                "subject": "Biosph\u00e4renreservat"
+            },
+            {
+                "subject": "Insektenmonitoring"
+            },
+            {
+                "subject": "Biodiversit\u00e4t"
+            },
+            {
+                "subject": "Insektenr\u00fcckgang"
+            },
+            {
+                "subject": "Zeitreihe"
+            },
+            {
+                "subject": "Carabids"
+            },
+            {
+                "subject": "Ground Beetles"
+            },
+            {
+                "subject": "Insects"
+            },
+            {
+                "subject": "Abundance"
+            },
+            {
+                "subject": "Forest"
+            },
+            {
+                "subject": "Biosphere Reserve"
+            },
+            {
+                "subject": "Insect Monitoring"
+            },
+            {
+                "subject": "Biodiversity"
+            },
+            {
+                "subject": "Insect Decline"
+            },
+            {
+                "subject": "Time Series"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-01-26",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2024-01-26",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-01-24",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-01-26",
+                "dateType": "Available"
+            },
+            {
+                "date": "1999-04/2001-11",
+                "dateType": "Collected"
+            },
+            {
+                "date": "2020-04/2022-11",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.1007/s10980-024-01920-1",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "urn:nbn:de:swb:14-1129722204456-76128",
+                "relatedIdentifierType": "URN"
+            },
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "https://www.dora.lib4ri.ch/wsl/item/wsl:15453",
+                "relatedIdentifierType": "PURL"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-1377",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "Brandenburg"
+            },
+            {
+                "geoLocationPlace": "Mecklenburg-Vorpommern"
+            },
+            {
+                "geoLocationBox": {
+                    "eastBoundLongitude": 13.91,
+                    "northBoundLatitude": 53.3425,
+                    "southBoundLatitude": 52.7997,
+                    "westBoundLongitude": 13.0035
+                }
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Investigating long-term trends and their drivers in epigeal forest insect communities: A reassessment of ground beetles (Coleoptera: Carabidae) in lowland beech forests of the Schorfheide-Chorin Biosphere Reserve",
+                "funderName": "Ministerium f\u00fcr Wissenschaft, Forschung und Kultur (MWFK) Brandenburg",
+                "funderIdentifier": "https://ror.org/02vcjcj30",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/138",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-01-26T13:15:07.000Z",
+        "registered": "2024-01-26T13:15:18.000Z",
+        "updated": "2026-05-28T09:15:18.000Z"
+    },
+    "doi": "10.48548/pubdata-118",
+    "license_uri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "license": "Creative Commons Attribution Share Alike 4.0 International"
+}

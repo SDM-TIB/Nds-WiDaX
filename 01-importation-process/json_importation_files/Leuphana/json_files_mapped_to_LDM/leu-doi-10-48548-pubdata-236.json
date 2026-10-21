@@ -1,0 +1,179 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Bilalova, Shahana",
+            "givenName": "Shahana",
+            "familyName": "Bilalova",
+            "orcid": "0000-0002-3314-9691"
+        },
+        {
+            "author": "Jager, Nicolas W.",
+            "givenName": "Nicolas W.",
+            "familyName": "Jager",
+            "orcid": "0000-0002-6706-6595"
+        },
+        {
+            "author": "Newig, Jens",
+            "givenName": "Jens",
+            "familyName": "Newig",
+            "orcid": "0000-0003-2390-2982"
+        },
+        {
+            "author": "Villamayor-Tomas, Sergio",
+            "givenName": "Sergio",
+            "familyName": "Villamayor-Tomas",
+            "orcid": "0000-0002-5170-1718"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-236",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-236",
+    "notes": "Data from the case survey of 40 cases from empirical water governance studies, supplemented with expert survey and secondary data coding. The coded variables are Capacity (CAP), Fit (FIT) from the aggregation of Temporal fit, Spatial fit, and Functional fit, Interplay (INTER) from the aggregation of Vertical interplay and Horizontal interplay, Decentralization (DEC), Participation (PART), Adaptiveness/knowledge integration (ADAPT) from the aggregation of Flexibility, Use of evidence, and Knowledge integration, Probl\u00e9matique 1: Groundwater exploitation for agriculture (P1), and Sustainability outcome (OUT).",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Pathways to water-related sustainability: case survey data from 40 empirical water governance studies, complemented by expert surveys and additional case-based literature",
+    "url": "https://doi.org/10.48548/pubdata-236",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_name": "Wassermanagement"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Wassermanagement",
+            "name": "Wassermanagement",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nachhaltigkeit",
+            "name": "Nachhaltigkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Fallstudie",
+            "name": "Fallstudie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Qualitative Vergleichende Analyse",
+            "name": "Qualitative Vergleichende Analyse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Systematic Review",
+            "name": "Systematic Review",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Steuerungsprozesse",
+            "name": "Steuerungsprozesse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wasser",
+            "name": "Wasser",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Entscheidungsfindung",
+            "name": "Entscheidungsfindung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wasserbewirtschaftung",
+            "name": "Wasserbewirtschaftung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Water Governance",
+            "name": "Water Governance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sustainability",
+            "name": "Sustainability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Case Survey",
+            "name": "Case Survey",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Qualitative Comparative Analysis",
+            "name": "Qualitative Comparative Analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Systematic Review",
+            "name": "Systematic Review",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Governance",
+            "name": "Governance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Water",
+            "name": "Water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Decision Making",
+            "name": "Decision Making",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Water Management",
+            "name": "Water Management",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

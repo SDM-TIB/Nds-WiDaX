@@ -1,0 +1,692 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/9801",
+        "datestamp": "2026-04-23T10:34:25Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Winkler, Klara Johanna",
+                "qualifier": "author",
+                "authority": "virtual::8485",
+                "confidence": "-1"
+            },
+            {
+                "value": "Kosanic, Aleksandra",
+                "qualifier": "author",
+                "authority": "virtual::8486",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mart\u00edn-L\u00f3pez, Berta",
+                "qualifier": "author",
+                "authority": "virtual::8487",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-04-11T08:27:34Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-04-11",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/9801",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-1752",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Data of the paper entitled \"Disabling barriers - coping with accessibility of nature in Biosphere Reserves\"",
+                "lang": "de"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Observation Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Nachhaltige Transformation",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Biosph\u00e4renreservat",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Behinderte Menschen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Naturschutzgebiet",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Zug\u00e4nglichkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Behinderung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Behindertengerecht",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Zugang",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Mobilit\u00e4t",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Dienstleistung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Tourismus",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Sozial-\u00f6kologisches System",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Biosphere Reserve",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Disabled People",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Protected Area",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Accessibility",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Disability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Handicapped Accessible",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Access",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Mobility",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Service Provision",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Tourism",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Social-ecological System",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "Europe",
+                "qualifier": "country"
+            },
+            {
+                "value": "Americas",
+                "qualifier": "country"
+            },
+            {
+                "value": "North America",
+                "qualifier": "region"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::8484",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::8974",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Winkler"
+                    ],
+                    "givenName": [
+                        "Klara Johanna"
+                    ],
+                    "orcid": [
+                        "0000-0001-7086-5585"
+                    ],
+                    "gnd": [
+                        "1126756806"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8485",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Kosanic"
+                    ],
+                    "givenName": [
+                        "Aleksandra"
+                    ],
+                    "orcid": [
+                        "0000-0002-6403-7801"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8486",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mart\u00edn-L\u00f3pez"
+                    ],
+                    "givenName": [
+                        "Berta"
+                    ],
+                    "orcid": [
+                        "0000-0003-2622-0135"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8487",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Description": [
+            {
+                "value": "This dataset comprises data on the accessibility measures of 167 Biosphere Reserves in 18 countries in Europe and North America. It refers to the paper \"Disabling barriers - coping with accessibility of nature in Biosphere Reserves\" by the same authors.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Compilation / Synthesis",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2022-03-01 - 2024-03-01",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2022-03-01 - 2024-03-01",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2025"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "IsSupplementTo"
+                    ],
+                    "freetext": [
+                        "Winkler, K. J., Kosanic, A., & Mart\u00edn-L\u00f3pez, B. (2025). Disabling barriers\u2014Coping with accessibility of nature in Biosphere Reserves. People and Nature, 7(7), 1483-1490."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1002/pan3.70046"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "18e04cca-9838-4e91-a976-a0d77f485a5d",
+                "authority": "virtual::8485",
+                "confidence": "-1"
+            },
+            {
+                "value": "015e3d2a-b966-4cad-af2d-d4dc8d10c61a",
+                "authority": "virtual::8486",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "authority": "virtual::8487",
+                "confidence": "-1"
+            },
+            {
+                "value": "18e04cca-9838-4e91-a976-a0d77f485a5d",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8485",
+                "confidence": "-1"
+            },
+            {
+                "value": "015e3d2a-b966-4cad-af2d-d4dc8d10c61a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8486",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8487",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::8484",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::8974",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8484",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8974",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "634f71ff-0efe-46ba-9dff-2dc8ecc72352",
+                "authority": "virtual::16829",
+                "confidence": "-1"
+            },
+            {
+                "value": "634f71ff-0efe-46ba-9dff-2dc8ecc72352",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16829",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-1752",
+        "title": "Data of the paper entitled \"Disabling barriers - coping with accessibility of nature in Biosphere Reserves\"",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2025,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Winkler, Klara Johanna",
+                "givenName": "Klara Johanna",
+                "familyName": "Winkler",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-7086-5585",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1126756806",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Kosanic, Aleksandra",
+                "givenName": "Aleksandra",
+                "familyName": "Kosanic",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-6403-7801",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Mart\u00edn-L\u00f3pez, Berta",
+                "givenName": "Berta",
+                "familyName": "Mart\u00edn-L\u00f3pez",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2622-0135",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "This dataset comprises data on the accessibility measures of 167 Biosphere Reserves in 18 countries in Europe and North America. It refers to the paper \"Disabling barriers - coping with accessibility of nature in Biosphere Reserves\" by the same authors.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Compilation / Synthesis",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Biosph\u00e4renreservat"
+            },
+            {
+                "subject": "Behinderte Menschen"
+            },
+            {
+                "subject": "Naturschutzgebiet"
+            },
+            {
+                "subject": "Zug\u00e4nglichkeit"
+            },
+            {
+                "subject": "Behinderung"
+            },
+            {
+                "subject": "Behindertengerecht"
+            },
+            {
+                "subject": "Zugang"
+            },
+            {
+                "subject": "Mobilit\u00e4t"
+            },
+            {
+                "subject": "Dienstleistung"
+            },
+            {
+                "subject": "Tourismus"
+            },
+            {
+                "subject": "Sozial-\u00f6kologisches System"
+            },
+            {
+                "subject": "Biosphere Reserve"
+            },
+            {
+                "subject": "Disabled People"
+            },
+            {
+                "subject": "Protected Area"
+            },
+            {
+                "subject": "Accessibility"
+            },
+            {
+                "subject": "Disability"
+            },
+            {
+                "subject": "Handicapped Accessible"
+            },
+            {
+                "subject": "Access"
+            },
+            {
+                "subject": "Mobility"
+            },
+            {
+                "subject": "Service Provision"
+            },
+            {
+                "subject": "Tourism"
+            },
+            {
+                "subject": "FOS: Economics and business",
+                "schemeUri": "http://www.oecd.org/science/inno/38235147.pdf",
+                "subjectScheme": "Fields of Science and Technology (FOS)"
+            },
+            {
+                "subject": "Social-ecological System"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-04-11",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-04-11",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2022-03-01/2024-03-01",
+                "dateType": "Created"
+            },
+            {
+                "date": "2022-03-01/2024-03-01",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.1002/pan3.70046",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "Europe"
+            },
+            {
+                "geoLocationPlace": "Americas"
+            },
+            {
+                "geoLocationPlace": "North America"
+            }
+        ],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/9801",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-04-11T09:15:12.000Z",
+        "registered": "2025-04-11T09:15:32.000Z",
+        "updated": "2026-04-23T11:15:15.000Z"
+    },
+    "doi": "10.48548/pubdata-1752",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

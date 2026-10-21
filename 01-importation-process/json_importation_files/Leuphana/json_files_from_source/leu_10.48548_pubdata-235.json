@@ -1,0 +1,835 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/268",
+        "datestamp": "2026-07-17T05:02:34Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Bilalova, Shahana",
+                "qualifier": "author",
+                "authority": "virtual::6279",
+                "confidence": "-1"
+            },
+            {
+                "value": "Newig, Jens",
+                "qualifier": "author",
+                "authority": "virtual::6303",
+                "confidence": "-1"
+            },
+            {
+                "value": "Villamayor-Tomas, Sergio",
+                "qualifier": "author",
+                "authority": "virtual::6317",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-05-28T08:13:58Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2024-05-28T08:13:58Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-05-28",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-05-21T17:25:45Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/268",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-235",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "NEWAVE: Next Water Governance",
+                "authority": "virtual::6265",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Water governance and sustainability outcomes: dataset from systematic review of 165 empirical water governance research articles",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Other",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Coding Data: Systematic Literature Review",
+                "qualifier": "kindsOfDataOther"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Bilalova, Shahana",
+                "authority": "virtual::6341",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Bilalova, Shahana",
+                "authority": "virtual::6355",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Wassermanagement",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Wassermanagement",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltigkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Systematic Review",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Forschungsliteratur",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Steuerungsprozesse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wasser",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Paradigma",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wasserbewirtschaftung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Water Governance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Systematic Review",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Research Literature",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Governance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Water",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Paradigm",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Water Management",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Nachhaltigkeitssteuerung (INSUGO)",
+                "authority": "virtual::10076",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::6379",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Bilalova"
+                    ],
+                    "givenName": [
+                        "Shahana"
+                    ],
+                    "orcid": [
+                        "0000-0002-3314-9691"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::6279",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Newig"
+                    ],
+                    "givenName": [
+                        "Jens"
+                    ],
+                    "orcid": [
+                        "0000-0003-2390-2982"
+                    ],
+                    "gnd": [
+                        "1051421268"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::6303",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Villamayor-Tomas"
+                    ],
+                    "givenName": [
+                        "Sergio"
+                    ],
+                    "orcid": [
+                        "0000-0002-5170-1718"
+                    ],
+                    "gnd": [
+                        "1286635616"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::6317",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Europ\u00e4ische Union (EU)"
+                    ],
+                    "ror": [
+                        "019w4f821"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::6265",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-2516",
+                "qualifier": "IsDescribedBy",
+                "authority": "virtual::14881",
+                "confidence": "-1"
+            },
+            {
+                "value": "DOI: 10.48548/pubdata-1482",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::6393",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Europ\u00e4ische Union (EU)",
+                "qualifier": "funderName",
+                "authority": "virtual::6265",
+                "confidence": "-1"
+            },
+            {
+                "value": "861509",
+                "qualifier": "awardNumber",
+                "authority": "virtual::6265",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Coding data from the systematic literature review of 165 studies (223 cases), encompassing the years of 1985 - 2020. The coding scheme covers six categories: bibliographic information, research framework, research design, case-related information, the characteristics of the water-related context and water governance, and sustainability outcomes.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Content coding",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Literature analysis / Systematic review",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2020-01",
+                "qualifier": "Created"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "IsDescribedBy"
+                    ],
+                    "freetext": [
+                        "Bilalova, S., Villamayor-Tomas, S., & Newig, J. (2025). Water-related probl\u00e9matiques: five archetypical contexts of water governance. Ecology and Society, 30(1), Artikel 10."
+                    ],
+                    "relatedIdentifier": [
+                        "10.5751/ES-15681-300110"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "relationType": [
+                        "IsDescribedBy"
+                    ],
+                    "freetext": [
+                        "Bilalova, S., Newig, J. and Villamayor-Tomas, S. (2025), Toward Sustainable Water Governance? Taking Stock of Paradigms, Practices, and Sustainability Outcomes. WIREs Water, 12, e1762"
+                    ],
+                    "relatedIdentifier": [
+                        "10.1002/wat2.1762"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "e05d8d27-8006-411b-9bf7-af2faae15d2a",
+                "authority": "virtual::6279",
+                "confidence": "-1"
+            },
+            {
+                "value": "57fecb3e-4c12-45d4-9273-b4449f0004e1",
+                "authority": "virtual::6303",
+                "confidence": "-1"
+            },
+            {
+                "value": "b1824e79-d905-40d3-8b9a-33eac85f3942",
+                "authority": "virtual::6317",
+                "confidence": "-1"
+            },
+            {
+                "value": "e05d8d27-8006-411b-9bf7-af2faae15d2a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::6279",
+                "confidence": "-1"
+            },
+            {
+                "value": "57fecb3e-4c12-45d4-9273-b4449f0004e1",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::6303",
+                "confidence": "-1"
+            },
+            {
+                "value": "b1824e79-d905-40d3-8b9a-33eac85f3942",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::6317",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "e05d8d27-8006-411b-9bf7-af2faae15d2a",
+                "authority": "virtual::6355",
+                "confidence": "-1"
+            },
+            {
+                "value": "e05d8d27-8006-411b-9bf7-af2faae15d2a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::6355",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "eef5da7c-acf0-4b25-9574-3621e79f851a",
+                "authority": "virtual::10076",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::6379",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::6379",
+                "confidence": "-1"
+            },
+            {
+                "value": "eef5da7c-acf0-4b25-9574-3621e79f851a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10076",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "e05d8d27-8006-411b-9bf7-af2faae15d2a",
+                "authority": "virtual::6341",
+                "confidence": "-1"
+            },
+            {
+                "value": "e05d8d27-8006-411b-9bf7-af2faae15d2a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::6341",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "51ea5adf-c6d6-47a5-9e0d-63f31ee6c665",
+                "authority": "virtual::6265",
+                "confidence": "-1"
+            },
+            {
+                "value": "51ea5adf-c6d6-47a5-9e0d-63f31ee6c665",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::6265",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsDescribedBy_OfP": [
+            {
+                "value": "142654b3-571b-415b-99ee-98900904e299",
+                "authority": "virtual::14881",
+                "confidence": "-1"
+            },
+            {
+                "value": "142654b3-571b-415b-99ee-98900904e299",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::14881",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "70fdee52-58a3-46f3-a5b1-9bb717e42de8",
+                "authority": "virtual::2628",
+                "confidence": "-1"
+            },
+            {
+                "value": "70fdee52-58a3-46f3-a5b1-9bb717e42de8",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2628",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "70fdee52-58a3-46f3-a5b1-9bb717e42de8",
+                "authority": "virtual::6393",
+                "confidence": "-1"
+            },
+            {
+                "value": "70fdee52-58a3-46f3-a5b1-9bb717e42de8",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::6393",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_References_": [
+            {
+                "value": "142654b3-571b-415b-99ee-98900904e299",
+                "authority": "virtual::14880",
+                "confidence": "-1"
+            },
+            {
+                "value": "142654b3-571b-415b-99ee-98900904e299",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::14880",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-235",
+        "title": "Water governance and sustainability outcomes: dataset from systematic review of 165 empirical water governance research articles",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Bilalova, Shahana",
+                "givenName": "Shahana",
+                "familyName": "Bilalova",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-3314-9691",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Newig, Jens",
+                "givenName": "Jens",
+                "familyName": "Newig",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2390-2982",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1051421268",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Villamayor-Tomas, Sergio",
+                "givenName": "Sergio",
+                "familyName": "Villamayor-Tomas",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-5170-1718",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1286635616",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Bilalova, Shahana",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Bilalova, Shahana",
+                "contributorType": "RightsHolder",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "en",
+                "description": "Coding data from the systematic literature review of 165 studies (223 cases), encompassing the years of 1985 - 2020. The coding scheme covers six categories: bibliographic information, research framework, research design, case-related information, the characteristics of the water-related context and water governance, and sustainability outcomes.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Content coding",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Literature analysis / Systematic review",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Wassermanagement"
+            },
+            {
+                "subject": "Nachhaltigkeit"
+            },
+            {
+                "subject": "Systematic Review"
+            },
+            {
+                "subject": "Forschungsliteratur"
+            },
+            {
+                "subject": "Steuerungsprozesse"
+            },
+            {
+                "subject": "Wasser"
+            },
+            {
+                "subject": "Paradigma"
+            },
+            {
+                "subject": "Wasserbewirtschaftung"
+            },
+            {
+                "subject": "Water Governance"
+            },
+            {
+                "subject": "Sustainability"
+            },
+            {
+                "subject": "Research Literature"
+            },
+            {
+                "subject": "Governance"
+            },
+            {
+                "subject": "Water"
+            },
+            {
+                "subject": "Paradigm"
+            },
+            {
+                "subject": "Water Management"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-05-28",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2024-05-28",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-05-21",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-05-28",
+                "dateType": "Available"
+            },
+            {
+                "date": "2020-01/2020-01",
+                "dateType": "Created"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.5751/es-15681-300110",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.1002/wat2.1762",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.48548/pubdata-2516",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-1482",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [
+            {
+                "awardTitle": "NEWAVE: Next Water Governance",
+                "funderName": "Europ\u00e4ische Union (EU)",
+                "awardNumber": "861509",
+                "funderIdentifier": "https://ror.org/019w4f821",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/268",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-05-28T08:15:08.000Z",
+        "registered": "2024-05-28T08:15:19.000Z",
+        "updated": "2026-07-17T05:15:18.000Z"
+    },
+    "doi": "10.48548/pubdata-235",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

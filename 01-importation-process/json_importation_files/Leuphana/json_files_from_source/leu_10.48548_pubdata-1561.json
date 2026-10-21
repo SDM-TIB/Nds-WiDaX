@@ -1,0 +1,801 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/1639",
+        "datestamp": "2026-07-17T04:57:32Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Redenius, Pia",
+                "qualifier": "author",
+                "authority": "virtual::5738",
+                "confidence": "-1"
+            },
+            {
+                "value": "Heinrichs, Harald",
+                "qualifier": "author",
+                "authority": "virtual::5740",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-02-12T15:11:25Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-02-12T15:11:25Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2025-02-12",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2025-02-10T08:46:47Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/1639",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-1561",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Nachhaltigkeitsstrategie Niedersachsen",
+                "authority": "virtual::5702",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "KNBN 2024: Kommunaler Datensatz",
+                "lang": "de"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            },
+            {
+                "value": "Instrument"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Survey Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Context Materials / Supporting information",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Survey Instruments / Measuring Instruments",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Redenius, Pia",
+                "authority": "virtual::5776",
+                "confidence": "-1"
+            },
+            {
+                "value": "Heinrichs, Harald",
+                "authority": "virtual::5778",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Professur f\u00fcr Nachhaltigkeit und Politik, Leuphana Universit\u00e4t L\u00fcneburg",
+                "authority": "virtual::12427",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Nachhaltige Transformation",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Kommune",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltigkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kommunalverwaltung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Klimaschutz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Klimaanpassung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltigkeitsmanagement",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kommunalpolitik",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Transformation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Niedersachsen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Municipality",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Local Administration",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Climate Protection",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Climate Adaption",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainability Management",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Municipal Policy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Transformation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Local Sustainability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Lower Saxony",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "Niedersachsen",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Nachhaltigkeitssteuerung (INSUGO)",
+                "authority": "virtual::10059",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::5816",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Redenius"
+                    ],
+                    "givenName": [
+                        "Pia"
+                    ],
+                    "orcid": [
+                        "0009-0003-9113-9998"
+                    ],
+                    "gnd": [
+                        "1361891785"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::5738",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Heinrichs"
+                    ],
+                    "givenName": [
+                        "Harald"
+                    ],
+                    "orcid": [
+                        "0000-0003-1529-4235"
+                    ],
+                    "gnd": [
+                        "143955284"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::5740",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Nieders\u00e4chsisches Ministerium f\u00fcr Umwelt, Energie und Klimaschutz"
+                    ],
+                    "ror": [
+                        "0001zgs18"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::5702",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-1546",
+                "qualifier": "IsDescribedBy",
+                "authority": "virtual::5852",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Nieders\u00e4chsisches Ministerium f\u00fcr Umwelt, Energie und Klimaschutz",
+                "qualifier": "funderName",
+                "authority": "virtual::5702",
+                "confidence": "-1"
+            }
+        ],
+        "Title": [
+            {
+                "value": "Datensatz KNBN 2024",
+                "qualifier": "AlternativeTitle",
+                "lang": "de"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Der Datensatz beinhaltet Umfrageergebnisse samt zugeh\u00f6rigem Fragebogen und Codebook des \"Kommunalen Nachhaltigkeitsbarometer Niedersachsen 2024\" (KNBN), einer standardisierten Online-Befragung von nieders\u00e4chsischen Landkreisen, St\u00e4dten und (Samt-)Gemeinden. Ziel dieser Umfrage war es, einen \u00dcberblick \u00fcber den Stand der Umsetzung von Nachhaltigkeit und Klimaschutz in den Kommunen des Landes Niedersachsen aus Perspektive der zust\u00e4ndigen Verwaltungsmitarbeitenden (z.B. Hauptverwaltungsbeamten und -beamtinnen sowie Klimaschutzmanagerinnen und -managern) zu erhalten. Die Daten wurden im Fr\u00fchjahr 2024 in Kooperation mit dem Nieders\u00e4chsischen Ministerium f\u00fcr Umwelt, Energie und Klimaschutz und den Kommunalen Spitzenverb\u00e4nden (NLT, NST und NSGB) erhoben und statistisch ausgewertet. Das methodische Vorgehen und die Ergebnisse der Auswertung k\u00f6nnen im begleitenden Bericht \"Kommunalen Nachhaltigkeitsbarometer Niedersachsen 2024\" eingesehen werden.",
+                "qualifier": "Abstract",
+                "lang": "de"
+            },
+            {
+                "value": "Computer-assisted questionnaire",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2024",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2024-03-01 - 2024-04-01",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "deu",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2025"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "ae77f715-e8ce-4ef5-ab9a-f7189f502eb7",
+                "authority": "virtual::5738",
+                "confidence": "-1"
+            },
+            {
+                "value": "b377a102-0771-411f-bc63-3e1a9ccbcf76",
+                "authority": "virtual::5740",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae77f715-e8ce-4ef5-ab9a-f7189f502eb7",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5738",
+                "confidence": "-1"
+            },
+            {
+                "value": "b377a102-0771-411f-bc63-3e1a9ccbcf76",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5740",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "6d5356b3-8ce9-443c-a745-bc2e361f0e80",
+                "authority": "virtual::12427",
+                "confidence": "-1"
+            },
+            {
+                "value": "6d5356b3-8ce9-443c-a745-bc2e361f0e80",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12427",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "eef5da7c-acf0-4b25-9574-3621e79f851a",
+                "authority": "virtual::10059",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::5816",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5816",
+                "confidence": "-1"
+            },
+            {
+                "value": "eef5da7c-acf0-4b25-9574-3621e79f851a",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10059",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "ae77f715-e8ce-4ef5-ab9a-f7189f502eb7",
+                "authority": "virtual::5776",
+                "confidence": "-1"
+            },
+            {
+                "value": "b377a102-0771-411f-bc63-3e1a9ccbcf76",
+                "authority": "virtual::5778",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae77f715-e8ce-4ef5-ab9a-f7189f502eb7",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5776",
+                "confidence": "-1"
+            },
+            {
+                "value": "b377a102-0771-411f-bc63-3e1a9ccbcf76",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5778",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "686fcf3d-6950-4ba8-ab64-c0aed20f5098",
+                "authority": "virtual::5702",
+                "confidence": "-1"
+            },
+            {
+                "value": "686fcf3d-6950-4ba8-ab64-c0aed20f5098",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5702",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_Describes_": [
+            {
+                "value": "81138520-1210-4ea0-ac3b-02c2b7ec5e47",
+                "authority": "virtual::8234",
+                "confidence": "-1"
+            },
+            {
+                "value": "81138520-1210-4ea0-ac3b-02c2b7ec5e47",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8234",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsDescribedBy_OfP": [
+            {
+                "value": "81138520-1210-4ea0-ac3b-02c2b7ec5e47",
+                "authority": "virtual::5852",
+                "confidence": "-1"
+            },
+            {
+                "value": "81138520-1210-4ea0-ac3b-02c2b7ec5e47",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5852",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_References_": [
+            {
+                "value": "6675f906-8dba-48cc-bb08-e8921b41a4e4",
+                "authority": "virtual::12201",
+                "confidence": "-1"
+            },
+            {
+                "value": "6675f906-8dba-48cc-bb08-e8921b41a4e4",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12201",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-1561",
+        "title": "KNBN 2024: Kommunaler Datensatz",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2025,
+        "resourceType": "Collection",
+        "creators": [
+            {
+                "name": "Redenius, Pia",
+                "givenName": "Pia",
+                "familyName": "Redenius",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0003-9113-9998",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1361891785",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Heinrichs, Harald",
+                "givenName": "Harald",
+                "familyName": "Heinrichs",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-1529-4235",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "143955284",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Redenius, Pia",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Heinrichs, Harald",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Professur f\u00fcr Nachhaltigkeit und Politik, Leuphana Universit\u00e4t L\u00fcneburg",
+                "contributorType": "RightsHolder",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "de",
+                "description": "Der Datensatz beinhaltet Umfrageergebnisse samt zugeh\u00f6rigem Fragebogen und Codebook des \"Kommunalen Nachhaltigkeitsbarometer Niedersachsen 2024\" (KNBN), einer standardisierten Online-Befragung von nieders\u00e4chsischen Landkreisen, St\u00e4dten und (Samt-)Gemeinden. Ziel dieser Umfrage war es, einen \u00dcberblick \u00fcber den Stand der Umsetzung von Nachhaltigkeit und Klimaschutz in den Kommunen des Landes Niedersachsen aus Perspektive der zust\u00e4ndigen Verwaltungsmitarbeitenden (z.B. Hauptverwaltungsbeamten und -beamtinnen sowie Klimaschutzmanagerinnen und -managern) zu erhalten. Die Daten wurden im Fr\u00fchjahr 2024 in Kooperation mit dem Nieders\u00e4chsischen Ministerium f\u00fcr Umwelt, Energie und Klimaschutz und den Kommunalen Spitzenverb\u00e4nden (NLT, NST und NSGB) erhoben und statistisch ausgewertet. Das methodische Vorgehen und die Ergebnisse der Auswertung k\u00f6nnen im begleitenden Bericht \"Kommunalen Nachhaltigkeitsbarometer Niedersachsen 2024\" eingesehen werden.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Computer-assisted questionnaire",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Kommune"
+            },
+            {
+                "subject": "Nachhaltigkeit"
+            },
+            {
+                "subject": "Kommunalverwaltung"
+            },
+            {
+                "subject": "Klimaschutz"
+            },
+            {
+                "subject": "Klimaanpassung"
+            },
+            {
+                "subject": "Nachhaltigkeitsmanagement"
+            },
+            {
+                "subject": "Kommunalpolitik"
+            },
+            {
+                "subject": "Transformation"
+            },
+            {
+                "subject": "Niedersachsen"
+            },
+            {
+                "subject": "Municipality"
+            },
+            {
+                "subject": "Sustainability"
+            },
+            {
+                "subject": "Local Administration"
+            },
+            {
+                "subject": "Climate Protection"
+            },
+            {
+                "subject": "Climate Adaption"
+            },
+            {
+                "subject": "Sustainability Management"
+            },
+            {
+                "subject": "Municipal Policy"
+            },
+            {
+                "subject": "Local Sustainability"
+            },
+            {
+                "subject": "Lower Saxony"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-02-12",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-02-12",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2025-02-10",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2025-02-12",
+                "dateType": "Available"
+            },
+            {
+                "date": "2024/2024",
+                "dateType": "Created"
+            },
+            {
+                "date": "2024-03-01/2024-04-01",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "de",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.48548/pubdata-1546",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "Niedersachsen"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "awardTitle": "Nachhaltigkeitsstrategie Niedersachsen",
+                "funderName": "Nieders\u00e4chsisches Ministerium f\u00fcr Umwelt, Energie und Klimaschutz",
+                "funderIdentifier": "https://ror.org/0001zgs18",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/1639",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-02-12T15:15:07.000Z",
+        "registered": "2025-02-12T15:15:19.000Z",
+        "updated": "2026-07-17T05:15:21.000Z"
+    },
+    "doi": "10.48548/pubdata-1561",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

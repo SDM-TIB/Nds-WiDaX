@@ -1,0 +1,311 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Hakelberg, Lukas",
+            "givenName": "Lukas",
+            "familyName": "Hakelberg",
+            "orcid": "0000-0002-2245-5474"
+        },
+        {
+            "author": "Ahrens, Leo",
+            "givenName": "Leo",
+            "familyName": "Ahrens",
+            "orcid": "0000-0003-2029-9145"
+        },
+        {
+            "author": "Crasnic, Loriana",
+            "givenName": "Loriana",
+            "familyName": "Crasnic",
+            "orcid": "0000-0002-5978-3316"
+        },
+        {
+            "author": "Carneiro da Silva, Everton",
+            "givenName": "Everton",
+            "familyName": "Carneiro da Silva",
+            "orcid": ""
+        },
+        {
+            "author": "Hubert, Leonie",
+            "givenName": "Leonie",
+            "familyName": "Hubert",
+            "orcid": ""
+        },
+        {
+            "author": "Kvaratskhelia, Guram",
+            "givenName": "Guram",
+            "familyName": "Kvaratskhelia",
+            "orcid": ""
+        },
+        {
+            "author": "Schumm, Paula",
+            "givenName": "Paula",
+            "familyName": "Schumm",
+            "orcid": ""
+        },
+        {
+            "author": "Soares Povill de Souza, Fernanda",
+            "givenName": "Fernanda",
+            "familyName": "Soares Povill de Souza",
+            "orcid": ""
+        },
+        {
+            "author": "Spatzl, Nadja",
+            "givenName": "Nadja",
+            "familyName": "Spatzl",
+            "orcid": ""
+        },
+        {
+            "author": "Wazir, Rizwan",
+            "givenName": "Rizwan",
+            "familyName": "Wazir",
+            "orcid": "0000-0003-3573-7830"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-2456",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-2456",
+    "notes": "The WOWMA dataset compiles contemporary and historical information on all of the world\u2019s tropical and subtropical island jurisdictions for years between 1804 and 2024 to enable analyses of the factors driving tax haven emergence in this geographical and temporal context. The variables so far included are described in the accompanying codebook.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "The wowma dataset on tax haven emergence version 0.2",
+    "url": "https://doi.org/10.48548/pubdata-2456",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_name": "Politische \u00d6konomie"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Politik",
+            "name": "Politik",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "konomie",
+            "name": "konomie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Steueroase",
+            "name": "Steueroase",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Historisches Erbe",
+            "name": "Historisches Erbe",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kolonialismus",
+            "name": "Kolonialismus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mikrostaaten",
+            "name": "Mikrostaaten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Staatenbildung",
+            "name": "Staatenbildung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Dekolonisierung",
+            "name": "Dekolonisierung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Fiskalpolitik",
+            "name": "Fiskalpolitik",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wirtschaftspolitik",
+            "name": "Wirtschaftspolitik",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Politische Akteure",
+            "name": "Politische Akteure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Institution",
+            "name": "Institution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Steuerungsprozesse",
+            "name": "Steuerungsprozesse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Investition",
+            "name": "Investition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Politische Stabilitt",
+            "name": "Politische Stabilitt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Demokratisierung",
+            "name": "Demokratisierung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Einkommenssteuer",
+            "name": "Einkommenssteuer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Politics",
+            "name": "Politics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Economy",
+            "name": "Economy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tax Haven",
+            "name": "Tax Haven",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Historical Legacy",
+            "name": "Historical Legacy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Colonialism",
+            "name": "Colonialism",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Microstates",
+            "name": "Microstates",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "State-building",
+            "name": "State-building",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Decolonisation",
+            "name": "Decolonisation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Fiscal Policy",
+            "name": "Fiscal Policy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Economic Policy",
+            "name": "Economic Policy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Political Actors",
+            "name": "Political Actors",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Institution",
+            "name": "Institution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Governance",
+            "name": "Governance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Investment",
+            "name": "Investment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Political Stability",
+            "name": "Political Stability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Democratisation",
+            "name": "Democratisation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Income Taxation",
+            "name": "Income Taxation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

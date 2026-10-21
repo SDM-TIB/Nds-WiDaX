@@ -1,0 +1,650 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/15698",
+        "datestamp": "2026-08-05T11:15:34Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Ndagijimana, Valery",
+                "qualifier": "author",
+                "authority": "virtual::19575",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2026-08-04T06:49:07Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2026-08-04",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/15698",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-4082",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "DFG-Forschungsgruppe 5501: Ein sozial-\u00f6kologischer Systemansatz zur Wiederherstellung von \u00d6kosystemen in l\u00e4ndlichen Regionen Afrikas",
+                "authority": "virtual::19579",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Social cohesion in restoration landscapes: Evidence from Western Rwanda",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Ndagijimana, Valery",
+                "authority": "virtual::19577",
+                "confidence": "-1"
+            },
+            {
+                "value": "William, Apollinaire",
+                "authority": "virtual::19578",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Sozial-\u00f6kologisches System",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Sozial-\u00f6konomisches System",
+                "qualifier": "keyword"
+            },
+            {
+                "value": "Ruanda",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Restaurierung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landschaft",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Stakeholder",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Soziales Netzwerk",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Soziale Beziehungen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Steuerungsprozesse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Politische Akteure",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wissensaustausch",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Social-ecological System",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Rwanda",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Restoration",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Landscape",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Stakeholder",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Social Network",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Social Relationships",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Governance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Political Actors",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Knowledge Exchange",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "RWA",
+                "qualifier": "country"
+            },
+            {
+                "value": "Rutsiro and Ngororero districts (Western Rwanda)",
+                "qualifier": "region"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::19580",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Ndagijimana"
+                    ],
+                    "givenName": [
+                        "Valery"
+                    ],
+                    "orcid": [
+                        "0009-0007-5193-8364"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::19575",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Deutsche Forschungsgemeinschaft (DFG)"
+                    ],
+                    "ror": [
+                        "018mejw64"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::19579",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Deutsche Forschungsgemeinschaft (DFG)",
+                "qualifier": "funderName",
+                "authority": "virtual::19579",
+                "confidence": "-1"
+            },
+            {
+                "value": "496337053",
+                "qualifier": "awardNumber",
+                "authority": "virtual::19579",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The dataset includes social network data about restoration actors' relationships, including resource flow, collaboration, communication, and trust. The study focused on the Rutsiro and Ngororero districts in western Rwanda, both mountainous areas. Three villages were selected in each district: Shyembe, Rwamiyaga, and Gisunzu in Rutsiro District, and Kabuga, Kagarama, and Bereshi in Ngororero District. These villages were chosen because their communities are interconnected through restoration landscape projects. Individual interviews and participatory workshops were combined within a mixed-method approach and conducted from 4 to 27 June 2024. Key interviewees were identified through snowball sampling. In Rutsiro, 20 Net-Map interviews were conducted, including five women and 15 men. In Ngororero, 15 interviews were conducted, comprising three women and 12 men. Interviewees ranged from local stakeholders, including community members, government representatives, and companies, to international and local NGOs. After the Net-Map interviews, participatory one-day workshops were conducted in each village to validate the interview data and collaboratively map a common network for each district.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Focus group / Group discussion",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2024-06 - 2024-12",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2024-06-04 - 2024-06-27",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2026"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "freetext": [
+                        "Ndagijimana, V., Schr\u00f6ter, B., William, A., Loos, J., Sieber, S., Fischer, J., & L\u00f6hr, K. (2026). Mapping Social Cohesion in Restoration Landscapes: Evidence from Western Rwanda. Society and Natural Resources, 1\u201327."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1080/08941920.2026.2663273"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationType": [
+                        "IsDescribedBy"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "2e54b5c2-570e-4945-b66e-fc818be30b17",
+                "authority": "virtual::19575",
+                "confidence": "-1"
+            },
+            {
+                "value": "2e54b5c2-570e-4945-b66e-fc818be30b17",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19575",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::19580",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19580",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "2e54b5c2-570e-4945-b66e-fc818be30b17",
+                "authority": "virtual::19577",
+                "confidence": "-1"
+            },
+            {
+                "value": "36d297eb-172f-434a-a7b1-3ba2973790e9",
+                "authority": "virtual::19578",
+                "confidence": "-1"
+            },
+            {
+                "value": "2e54b5c2-570e-4945-b66e-fc818be30b17"
+            },
+            {
+                "value": "2e54b5c2-570e-4945-b66e-fc818be30b17",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19577",
+                "confidence": "-1"
+            },
+            {
+                "value": "36d297eb-172f-434a-a7b1-3ba2973790e9",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19578",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "b76f995d-53a8-455d-be85-93c993cb8810",
+                "authority": "virtual::19579",
+                "confidence": "-1"
+            },
+            {
+                "value": "b76f995d-53a8-455d-be85-93c993cb8810",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::19579",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "embargo"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-4082",
+        "title": "Social cohesion in restoration landscapes: Evidence from Western Rwanda",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2027,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Ndagijimana, Valery",
+                "givenName": "Valery",
+                "familyName": "Ndagijimana",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0007-5193-8364",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Ndagijimana, Valery",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "William, Apollinaire",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "en",
+                "description": "The dataset includes social network data about restoration actors' relationships, including resource flow, collaboration, communication, and trust. The study focused on the Rutsiro and Ngororero districts in western Rwanda, both mountainous areas. Three villages were selected in each district: Shyembe, Rwamiyaga, and Gisunzu in Rutsiro District, and Kabuga, Kagarama, and Bereshi in Ngororero District. These villages were chosen because their communities are interconnected through restoration landscape projects. Individual interviews and participatory workshops were combined within a mixed-method approach and conducted from 4 to 27 June 2024. Key interviewees were identified through snowball sampling. In Rutsiro, 20 Net-Map interviews were conducted, including five women and 15 men. In Ngororero, 15 interviews were conducted, comprising three women and 12 men. Interviewees ranged from local stakeholders, including community members, government representatives, and companies, to international and local NGOs. After the Net-Map interviews, participatory one-day workshops were conducted in each village to validate the interview data and collaboratively map a common network for each district.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Focus group / Group discussion",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Sozial-\u00f6konomisches System"
+            },
+            {
+                "subject": "Ruanda"
+            },
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "Restaurierung"
+            },
+            {
+                "subject": "Landschaft"
+            },
+            {
+                "subject": "Stakeholder"
+            },
+            {
+                "subject": "Soziales Netzwerk"
+            },
+            {
+                "subject": "Soziale Beziehungen"
+            },
+            {
+                "subject": "Steuerungsprozesse"
+            },
+            {
+                "subject": "Politische Akteure"
+            },
+            {
+                "subject": "Wissensaustausch"
+            },
+            {
+                "subject": "Social-ecological System"
+            },
+            {
+                "subject": "Rwanda"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Restoration"
+            },
+            {
+                "subject": "Landscape"
+            },
+            {
+                "subject": "Social Network"
+            },
+            {
+                "subject": "Social Relationships"
+            },
+            {
+                "subject": "Governance"
+            },
+            {
+                "subject": "Political Actors"
+            },
+            {
+                "subject": "Knowledge Exchange"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2026-08-04",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2026-08-04",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-06/2024-12",
+                "dateType": "Created"
+            },
+            {
+                "date": "2024-06-04/2024-06-27",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.1080/08941920.2026.2663273",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "RWA"
+            },
+            {
+                "geoLocationPlace": "Rutsiro and Ngororero districts (Western Rwanda)"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "awardTitle": "DFG-Forschungsgruppe 5501: Ein sozial-\u00f6kologischer Systemansatz zur Wiederherstellung von \u00d6kosystemen in l\u00e4ndlichen Regionen Afrikas",
+                "funderName": "Deutsche Forschungsgemeinschaft (DFG)",
+                "awardNumber": "496337053",
+                "funderIdentifier": "https://ror.org/018mejw64",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/15698",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2026-08-05T11:15:14.000Z",
+        "registered": "2026-08-05T11:15:33.000Z",
+        "updated": "2026-08-05T12:15:14.000Z"
+    },
+    "doi": "10.48548/pubdata-4082",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

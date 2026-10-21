@@ -1,0 +1,179 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2023",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Gross, Milena",
+            "givenName": "Milena",
+            "familyName": "Gross",
+            "orcid": "0000-0003-3148-627X"
+        },
+        {
+            "author": "Pearson, Jasmine",
+            "givenName": "Jasmine",
+            "familyName": "Pearson",
+            "orcid": "0000-0001-6341-1382"
+        },
+        {
+            "author": "Arbieu, Ugo",
+            "givenName": "Ugo",
+            "familyName": "Arbieu",
+            "orcid": "0000-0002-0655-8756"
+        },
+        {
+            "author": "Riechers, Maraja",
+            "givenName": "Maraja",
+            "familyName": "Riechers",
+            "orcid": "0000-0003-3916-8102"
+        },
+        {
+            "author": "Thomsen, Simon",
+            "givenName": "Simon",
+            "familyName": "Thomsen",
+            "orcid": "0000-0003-1575-9629"
+        },
+        {
+            "author": "Mart\u00edn-L\u00f3pez, Berta",
+            "givenName": "Berta",
+            "familyName": "Mart\u00edn-L\u00f3pez",
+            "orcid": "0000-0003-2622-0135"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-1709",
+    "doi_date_published": "2023",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-1709",
+    "notes": "The dataset entails 152 articles identified as relevant through a systematic literature search. It contains information about their meta-information, biogeographical data, valuation (methodological approach), value types and objects.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Tourists' valuation of nature in protected areas: a systematic review_dataset",
+    "url": "https://doi.org/10.48548/pubdata-1709",
+    "citation": [],
+    "publication_year": "2023",
+    "subject_areas": [
+        {
+            "subject_area_name": "Mensch-Natur-Beziehung"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Systematic Review",
+            "name": "Systematic Review",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Forschungsliteratur",
+            "name": "Forschungsliteratur",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Stakeholder",
+            "name": "Stakeholder",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tourismus",
+            "name": "Tourismus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Naturschutzgebiet",
+            "name": "Naturschutzgebiet",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Bewertung",
+            "name": "Bewertung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Soziokulturelle Werte",
+            "name": "Soziokulturelle Werte",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Monetre Werte",
+            "name": "Monetre Werte",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Systematic Review",
+            "name": "Systematic Review",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Research Literature",
+            "name": "Research Literature",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Stakeholder",
+            "name": "Stakeholder",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tourism",
+            "name": "Tourism",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Protected Area",
+            "name": "Protected Area",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Valuation",
+            "name": "Valuation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Socio-cultural Values",
+            "name": "Socio-cultural Values",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Monetary Values",
+            "name": "Monetary Values",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

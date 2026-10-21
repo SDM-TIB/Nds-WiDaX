@@ -1,0 +1,161 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Amsel, Ann-Kathrin",
+            "givenName": "Ann-Kathrin",
+            "familyName": "Amsel",
+            "orcid": "0000-0003-1097-4063"
+        },
+        {
+            "author": "Olsson, Oliver",
+            "givenName": "Oliver",
+            "familyName": "Olsson",
+            "orcid": "0000-0003-0082-1442"
+        },
+        {
+            "author": "K\u00fcmmerer, Klaus",
+            "givenName": "Klaus",
+            "familyName": "K\u00fcmmerer",
+            "orcid": "0000-0003-2027-6488"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-151",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-151",
+    "notes": "The data set contains biodegradability data according to OECD 301D  (Closed Bottle Test) for ionic liquids. Two data sources were used to compile OECD 301D data: (a) data from the Leuphana Institute of Sustainable Chemistry (INSC) in-house biodegradation experiments and (b) literature data. The literature data and the INSC in-house data was combined. Two data sets were compiled: set IL contains just ionic liquids and set ILNI contains ionic liquids and non-ionic compounds. Duplicates were combined to one ionic liquid by calculating the mean biodegradation rate. Negative biodegradation rates were zeroed. In case several tests per substance were conducted, the mean value was calculated. The biodegradability data was classified in red: 0\u201319%, amber: 20\u201359%, green: \u226560%.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Ready biodegradability data of ionic liquids, oecd 301d (closed bottle test), 2024, v1",
+    "url": "https://doi.org/10.48548/pubdata-151",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_name": "Green Chemistry"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Biologische Abbaubarkeit",
+            "name": "Biologische Abbaubarkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Experiment",
+            "name": "Experiment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Test",
+            "name": "Test",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nachhaltige Chemie",
+            "name": "Nachhaltige Chemie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ionische Flssigkeiten",
+            "name": "Ionische Flssigkeiten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Salze",
+            "name": "Salze",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Grne Chemie",
+            "name": "Grne Chemie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Messung",
+            "name": "Messung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biodegradability",
+            "name": "Biodegradability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Experiment",
+            "name": "Experiment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Test",
+            "name": "Test",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sustainable Chemistry",
+            "name": "Sustainable Chemistry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ionic Liquids",
+            "name": "Ionic Liquids",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Salts",
+            "name": "Salts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Green Chemistry",
+            "name": "Green Chemistry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Assessment",
+            "name": "Assessment",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

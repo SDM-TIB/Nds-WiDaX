@@ -1,0 +1,821 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/1640",
+        "datestamp": "2025-06-27T06:08:15Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Escher, Yannik A.",
+                "qualifier": "author",
+                "authority": "virtual::3050",
+                "confidence": "-1"
+            },
+            {
+                "value": "Petrowsky, Hannes M.",
+                "qualifier": "author",
+                "authority": "virtual::3070",
+                "confidence": "-1"
+            },
+            {
+                "value": "Kuhl, Poldi",
+                "qualifier": "author",
+                "authority": "virtual::3088",
+                "confidence": "-1"
+            },
+            {
+                "value": "Loschelder, David D.",
+                "qualifier": "author",
+                "authority": "virtual::3108",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-02-12T10:41:51Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-02-12T10:41:51Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2025-02-12",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2025-02-10T14:25:49Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/1640",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-1562",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "DigiTaL - Teilprojekt 01: Virtuelle Realit\u00e4ten zur Kompetenzentwicklung und Reflexion",
+                "authority": "virtual::3032",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Virtual Reality Job Interview Training \u2013 English",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Programs and Applications",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Digitales Lernen",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Virtual Reality",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bewerbungsgespr\u00e4ch",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Simulation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Training",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Programm",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kompetenz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kompetenzentwicklung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Angewandtes Lernen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "E-Learning",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kommunikation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Virtual Reality",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Job Interview",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Simulation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Training",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Programme",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Competence",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Competence Development",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Applied Learning",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "E-Learning",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Communication",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The VR training was developed using Unity and C#, and was optimized for execution on Windows, with compatibility for Oculus Quest 2 and Meta Quest 3. A detailed manual is provided for setup and installation, along with a guide for conducting the interviews to ensure ease of use and smooth implementation.",
+                "qualifier": "note",
+                "lang": "en"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Management und Organisation (IMO)",
+                "authority": "virtual::10045",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Management und Technologie",
+                "authority": "virtual::3126",
+                "confidence": "-1"
+            },
+            {
+                "value": "Institute of Psychology in Education (IPE)",
+                "authority": "virtual::10046",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Bildung",
+                "authority": "virtual::3146",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Escher"
+                    ],
+                    "givenName": [
+                        "Yannik A."
+                    ],
+                    "orcid": [
+                        "0000-0002-8976-5805"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::3050",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Petrowsky"
+                    ],
+                    "givenName": [
+                        "Hannes M."
+                    ],
+                    "orcid": [
+                        "0000-0002-2512-3256"
+                    ],
+                    "gnd": [
+                        "1316128571"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::3070",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Kuhl"
+                    ],
+                    "givenName": [
+                        "Poldi"
+                    ],
+                    "orcid": [
+                        "0000-0001-8021-8840"
+                    ],
+                    "gnd": [
+                        "136669204"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::3088",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Loschelder"
+                    ],
+                    "givenName": [
+                        "David D."
+                    ],
+                    "orcid": [
+                        "0000-0001-5818-0559"
+                    ],
+                    "gnd": [
+                        "1167419588"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::3108",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Stiftung Innovation in der Hochschullehre (StIL)"
+                    ],
+                    "ror": [
+                        "04m2ke783"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::3032",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-1668",
+                "qualifier": "IsVariantFormOf",
+                "authority": "virtual::3164",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Stiftung Innovation in der Hochschullehre (StIL)",
+                "qualifier": "funderName",
+                "authority": "virtual::3032",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The resource is an immersive Virtual Reality (VR) training program designed to support individuals at various stages of their career journey, including students, graduates, and early-career professionals. The training focuses on developing critical communication skills, managing anxiety, and learning effective techniques for answering interview questions. By offering a safe and interactive environment, the VR training enables participants to gain practical experience and confidence in navigating job interviews. Thus, using state-of-the-art VR technology, this training serves as a robust tool for applied learning, empowering users to approach job interviews with confidence and competence. The training is semi-automated. A human instructor is necessary to guide the interviewee through the interview. The training includes classic interview questions, scenario-based vignette questions, salary negotiation simulations, and follow-up questions to customize the experience based on participant responses. The VR format provides a virtually mediated setting, allowing learners to practice interview scenarios in an engaging and realistic manner. The training was empirically validated through a multi-wave intervention study with a control condition, involving 114 participants. The results demonstrated its effectiveness in enhancing participants' preparedness for job interviews and reducing interview-related anxiety.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Programming / Script-based data collection",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2022 - 2023",
+                "qualifier": "Created"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2025"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "2f6907eb-5d2c-4744-bca7-78e1124215e0",
+                "authority": "virtual::3050",
+                "confidence": "-1"
+            },
+            {
+                "value": "6c061cac-9b6e-40f0-9320-0ec9fa74fd83",
+                "authority": "virtual::3070",
+                "confidence": "-1"
+            },
+            {
+                "value": "cb7ccbc9-2251-4b79-a799-fd49234c9562",
+                "authority": "virtual::3088",
+                "confidence": "-1"
+            },
+            {
+                "value": "decb8110-3af5-4372-a210-91a40030fef5",
+                "authority": "virtual::3108",
+                "confidence": "-1"
+            },
+            {
+                "value": "2f6907eb-5d2c-4744-bca7-78e1124215e0",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3050",
+                "confidence": "-1"
+            },
+            {
+                "value": "6c061cac-9b6e-40f0-9320-0ec9fa74fd83",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3070",
+                "confidence": "-1"
+            },
+            {
+                "value": "cb7ccbc9-2251-4b79-a799-fd49234c9562",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3088",
+                "confidence": "-1"
+            },
+            {
+                "value": "decb8110-3af5-4372-a210-91a40030fef5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3108",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "8395c146-4b00-4112-b5df-eb9d0ccccfb4",
+                "authority": "virtual::10045",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "authority": "virtual::3126",
+                "confidence": "-1"
+            },
+            {
+                "value": "de622314-d20d-4242-8321-81c2d97ff0e9",
+                "authority": "virtual::10046",
+                "confidence": "-1"
+            },
+            {
+                "value": "393478e9-b4d8-46bd-b83c-c2b8fb037972",
+                "authority": "virtual::3146",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3126",
+                "confidence": "-1"
+            },
+            {
+                "value": "393478e9-b4d8-46bd-b83c-c2b8fb037972",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3146",
+                "confidence": "-1"
+            },
+            {
+                "value": "8395c146-4b00-4112-b5df-eb9d0ccccfb4",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10045",
+                "confidence": "-1"
+            },
+            {
+                "value": "de622314-d20d-4242-8321-81c2d97ff0e9",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10046",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "eb126490-a82c-42a0-9819-e7f00a7d96d7",
+                "authority": "virtual::3032",
+                "confidence": "-1"
+            },
+            {
+                "value": "eb126490-a82c-42a0-9819-e7f00a7d96d7",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3032",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsVariantFormOf_OfP": [
+            {
+                "value": "88a4eeaa-a589-4469-a3a2-ae5bc7de5d7c",
+                "authority": "virtual::3164",
+                "confidence": "-1"
+            },
+            {
+                "value": "88a4eeaa-a589-4469-a3a2-ae5bc7de5d7c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::3164",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsVariantFormOf_": [
+            {
+                "value": "88a4eeaa-a589-4469-a3a2-ae5bc7de5d7c",
+                "authority": "virtual::390",
+                "confidence": "-1"
+            },
+            {
+                "value": "88a4eeaa-a589-4469-a3a2-ae5bc7de5d7c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::390",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-1562",
+        "title": "Virtual Reality Job Interview Training \u2013 English",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2025,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Escher, Yannik A.",
+                "nameType": "Personal",
+                "givenName": "Yannik A.",
+                "familyName": "Escher",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-8976-5805",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Petrowsky, Hannes M.",
+                "nameType": "Personal",
+                "givenName": "Hannes M.",
+                "familyName": "Petrowsky",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-2512-3256",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1316128571",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Kuhl, Poldi",
+                "nameType": "Personal",
+                "givenName": "Poldi",
+                "familyName": "Kuhl",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-8021-8840",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "136669204",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Loschelder, David D.",
+                "nameType": "Personal",
+                "givenName": "David D.",
+                "familyName": "Loschelder",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-5818-0559",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1167419588",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "The resource is an immersive Virtual Reality (VR) training program designed to support individuals at various stages of their career journey, including students, graduates, and early-career professionals. The training focuses on developing critical communication skills, managing anxiety, and learning effective techniques for answering interview questions. By offering a safe and interactive environment, the VR training enables participants to gain practical experience and confidence in navigating job interviews. Thus, using state-of-the-art VR technology, this training serves as a robust tool for applied learning, empowering users to approach job interviews with confidence and competence. The training is semi-automated. A human instructor is necessary to guide the interviewee through the interview. The training includes classic interview questions, scenario-based vignette questions, salary negotiation simulations, and follow-up questions to customize the experience based on participant responses. The VR format provides a virtually mediated setting, allowing learners to practice interview scenarios in an engaging and realistic manner. The training was empirically validated through a multi-wave intervention study with a control condition, involving 114 participants. The results demonstrated its effectiveness in enhancing participants' preparedness for job interviews and reducing interview-related anxiety.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Programming / Script-based data collection",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Unzip the file package before using it.",
+                "descriptionType": "TechnicalInfo"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Virtual Reality"
+            },
+            {
+                "subject": "Bewerbungsgespr\u00e4ch"
+            },
+            {
+                "subject": "Simulation"
+            },
+            {
+                "subject": "Training"
+            },
+            {
+                "subject": "Programm"
+            },
+            {
+                "subject": "Kompetenz"
+            },
+            {
+                "subject": "Kompetenzentwicklung"
+            },
+            {
+                "subject": "Angewandtes Lernen"
+            },
+            {
+                "subject": "E-Learning"
+            },
+            {
+                "subject": "Kommunikation"
+            },
+            {
+                "subject": "Job Interview"
+            },
+            {
+                "subject": "Programme"
+            },
+            {
+                "subject": "Competence"
+            },
+            {
+                "subject": "Competence Development"
+            },
+            {
+                "subject": "Applied Learning"
+            },
+            {
+                "subject": "Communication"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-02-12",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-02-12",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2025-02-10",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2025-02-12",
+                "dateType": "Available"
+            },
+            {
+                "date": "2022/2023",
+                "dateType": "Created"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsVariantFormOf",
+                "relatedIdentifier": "10.48548/pubdata-1668",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "DigiTaL - Teilprojekt 01: Virtuelle Realit\u00e4ten zur Kompetenzentwicklung und Reflexion",
+                "funderName": "Stiftung Innovation in der Hochschullehre (StIL)",
+                "funderIdentifier": "https://ror.org/04m2ke783",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/1640",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-02-12T11:15:08.000Z",
+        "registered": "2025-02-12T11:15:19.000Z",
+        "updated": "2025-06-27T06:16:02.000Z"
+    },
+    "doi": "10.48548/pubdata-1562",
+    "license_uri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial 4.0 International"
+}

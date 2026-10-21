@@ -1,0 +1,574 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/16925",
+        "datestamp": "2026-10-13T09:15:37Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Loschelder, David D.",
+                "qualifier": "author",
+                "authority": "virtual::21268",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2026-10-13T08:49:47Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2026-10-13",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/16925",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-4467",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Menstrual Cycle Data",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Measurement Data / Measured Values",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Survey Instruments / Measuring Instruments",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Loschelder, David D.",
+                "authority": "virtual::21269",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Loschelder, David D.",
+                "authority": "virtual::21270",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Organisationspsychologie",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Menstruationszyklus",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Auswirkung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Arbeitsleistung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "K\u00f6rperliche Verfassung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Psychosoziale Faktoren",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Verhalten",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Arbeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Arbeitspsychologie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Organisationspsychologie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Menstrual Cycle",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Impact",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Work Performance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Physical Condition",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Psychosocial Factors",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Behavior",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Work",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Occupational Psychology",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Organizational Psychology",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "GBR",
+                "qualifier": "country"
+            },
+            {
+                "value": "USA",
+                "qualifier": "country"
+            }
+        ],
+        "PublishingType": [
+            {
+                "value": "First publication"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Management und Psychologie (IMP)",
+                "authority": "virtual::21272",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Management und Technologie",
+                "authority": "virtual::21273",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Loschelder"
+                    ],
+                    "givenName": [
+                        "David D."
+                    ],
+                    "orcid": [
+                        "0000-0001-5818-0559"
+                    ],
+                    "gnd": [
+                        "1167419588"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::21268",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Title": [
+            {
+                "value": "Empirical Research Project Data Study 3",
+                "qualifier": "AlternativeTitle",
+                "lang": "en"
+            }
+        ],
+        "Description": [
+            {
+                "value": "This dataset consists of the data of one of the experiments (Experiment 3) of the Menstrual Cycle Project. The experimental data examine and investigate the influence of the menstrual cycle on the participant's perceived work performance during their working hours, focusing in particular on task performance, contextual performance, and counterproductive behaviors.",
+                "qualifier": "Abstract",
+                "lang": "de"
+            },
+            {
+                "value": "Experiment (Field, Intervention)",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2025-11-29 - 2026-01-31",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2026"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "decb8110-3af5-4372-a210-91a40030fef5",
+                "authority": "virtual::21268",
+                "confidence": "-1"
+            },
+            {
+                "value": "decb8110-3af5-4372-a210-91a40030fef5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::21268",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "decb8110-3af5-4372-a210-91a40030fef5",
+                "authority": "virtual::21270",
+                "confidence": "-1"
+            },
+            {
+                "value": "decb8110-3af5-4372-a210-91a40030fef5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::21270",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "650e0d7d-d8fd-49e8-a13b-9467ef2c3d29",
+                "authority": "virtual::21272",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "authority": "virtual::21273",
+                "confidence": "-1"
+            },
+            {
+                "value": "650e0d7d-d8fd-49e8-a13b-9467ef2c3d29",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::21272",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::21273",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "decb8110-3af5-4372-a210-91a40030fef5",
+                "authority": "virtual::21269",
+                "confidence": "-1"
+            },
+            {
+                "value": "decb8110-3af5-4372-a210-91a40030fef5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::21269",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-4467",
+        "title": "Menstrual Cycle Data",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2026,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Loschelder, David D.",
+                "givenName": "David D.",
+                "familyName": "Loschelder",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-5818-0559",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1167419588",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Loschelder, David D.",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Loschelder, David D.",
+                "contributorType": "RightsHolder",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "de",
+                "description": "This dataset consists of the data of one of the experiments (Experiment 3) of the Menstrual Cycle Project. The experimental data examine and investigate the influence of the menstrual cycle on the participant's perceived work performance during their working hours, focusing in particular on task performance, contextual performance, and counterproductive behaviors.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Experiment (Field, Intervention)",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Full SPSS file",
+                "descriptionType": "TechnicalInfo"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Menstruationszyklus"
+            },
+            {
+                "subject": "Auswirkung"
+            },
+            {
+                "subject": "Arbeitsleistung"
+            },
+            {
+                "subject": "K\u00f6rperliche Verfassung"
+            },
+            {
+                "subject": "Psychosoziale Faktoren"
+            },
+            {
+                "subject": "Verhalten"
+            },
+            {
+                "subject": "Arbeit"
+            },
+            {
+                "subject": "Arbeitspsychologie"
+            },
+            {
+                "subject": "Organisationspsychologie"
+            },
+            {
+                "subject": "Menstrual Cycle"
+            },
+            {
+                "subject": "Impact"
+            },
+            {
+                "subject": "Work Performance"
+            },
+            {
+                "subject": "Physical Condition"
+            },
+            {
+                "subject": "Psychosocial Factors"
+            },
+            {
+                "subject": "Behavior"
+            },
+            {
+                "subject": "Work"
+            },
+            {
+                "subject": "Occupational Psychology"
+            },
+            {
+                "subject": "Organizational Psychology"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2026-10-13",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2026-10-13",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2025-11-29/2026-01-31",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-nd-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "GBR"
+            },
+            {
+                "geoLocationPlace": "USA"
+            }
+        ],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/16925",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2026-10-13T09:15:36.000Z",
+        "registered": "2026-10-13T09:15:37.000Z",
+        "updated": "2026-10-13T10:15:13.000Z"
+    },
+    "doi": "10.48548/pubdata-4467",
+    "license_uri": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
+}

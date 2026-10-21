@@ -1,0 +1,713 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/13144",
+        "datestamp": "2026-05-28T09:12:20Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Ebeloe, Celine",
+                "qualifier": "author",
+                "authority": "virtual::16338",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2026-04-21T14:24:36Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2026-04-21",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/13144",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-3233",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Interview transcripts \"Studying the Crisis: Grounded Theory Insights into Environmental Students' Climate Emotions and Support Needs\"",
+                "lang": "de"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Interview Data",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Ebeloe, Celine",
+                "authority": "virtual::16339",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Ebeloe, Celine",
+                "authority": "virtual::16340",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Emotionen",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Student",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Umweltwissenschaften",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Klima",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Emotion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Klimawandel",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Angst",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Auswirkung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Mentale Gesundheit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Bew\u00e4ltigungsstrategie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Umweltbewusstsein",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Studium",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltigkeitswissenschaften",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "University Student",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Environmental Science",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Climate",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Emotion",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Climate Change",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Anxiety",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Impact",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Mental Health",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Coping Strategy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Environmental Consciousness",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Studying",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainability Science",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The names of the interviewees have been replaced with pseudonyms and are randomly assigned.",
+                "qualifier": "note",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country"
+            }
+        ],
+        "PublishingType": [
+            {
+                "value": "First publication"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Methodenzentrum",
+                "authority": "virtual::16336",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Ebeloe"
+                    ],
+                    "givenName": [
+                        "Celine"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::16338",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Description": [
+            {
+                "value": "These transkripts are interviews that the researcher conducted in the process of her work \"Studying the Crisis: Grounded Theory Insights into Environmental Students' Climate Emotions and Support Needs\". The interviews deal with climate emotions and their effects on environmental students' lifes. Data were collected between January and March 2024 from 12 students enrolled in Sustainability Science or Global Sustainability Science at Leuphana University. For a snowballing recruiting process, participants were encouraged to recommend peers with contrasting perspectives or experiences, and theoretical sampling was applied rather than aiming for representativeness. Most interviews took place in person on campus, with two conducted via Zoom with participants temporarily living abroad. Interviews lasted 45\u201380 minutes and were digitally recorded and transcribed verbatim. The interviews followed the narrative interview approach (Sch\u00fctze, 1983). After a narrative prompt (\"Can you tell me how it came about that you got involved with sustainability? You're now studying environmental science, so clearly you've developed an interest in it \u2014 how did that happen, and what was your journey like?\"), participants were invited to tell their story. Additional questions were asked once the interviewee reached a concluding point and were oriented toward strengthening the narrative thread.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Transcription",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2023-10-01 - 2024-02-28",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2023-10-01 - 2024-02-28",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "deu"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2026"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "85db22ff-a3a4-461d-a82e-79937ae24de5",
+                "authority": "virtual::16338",
+                "confidence": "-1"
+            },
+            {
+                "value": "85db22ff-a3a4-461d-a82e-79937ae24de5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16338",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "85db22ff-a3a4-461d-a82e-79937ae24de5",
+                "authority": "virtual::16340",
+                "confidence": "-1"
+            },
+            {
+                "value": "85db22ff-a3a4-461d-a82e-79937ae24de5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16340",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "64d0c73e-bb42-4098-a4c8-f01f348eb273",
+                "authority": "virtual::16336",
+                "confidence": "-1"
+            },
+            {
+                "value": "64d0c73e-bb42-4098-a4c8-f01f348eb273",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16336",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "85db22ff-a3a4-461d-a82e-79937ae24de5",
+                "authority": "virtual::16339",
+                "confidence": "-1"
+            },
+            {
+                "value": "85db22ff-a3a4-461d-a82e-79937ae24de5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16339",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-3233",
+        "title": "Interview transcripts \"Studying the Crisis: Grounded Theory Insights into Environmental Students' Climate Emotions and Support Needs\"",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2026,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Ebeloe, Celine",
+                "givenName": "Celine",
+                "familyName": "Ebeloe",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Ebeloe, Celine",
+                "nameType": "Personal",
+                "givenName": "Celine",
+                "familyName": "Ebeloe",
+                "affiliation": [],
+                "contributorType": "DataCollector",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Ebeloe, Celine",
+                "nameType": "Personal",
+                "givenName": "Celine",
+                "familyName": "Ebeloe",
+                "affiliation": [],
+                "contributorType": "RightsHolder",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "These transkripts are interviews that the researcher conducted in the process of her work \"Studying the Crisis: Grounded Theory Insights into Environmental Students' Climate Emotions and Support Needs\". The interviews deal with climate emotions and their effects on environmental students' lifes. Data were collected between January and March 2024 from 12 students enrolled in Sustainability Science or Global Sustainability Science at Leuphana University. For a snowballing recruiting process, participants were encouraged to recommend peers with contrasting perspectives or experiences, and theoretical sampling was applied rather than aiming for representativeness. Most interviews took place in person on campus, with two conducted via Zoom with participants temporarily living abroad. Interviews lasted 45\u201380 minutes and were digitally recorded and transcribed verbatim. The interviews followed the narrative interview approach (Sch\u00fctze, 1983). After a narrative prompt (\"Can you tell me how it came about that you got involved with sustainability? You're now studying environmental science, so clearly you've developed an interest in it \u2014 how did that happen, and what was your journey like?\"), participants were invited to tell their story. Additional questions were asked once the interviewee reached a concluding point and were oriented toward strengthening the narrative thread.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Transcription",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Student"
+            },
+            {
+                "subject": "Umweltwissenschaften"
+            },
+            {
+                "subject": "Klima"
+            },
+            {
+                "subject": "Emotion"
+            },
+            {
+                "subject": "Klimawandel"
+            },
+            {
+                "subject": "Angst"
+            },
+            {
+                "subject": "Auswirkung"
+            },
+            {
+                "subject": "Mentale Gesundheit"
+            },
+            {
+                "subject": "Bew\u00e4ltigungsstrategie"
+            },
+            {
+                "subject": "Umweltbewusstsein"
+            },
+            {
+                "subject": "Studium"
+            },
+            {
+                "subject": "Nachhaltigkeitswissenschaften"
+            },
+            {
+                "subject": "University Student"
+            },
+            {
+                "subject": "Environmental Science"
+            },
+            {
+                "subject": "Climate"
+            },
+            {
+                "subject": "Climate Change"
+            },
+            {
+                "subject": "Anxiety"
+            },
+            {
+                "subject": "Impact"
+            },
+            {
+                "subject": "Mental Health"
+            },
+            {
+                "subject": "Coping Strategy"
+            },
+            {
+                "subject": "Environmental Consciousness"
+            },
+            {
+                "subject": "Studying"
+            },
+            {
+                "subject": "Sustainability Science"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2026-04-21",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2026-04-21",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2023-10-01/2024-02-28",
+                "dateType": "Created"
+            },
+            {
+                "date": "2023-10-01/2024-02-28",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "de",
+        "relatedIdentifiers": [],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            }
+        ],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/13144",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2026-04-21T15:15:34.000Z",
+        "registered": "2026-04-21T15:15:35.000Z",
+        "updated": "2026-05-28T09:15:21.000Z"
+    },
+    "doi": "10.48548/pubdata-3233",
+    "license_uri": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial Share Alike 4.0 International"
+}

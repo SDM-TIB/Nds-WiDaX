@@ -1,0 +1,257 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Sowinski, Ronja",
+            "givenName": "Ronja",
+            "familyName": "Sowinski",
+            "orcid": "0009-0009-3087-1898"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-4105",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Share Alike 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-4105",
+    "notes": "Der Datensatz umfasst die im Rahmen des Promotionsprojekts \"Alle anders, alle gleich? - Vorstellungen zu biologischen Ph\u00e4nomenen und Metaphernverwendung von Sch\u00fcler*innen unterschiedlicher Erstsprachen\" von Ronja Sowinski erhobenen Interviewdaten samt Erhebungsinstrumente und Kontextmaterialien. Die Interviews wurden jeweils mit Sch\u00fclerinnen und Sch\u00fclern, mit deren zugeh\u00f6rigen Biologielehrkr\u00e4ften sowie mit Hochschuldozierenden aus biologischen Fachbereichen gef\u00fchrt. Thematisch setzten sich die Interviews mit den biologischen Ph\u00e4nomenen \"Laubzersetzung\" und \"Immunreaktion bei einer Grippe\" auseinander. Enthalten sind die jeweiligen Interviewdaten als Transkripte, die beiden Interviewleitf\u00e4den zu den Schwerpunkten \"Laubzersetzung\" und \"Immunreaktion bei einer Grippe\" sowie eine \u00dcbersicht der Charakteristika der befragten Sch\u00fclerinnen und Sch\u00fclern, ausgehend von einer schriftlichen Befragung. Die Angaben in dieser \u00dcbersicht sind stets in Verbindung mit den gef\u00fchrten Interviews zu sehen: Die Charakteristika stellen entsprechende Kontextbedingungen, in denen die Interviews gef\u00fchrt wurden, dar.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Interviews zu biologischen ph\u00e4nomenen: wie erkl\u00e4ren dozierende, biologielehrkr\u00e4fte und mehrsprachige sch\u00fcler*innen laubzersetzung und die immunreaktion?",
+    "url": "https://doi.org/10.48548/pubdata-4105",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_name": "Fachdidaktik"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Schler",
+            "name": "Schler",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Vorstellung",
+            "name": "Vorstellung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lehrkrfte",
+            "name": "Lehrkrfte",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biologie",
+            "name": "Biologie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Didaktik",
+            "name": "Didaktik",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Fachunterricht",
+            "name": "Fachunterricht",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lernen",
+            "name": "Lernen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Metapher",
+            "name": "Metapher",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Laub",
+            "name": "Laub",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Zersetzung",
+            "name": "Zersetzung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Abbau",
+            "name": "Abbau",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Immunsystem",
+            "name": "Immunsystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Immunreaktion",
+            "name": "Immunreaktion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Krankheit",
+            "name": "Krankheit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Grippe",
+            "name": "Grippe",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mehrsprachigkeit",
+            "name": "Mehrsprachigkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Naturwissenschaftsunterricht",
+            "name": "Naturwissenschaftsunterricht",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Student",
+            "name": "Student",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Conception",
+            "name": "Conception",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Teacher",
+            "name": "Teacher",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biology",
+            "name": "Biology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Didactics",
+            "name": "Didactics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Education",
+            "name": "Education",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Learning",
+            "name": "Learning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Metaphor",
+            "name": "Metaphor",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Foliage",
+            "name": "Foliage",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Decomposition",
+            "name": "Decomposition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Degradation",
+            "name": "Degradation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Immune System",
+            "name": "Immune System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Immune Response",
+            "name": "Immune Response",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Disease",
+            "name": "Disease",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Influenza",
+            "name": "Influenza",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Multilinguism",
+            "name": "Multilinguism",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Science Education",
+            "name": "Science Education",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

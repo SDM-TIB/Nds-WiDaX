@@ -1,0 +1,773 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/11481",
+        "datestamp": "2026-07-15T09:23:19Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Apetrei, Cristina I.",
+                "qualifier": "author",
+                "authority": "virtual::13559",
+                "confidence": "-1"
+            },
+            {
+                "value": "Strelkovskii, Nikita",
+                "qualifier": "author",
+                "authority": "virtual::13565",
+                "confidence": "-1"
+            },
+            {
+                "value": "Khabarov, Nikolay",
+                "qualifier": "author",
+                "authority": "virtual::13567",
+                "confidence": "-1"
+            },
+            {
+                "value": "Javalera Rinc\u00f3n, Valeria",
+                "qualifier": "author",
+                "authority": "virtual::13568",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-12-01T08:48:22Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-12-01",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/11481",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-2614",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Electronic Supplementary Material for Apetrei et al. 2024 \"Improving the representation of smallholder farmers\u2019 adaptive behaviour in agent-based models: Learning-by-doing and social learning\"",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Context Materials / Supporting information",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Logfiles / Usage Data / Protocols",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Nachhaltige Transformation",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Modellierung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Landwirt",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kleinb\u00e4uerliche Strukturen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Entscheidungsfindung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Lernen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Verhalten",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Adaptives Lernen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Praxislernen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Soziales Lernen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Sozial-\u00f6kologisches System",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Nachhaltigkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Transformation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Lernprozess",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Modeling",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Farmer",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Smallholder Structures",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Decision Making",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Learning",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Behavior",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Adaptive Learning",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Learning by Doing",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Social Learning",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Learning Process",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Social-ecological System",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Sustainability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Transformation",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::13560",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Apetrei"
+                    ],
+                    "givenName": [
+                        "Cristina I."
+                    ],
+                    "orcid": [
+                        "0000-0003-2109-6470"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::13559",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Strelkovskii"
+                    ],
+                    "givenName": [
+                        "Nikita"
+                    ],
+                    "orcid": [
+                        "0000-0001-6862-1768"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::13565",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Khabarov"
+                    ],
+                    "givenName": [
+                        "Nikolay"
+                    ],
+                    "orcid": [
+                        "0000-0001-5372-4668"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::13567",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Javalera Rinc\u00f3n"
+                    ],
+                    "givenName": [
+                        "Valeria"
+                    ],
+                    "orcid": [
+                        "0000-0001-8743-9777"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::13568",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-2615",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::13561",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Description": [
+            {
+                "value": "This dataset contains the supplementary materials for the paper \"Improving the representation of smallholder farmers\u2019 adaptive behaviour in agent-based models: Learning-by-doing and social learning\". It consists of the ODD+D protocol of agent-based model extension, additional details of parameters and settings used for the simulations described in the associated publication, and the results of sensitivity analyses.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Simulation",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Modeling",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2024-03-01 - 2024-04-30",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2021-07-01 - 2022-03-31",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "freetext": [
+                        "Apetrei, C. I., Strelkovskii, N., Khabarov, N. & Javalera Rinc\u00f3n, V. (2024). Improving the representation of smallholder farmers\u2019 adaptive behaviour in agent-based models: Learning-by-doing and social learning. Ecological Modelling, 489, Article 110609"
+                    ],
+                    "relatedIdentifier": [
+                        "10.1016/j.ecolmodel.2023.110609"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationType": [
+                        "IsSupplementTo"
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "freetext": [
+                        "Apetrei, C. I., Strelkovskii, N., Khabarov, N. & Javalera Rinc\u00f3n, V. (2023). RAGE-learning ABM extension - model outputs corresponding to ECOMOD publication. figshare. Dataset."
+                    ],
+                    "relatedIdentifier": [
+                        "10.6084/m9.figshare.24917670"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationType": [
+                        "Documents"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "579446bf-ba8e-4113-b0ce-488fe7b65587",
+                "authority": "virtual::13559",
+                "confidence": "-1"
+            },
+            {
+                "value": "fdb5f477-66af-47db-82f5-e62301f793d0",
+                "authority": "virtual::13565",
+                "confidence": "-1"
+            },
+            {
+                "value": "ce336465-579b-46c5-86c2-5363631805c6",
+                "authority": "virtual::13567",
+                "confidence": "-1"
+            },
+            {
+                "value": "e62df16c-23de-4132-b660-40f1c03469bd",
+                "authority": "virtual::13568",
+                "confidence": "-1"
+            },
+            {
+                "value": "579446bf-ba8e-4113-b0ce-488fe7b65587",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::13559",
+                "confidence": "-1"
+            },
+            {
+                "value": "fdb5f477-66af-47db-82f5-e62301f793d0",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::13565",
+                "confidence": "-1"
+            },
+            {
+                "value": "ce336465-579b-46c5-86c2-5363631805c6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::13567",
+                "confidence": "-1"
+            },
+            {
+                "value": "e62df16c-23de-4132-b660-40f1c03469bd",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::13568",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::13560",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::13560",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "ff95c777-3f08-4cc3-9cc0-6f5c3df4ca79",
+                "authority": "virtual::13572",
+                "confidence": "-1"
+            },
+            {
+                "value": "ff95c777-3f08-4cc3-9cc0-6f5c3df4ca79",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::13572",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "ff95c777-3f08-4cc3-9cc0-6f5c3df4ca79",
+                "authority": "virtual::13561",
+                "confidence": "-1"
+            },
+            {
+                "value": "ff95c777-3f08-4cc3-9cc0-6f5c3df4ca79",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::13561",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-2614",
+        "title": "Electronic Supplementary Material for Apetrei et al. 2024 \"Improving the representation of smallholder farmers\u2019 adaptive behaviour in agent-based models: Learning-by-doing and social learning\"",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Apetrei, Cristina I.",
+                "givenName": "Cristina I.",
+                "familyName": "Apetrei",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2109-6470",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Strelkovskii, Nikita",
+                "givenName": "Nikita",
+                "familyName": "Strelkovskii",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-6862-1768",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Khabarov, Nikolay",
+                "givenName": "Nikolay",
+                "familyName": "Khabarov",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-5372-4668",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Javalera Rinc\u00f3n, Valeria",
+                "givenName": "Valeria",
+                "familyName": "Javalera Rinc\u00f3n",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-8743-9777",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "en",
+                "description": "This dataset contains the supplementary materials for the paper \"Improving the representation of smallholder farmers\u2019 adaptive behaviour in agent-based models: Learning-by-doing and social learning\". It consists of the ODD+D protocol of agent-based model extension, additional details of parameters and settings used for the simulations described in the associated publication, and the results of sensitivity analyses.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Simulation",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Modeling",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Modellierung"
+            },
+            {
+                "subject": "Landwirt"
+            },
+            {
+                "subject": "Kleinb\u00e4uerliche Strukturen"
+            },
+            {
+                "subject": "Entscheidungsfindung"
+            },
+            {
+                "subject": "Lernen"
+            },
+            {
+                "subject": "Verhalten"
+            },
+            {
+                "subject": "Adaptives Lernen"
+            },
+            {
+                "subject": "Praxislernen"
+            },
+            {
+                "subject": "Soziales Lernen"
+            },
+            {
+                "subject": "Lernprozess"
+            },
+            {
+                "subject": "Sozial-\u00f6kologisches System"
+            },
+            {
+                "subject": "Nachhaltigkeit"
+            },
+            {
+                "subject": "Transformation"
+            },
+            {
+                "subject": "Modeling"
+            },
+            {
+                "subject": "Farmer"
+            },
+            {
+                "subject": "Smallholder Structures"
+            },
+            {
+                "subject": "Decision Making"
+            },
+            {
+                "subject": "Learning"
+            },
+            {
+                "subject": "Behavior"
+            },
+            {
+                "subject": "Adaptive Learning"
+            },
+            {
+                "subject": "Learning by Doing"
+            },
+            {
+                "subject": "Social Learning"
+            },
+            {
+                "subject": "Learning Process"
+            },
+            {
+                "subject": "Social-ecological System"
+            },
+            {
+                "subject": "Sustainability"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-12-01",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-12-01",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-03-01/2024-04-30",
+                "dateType": "Created"
+            },
+            {
+                "date": "2021-07-01/2022-03-31",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.1016/j.ecolmodel.2023.110609",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "Documents",
+                "relatedIdentifier": "10.6084/m9.figshare.24917670",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-2615",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/11481",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-12-01T09:15:13.000Z",
+        "registered": "2025-12-01T09:15:32.000Z",
+        "updated": "2026-07-15T10:15:14.000Z"
+    },
+    "doi": "10.48548/pubdata-2614",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

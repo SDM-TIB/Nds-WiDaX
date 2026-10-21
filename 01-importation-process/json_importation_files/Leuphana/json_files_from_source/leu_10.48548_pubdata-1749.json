@@ -1,0 +1,978 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/9796",
+        "datestamp": "2026-10-02T10:44:51Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Knabbe, Friederike",
+                "qualifier": "author",
+                "authority": "virtual::8612",
+                "confidence": "-1"
+            },
+            {
+                "value": "Escher, Yannik A.",
+                "qualifier": "author",
+                "authority": "virtual::8608",
+                "confidence": "-1"
+            },
+            {
+                "value": "Petrowsky, Hannes M.",
+                "qualifier": "author",
+                "authority": "virtual::8609",
+                "confidence": "-1"
+            },
+            {
+                "value": "Loschelder, David D.",
+                "qualifier": "author",
+                "authority": "virtual::8610",
+                "confidence": "-1"
+            },
+            {
+                "value": "Kuhl, Poldi",
+                "qualifier": "author",
+                "authority": "virtual::8611",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-05-02T06:47:07Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-05-02",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/9796",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-1749",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "DigiTaL - Teilprojekt 01: Virtuelle Realit\u00e4ten zur Kompetenzentwicklung und Reflexion",
+                "authority": "virtual::8613",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Virtual Reality Elterngespr\u00e4chstraining",
+                "lang": "de"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Programs and Applications",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Digitales Lernen",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Virtual Reality",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Elterngespr\u00e4ch",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Simulation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Lehrkr\u00e4fte",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Beratungskompetenz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Beratung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Eltern",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Professionalisierung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Berufliche Kompetenz",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Lehrkr\u00e4ftebildung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kompetenzentwicklung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Training",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Programm",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Lehramtsstudium",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Angewandtes Lernen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "E-Learning",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kommunikation",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Virtual Reality",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Parent-Teacher Meeting",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Simulation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Teacher",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Consultation Competence",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Consultation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Parents",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Professionalisation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Professional Competence",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Teacher Training",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Competence Development",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Training",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Programme",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Teacher Education",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Applied Learning",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "E-Learning",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Communication",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Das VR-Training wurde mit Unity und C# entwickelt und f\u00fcr die Ausf\u00fchrung unter Windows optimiert, mit Kompatibilit\u00e4t f\u00fcr Oculus Meta Quest 2 und Oculus Meta Quest 3. Ein detailliertes Handbuch f\u00fcr die Einrichtung und Installation sowie ein Leitfaden f\u00fcr die Durchf\u00fchrung des Interviews sorgen f\u00fcr eine einfache Handhabung und reibungslose Umsetzung.",
+                "qualifier": "note",
+                "lang": "de"
+            },
+            {
+                "value": "The VR training was developed using Unity and C#, and was optimized for execution on Windows, with compatibility for Oculus Meta Quest 2 and Oculus Meta Quest 3. A detailed manual is provided for setup and installation, along with a guide for conducting the interview to ensure ease of use and smooth implementation.",
+                "qualifier": "note",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institute of Psychology in Education (IPE)",
+                "authority": "virtual::10052",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Bildung",
+                "authority": "virtual::8614",
+                "confidence": "-1"
+            },
+            {
+                "value": "Institut f\u00fcr Management und Organisation (IMO)",
+                "authority": "virtual::10053",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Management und Technologie",
+                "authority": "virtual::8615",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Knabbe"
+                    ],
+                    "givenName": [
+                        "Friederike"
+                    ],
+                    "orcid": [
+                        "0009-0005-1359-4201"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8612",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Escher"
+                    ],
+                    "givenName": [
+                        "Yannik A."
+                    ],
+                    "orcid": [
+                        "0000-0002-8976-5805"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8608",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Petrowsky"
+                    ],
+                    "givenName": [
+                        "Hannes M."
+                    ],
+                    "orcid": [
+                        "0000-0002-2512-3256"
+                    ],
+                    "gnd": [
+                        "1316128571"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8609",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Loschelder"
+                    ],
+                    "givenName": [
+                        "David D."
+                    ],
+                    "orcid": [
+                        "0000-0001-5818-0559"
+                    ],
+                    "gnd": [
+                        "1167419588"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8610",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Kuhl"
+                    ],
+                    "givenName": [
+                        "Poldi"
+                    ],
+                    "orcid": [
+                        "0000-0001-8021-8840"
+                    ],
+                    "gnd": [
+                        "136669204"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::8611",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Stiftung Innovation in der Hochschullehre (StIL)"
+                    ],
+                    "ror": [
+                        "04m2ke783"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::8613",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Stiftung Innovation in der Hochschullehre (StIL)",
+                "qualifier": "funderName",
+                "authority": "virtual::8613",
+                "confidence": "-1"
+            }
+        ],
+        "Title": [
+            {
+                "value": "Virtual Reality Training Parent-Teacher Meeting",
+                "qualifier": "AlternativeTitle",
+                "lang": "en"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Bei der Anwendung handelt es sich um ein immersives Virtual Reality (VR)-Trainingsprogramm, das Personen in verschiedenen Phasen ihrer p\u00e4dagogischen Laufbahn unterst\u00fctzt, darunter Studierende, Absolventinnen und Absolventen sowie Berufseinsteigerinnen und Berufseinsteiger. Das Training konzentriert sich auf die Weiterentwicklung von Beratungskompetenzen, die Bew\u00e4ltigung von Angst und das Erlernen effektiver Techniken f\u00fcr den Umgang mit einem Elterngespr\u00e4ch. Das VR-Training bietet ein sicheres und interaktives Umfeld, in dem die Teilnehmenden praktische Erfahrungen sammeln und Sicherheit im Umgang mit Elterngespr\u00e4chen gewinnen k\u00f6nnen. Durch den Einsatz modernster VR-Technologie dient dieses Training als praktisches Instrument f\u00fcr angewandtes Lernen, das die Teilnehmenden in die Lage versetzt, Elterngespr\u00e4che mit Zuversicht und Kompetenz zu f\u00fchren. Das Training ist halbautomatisiert. Ein menschlicher Instruktor ist notwendig, um den Teilnehmenden durch das Gespr\u00e4ch zu f\u00fchren. Das Training umfasst verschiedene Aussagen aus einem problemorientierten Elterngespr\u00e4ch. Die Nutzerinnen und Nutzer werden aufgefordert, das Elterngespr\u00e4ch zu f\u00fchren und verbal auf die Aussagen und Fragen der (virtuellen) Mutter zu antworten. In diesem Anwendungsfall geht es um das Problem, dass der Sch\u00fcler die Hausaufgaben vergisst, weshalb die Mutter zu dem Treffen eingeladen wurde. Ziel des Trainings ist es, gemeinsam mit der interagierenden Mutter m\u00f6gliche Gr\u00fcnde und L\u00f6sungen f\u00fcr das Problem zu finden. Das VR-Format bietet eine virtuell vermittelte Umgebung, die es den Lernenden erm\u00f6glicht, Gespr\u00e4chsszenarien auf eine ansprechende und realistische Weise zu \u00fcben. Das Training wurde in einer mehrw\u00f6chigen Interventionsstudie mit einer Kontrollbedingung empirisch validiert, an der 102 Personen teilnahmen. Die Ergebnisse zeigen, dass das Training die Vorbereitung der Teilnehmenden auf Elterngespr\u00e4che verbessert und die Angst vor dem Gespr\u00e4ch reduziert.",
+                "qualifier": "Abstract",
+                "lang": "de"
+            },
+            {
+                "value": "The resource is an immersive Virtual Reality (VR) training program designed to support individuals at various stages of their teacher career, including students, graduates, and early-career professionals. The training focuses on developing counseling skills, managing anxiety, and learning effective techniques for managing a parent-teacher meeting. By offering a safe and interactive environment, the VR training enables participants to gain practical experience and confidence in navigating parent-teacher meetings. Thus, using state-of-the-art VR technology, this training serves as a robust tool for applied learning, empowering users to approach parent-teacher meetings with confidence and competence. The training is semi-automated. A human instructor is necessary to guide the interviewee through the interview. The training includes various statements from a problem-oriented parent-teacher meeting. The users are asked to conduct the parental interview and respond verbally to the mother's statements and questions. This use case deals with the problem of the student forgetting homework, which is why the mother was invited to the meeting. The goal of the training is to find possible reasons and solutions for the problem together with the interacting mother. The VR format provides a virtually mediated setting, allowing learners to practice interview scenarios in an engaging and realistic manner. The training was empirically validated through a multi-wave intervention study with a control condition, involving 102 participants. The results demonstrated its effectiveness in enhancing participants' preparedness for parent-teacher meetings and reducing interview-related anxiety.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Programming / Script-based data collection",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2022 - 2023",
+                "qualifier": "Created"
+            }
+        ],
+        "Language": [
+            {
+                "value": "deu"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2025"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "References"
+                    ],
+                    "freetext": [
+                        "Materialsammlung im Open Science Framework: VR Training Material"
+                    ],
+                    "relatedIdentifier": [
+                        "10.17605/OSF.IO/ZCRH6"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "ad196132-1c33-473b-bfd3-0dc8802db7c0",
+                "authority": "virtual::8612",
+                "confidence": "-1"
+            },
+            {
+                "value": "2f6907eb-5d2c-4744-bca7-78e1124215e0",
+                "authority": "virtual::8608",
+                "confidence": "-1"
+            },
+            {
+                "value": "6c061cac-9b6e-40f0-9320-0ec9fa74fd83",
+                "authority": "virtual::8609",
+                "confidence": "-1"
+            },
+            {
+                "value": "decb8110-3af5-4372-a210-91a40030fef5",
+                "authority": "virtual::8610",
+                "confidence": "-1"
+            },
+            {
+                "value": "cb7ccbc9-2251-4b79-a799-fd49234c9562",
+                "authority": "virtual::8611",
+                "confidence": "-1"
+            },
+            {
+                "value": "2f6907eb-5d2c-4744-bca7-78e1124215e0",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8608",
+                "confidence": "-1"
+            },
+            {
+                "value": "6c061cac-9b6e-40f0-9320-0ec9fa74fd83",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8609",
+                "confidence": "-1"
+            },
+            {
+                "value": "decb8110-3af5-4372-a210-91a40030fef5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8610",
+                "confidence": "-1"
+            },
+            {
+                "value": "cb7ccbc9-2251-4b79-a799-fd49234c9562",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8611",
+                "confidence": "-1"
+            },
+            {
+                "value": "ad196132-1c33-473b-bfd3-0dc8802db7c0",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8612",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "de622314-d20d-4242-8321-81c2d97ff0e9",
+                "authority": "virtual::10052",
+                "confidence": "-1"
+            },
+            {
+                "value": "393478e9-b4d8-46bd-b83c-c2b8fb037972",
+                "authority": "virtual::8614",
+                "confidence": "-1"
+            },
+            {
+                "value": "8395c146-4b00-4112-b5df-eb9d0ccccfb4",
+                "authority": "virtual::10053",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "authority": "virtual::8615",
+                "confidence": "-1"
+            },
+            {
+                "value": "393478e9-b4d8-46bd-b83c-c2b8fb037972",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8614",
+                "confidence": "-1"
+            },
+            {
+                "value": "297a5384-5714-4e1f-a667-b9d5046f4bda",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8615",
+                "confidence": "-1"
+            },
+            {
+                "value": "de622314-d20d-4242-8321-81c2d97ff0e9",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10052",
+                "confidence": "-1"
+            },
+            {
+                "value": "8395c146-4b00-4112-b5df-eb9d0ccccfb4",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10053",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "eb126490-a82c-42a0-9819-e7f00a7d96d7",
+                "authority": "virtual::8613",
+                "confidence": "-1"
+            },
+            {
+                "value": "eb126490-a82c-42a0-9819-e7f00a7d96d7",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8613",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-1749",
+        "title": "Virtual Reality Elterngespr\u00e4chstraining",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2025,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Knabbe, Friederike",
+                "givenName": "Friederike",
+                "familyName": "Knabbe",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0005-1359-4201",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Escher, Yannik A.",
+                "givenName": "Yannik A.",
+                "familyName": "Escher",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-8976-5805",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Petrowsky, Hannes M.",
+                "givenName": "Hannes M.",
+                "familyName": "Petrowsky",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-2512-3256",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1316128571",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Loschelder, David D.",
+                "givenName": "David D.",
+                "familyName": "Loschelder",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-5818-0559",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1167419588",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Kuhl, Poldi",
+                "givenName": "Poldi",
+                "familyName": "Kuhl",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0001-8021-8840",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "136669204",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "de",
+                "description": "Bei der Anwendung handelt es sich um ein immersives Virtual Reality (VR)-Trainingsprogramm, das Personen in verschiedenen Phasen ihrer p\u00e4dagogischen Laufbahn unterst\u00fctzt, darunter Studierende, Absolventinnen und Absolventen sowie Berufseinsteigerinnen und Berufseinsteiger. Das Training konzentriert sich auf die Weiterentwicklung von Beratungskompetenzen, die Bew\u00e4ltigung von Angst und das Erlernen effektiver Techniken f\u00fcr den Umgang mit einem Elterngespr\u00e4ch. Das VR-Training bietet ein sicheres und interaktives Umfeld, in dem die Teilnehmenden praktische Erfahrungen sammeln und Sicherheit im Umgang mit Elterngespr\u00e4chen gewinnen k\u00f6nnen. Durch den Einsatz modernster VR-Technologie dient dieses Training als praktisches Instrument f\u00fcr angewandtes Lernen, das die Teilnehmenden in die Lage versetzt, Elterngespr\u00e4che mit Zuversicht und Kompetenz zu f\u00fchren. Das Training ist halbautomatisiert. Ein menschlicher Instruktor ist notwendig, um den Teilnehmenden durch das Gespr\u00e4ch zu f\u00fchren. Das Training umfasst verschiedene Aussagen aus einem problemorientierten Elterngespr\u00e4ch. Die Nutzerinnen und Nutzer werden aufgefordert, das Elterngespr\u00e4ch zu f\u00fchren und verbal auf die Aussagen und Fragen der (virtuellen) Mutter zu antworten. In diesem Anwendungsfall geht es um das Problem, dass der Sch\u00fcler die Hausaufgaben vergisst, weshalb die Mutter zu dem Treffen eingeladen wurde. Ziel des Trainings ist es, gemeinsam mit der interagierenden Mutter m\u00f6gliche Gr\u00fcnde und L\u00f6sungen f\u00fcr das Problem zu finden. Das VR-Format bietet eine virtuell vermittelte Umgebung, die es den Lernenden erm\u00f6glicht, Gespr\u00e4chsszenarien auf eine ansprechende und realistische Weise zu \u00fcben. Das Training wurde in einer mehrw\u00f6chigen Interventionsstudie mit einer Kontrollbedingung empirisch validiert, an der 102 Personen teilnahmen. Die Ergebnisse zeigen, dass das Training die Vorbereitung der Teilnehmenden auf Elterngespr\u00e4che verbessert und die Angst vor dem Gespr\u00e4ch reduziert.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "lang": "en",
+                "description": "The resource is an immersive Virtual Reality (VR) training program designed to support individuals at various stages of their teacher career, including students, graduates, and early-career professionals. The training focuses on developing counseling skills, managing anxiety, and learning effective techniques for managing a parent-teacher meeting. By offering a safe and interactive environment, the VR training enables participants to gain practical experience and confidence in navigating parent-teacher meetings. Thus, using state-of-the-art VR technology, this training serves as a robust tool for applied learning, empowering users to approach parent-teacher meetings with confidence and competence. The training is semi-automated. A human instructor is necessary to guide the interviewee through the interview. The training includes various statements from a problem-oriented parent-teacher meeting. The users are asked to conduct the parental interview and respond verbally to the mother's statements and questions. This use case deals with the problem of the student forgetting homework, which is why the mother was invited to the meeting. The goal of the training is to find possible reasons and solutions for the problem together with the interacting mother. The VR format provides a virtually mediated setting, allowing learners to practice interview scenarios in an engaging and realistic manner. The training was empirically validated through a multi-wave intervention study with a control condition, involving 102 participants. The results demonstrated its effectiveness in enhancing participants' preparedness for parent-teacher meetings and reducing interview-related anxiety.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Programming / Script-based data collection",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Unzip the file package before using it.",
+                "descriptionType": "TechnicalInfo"
+            },
+            {
+                "description": "Instruction Manual f\u00fcr das Virtual Reality Elterngespr\u00e4chstraining",
+                "descriptionType": "TechnicalInfo"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Virtual Reality"
+            },
+            {
+                "subject": "Elterngespr\u00e4ch"
+            },
+            {
+                "subject": "Simulation"
+            },
+            {
+                "subject": "Lehrkr\u00e4fte"
+            },
+            {
+                "subject": "Beratungskompetenz"
+            },
+            {
+                "subject": "Beratung"
+            },
+            {
+                "subject": "Eltern"
+            },
+            {
+                "subject": "Professionalisierung"
+            },
+            {
+                "subject": "Berufliche Kompetenz"
+            },
+            {
+                "subject": "Lehrkr\u00e4ftebildung"
+            },
+            {
+                "subject": "Kompetenzentwicklung"
+            },
+            {
+                "subject": "Training"
+            },
+            {
+                "subject": "Programm"
+            },
+            {
+                "subject": "Lehramtsstudium"
+            },
+            {
+                "subject": "Angewandtes Lernen"
+            },
+            {
+                "subject": "E-Learning"
+            },
+            {
+                "subject": "Kommunikation"
+            },
+            {
+                "subject": "Parent-Teacher Meeting"
+            },
+            {
+                "subject": "Teacher"
+            },
+            {
+                "subject": "Consultation Competence"
+            },
+            {
+                "subject": "Consultation"
+            },
+            {
+                "subject": "Parents"
+            },
+            {
+                "subject": "Professionalisation"
+            },
+            {
+                "subject": "Professional Competence"
+            },
+            {
+                "subject": "Teacher Training"
+            },
+            {
+                "subject": "Competence Development"
+            },
+            {
+                "subject": "Programme"
+            },
+            {
+                "subject": "Teacher Education"
+            },
+            {
+                "subject": "Applied Learning"
+            },
+            {
+                "subject": "Communication"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-05-02",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-05-02",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2022/2023",
+                "dateType": "Created"
+            }
+        ],
+        "language": "de",
+        "relatedIdentifiers": [
+            {
+                "relationType": "References",
+                "relatedIdentifier": "10.17605/osf.io/zcrh6",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "awardTitle": "DigiTaL - Teilprojekt 01: Virtuelle Realit\u00e4ten zur Kompetenzentwicklung und Reflexion",
+                "funderName": "Stiftung Innovation in der Hochschullehre (StIL)",
+                "funderIdentifier": "https://ror.org/04m2ke783",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/9796",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-05-02T07:15:31.000Z",
+        "registered": "2025-05-02T07:15:32.000Z",
+        "updated": "2026-10-02T11:15:14.000Z"
+    },
+    "doi": "10.48548/pubdata-1749",
+    "license_uri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial 4.0 International"
+}

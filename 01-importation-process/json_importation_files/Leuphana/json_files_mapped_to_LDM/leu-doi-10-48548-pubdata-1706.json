@@ -1,0 +1,245 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Gross, Milena",
+            "givenName": "Milena",
+            "familyName": "Gross",
+            "orcid": "0000-0003-3148-627X"
+        },
+        {
+            "author": "Pearson, Jasmine",
+            "givenName": "Jasmine",
+            "familyName": "Pearson",
+            "orcid": "0000-0001-6341-1382"
+        },
+        {
+            "author": "Sanya Julius, John",
+            "givenName": "John",
+            "familyName": "Sanya Julius",
+            "orcid": "0000-0002-2986-9813"
+        },
+        {
+            "author": "Adloff, Susann",
+            "givenName": "Susann",
+            "familyName": "Adloff",
+            "orcid": "0000-0002-3660-5971"
+        },
+        {
+            "author": "Mart\u00edn-L\u00f3pez, Berta",
+            "givenName": "Berta",
+            "familyName": "Mart\u00edn-L\u00f3pez",
+            "orcid": "0000-0003-2622-0135"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-1706",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-1706",
+    "notes": "The dataset entails 623 face-to-face surveys conducted in Mount Kilimanjaro, Tanzania, with four social actors: farmers (n=362), nature conservationists (n=50), tour guides (n=55), and tourists (n=156). It contains preferences for 25 context-specific nature's contributions to people (NCP), expression of two instrumental, two intrinsic, and sixteen relational values, and profile attributes.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Broadening the justifications for inclusive conservation: values associated with nature's contributions to people_dataset",
+    "url": "https://doi.org/10.48548/pubdata-1706",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_name": "Mensch-Natur-Beziehung"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Tourismus",
+            "name": "Tourismus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Natur",
+            "name": "Natur",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "kosystem",
+            "name": "kosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mensch-Natur-Interaktion",
+            "name": "Mensch-Natur-Interaktion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Umfrage",
+            "name": "Umfrage",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Stakeholder",
+            "name": "Stakeholder",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Werte",
+            "name": "Werte",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Naturschutz",
+            "name": "Naturschutz",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Inklusion",
+            "name": "Inklusion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Naturleistungen fr den Menschen NCP",
+            "name": "Naturleistungen fr den Menschen NCP",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Prferenz",
+            "name": "Prferenz",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sozial-kologisches System",
+            "name": "Sozial-kologisches System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kilimandscharo",
+            "name": "Kilimandscharo",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tansania",
+            "name": "Tansania",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tourism",
+            "name": "Tourism",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nature",
+            "name": "Nature",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecosystem",
+            "name": "Ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Human-Nature Interaction",
+            "name": "Human-Nature Interaction",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Survey",
+            "name": "Survey",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Stakeholder",
+            "name": "Stakeholder",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Values",
+            "name": "Values",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nature Conservation",
+            "name": "Nature Conservation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Inclusion",
+            "name": "Inclusion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Natures Contributions to People NCP",
+            "name": "Natures Contributions to People NCP",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Preference",
+            "name": "Preference",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Social-ecological System",
+            "name": "Social-ecological System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mount Kilimanjaro",
+            "name": "Mount Kilimanjaro",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Tanzania",
+            "name": "Tanzania",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

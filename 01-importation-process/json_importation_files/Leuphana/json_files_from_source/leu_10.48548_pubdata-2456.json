@@ -1,0 +1,1694 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/11068",
+        "datestamp": "2026-03-23T11:16:43Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Hakelberg, Lukas",
+                "qualifier": "author",
+                "authority": "virtual::12776",
+                "confidence": "-1"
+            },
+            {
+                "value": "Ahrens, Leo",
+                "qualifier": "author",
+                "authority": "virtual::12785",
+                "confidence": "-1"
+            },
+            {
+                "value": "Crasnic, Loriana",
+                "qualifier": "author",
+                "authority": "virtual::12786",
+                "confidence": "-1"
+            },
+            {
+                "value": "Carneiro da Silva, Everton",
+                "qualifier": "author",
+                "authority": "virtual::12787",
+                "confidence": "-1"
+            },
+            {
+                "value": "Hubert, Leonie",
+                "qualifier": "author",
+                "authority": "virtual::12790",
+                "confidence": "-1"
+            },
+            {
+                "value": "Kvaratskhelia, Guram",
+                "qualifier": "author",
+                "authority": "virtual::12791",
+                "confidence": "-1"
+            },
+            {
+                "value": "Schumm, Paula",
+                "qualifier": "author",
+                "authority": "virtual::12792",
+                "confidence": "-1"
+            },
+            {
+                "value": "Soares Povill de Souza, Fernanda",
+                "qualifier": "author",
+                "authority": "virtual::12801",
+                "confidence": "-1"
+            },
+            {
+                "value": "Spatzl, Nadja",
+                "qualifier": "author",
+                "authority": "virtual::12793",
+                "confidence": "-1"
+            },
+            {
+                "value": "Wazir, Rizwan",
+                "qualifier": "author",
+                "authority": "virtual::12795",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2025-10-28T07:51:26Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2025-10-28",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/11068",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-2456",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "The Whiteness of Wealth Management: Colonial Economic Structure, Racism, and the Emergence of Tax Havens in the Global South",
+                "authority": "virtual::12780",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "The WOWMA Dataset on Tax Haven Emergence Version 0.2",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Observation Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Secondary Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Other",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Hakelberg, Lukas",
+                "authority": "virtual::12777",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Politische \u00d6konomie",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Politik",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00d6konomie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Steueroase",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Historisches Erbe",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Kolonialismus",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Mikrostaaten",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Staatenbildung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Dekolonisierung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Fiskalpolitik",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wirtschaftspolitik",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Politische Akteure",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Institution",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Steuerungsprozesse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Investition",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Politische Stabilit\u00e4t",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Demokratisierung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Einkommenssteuer",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Politics",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Economy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Tax Haven",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Historical Legacy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Colonialism",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Microstates",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "State-building",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Decolonisation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Fiscal Policy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Economic Policy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Political Actors",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Institution",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Governance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Investment",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Political Stability",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Democratisation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Income Taxation",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Lukas Hakelberg gratefully acknowledges funding for this project from the European Research Council under grant number 101116229 \u2013 WOWMA \u2013 ERC-2023-STG. The funding body played no role in the design, execution, analysis and interpretation of data, or writing the study.",
+                "qualifier": "note",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "ABW",
+                "qualifier": "country"
+            },
+            {
+                "value": "AIA",
+                "qualifier": "country"
+            },
+            {
+                "value": "ASM",
+                "qualifier": "country"
+            },
+            {
+                "value": "ATG",
+                "qualifier": "country"
+            },
+            {
+                "value": "GUY",
+                "qualifier": "country"
+            },
+            {
+                "value": "BES",
+                "qualifier": "country"
+            },
+            {
+                "value": "BHR",
+                "qualifier": "country"
+            },
+            {
+                "value": "BHS",
+                "qualifier": "country"
+            },
+            {
+                "value": "BLM",
+                "qualifier": "country"
+            },
+            {
+                "value": "BLZ",
+                "qualifier": "country"
+            },
+            {
+                "value": "BMU",
+                "qualifier": "country"
+            },
+            {
+                "value": "BRB",
+                "qualifier": "country"
+            },
+            {
+                "value": "BRN",
+                "qualifier": "country"
+            },
+            {
+                "value": "COK",
+                "qualifier": "country"
+            },
+            {
+                "value": "COM",
+                "qualifier": "country"
+            },
+            {
+                "value": "CPV",
+                "qualifier": "country"
+            },
+            {
+                "value": "CUB",
+                "qualifier": "country"
+            },
+            {
+                "value": "CUW",
+                "qualifier": "country"
+            },
+            {
+                "value": "CYM",
+                "qualifier": "country"
+            },
+            {
+                "value": "CYP",
+                "qualifier": "country"
+            },
+            {
+                "value": "DMA",
+                "qualifier": "country"
+            },
+            {
+                "value": "DOM",
+                "qualifier": "country"
+            },
+            {
+                "value": "TZA",
+                "qualifier": "country"
+            },
+            {
+                "value": "FJI",
+                "qualifier": "country"
+            },
+            {
+                "value": "FSM",
+                "qualifier": "country"
+            },
+            {
+                "value": "GLP",
+                "qualifier": "country"
+            },
+            {
+                "value": "GRD",
+                "qualifier": "country"
+            },
+            {
+                "value": "GUM",
+                "qualifier": "country"
+            },
+            {
+                "value": "HKG",
+                "qualifier": "country"
+            },
+            {
+                "value": "HTI",
+                "qualifier": "country"
+            },
+            {
+                "value": "JAM",
+                "qualifier": "country"
+            },
+            {
+                "value": "KIR",
+                "qualifier": "country"
+            },
+            {
+                "value": "KNA",
+                "qualifier": "country"
+            },
+            {
+                "value": "LCA",
+                "qualifier": "country"
+            },
+            {
+                "value": "MAC",
+                "qualifier": "country"
+            },
+            {
+                "value": "MAF",
+                "qualifier": "country"
+            },
+            {
+                "value": "MDV",
+                "qualifier": "country"
+            },
+            {
+                "value": "MHL",
+                "qualifier": "country"
+            },
+            {
+                "value": "MLT",
+                "qualifier": "country"
+            },
+            {
+                "value": "MSR",
+                "qualifier": "country"
+            },
+            {
+                "value": "MTQ",
+                "qualifier": "country"
+            },
+            {
+                "value": "MUS",
+                "qualifier": "country"
+            },
+            {
+                "value": "MYT",
+                "qualifier": "country"
+            },
+            {
+                "value": "NCL",
+                "qualifier": "country"
+            },
+            {
+                "value": "NFK",
+                "qualifier": "country"
+            },
+            {
+                "value": "NIU",
+                "qualifier": "country"
+            },
+            {
+                "value": "NRU",
+                "qualifier": "country"
+            },
+            {
+                "value": "PCN",
+                "qualifier": "country"
+            },
+            {
+                "value": "PLW",
+                "qualifier": "country"
+            },
+            {
+                "value": "PNG",
+                "qualifier": "country"
+            },
+            {
+                "value": "PRI",
+                "qualifier": "country"
+            },
+            {
+                "value": "PYF",
+                "qualifier": "country"
+            },
+            {
+                "value": "REU",
+                "qualifier": "country"
+            },
+            {
+                "value": "SGP",
+                "qualifier": "country"
+            },
+            {
+                "value": "SLB",
+                "qualifier": "country"
+            },
+            {
+                "value": "STP",
+                "qualifier": "country"
+            },
+            {
+                "value": "SXM",
+                "qualifier": "country"
+            },
+            {
+                "value": "SYC",
+                "qualifier": "country"
+            },
+            {
+                "value": "TCA",
+                "qualifier": "country"
+            },
+            {
+                "value": "TKL",
+                "qualifier": "country"
+            },
+            {
+                "value": "TLS",
+                "qualifier": "country"
+            },
+            {
+                "value": "TTO",
+                "qualifier": "country"
+            },
+            {
+                "value": "TON",
+                "qualifier": "country"
+            },
+            {
+                "value": "TUV",
+                "qualifier": "country"
+            },
+            {
+                "value": "VCT",
+                "qualifier": "country"
+            },
+            {
+                "value": "VGB",
+                "qualifier": "country"
+            },
+            {
+                "value": "VIR",
+                "qualifier": "country"
+            },
+            {
+                "value": "VUT",
+                "qualifier": "country"
+            },
+            {
+                "value": "WLF",
+                "qualifier": "country"
+            },
+            {
+                "value": "WSM",
+                "qualifier": "country"
+            },
+            {
+                "value": "British West Indies",
+                "qualifier": "region"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Politikwissenschaft (IPW)",
+                "authority": "virtual::12783",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Staatswissenschaften",
+                "authority": "virtual::12784",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Hakelberg"
+                    ],
+                    "givenName": [
+                        "Lukas"
+                    ],
+                    "orcid": [
+                        "0000-0002-2245-5474"
+                    ],
+                    "gnd": [
+                        "1153218852"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12776",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Ahrens"
+                    ],
+                    "givenName": [
+                        "Leo"
+                    ],
+                    "orcid": [
+                        "0000-0003-2029-9145"
+                    ],
+                    "gnd": [
+                        "119713669X"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12785",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Crasnic"
+                    ],
+                    "givenName": [
+                        "Loriana"
+                    ],
+                    "orcid": [
+                        "0000-0002-5978-3316"
+                    ],
+                    "gnd": [
+                        "1148799990"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12786",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Carneiro da Silva"
+                    ],
+                    "givenName": [
+                        "Everton"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12787",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Hubert"
+                    ],
+                    "givenName": [
+                        "Leonie"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12790",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Kvaratskhelia"
+                    ],
+                    "givenName": [
+                        "Guram"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12791",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Schumm"
+                    ],
+                    "givenName": [
+                        "Paula"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12792",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Soares Povill de Souza"
+                    ],
+                    "givenName": [
+                        "Fernanda"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12801",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Spatzl"
+                    ],
+                    "givenName": [
+                        "Nadja"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12793",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Wazir"
+                    ],
+                    "givenName": [
+                        "Rizwan"
+                    ],
+                    "orcid": [
+                        "0000-0003-3573-7830"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::12795",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "European Research Council (ERC)"
+                    ],
+                    "ror": [
+                        "0472cxd90"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::12780",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-3214",
+                "qualifier": "IsDescribedBy",
+                "authority": "virtual::15653",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Date": [
+            {
+                "value": "1804 - 2024",
+                "qualifier": "Coverage"
+            },
+            {
+                "value": "2025-10-19 -",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2021-08-02 - 2025-08-29",
+                "qualifier": "Collected"
+            }
+        ],
+        "FundingReference": [
+            {
+                "value": "European Research Council (ERC)",
+                "qualifier": "funderName",
+                "authority": "virtual::12780",
+                "confidence": "-1"
+            },
+            {
+                "value": "101116229 \u2013 WOWMA \u2013 ERC-2023-STG",
+                "qualifier": "awardNumber",
+                "authority": "virtual::12780",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The WOWMA dataset compiles contemporary and historical information on all of the world\u2019s tropical and subtropical island jurisdictions for years between 1804 and 2024 to enable analyses of the factors driving tax haven emergence in this geographical and temporal context. The variables so far included are described in the accompanying codebook.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Compilation / Synthesis",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Aggregation",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Observation (Computer-based)",
+                "qualifier": "Methods"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2025"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "3e14000c-f89f-4053-8a68-ad92800c83d3",
+                "authority": "virtual::12776",
+                "confidence": "-1"
+            },
+            {
+                "value": "0616c22a-2171-4d66-b776-1bd0061e4f02",
+                "authority": "virtual::12785",
+                "confidence": "-1"
+            },
+            {
+                "value": "731f277a-18b5-4992-9408-9ee5d599ddee",
+                "authority": "virtual::12786",
+                "confidence": "-1"
+            },
+            {
+                "value": "c22ba3ae-a96e-4433-8efa-503fc55e5abd",
+                "authority": "virtual::12787",
+                "confidence": "-1"
+            },
+            {
+                "value": "8d3cda47-ad6e-46d7-8cc6-78872a0a3fde",
+                "authority": "virtual::12790",
+                "confidence": "-1"
+            },
+            {
+                "value": "ec20dacc-62ec-444a-8356-537548762452",
+                "authority": "virtual::12791",
+                "confidence": "-1"
+            },
+            {
+                "value": "5ade022f-cd81-47ee-8461-45f298a83347",
+                "authority": "virtual::12792",
+                "confidence": "-1"
+            },
+            {
+                "value": "26123c1c-5ef3-4581-a7e3-9a93eda28e78",
+                "authority": "virtual::12801",
+                "confidence": "-1"
+            },
+            {
+                "value": "d4e2e703-f392-4ccd-bbc9-2c7550487cc5",
+                "authority": "virtual::12793",
+                "confidence": "-1"
+            },
+            {
+                "value": "c7bf949d-2985-4735-b3af-be43a056b2aa",
+                "authority": "virtual::12795",
+                "confidence": "-1"
+            },
+            {
+                "value": "3e14000c-f89f-4053-8a68-ad92800c83d3",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12776",
+                "confidence": "-1"
+            },
+            {
+                "value": "0616c22a-2171-4d66-b776-1bd0061e4f02",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12785",
+                "confidence": "-1"
+            },
+            {
+                "value": "731f277a-18b5-4992-9408-9ee5d599ddee",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12786",
+                "confidence": "-1"
+            },
+            {
+                "value": "c22ba3ae-a96e-4433-8efa-503fc55e5abd",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12787",
+                "confidence": "-1"
+            },
+            {
+                "value": "8d3cda47-ad6e-46d7-8cc6-78872a0a3fde",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12790",
+                "confidence": "-1"
+            },
+            {
+                "value": "ec20dacc-62ec-444a-8356-537548762452",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12791",
+                "confidence": "-1"
+            },
+            {
+                "value": "5ade022f-cd81-47ee-8461-45f298a83347",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12792",
+                "confidence": "-1"
+            },
+            {
+                "value": "d4e2e703-f392-4ccd-bbc9-2c7550487cc5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12793",
+                "confidence": "-1"
+            },
+            {
+                "value": "c7bf949d-2985-4735-b3af-be43a056b2aa",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12795",
+                "confidence": "-1"
+            },
+            {
+                "value": "26123c1c-5ef3-4581-a7e3-9a93eda28e78",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12801",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "3e14000c-f89f-4053-8a68-ad92800c83d3",
+                "authority": "virtual::12777",
+                "confidence": "-1"
+            },
+            {
+                "value": "3e14000c-f89f-4053-8a68-ad92800c83d3",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12777",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "c414bf83-07d3-4fcd-ae3c-b700032c6db5",
+                "authority": "virtual::12783",
+                "confidence": "-1"
+            },
+            {
+                "value": "46dac60d-f560-41e9-9268-11116c31737e",
+                "authority": "virtual::12784",
+                "confidence": "-1"
+            },
+            {
+                "value": "c414bf83-07d3-4fcd-ae3c-b700032c6db5",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12783",
+                "confidence": "-1"
+            },
+            {
+                "value": "46dac60d-f560-41e9-9268-11116c31737e",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12784",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "601652da-1128-4a62-80c8-3ec67cf45857",
+                "authority": "virtual::12780",
+                "confidence": "-1"
+            },
+            {
+                "value": "601652da-1128-4a62-80c8-3ec67cf45857",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::12780",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_Describes_": [
+            {
+                "value": "e0c300a4-583b-4b3d-a4da-43e4f4606695",
+                "authority": "virtual::15654",
+                "confidence": "-1"
+            },
+            {
+                "value": "e0c300a4-583b-4b3d-a4da-43e4f4606695",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::15654",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsDescribedBy_OfP": [
+            {
+                "value": "e0c300a4-583b-4b3d-a4da-43e4f4606695",
+                "authority": "virtual::15653",
+                "confidence": "-1"
+            },
+            {
+                "value": "e0c300a4-583b-4b3d-a4da-43e4f4606695",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::15653",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "embargo"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-2456",
+        "title": "The WOWMA Dataset on Tax Haven Emergence Version 0.2",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2026,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Hakelberg, Lukas",
+                "givenName": "Lukas",
+                "familyName": "Hakelberg",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-2245-5474",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1153218852",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Ahrens, Leo",
+                "givenName": "Leo",
+                "familyName": "Ahrens",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2029-9145",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "119713669X",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Crasnic, Loriana",
+                "givenName": "Loriana",
+                "familyName": "Crasnic",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-5978-3316",
+                        "nameIdentifierScheme": "ORCID"
+                    },
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1148799990",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Carneiro da Silva, Everton",
+                "givenName": "Everton",
+                "familyName": "Carneiro da Silva",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Hubert, Leonie",
+                "givenName": "Leonie",
+                "familyName": "Hubert",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Kvaratskhelia, Guram",
+                "givenName": "Guram",
+                "familyName": "Kvaratskhelia",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Schumm, Paula",
+                "givenName": "Paula",
+                "familyName": "Schumm",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Soares Povill de Souza, Fernanda",
+                "givenName": "Fernanda",
+                "familyName": "Soares Povill de Souza",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Spatzl, Nadja",
+                "givenName": "Nadja",
+                "familyName": "Spatzl",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Wazir, Rizwan",
+                "givenName": "Rizwan",
+                "familyName": "Wazir",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-3573-7830",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Hakelberg, Lukas",
+                "nameType": "Personal",
+                "givenName": "Lukas",
+                "familyName": "Hakelberg",
+                "affiliation": [],
+                "contributorType": "RightsHolder",
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "The WOWMA dataset compiles contemporary and historical information on all of the world\u2019s tropical and subtropical island jurisdictions for years between 1804 and 2024 to enable analyses of the factors driving tax haven emergence in this geographical and temporal context. The variables so far included are described in the accompanying codebook.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Compilation / Synthesis",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Aggregation",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Observation (Computer-based)",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Politik"
+            },
+            {
+                "subject": "\u00d6konomie"
+            },
+            {
+                "subject": "Steueroase"
+            },
+            {
+                "subject": "Historisches Erbe"
+            },
+            {
+                "subject": "Kolonialismus"
+            },
+            {
+                "subject": "Mikrostaaten"
+            },
+            {
+                "subject": "Staatenbildung"
+            },
+            {
+                "subject": "Dekolonisierung"
+            },
+            {
+                "subject": "Fiskalpolitik"
+            },
+            {
+                "subject": "Wirtschaftspolitik"
+            },
+            {
+                "subject": "Politische Akteure"
+            },
+            {
+                "subject": "Institution"
+            },
+            {
+                "subject": "Steuerungsprozesse"
+            },
+            {
+                "subject": "Investition"
+            },
+            {
+                "subject": "Politische Stabilit\u00e4t"
+            },
+            {
+                "subject": "Demokratisierung"
+            },
+            {
+                "subject": "Einkommenssteuer"
+            },
+            {
+                "subject": "Politics"
+            },
+            {
+                "subject": "Economy"
+            },
+            {
+                "subject": "Tax Haven"
+            },
+            {
+                "subject": "Historical Legacy"
+            },
+            {
+                "subject": "Colonialism"
+            },
+            {
+                "subject": "Microstates"
+            },
+            {
+                "subject": "State-building"
+            },
+            {
+                "subject": "Decolonisation"
+            },
+            {
+                "subject": "Fiscal Policy"
+            },
+            {
+                "subject": "Economic Policy"
+            },
+            {
+                "subject": "Political Actors"
+            },
+            {
+                "subject": "Governance"
+            },
+            {
+                "subject": "Investment"
+            },
+            {
+                "subject": "Political Stability"
+            },
+            {
+                "subject": "Democratisation"
+            },
+            {
+                "subject": "Income Taxation"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2025-10-28",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2025-10-28",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2025-10-19/2025-10-19",
+                "dateType": "Created"
+            },
+            {
+                "date": "2021-08-02/2025-08-29",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "20.500.14123/12976",
+                "relatedIdentifierType": "Handle"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "ABW"
+            },
+            {
+                "geoLocationPlace": "AIA"
+            },
+            {
+                "geoLocationPlace": "ASM"
+            },
+            {
+                "geoLocationPlace": "ATG"
+            },
+            {
+                "geoLocationPlace": "GUY"
+            },
+            {
+                "geoLocationPlace": "BES"
+            },
+            {
+                "geoLocationPlace": "BHR"
+            },
+            {
+                "geoLocationPlace": "BHS"
+            },
+            {
+                "geoLocationPlace": "BLM"
+            },
+            {
+                "geoLocationPlace": "BLZ"
+            },
+            {
+                "geoLocationPlace": "BMU"
+            },
+            {
+                "geoLocationPlace": "BRB"
+            },
+            {
+                "geoLocationPlace": "BRN"
+            },
+            {
+                "geoLocationPlace": "COK"
+            },
+            {
+                "geoLocationPlace": "COM"
+            },
+            {
+                "geoLocationPlace": "CPV"
+            },
+            {
+                "geoLocationPlace": "CUB"
+            },
+            {
+                "geoLocationPlace": "CUW"
+            },
+            {
+                "geoLocationPlace": "CYM"
+            },
+            {
+                "geoLocationPlace": "CYP"
+            },
+            {
+                "geoLocationPlace": "DMA"
+            },
+            {
+                "geoLocationPlace": "DOM"
+            },
+            {
+                "geoLocationPlace": "TZA"
+            },
+            {
+                "geoLocationPlace": "FJI"
+            },
+            {
+                "geoLocationPlace": "FSM"
+            },
+            {
+                "geoLocationPlace": "GLP"
+            },
+            {
+                "geoLocationPlace": "GRD"
+            },
+            {
+                "geoLocationPlace": "GUM"
+            },
+            {
+                "geoLocationPlace": "HKG"
+            },
+            {
+                "geoLocationPlace": "HTI"
+            },
+            {
+                "geoLocationPlace": "JAM"
+            },
+            {
+                "geoLocationPlace": "KIR"
+            },
+            {
+                "geoLocationPlace": "KNA"
+            },
+            {
+                "geoLocationPlace": "LCA"
+            },
+            {
+                "geoLocationPlace": "MAC"
+            },
+            {
+                "geoLocationPlace": "MAF"
+            },
+            {
+                "geoLocationPlace": "MDV"
+            },
+            {
+                "geoLocationPlace": "MHL"
+            },
+            {
+                "geoLocationPlace": "MLT"
+            },
+            {
+                "geoLocationPlace": "MSR"
+            },
+            {
+                "geoLocationPlace": "MTQ"
+            },
+            {
+                "geoLocationPlace": "MUS"
+            },
+            {
+                "geoLocationPlace": "MYT"
+            },
+            {
+                "geoLocationPlace": "NCL"
+            },
+            {
+                "geoLocationPlace": "NFK"
+            },
+            {
+                "geoLocationPlace": "NIU"
+            },
+            {
+                "geoLocationPlace": "NRU"
+            },
+            {
+                "geoLocationPlace": "PCN"
+            },
+            {
+                "geoLocationPlace": "PLW"
+            },
+            {
+                "geoLocationPlace": "PNG"
+            },
+            {
+                "geoLocationPlace": "PRI"
+            },
+            {
+                "geoLocationPlace": "PYF"
+            },
+            {
+                "geoLocationPlace": "REU"
+            },
+            {
+                "geoLocationPlace": "SGP"
+            },
+            {
+                "geoLocationPlace": "SLB"
+            },
+            {
+                "geoLocationPlace": "STP"
+            },
+            {
+                "geoLocationPlace": "SXM"
+            },
+            {
+                "geoLocationPlace": "SYC"
+            },
+            {
+                "geoLocationPlace": "TCA"
+            },
+            {
+                "geoLocationPlace": "TKL"
+            },
+            {
+                "geoLocationPlace": "TLS"
+            },
+            {
+                "geoLocationPlace": "TTO"
+            },
+            {
+                "geoLocationPlace": "TON"
+            },
+            {
+                "geoLocationPlace": "TUV"
+            },
+            {
+                "geoLocationPlace": "VCT"
+            },
+            {
+                "geoLocationPlace": "VGB"
+            },
+            {
+                "geoLocationPlace": "VIR"
+            },
+            {
+                "geoLocationPlace": "VUT"
+            },
+            {
+                "geoLocationPlace": "WLF"
+            },
+            {
+                "geoLocationPlace": "WSM"
+            },
+            {
+                "geoLocationPlace": "British West Indies"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "The Whiteness of Wealth Management: Colonial Economic Structure, Racism, and the Emergence of Tax Havens in the Global South",
+                "funderName": "European Research Council (ERC)",
+                "awardNumber": "101116229 \u2013 WOWMA \u2013 ERC-2023-STG",
+                "funderIdentifier": "https://ror.org/0472cxd90",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/11068",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2025-10-28T08:15:14.000Z",
+        "registered": "2025-10-28T08:15:33.000Z",
+        "updated": "2026-03-23T12:15:11.000Z"
+    },
+    "doi": "10.48548/pubdata-2456",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}

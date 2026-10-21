@@ -1,0 +1,881 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/15901",
+        "datestamp": "2026-09-16T11:47:36Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Sowinski, Ronja",
+                "qualifier": "author",
+                "authority": "virtual::20419",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2026-09-15T08:52:41Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2026-09-15",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/15901",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-4105",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Interviews zu biologischen Ph\u00e4nomenen: Wie erkl\u00e4ren Dozierende, Biologielehrkr\u00e4fte und mehrsprachige Sch\u00fcler*innen Laubzersetzung und die Immunreaktion?",
+                "lang": "de"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            },
+            {
+                "value": "Instrument"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Interview Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Survey Instruments / Measuring Instruments",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Context Materials / Supporting information",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Sowinski, Ronja",
+                "authority": "virtual::20420",
+                "confidence": "-1"
+            }
+        ],
+        "RightsHolder": [
+            {
+                "value": "Sowinski, Ronja",
+                "authority": "virtual::20421",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Fachdidaktik",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Sch\u00fcler",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Vorstellung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Lehrkr\u00e4fte",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Biologie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Didaktik",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Fachunterricht",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Lernen",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Metapher",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Laub",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Zersetzung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Abbau",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Immunsystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Immunreaktion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Krankheit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Grippe",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Mehrsprachigkeit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Naturwissenschaftsunterricht",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Student",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Conception",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Teacher",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Biology",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Didactics",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Education",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Learning",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Metaphor",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Foliage",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Decomposition",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Degradation",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Immune System",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Immune Response",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Disease",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Influenza",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Multilinguism",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Science Education",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "Description": [
+            {
+                "value": "Die Interviewdaten sind sowohl als PDF-Dokument als auch als MAXQDA-Datei verf\u00fcgbar.",
+                "qualifier": "note",
+                "lang": "de"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country"
+            }
+        ],
+        "PublishingType": [
+            {
+                "value": "First publication"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Nachhaltige Chemie (INSC)",
+                "authority": "virtual::20422",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::20423",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Sowinski"
+                    ],
+                    "givenName": [
+                        "Ronja"
+                    ],
+                    "orcid": [
+                        "0009-0009-3087-1898"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::20419",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-3226",
+                "qualifier": "IsDescribedBy",
+                "authority": "virtual::20424",
+                "confidence": "-1"
+            },
+            {
+                "value": "DOI: 10.48548/pubdata-4107",
+                "qualifier": "IsDocumentedBy",
+                "authority": "virtual::20429",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Description": [
+            {
+                "value": "Der Datensatz umfasst die im Rahmen des Promotionsprojekts \"Alle anders, alle gleich? - Vorstellungen zu biologischen Ph\u00e4nomenen und Metaphernverwendung von Sch\u00fcler*innen unterschiedlicher Erstsprachen\" von Ronja Sowinski erhobenen Interviewdaten samt Erhebungsinstrumente und Kontextmaterialien. Die Interviews wurden jeweils mit Sch\u00fclerinnen und Sch\u00fclern, mit deren zugeh\u00f6rigen Biologielehrkr\u00e4ften sowie mit Hochschuldozierenden aus biologischen Fachbereichen gef\u00fchrt. Thematisch setzten sich die Interviews mit den biologischen Ph\u00e4nomenen \"Laubzersetzung\" und \"Immunreaktion bei einer Grippe\" auseinander. Enthalten sind die jeweiligen Interviewdaten als Transkripte, die beiden Interviewleitf\u00e4den zu den Schwerpunkten \"Laubzersetzung\" und \"Immunreaktion bei einer Grippe\" sowie eine \u00dcbersicht der Charakteristika der befragten Sch\u00fclerinnen und Sch\u00fclern, ausgehend von einer schriftlichen Befragung. Die Angaben in dieser \u00dcbersicht sind stets in Verbindung mit den gef\u00fchrten Interviews zu sehen: Die Charakteristika stellen entsprechende Kontextbedingungen, in denen die Interviews gef\u00fchrt wurden, dar.",
+                "qualifier": "Abstract",
+                "lang": "de"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Transcription",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2021-03-08 - 2022-07-07",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "deu"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2026"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "freetext": [
+                        "Sowinski, R., Hofer, E., & Abels, S. (2025). Alles nur ein Kampf? Zeitschrift f\u00fcr Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen, 30(1), 25\u201348."
+                    ],
+                    "relatedIdentifier": [
+                        "10.11576/zdb-7338"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationType": [
+                        "IsDescribedBy"
+                    ]
+                }
+            },
+            {
+                "value": {
+                    "freetext": [
+                        "Sowinski, R., Hofer, E., & Abels, S. (2024). Metaphern zur Kl\u00e4rung biologischer Ph\u00e4nomene. Zeitschrift f\u00fcr Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen, 28, 56\u201375."
+                    ],
+                    "relatedIdentifier": [
+                        "10.11576/ZDB-6573"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ],
+                    "relationType": [
+                        "IsDescribedBy"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "1cab1448-0df1-499d-a298-10b403853e7c",
+                "authority": "virtual::20419",
+                "confidence": "-1"
+            },
+            {
+                "value": "1cab1448-0df1-499d-a298-10b403853e7c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20419",
+                "confidence": "-1"
+            }
+        ],
+        "isRightsHolderOfPublication": [
+            {
+                "value": "1cab1448-0df1-499d-a298-10b403853e7c",
+                "authority": "virtual::20421",
+                "confidence": "-1"
+            },
+            {
+                "value": "1cab1448-0df1-499d-a298-10b403853e7c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20421",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "9df554d3-9c1e-42bd-97cd-58b4baf51d28",
+                "authority": "virtual::20422",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::20423",
+                "confidence": "-1"
+            },
+            {
+                "value": "9df554d3-9c1e-42bd-97cd-58b4baf51d28",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20422",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20423",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "1cab1448-0df1-499d-a298-10b403853e7c",
+                "authority": "virtual::20420",
+                "confidence": "-1"
+            },
+            {
+                "value": "1cab1448-0df1-499d-a298-10b403853e7c",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20420",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_Describes_": [
+            {
+                "value": "5343dded-ff1a-46bf-8e53-4e3ef652f472",
+                "authority": "virtual::20430",
+                "confidence": "-1"
+            },
+            {
+                "value": "5343dded-ff1a-46bf-8e53-4e3ef652f472",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20430",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_Documents_": [
+            {
+                "value": "81d5e014-d30e-4623-8f7e-7bf6dcf19252",
+                "authority": "virtual::20431",
+                "confidence": "-1"
+            },
+            {
+                "value": "81d5e014-d30e-4623-8f7e-7bf6dcf19252",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20431",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsDescribedBy_OfP": [
+            {
+                "value": "5343dded-ff1a-46bf-8e53-4e3ef652f472",
+                "authority": "virtual::20424",
+                "confidence": "-1"
+            },
+            {
+                "value": "5343dded-ff1a-46bf-8e53-4e3ef652f472",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20424",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsDocumentedBy_OfP": [
+            {
+                "value": "81d5e014-d30e-4623-8f7e-7bf6dcf19252",
+                "authority": "virtual::20429",
+                "confidence": "-1"
+            },
+            {
+                "value": "81d5e014-d30e-4623-8f7e-7bf6dcf19252",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::20429",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "restricted"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-4105",
+        "title": "Interviews zu biologischen Ph\u00e4nomenen: Wie erkl\u00e4ren Dozierende, Biologielehrkr\u00e4fte und mehrsprachige Sch\u00fcler*innen Laubzersetzung und die Immunreaktion?",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2026,
+        "resourceType": "Collection",
+        "creators": [
+            {
+                "name": "Sowinski, Ronja",
+                "givenName": "Ronja",
+                "familyName": "Sowinski",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0009-0009-3087-1898",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Sowinski, Ronja",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Sowinski, Ronja",
+                "contributorType": "RightsHolder",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "de",
+                "description": "Der Datensatz umfasst die im Rahmen des Promotionsprojekts \"Alle anders, alle gleich? - Vorstellungen zu biologischen Ph\u00e4nomenen und Metaphernverwendung von Sch\u00fcler*innen unterschiedlicher Erstsprachen\" von Ronja Sowinski erhobenen Interviewdaten samt Erhebungsinstrumente und Kontextmaterialien. Die Interviews wurden jeweils mit Sch\u00fclerinnen und Sch\u00fclern, mit deren zugeh\u00f6rigen Biologielehrkr\u00e4ften sowie mit Hochschuldozierenden aus biologischen Fachbereichen gef\u00fchrt. Thematisch setzten sich die Interviews mit den biologischen Ph\u00e4nomenen \"Laubzersetzung\" und \"Immunreaktion bei einer Grippe\" auseinander. Enthalten sind die jeweiligen Interviewdaten als Transkripte, die beiden Interviewleitf\u00e4den zu den Schwerpunkten \"Laubzersetzung\" und \"Immunreaktion bei einer Grippe\" sowie eine \u00dcbersicht der Charakteristika der befragten Sch\u00fclerinnen und Sch\u00fclern, ausgehend von einer schriftlichen Befragung. Die Angaben in dieser \u00dcbersicht sind stets in Verbindung mit den gef\u00fchrten Interviews zu sehen: Die Charakteristika stellen entsprechende Kontextbedingungen, in denen die Interviews gef\u00fchrt wurden, dar.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Transcription",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Sch\u00fcler"
+            },
+            {
+                "subject": "Vorstellung"
+            },
+            {
+                "subject": "Lehrkr\u00e4fte"
+            },
+            {
+                "subject": "Biologie"
+            },
+            {
+                "subject": "Didaktik"
+            },
+            {
+                "subject": "Fachunterricht"
+            },
+            {
+                "subject": "Lernen"
+            },
+            {
+                "subject": "Metapher"
+            },
+            {
+                "subject": "Laub"
+            },
+            {
+                "subject": "Zersetzung"
+            },
+            {
+                "subject": "Abbau"
+            },
+            {
+                "subject": "Immunsystem"
+            },
+            {
+                "subject": "Immunreaktion"
+            },
+            {
+                "subject": "Krankheit"
+            },
+            {
+                "subject": "Grippe"
+            },
+            {
+                "subject": "Mehrsprachigkeit"
+            },
+            {
+                "subject": "Naturwissenschaftsunterricht"
+            },
+            {
+                "subject": "Student"
+            },
+            {
+                "subject": "Conception"
+            },
+            {
+                "subject": "Teacher"
+            },
+            {
+                "subject": "Biology"
+            },
+            {
+                "subject": "Didactics"
+            },
+            {
+                "subject": "Education"
+            },
+            {
+                "subject": "Learning"
+            },
+            {
+                "subject": "Metaphor"
+            },
+            {
+                "subject": "Foliage"
+            },
+            {
+                "subject": "Decomposition"
+            },
+            {
+                "subject": "Degradation"
+            },
+            {
+                "subject": "Immune System"
+            },
+            {
+                "subject": "Immune Response"
+            },
+            {
+                "subject": "Disease"
+            },
+            {
+                "subject": "Influenza"
+            },
+            {
+                "subject": "Multilinguism"
+            },
+            {
+                "subject": "Science Education"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2026-09-15",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2026-09-15",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2021-03-08/2022-07-07",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "de",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.11576/zdb-7338",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.11576/zdb-6573",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsDescribedBy",
+                "relatedIdentifier": "10.48548/pubdata-3226",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsDocumentedBy",
+                "relatedIdentifier": "10.48548/pubdata-4107",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "RegisteredUsers"
+            },
+            {
+                "lang": "en-US",
+                "rightsUri": "https://pubdata.leuphana.de/static/docs/research_data/PubData_UsageLicense_AccessProtected_ResearchData.pdf",
+                "rightsIdentifier": "pubdata-1.0"
+            },
+            {
+                "rights": "RegisteredUsers"
+            },
+            {
+                "lang": "en-US",
+                "rightsUri": "https://pubdata.leuphana.de/static/docs/research_data/PubData_UsageLicense_AccessProtected_ResearchData.pdf",
+                "rightsIdentifier": "pubdata-1.0"
+            },
+            {
+                "rights": "RegisteredUsers"
+            },
+            {
+                "lang": "en-US",
+                "rightsUri": "https://pubdata.leuphana.de/static/docs/research_data/PubData_UsageLicense_AccessProtected_ResearchData.pdf",
+                "rightsIdentifier": "pubdata-1.0"
+            },
+            {
+                "rights": "RegisteredUsers"
+            },
+            {
+                "lang": "en-US",
+                "rightsUri": "https://pubdata.leuphana.de/static/docs/research_data/PubData_UsageLicense_AccessProtected_ResearchData.pdf",
+                "rightsIdentifier": "pubdata-1.0"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "RegisteredUsers"
+            },
+            {
+                "lang": "en-US",
+                "rightsUri": "https://pubdata.leuphana.de/static/docs/research_data/PubData_UsageLicense_AccessProtected_ResearchData.pdf",
+                "rightsIdentifier": "pubdata-1.0"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Share Alike 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-sa-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            }
+        ],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/15901",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2026-09-15T09:15:25.000Z",
+        "registered": "2026-09-15T09:15:44.000Z",
+        "updated": "2026-09-16T12:15:14.000Z"
+    },
+    "doi": "10.48548/pubdata-4105",
+    "license_uri": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "license": "Creative Commons Attribution Share Alike 4.0 International"
+}

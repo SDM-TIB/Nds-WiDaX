@@ -1,0 +1,818 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/248",
+        "datestamp": "2025-06-26T05:06:15Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Isaac, Roman",
+                "qualifier": "author",
+                "authority": "virtual::5171",
+                "confidence": "-1"
+            },
+            {
+                "value": "Hofmann, Johanna",
+                "qualifier": "author",
+                "authority": "virtual::5205",
+                "confidence": "-1"
+            },
+            {
+                "value": "D\u00e4fler, Lene Salia",
+                "qualifier": "author",
+                "authority": "virtual::5209",
+                "confidence": "-1"
+            },
+            {
+                "value": "Mart\u00edn-L\u00f3pez, Berta",
+                "qualifier": "author",
+                "authority": "virtual::5243",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2024-04-29T14:25:30Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2024-04-29T14:25:30Z",
+                "qualifier": "available"
+            },
+            {
+                "value": "2024-04-29",
+                "qualifier": "issued"
+            },
+            {
+                "value": "2024-04-29T10:32:19Z",
+                "qualifier": "submitted"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/248",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-216",
+                "qualifier": "uri"
+            }
+        ],
+        "relation": [
+            {
+                "value": "Effects of land management on the Supply and Distribution of ecosystem services (ESuDis)",
+                "authority": "virtual::8782",
+                "confidence": "-1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Coding, Coding Set, and Policy Overview: Policy Document Analysis Data for the PhD Thesis \"More than trees\"",
+                "lang": "en"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset",
+                "lang": "-"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Statistical Evaluations / Tables",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Context Materials / Supporting information",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Bibliography",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Mensch-Natur-Beziehung",
+                "qualifier": "topic",
+                "lang": "-"
+            },
+            {
+                "value": "Dokumentenanalyse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Steuerungsprozesse",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Richtlinie",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "\u00d6kosystem",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Dienstleistung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Naturleistungen f\u00fcr den Menschen (NCP)",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wald",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Koproduktion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Document Analysis",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Governance",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Policy",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Ecosystem",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Service Provision",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Nature's Contributions to People (NCP)",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Forest",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Co-production",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country",
+                "lang": "-"
+            },
+            {
+                "value": "DEU",
+                "qualifier": "country"
+            },
+            {
+                "value": "Biosph\u00e4renreservat Schw\u00e4bische Alb, Baden-W\u00fcrttemberg",
+                "qualifier": "region",
+                "lang": "-"
+            },
+            {
+                "value": "Biosph\u00e4renreservat Schorfheide-Chorin, Brandenburg",
+                "qualifier": "region",
+                "lang": "-"
+            },
+            {
+                "value": "Nationalpark Hainich, Th\u00fcringen",
+                "qualifier": "region",
+                "lang": "-"
+            },
+            {
+                "value": "Eichsfeld, Th\u00fcringen",
+                "qualifier": "region",
+                "lang": "-"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Social-Ecological Systems Institute (SESI)",
+                "authority": "virtual::10066",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::5247",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Isaac"
+                    ],
+                    "givenName": [
+                        "Roman"
+                    ],
+                    "orcid": [
+                        "0000-0002-0007-7433"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::5171",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Hofmann"
+                    ],
+                    "givenName": [
+                        "Johanna"
+                    ],
+                    "orcid": [
+                        "0000-0002-5222-0414"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::5205",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "D\u00e4fler"
+                    ],
+                    "givenName": [
+                        "Lene Salia"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::5209",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Mart\u00edn-L\u00f3pez"
+                    ],
+                    "givenName": [
+                        "Berta"
+                    ],
+                    "orcid": [
+                        "0000-0003-2622-0135"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::5243",
+                "confidence": "-1"
+            },
+            {
+                "value": {
+                    "legalName": [
+                        "Deutsche Forschungsgemeinschaft (DFG)"
+                    ],
+                    "ror": [
+                        "018mejw64"
+                    ],
+                    "entityType": [
+                        "OrgUnit"
+                    ]
+                },
+                "qualifier": "DataCite_FundingReference",
+                "authority": "virtual::8782",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-210",
+                "qualifier": "IsSupplementTo",
+                "authority": "virtual::5281",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "FundingReference": [
+            {
+                "value": "Deutsche Forschungsgemeinschaft (DFG)",
+                "qualifier": "funderName",
+                "authority": "virtual::8782",
+                "confidence": "-1"
+            },
+            {
+                "value": "65300036",
+                "qualifier": "awardNumber",
+                "authority": "virtual::8782",
+                "confidence": "-1"
+            }
+        ],
+        "Description": [
+            {
+                "value": "The researchers conducted a policy document analysis (PDA) to identify how policy document intend to govern anthropogenic capitals in the co-production of nature's contributions to people (NCP). They used a four step approach to identify policies. First, they checked the scientific literature for references to relevant documents. Second, they conducted an online search in databases of relevant institutions. Third, they assessed which Natura 2000 sites were located in their case study sites and plots to find relevant Natura 2000 management plans. Fourth, they interviewed 37 forest managers and 13 conservationists and asked them about policy documents relevant for their work. In total the researchers identified 96 policy documents from different policy fields. Of these 76 met their selection criteria of referring to governance of anthropogenic capitals in nature's contributions to people co-production in forests. The research group coded these policy documents using a deductive coding scheme. The data set consists of the coding set, the coding and a full list of the 76 documents.",
+                "qualifier": "Abstract",
+                "lang": "en"
+            },
+            {
+                "value": "Content coding",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Analysis of text documents",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2022 - 2023",
+                "qualifier": "Created"
+            },
+            {
+                "value": "2022-01 - 2022-05",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "eng",
+                "lang": "-"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2024"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg",
+                "lang": "-"
+            }
+        ],
+        "RelatedIdentifier": [
+            {
+                "value": {
+                    "relationType": [
+                        "IsSupplementTo"
+                    ],
+                    "freetext": [
+                        "Isaac, R., Hofmann, J., Koegst, J., Schleyer, C., & Mart\u00edn-L\u00f3pez, B. (2024). Governing anthropogenic assets for nature's contributions to people in forests: a policy document analysis. Environmental Science & Policy, 152, [103657]."
+                    ],
+                    "relatedIdentifier": [
+                        "10.1016/j.envsci.2023.103657"
+                    ],
+                    "relatedIdentifierType": [
+                        "DOI"
+                    ]
+                }
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "dc668790-224e-45e6-9fc6-30f1cbe96cdd",
+                "authority": "virtual::5171",
+                "confidence": "-1"
+            },
+            {
+                "value": "c6f73b5f-4e5c-46b5-aabd-d1d4987debb3",
+                "authority": "virtual::5205",
+                "confidence": "-1"
+            },
+            {
+                "value": "f97c9e64-3c5b-4e7a-bc12-4e45f66aa599",
+                "authority": "virtual::5209",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "authority": "virtual::5243",
+                "confidence": "-1"
+            },
+            {
+                "value": "dc668790-224e-45e6-9fc6-30f1cbe96cdd",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5171",
+                "confidence": "-1"
+            },
+            {
+                "value": "c6f73b5f-4e5c-46b5-aabd-d1d4987debb3",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5205",
+                "confidence": "-1"
+            },
+            {
+                "value": "f97c9e64-3c5b-4e7a-bc12-4e45f66aa599",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5209",
+                "confidence": "-1"
+            },
+            {
+                "value": "f6e6d55f-a10d-412d-9f0a-3c65cb6bb985",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5243",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "authority": "virtual::10066",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::5247",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5247",
+                "confidence": "-1"
+            },
+            {
+                "value": "d307ee20-c3d1-4dec-aba0-d4658631b0d6",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::10066",
+                "confidence": "-1"
+            }
+        ],
+        "isProjectOfPublication": [
+            {
+                "value": "bf13e527-518e-4c03-8543-7238a9203b1f",
+                "authority": "virtual::8782",
+                "confidence": "-1"
+            },
+            {
+                "value": "bf13e527-518e-4c03-8543-7238a9203b1f",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::8782",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsSupplementedBy_": [
+            {
+                "value": "7084f45e-c3ba-4b31-9835-117119cda85b",
+                "authority": "virtual::2473",
+                "confidence": "-1"
+            },
+            {
+                "value": "7084f45e-c3ba-4b31-9835-117119cda85b",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::2473",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_IsSupplementTo_OfP": [
+            {
+                "value": "7084f45e-c3ba-4b31-9835-117119cda85b",
+                "authority": "virtual::5281",
+                "confidence": "-1"
+            },
+            {
+                "value": "7084f45e-c3ba-4b31-9835-117119cda85b",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::5281",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "open.access"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-216",
+        "title": "Coding, Coding Set, and Policy Overview: Policy Document Analysis Data for the PhD Thesis \"More than trees\"",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2024,
+        "resourceType": "Dataset",
+        "creators": [
+            {
+                "name": "Isaac, Roman",
+                "nameType": "Personal",
+                "givenName": "Roman",
+                "familyName": "Isaac",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-0007-7433",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "Hofmann, Johanna",
+                "nameType": "Personal",
+                "givenName": "Johanna",
+                "familyName": "Hofmann",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0002-5222-0414",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            },
+            {
+                "name": "D\u00e4fler, Lene Salia",
+                "nameType": "Personal",
+                "givenName": "Lene Salia",
+                "familyName": "D\u00e4fler",
+                "affiliation": [],
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Mart\u00edn-L\u00f3pez, Berta",
+                "nameType": "Personal",
+                "givenName": "Berta",
+                "familyName": "Mart\u00edn-L\u00f3pez",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://orcid.org",
+                        "nameIdentifier": "https://orcid.org/0000-0003-2622-0135",
+                        "nameIdentifierScheme": "ORCID"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            }
+        ],
+        "descriptions": [
+            {
+                "description": "The researchers conducted a policy document analysis (PDA) to identify how policy document intend to govern anthropogenic capitals in the co-production of nature's contributions to people (NCP). They used a four step approach to identify policies. First, they checked the scientific literature for references to relevant documents. Second, they conducted an online search in databases of relevant institutions. Third, they assessed which Natura 2000 sites were located in their case study sites and plots to find relevant Natura 2000 management plans. Fourth, they interviewed 37 forest managers and 13 conservationists and asked them about policy documents relevant for their work. In total the researchers identified 96 policy documents from different policy fields. Of these 76 met their selection criteria of referring to governance of anthropogenic capitals in nature's contributions to people co-production in forests. The research group coded these policy documents using a deductive coding scheme. The data set consists of the coding set, the coding and a full list of the 76 documents.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Content coding",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Analysis of text documents",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Dokumentenanalyse"
+            },
+            {
+                "subject": "Steuerungsprozesse"
+            },
+            {
+                "subject": "Richtlinie"
+            },
+            {
+                "subject": "\u00d6kosystem"
+            },
+            {
+                "subject": "Dienstleistung"
+            },
+            {
+                "subject": "Naturleistungen f\u00fcr den Menschen (NCP)"
+            },
+            {
+                "subject": "Wald"
+            },
+            {
+                "subject": "Koproduktion"
+            },
+            {
+                "subject": "Document Analysis"
+            },
+            {
+                "subject": "Governance"
+            },
+            {
+                "subject": "Policy"
+            },
+            {
+                "subject": "Ecosystem"
+            },
+            {
+                "subject": "Service Provision"
+            },
+            {
+                "subject": "Nature's Contributions to People (NCP)"
+            },
+            {
+                "subject": "Forest"
+            },
+            {
+                "subject": "Co-production"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2024-04-29",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2024-04-29",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-04-29",
+                "dateType": "Submitted"
+            },
+            {
+                "date": "2024-04-29",
+                "dateType": "Available"
+            },
+            {
+                "date": "2022/2023",
+                "dateType": "Created"
+            },
+            {
+                "date": "2022-01/2022-05",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "en",
+        "relatedIdentifiers": [
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.1016/j.envsci.2023.103657",
+                "relatedIdentifierType": "DOI"
+            },
+            {
+                "relationType": "IsSupplementTo",
+                "relatedIdentifier": "10.48548/pubdata-210",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution Non Commercial 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-nc-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "Biosph\u00e4renreservat Schw\u00e4bische Alb, Baden-W\u00fcrttemberg"
+            },
+            {
+                "geoLocationPlace": "Biosph\u00e4renreservat Schorfheide-Chorin, Brandenburg"
+            },
+            {
+                "geoLocationPlace": "Nationalpark Hainich, Th\u00fcringen"
+            },
+            {
+                "geoLocationPlace": "Eichsfeld, Th\u00fcringen"
+            }
+        ],
+        "fundingReferences": [
+            {
+                "schemeUri": "https://ror.org",
+                "awardTitle": "Effects of land management on the Supply and Distribution of ecosystem services (ESuDis)",
+                "funderName": "Deutsche Forschungsgemeinschaft (DFG)",
+                "awardNumber": "65300036",
+                "funderIdentifier": "https://ror.org/018mejw64",
+                "funderIdentifierType": "ROR"
+            }
+        ],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/248",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2024-04-29T15:15:13.000Z",
+        "registered": "2024-04-29T15:15:25.000Z",
+        "updated": "2025-06-26T05:15:18.000Z"
+    },
+    "doi": "10.48548/pubdata-216",
+    "license_uri": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license": "Creative Commons Attribution Non Commercial 4.0 International"
+}

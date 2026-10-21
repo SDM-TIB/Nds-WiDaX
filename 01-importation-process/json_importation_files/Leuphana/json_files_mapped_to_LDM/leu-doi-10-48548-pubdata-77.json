@@ -1,0 +1,191 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Olsson, Oliver",
+            "givenName": "Oliver",
+            "familyName": "Olsson",
+            "orcid": "0000-0003-0082-1442"
+        },
+        {
+            "author": "Logunova, Evgenia",
+            "givenName": "Evgenia",
+            "familyName": "Logunova",
+            "orcid": ""
+        },
+        {
+            "author": "Suk, Morten",
+            "givenName": "Morten",
+            "familyName": "Suk",
+            "orcid": ""
+        },
+        {
+            "author": "K\u00fcmmerer, Klaus",
+            "givenName": "Klaus",
+            "familyName": "K\u00fcmmerer",
+            "orcid": "0000-0003-2027-6488"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-77",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-77",
+    "notes": "Closed Bottle Test (CBT) is a simple test to evaluate the ready biodegradability of an organic compound in the environment. It was performed according to the OECD test guidelines (OECD, 1992) using a low bacterial density (2 drops STP effluent/L), low nutrient content, and at room temperature (20 \u00b1 1 \u00b0C) in the dark. The test system consisted of four different series, each series run in parallel. The readily biodegradable sodium acetate and the test substance used in the test were adjusted to a concentration corresponding to 5 mg L\u22121 theoretical oxygen demand without nitrification (ThODNH3). All test bottles were inoculated with an aliquot from the effluent of the municipal sewage treatment plant (STP) in AGL L\u00fcneburg, Germany (144,000 inhabitant equivalents). Throughout the test, the biochemical oxygen demand (BOD) was monitored by measuring the dissolved oxygen concentration. A test compound is classified as \u201creadily biodegradable\u201d if biodegradation, expressed as a percentage of oxygen consumed in the test bottle, exceeds 60% within a period of 10 days after the oxygen consumption reached 10% ThOD. Toxicity was assessed by comparing oxygen consumption, as measured in the toxicity controls, with the predicted level calculated based on the oxygen consumption in the quality control and in the test bottles, respectively. Toxicity controls allow for the recognition of false negative results caused by the toxicity of the test compound against the degrading bacteria. --- Validity criteria (all must be fulfilled): (1) The difference of the double determination on day 28 must not be more than 20%. (2) The toxicity control must not be less than 25% degraded on day 14. (3) The oxygen consumption of the blank must be less than 1.5 mg/l on day 28. (4) The oxygen concentration of the test preparations must not be less than 0.5 mg/l. (5) The quality control must be 60% degraded on day 14. --- The data set includes for each tested substance: the smilescode, the biodegradation rate in % of the two test runs, the mean value of these two test results as a basis for the classification easily biodegradable, yes (1) or no (0).",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Experimental data on ready biodegradability, oecd 301d (closed bottle test), 2023, v1",
+    "url": "https://doi.org/10.48548/pubdata-77",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_name": "Green Chemistry"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Biologische Abbaubarkeit",
+            "name": "Biologische Abbaubarkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Experiment",
+            "name": "Experiment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Test",
+            "name": "Test",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nachhaltige Chemie",
+            "name": "Nachhaltige Chemie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Klrwasser",
+            "name": "Klrwasser",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Abwasser",
+            "name": "Abwasser",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Grne Chemie",
+            "name": "Grne Chemie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Messung",
+            "name": "Messung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sauerstoffgehalt",
+            "name": "Sauerstoffgehalt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Giftigkeit",
+            "name": "Giftigkeit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biodegradability",
+            "name": "Biodegradability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Experiment",
+            "name": "Experiment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Test",
+            "name": "Test",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sustainable Chemistry",
+            "name": "Sustainable Chemistry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sewage Water",
+            "name": "Sewage Water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Effluent",
+            "name": "Effluent",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Green Chemistry",
+            "name": "Green Chemistry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Assessment",
+            "name": "Assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Oxygen Concentration",
+            "name": "Oxygen Concentration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Toxicity",
+            "name": "Toxicity",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

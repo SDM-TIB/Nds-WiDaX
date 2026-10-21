@@ -1,0 +1,305 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Finsel, Julia S.",
+            "givenName": "Julia S.",
+            "familyName": "Finsel",
+            "orcid": "0000-0002-0392-5346"
+        },
+        {
+            "author": "Axelrad, Hila",
+            "givenName": "Hila",
+            "familyName": "Axelrad",
+            "orcid": "0000-0002-2152-6488"
+        },
+        {
+            "author": "Choi, Su Jung",
+            "givenName": "Su Jung",
+            "familyName": "Choi",
+            "orcid": ""
+        },
+        {
+            "author": "Derous, Eva",
+            "givenName": "Eva",
+            "familyName": "Derous",
+            "orcid": "0000-0001-7874-5836"
+        },
+        {
+            "author": "Gu, Xiuzhu",
+            "givenName": "Xiuzhu",
+            "familyName": "Gu",
+            "orcid": "0000-0003-2641-1740"
+        },
+        {
+            "author": "Guandalini, Paolo",
+            "givenName": "Paolo",
+            "familyName": "Guandalini",
+            "orcid": "0009-0004-1954-1752"
+        },
+        {
+            "author": "Ha, Jaeyoung",
+            "givenName": "Jaeyoung",
+            "familyName": "Ha",
+            "orcid": ""
+        },
+        {
+            "author": "Kim, Eun Seok",
+            "givenName": "Eun Seok",
+            "familyName": "Kim",
+            "orcid": ""
+        },
+        {
+            "author": "Marzec, Izabela",
+            "givenName": "Izabela",
+            "familyName": "Marzec",
+            "orcid": "0000-0002-7149-7566"
+        },
+        {
+            "author": "Mykletun, Reidar Johan",
+            "givenName": "Reidar Johan",
+            "familyName": "Mykletun",
+            "orcid": "0000-0001-9212-7233"
+        },
+        {
+            "author": "Oliveira, Eduardo",
+            "givenName": "Eduardo",
+            "familyName": "Oliveira",
+            "orcid": "0000-0001-9149-0348"
+        },
+        {
+            "author": "Pajic, Sofija",
+            "givenName": "Sofija",
+            "familyName": "Pajic",
+            "orcid": "0000-0001-9453-3796"
+        },
+        {
+            "author": "Schellaert, Maaike",
+            "givenName": "Maaike",
+            "familyName": "Schellaert",
+            "orcid": "0000-0001-7101-2736"
+        },
+        {
+            "author": "Heijden, Beatrice I. J. M. van der",
+            "givenName": "Beatrice I. J. M. van der",
+            "familyName": "Heijden",
+            "orcid": "0000-0001-8672-5368"
+        },
+        {
+            "author": "Vignoli, Michela",
+            "givenName": "Michela",
+            "familyName": "Vignoli",
+            "orcid": "0000-0002-2583-5384"
+        },
+        {
+            "author": "W\u00f6hrmann, Anne Marit",
+            "givenName": "Anne Marit",
+            "familyName": "W\u00f6hrmann",
+            "orcid": "0000-0002-0430-8331"
+        },
+        {
+            "author": "Deller, J\u00fcrgen",
+            "givenName": "J\u00fcrgen",
+            "familyName": "Deller",
+            "orcid": "0000-0001-6735-950X"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-1716",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-1716",
+    "notes": "This document serves as the supplemental material for the paper \"Development and Validation of the Short Form of the Later Life Workplace Index (LLWI-SF): A Study Across Ten Countries\". The paper aimed to develop and validate a short form of the Later Life Workplace Index (LLWI-SF) in ten countries. This supplemental material includes the LLWI-SF scales in Dutch, English (U.S.), Flemish, German, Italian, Japanese, Korean, Norwegian, Polish, and Portuguese language. It further includes country-level data analysis results to supplement the overall sample results presented in the paper (i.e., LLWI-SF item statistics and correlation tables for each country).",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Online supplemental material for \"development and validation of the short form of the later life workplace index (llwi-sf): a study across ten countries\"",
+    "url": "https://doi.org/10.48548/pubdata-1716",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_name": "Altersgerechtes Arbeiten"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Validierung",
+            "name": "Validierung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Skalen",
+            "name": "Skalen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Erhebungsinstrument",
+            "name": "Erhebungsinstrument",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Arbeiten im Alter",
+            "name": "Arbeiten im Alter",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lterer Arbeitnehmer",
+            "name": "lterer Arbeitnehmer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Arbeitsbedingungen",
+            "name": "Arbeitsbedingungen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Organisationsklima",
+            "name": "Organisationsklima",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Gesundheit",
+            "name": "Gesundheit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Fhrung",
+            "name": "Fhrung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Personalmanagement",
+            "name": "Personalmanagement",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Arbeitsleistung",
+            "name": "Arbeitsleistung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Arbeitsmotivation",
+            "name": "Arbeitsmotivation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Demografischer Wandel",
+            "name": "Demografischer Wandel",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Validation",
+            "name": "Validation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Scales",
+            "name": "Scales",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Research Instrument",
+            "name": "Research Instrument",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Later Life Work",
+            "name": "Later Life Work",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Older Worker",
+            "name": "Older Worker",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Working Conditions",
+            "name": "Working Conditions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Organizational Climate",
+            "name": "Organizational Climate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Health",
+            "name": "Health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Leadership",
+            "name": "Leadership",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Human Resources",
+            "name": "Human Resources",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Work Performance",
+            "name": "Work Performance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Work Motivation",
+            "name": "Work Motivation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Demographic Change",
+            "name": "Demographic Change",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

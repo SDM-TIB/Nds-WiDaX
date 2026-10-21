@@ -1,0 +1,197 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2024",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Duguma, Dula Wakassa",
+            "givenName": "Dula Wakassa",
+            "familyName": "Duguma",
+            "orcid": "0000-0003-4581-8351"
+        },
+        {
+            "author": "Shumi, Girma",
+            "givenName": "Girma",
+            "familyName": "Shumi",
+            "orcid": "0000-0001-7386-6815"
+        },
+        {
+            "author": "Fischer, J\u00f6rn",
+            "givenName": "J\u00f6rn",
+            "familyName": "Fischer",
+            "orcid": "0000-0003-3187-8978"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-53",
+    "doi_date_published": "2024",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-53",
+    "notes": "The data contains household surveys of woody-plant use in three districts of Jimma zone of Oromia region of Ethiopia, surveyed from 180 households. It also contains woody-plant survey at 71 sites in farmland and 107 sites in forest that shows the abundance of individual stems of trees and shrubs used for different purposes by the local community. Besides, it contains environmental and human disturbance variables used to predict the availability of woody-plant based ecosystem services in the entire landscape.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Woody-plant based ecosystem services based on household survey: data from southwestern ethiopia",
+    "url": "https://doi.org/10.48548/pubdata-53",
+    "citation": [],
+    "publication_year": "2024",
+    "subject_areas": [
+        {
+            "subject_area_name": "\u00d6kosystemdienstleistungen"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "kosystem",
+            "name": "kosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thiopien",
+            "name": "thiopien",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Dienstleistung",
+            "name": "Dienstleistung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Holzgewchse",
+            "name": "Holzgewchse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Vorkommen",
+            "name": "Vorkommen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wald",
+            "name": "Wald",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Afromontaner Regenwald",
+            "name": "Afromontaner Regenwald",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Landnutzung",
+            "name": "Landnutzung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Waldflche",
+            "name": "Waldflche",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ackerland",
+            "name": "Ackerland",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biokonomie",
+            "name": "Biokonomie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ecosystem",
+            "name": "Ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ethiopia",
+            "name": "Ethiopia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Service Provision",
+            "name": "Service Provision",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Woody Plants",
+            "name": "Woody Plants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Abundance",
+            "name": "Abundance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Forest",
+            "name": "Forest",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Afromontane Rainforest",
+            "name": "Afromontane Rainforest",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Land Use",
+            "name": "Land Use",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Woodland",
+            "name": "Woodland",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Farmland",
+            "name": "Farmland",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Bioeconomy",
+            "name": "Bioeconomy",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

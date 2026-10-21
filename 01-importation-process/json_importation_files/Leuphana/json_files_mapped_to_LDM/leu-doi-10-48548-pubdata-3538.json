@@ -1,0 +1,155 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Schulz, Jonah",
+            "givenName": "Jonah",
+            "familyName": "Schulz",
+            "orcid": "0009-0001-0148-6060"
+        },
+        {
+            "author": "Stamer, Florian",
+            "givenName": "Florian",
+            "familyName": "Stamer",
+            "orcid": "0000-0002-9704-8611"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-3538",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Non Commercial 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-3538",
+    "notes": "This data set provides the supporting material for the publication \"Configuring Production Planning and Control for Remanufacturing Systems: A DMAIC-based Methodology\" including a simulation and various tables. The supplemetary materials consist of the raw data, interview sheets, and the matrices presented in the paper, in detail (1) the structured interview sheet used for company surveys / interviews, (2) data related to the general evaluation of competence for the procedure, (3) detailed explanation of the rating of fulfilment and required competencies, (4) detailed calculations for the suitability matrix, and (5) detailed calculations for the competence matrix.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Supplementary files for publication \"configuring production planning and control for remanufacturing systems: a dmaic-based methodology\"",
+    "url": "https://doi.org/10.48548/pubdata-3538",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_name": "Produktionssysteme"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Produktionssystem",
+            "name": "Produktionssystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Produktion",
+            "name": "Produktion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Planung",
+            "name": "Planung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kontrolle",
+            "name": "Kontrolle",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kompetenz",
+            "name": "Kompetenz",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Management",
+            "name": "Management",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wiederaufbereitung",
+            "name": "Wiederaufbereitung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "System",
+            "name": "System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Production System",
+            "name": "Production System",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Production",
+            "name": "Production",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Planning",
+            "name": "Planning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Control",
+            "name": "Control",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Competence",
+            "name": "Competence",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Management",
+            "name": "Management",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Remanufacturing",
+            "name": "Remanufacturing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "System",
+            "name": "System",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

@@ -1,0 +1,197 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2026",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Ebeloe, Celine",
+            "givenName": "Celine",
+            "familyName": "Ebeloe",
+            "orcid": ""
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-3233",
+    "doi_date_published": "2026",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-3233",
+    "notes": "These transkripts are interviews that the researcher conducted in the process of her work \"Studying the Crisis: Grounded Theory Insights into Environmental Students' Climate Emotions and Support Needs\". The interviews deal with climate emotions and their effects on environmental students' lifes. Data were collected between January and March 2024 from 12 students enrolled in Sustainability Science or Global Sustainability Science at Leuphana University. For a snowballing recruiting process, participants were encouraged to recommend peers with contrasting perspectives or experiences, and theoretical sampling was applied rather than aiming for representativeness. Most interviews took place in person on campus, with two conducted via Zoom with participants temporarily living abroad. Interviews lasted 45\u201380 minutes and were digitally recorded and transcribed verbatim. The interviews followed the narrative interview approach (Sch\u00fctze, 1983). After a narrative prompt (\"Can you tell me how it came about that you got involved with sustainability? You're now studying environmental science, so clearly you've developed an interest in it \u2014 how did that happen, and what was your journey like?\"), participants were invited to tell their story. Additional questions were asked once the interviewee reached a concluding point and were oriented toward strengthening the narrative thread.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Interview transcripts \"studying the crisis: grounded theory insights into environmental students' climate emotions and support needs\"",
+    "url": "https://doi.org/10.48548/pubdata-3233",
+    "citation": [],
+    "publication_year": "2026",
+    "subject_areas": [
+        {
+            "subject_area_name": "Emotionen"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Student",
+            "name": "Student",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Umweltwissenschaften",
+            "name": "Umweltwissenschaften",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Klima",
+            "name": "Klima",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Emotion",
+            "name": "Emotion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Klimawandel",
+            "name": "Klimawandel",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Angst",
+            "name": "Angst",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Auswirkung",
+            "name": "Auswirkung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mentale Gesundheit",
+            "name": "Mentale Gesundheit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Bewltigungsstrategie",
+            "name": "Bewltigungsstrategie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Umweltbewusstsein",
+            "name": "Umweltbewusstsein",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Studium",
+            "name": "Studium",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Nachhaltigkeitswissenschaften",
+            "name": "Nachhaltigkeitswissenschaften",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "University Student",
+            "name": "University Student",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Environmental Science",
+            "name": "Environmental Science",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Climate",
+            "name": "Climate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Emotion",
+            "name": "Emotion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Climate Change",
+            "name": "Climate Change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Anxiety",
+            "name": "Anxiety",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Impact",
+            "name": "Impact",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Mental Health",
+            "name": "Mental Health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Coping Strategy",
+            "name": "Coping Strategy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Environmental Consciousness",
+            "name": "Environmental Consciousness",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Studying",
+            "name": "Studying",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Sustainability Science",
+            "name": "Sustainability Science",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

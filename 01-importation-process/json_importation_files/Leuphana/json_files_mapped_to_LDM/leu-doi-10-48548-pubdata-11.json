@@ -1,0 +1,167 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2022",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Linde, Andreas",
+            "givenName": "Andreas",
+            "familyName": "Linde",
+            "orcid": "0000-0002-0154-7943"
+        },
+        {
+            "author": "Wei\u00df, Fabio",
+            "givenName": "Fabio",
+            "familyName": "Wei\u00df",
+            "orcid": "0000-0003-1078-1528"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-11",
+    "doi_date_published": "2022",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Share Alike 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-11",
+    "notes": "Ground beetles were caught from 1999 to 2021, between the beginning of May and the end of July each year on forest plots near Eberswalde, Germany (52.820000, 13.790000). Not all plots were sampled each year. The dataset included only data of plots, which were sampled in three years or more. The researchers used pitfall traps consisting of a 400ml honey jars positioned in a pipe, formaldehyde as trapping fluid and metal roofs. There were four pitfall traps at each plot, usually organized in a square with approximately 20 meters between the traps. The traps were emptied three times each year (variable \u201cinterval\u201d). The emptying usually took place after four weeks (28 days), however, the sampling length occasionally varied (variable \u201csampling_length\u201d). Ground beetle abundances were pooled for all four traps of one plot for each catching interval (variable \u201cabundance\u201d).",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Eberswalde carabid abundances 1999-2021",
+    "url": "https://doi.org/10.48548/pubdata-11",
+    "citation": [],
+    "publication_year": "2022",
+    "subject_areas": [
+        {
+            "subject_area_name": "Biodiversit\u00e4t"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Laufkfer",
+            "name": "Laufkfer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kfer",
+            "name": "Kfer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insekten",
+            "name": "Insekten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Vorkommen",
+            "name": "Vorkommen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wald",
+            "name": "Wald",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insektenmonitoring",
+            "name": "Insektenmonitoring",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biodiversitt",
+            "name": "Biodiversitt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insektenrckgang",
+            "name": "Insektenrckgang",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Zeitreihe",
+            "name": "Zeitreihe",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Carabids",
+            "name": "Carabids",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ground Beetles",
+            "name": "Ground Beetles",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insects",
+            "name": "Insects",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Abundance",
+            "name": "Abundance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Forest",
+            "name": "Forest",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insect Monitoring",
+            "name": "Insect Monitoring",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biodiversity",
+            "name": "Biodiversity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insect Decline",
+            "name": "Insect Decline",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Time Series",
+            "name": "Time Series",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

@@ -1,0 +1,167 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2023",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Rahdes, Simon",
+            "givenName": "Simon",
+            "familyName": "Rahdes",
+            "orcid": ""
+        },
+        {
+            "author": "Herzog, Christian",
+            "givenName": "Christian",
+            "familyName": "Herzog",
+            "orcid": "0000-0002-7424-3983"
+        },
+        {
+            "author": "Rau, Franco",
+            "givenName": "Franco",
+            "familyName": "Rau",
+            "orcid": "0000-0003-0327-4704"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-24.3",
+    "doi_date_published": "2023",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Share Alike 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-24-3",
+    "notes": "Dieser Datensatz wurde aus \u00f6ffentlich zug\u00e4nglichen Dokumenten der 14 nieders\u00e4chsischen Hochschulen zusammengestellt, die Lehramtsstudieng\u00e4nge, erziehungswissenschaftliche oder bildungswissenschaftliche Studieng\u00e4nge anbieten, mit dem Ziel zu untersuchen, wie weit an nieders\u00e4chsischen Hochschulen als Open Educational Practices (OEP) klassifizierbare Bildungspraktiken in Hochschulstrategien verbreitet sind und wie die Hochschulen \u00fcber OEP berichten. Im ersten Schritt wurde, mit Blick auf die Auspr\u00e4gung einer m\u00f6glichen OEP-Kultur/OER-Kultur an einer Hochschule, Digitalisierung als ein zentraler Rahmen einer den \"Open\"-Prinzipien verschriebenen Bildungskultur aufgefasst. Entsprechend wurden Strategiepapiere und Policy-Dokumente prim\u00e4r dann ausgew\u00e4hlt, wenn sie die Digitalisierung an der jeweiligen Hochschule thematisieren, sofern sie sich nicht bereits explizit auf Lehre und Bildungspraxis beziehen. Zweitens wurden frei verf\u00fcgbare Dokumente von lehrbezogenen Serviceeinrichtungen der Hochschulen in den Datensatz mitaufgenommen, wenn diese relevante Bildungspraktiken thematisieren (z.B. Empfehlungen f\u00fcr Lehr-Lern-Szenarien). Drittens, zur Identifizierung weiterer relevanter Dokumente, wurde die Suchfunktion auf den Hochschulwebseiten genutzt. Mittels Verwendung der Suchbegriffe \"open education\", \"open educational\", \"OEP\" und \"OER\" wurden Inhalte von Forschungsprojekten und Entwicklungsprojekten sowie Instituten und anderen Einrichtungen gefunden. Viertens, zur Vervollst\u00e4ndigung des Datensatzes, wurde in ver\u00f6ffentlichten Pressemitteilungen und weiteren Meldungen der Hochschulen nach relevanten Dokumenten gesucht. Als Bezugszeitraum f\u00fcr die zu untersuchenden Pressemitteilungen und andere Mitteilungen wurde das Jahr 2021 (01.01.-31.12.) gew\u00e4hlt. Die Festsetzung erfolgte unter der Annahme, dass sich 2021, als erstem Jahr nach Beginn des pandemiebedingten Digitalisierungsschubs im Bildungswesen, bereits einige der seit Pandemiebeginn angesto\u00dfenen Entwicklungen und Initiativen fester etabliert haben.",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Open educational practices an nieders\u00e4chsischen hochschulen - auflistung der im datensatz enthaltenen quellen",
+    "url": "https://doi.org/10.48548/pubdata-24.3",
+    "citation": [],
+    "publication_year": "2023",
+    "subject_areas": [
+        {
+            "subject_area_name": "Open Education"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Open Educational Practices",
+            "name": "Open Educational Practices",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Offene Bildungspraktiken",
+            "name": "Offene Bildungspraktiken",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Open Educational Resources",
+            "name": "Open Educational Resources",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Thematische Analyse",
+            "name": "Thematische Analyse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Hochschule",
+            "name": "Hochschule",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Bildungskultur",
+            "name": "Bildungskultur",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Steuerungsprozesse",
+            "name": "Steuerungsprozesse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Strategie",
+            "name": "Strategie",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Berichtswesen",
+            "name": "Berichtswesen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Open Educational Practices",
+            "name": "Open Educational Practices",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Open Educational Resources",
+            "name": "Open Educational Resources",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Thematic Analysis",
+            "name": "Thematic Analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Higher Education",
+            "name": "Higher Education",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Educational Culture",
+            "name": "Educational Culture",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Governance",
+            "name": "Governance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Strategy",
+            "name": "Strategy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Reporting",
+            "name": "Reporting",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

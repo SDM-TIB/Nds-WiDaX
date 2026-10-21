@@ -1,0 +1,173 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2023",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Linde, Andreas",
+            "givenName": "Andreas",
+            "familyName": "Linde",
+            "orcid": "0000-0002-0154-7943"
+        },
+        {
+            "author": "Kolling, Thomas",
+            "givenName": "Thomas",
+            "familyName": "Kolling",
+            "orcid": ""
+        },
+        {
+            "author": "Wei\u00df, Fabio",
+            "givenName": "Fabio",
+            "familyName": "Wei\u00df",
+            "orcid": "0000-0003-1078-1528"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-46",
+    "doi_date_published": "2023",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "license_title": "Creative Commons Attribution Share Alike 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-46",
+    "notes": "Eberswalde University for Sustainable Development has been sampling carabid beetles at different forest plots in the course of annually taught classes since 1995. From 1999 on, this has been done with highly standardized methods. Ground beetles were caught from 1999 to 2022, between the beginning of May and the end of July each year, on 13 forest plots at a forest area close to Eberswalde, Germany (52.820000, 13.790000). Not all plots were sampled each year and the researchers only included data from plots, which were sampled in three years or more. They used pitfall traps consisting of a 400ml glass jars positioned in a piece of PVC pipe, formaldehyde as trapping fluid and metal roofs. There were four pitfall traps at each plot, organised as either square or transect with approximately 20 meters between the traps. The layout of traps (square or transect) remained consistent for each plot throughout all sampled years. During the sampling period the traps were emptied three times, usually after four weeks (28 days), however, the exact sampling length occasionally varied. All data from traps that had been disturbed by factors such as rain, wild animals or vandalism were excluded. Carabid abundances are provided in full taxonomic resolution (species level).",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Eberswalde carabid monitoring 1999-2022 - full data",
+    "url": "https://doi.org/10.48548/pubdata-46",
+    "citation": [],
+    "publication_year": "2023",
+    "subject_areas": [
+        {
+            "subject_area_name": "Biodiversit\u00e4t"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Laufkfer",
+            "name": "Laufkfer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kfer",
+            "name": "Kfer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insekten",
+            "name": "Insekten",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Vorkommen",
+            "name": "Vorkommen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wald",
+            "name": "Wald",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insektenmonitoring",
+            "name": "Insektenmonitoring",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biodiversitt",
+            "name": "Biodiversitt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insektenrckgang",
+            "name": "Insektenrckgang",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Zeitreihe",
+            "name": "Zeitreihe",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Carabids",
+            "name": "Carabids",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ground Beetles",
+            "name": "Ground Beetles",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insects",
+            "name": "Insects",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Abundance",
+            "name": "Abundance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Forest",
+            "name": "Forest",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insect Monitoring",
+            "name": "Insect Monitoring",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Biodiversity",
+            "name": "Biodiversity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Insect Decline",
+            "name": "Insect Decline",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Time Series",
+            "name": "Time Series",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

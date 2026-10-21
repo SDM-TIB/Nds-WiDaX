@@ -1,0 +1,197 @@
+{
+    "repository_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+    "type": "vdataset",
+    "source_metadata_created": "2025",
+    "source_metadata_modified": "",
+    "owner_org": "leuphana",
+    "authors": [
+        {
+            "author": "Travers, Eliane",
+            "givenName": "Eliane",
+            "familyName": "Travers",
+            "orcid": "0000-0003-2244-2312"
+        }
+    ],
+    "author_email": "",
+    "doi": "10.48548/pubdata-1821",
+    "doi_date_published": "2025",
+    "doi_publisher": "",
+    "doi_status": "True",
+    "license_id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license_title": "Creative Commons Attribution 4.0 International",
+    "name": "leu-doi-10-48548-pubdata-1821",
+    "notes": "Canopy closure was quantified for each plot by taking a hemispherical photograph 1 m above ground in the centre of each plot with a fish-eye lens (Nikon, Fisheye Converter FC-E8 0.21x, Japan). The photos were analysed using Gap Light Analyzer 2.0 (Cary Institute of Ecosystem Studies, 1999). Five samples of the upper mineral horizon were randomly taken in each plot and pooled to determine pH (H2O) value, base saturation and the C/N ratio using standard procedures (see Steubing and Fangmeier, 1992). Soil nitrogen and carbon content were determined with a CN-analyser (Elementaranalysator Vario El Cube, Hanau, Germany).",
+    "organization": {
+        "approval_status": "approved",
+        "description": "The repository of the Leuphana University L\u00fcneburg.",
+        "display_name": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "image_display_url": "logo-leuphana.png",
+        "image_url": "logo-leuphana.png",
+        "is_organization": true,
+        "name": "leuphana",
+        "state": "active",
+        "title": "Leuphana (The repository of the Leuphana University L\u00fcneburg)",
+        "type": "organization"
+    },
+    "title": "Supplementary data to \"the role of semi\u2010open habitats as dispersal corridors for plant species of woodlands and open habitats\"",
+    "url": "https://doi.org/10.48548/pubdata-1821",
+    "citation": [],
+    "publication_year": "2025",
+    "subject_areas": [
+        {
+            "subject_area_name": "Landschafts\u00f6kologie"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "Vegetation",
+            "name": "Vegetation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lneburger Heide",
+            "name": "Lneburger Heide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Schwbische Alb",
+            "name": "Schwbische Alb",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Pflanzen",
+            "name": "Pflanzen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Ausbreitung",
+            "name": "Ausbreitung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Kronendach",
+            "name": "Kronendach",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Halboffener Lebensraum",
+            "name": "Halboffener Lebensraum",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Offener Lebensraum",
+            "name": "Offener Lebensraum",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Wald",
+            "name": "Wald",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Boden",
+            "name": "Boden",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Bodenqualitt",
+            "name": "Bodenqualitt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Licht",
+            "name": "Licht",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Vegetation",
+            "name": "Vegetation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Lneburg Heath",
+            "name": "Lneburg Heath",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Swabian Alb",
+            "name": "Swabian Alb",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Plants",
+            "name": "Plants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Dispersal",
+            "name": "Dispersal",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Canopy",
+            "name": "Canopy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Semi-open Habitat",
+            "name": "Semi-open Habitat",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Open Habitat",
+            "name": "Open Habitat",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Woodland",
+            "name": "Woodland",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Soil",
+            "name": "Soil",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Soil Quality",
+            "name": "Soil Quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "Light",
+            "name": "Light",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "publishers": [
+        {
+            "publisher": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        }
+    ],
+    "resource_type": "Dataset"
+}

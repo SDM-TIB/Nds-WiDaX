@@ -1,0 +1,663 @@
+{
+    "header": {
+        "identifier": "oai:pubdata.leuphana.de:20.500.14123/13572",
+        "datestamp": "2026-10-05T10:18:12Z",
+        "setSpecs": [
+            "com_123456789_3",
+            "col_123456789_4"
+        ]
+    },
+    "dc": {
+        "contributor": [
+            {
+                "value": "Fuhrmann, Timm",
+                "qualifier": "author",
+                "authority": "virtual::16655",
+                "confidence": "-1"
+            }
+        ],
+        "date": [
+            {
+                "value": "2026-04-21T09:21:19Z",
+                "qualifier": "accessioned"
+            },
+            {
+                "value": "2026-04-21",
+                "qualifier": "issued"
+            }
+        ],
+        "identifier": [
+            {
+                "value": "https://hdl.handle.net/20.500.14123/13572",
+                "qualifier": "uri"
+            },
+            {
+                "value": "https://doi.org/10.48548/pubdata-3422",
+                "qualifier": "uri"
+            }
+        ],
+        "title": [
+            {
+                "value": "Interviewtranskripte zur Studie: Perspektiven von Sch\u00fcler*innen auf Lernunterst\u00fctzungen im inklusiven naturwissenschaftlichen Unterricht",
+                "lang": "de"
+            }
+        ],
+        "type": [
+            {
+                "value": "Dataset"
+            },
+            {
+                "value": "Instrument"
+            }
+        ]
+    },
+    "local": {
+        "ResourceType": [
+            {
+                "value": "Interview Data",
+                "qualifier": "kindsOfData"
+            },
+            {
+                "value": "Survey Instruments / Measuring Instruments",
+                "qualifier": "kindsOfData"
+            }
+        ],
+        "DataCollector": [
+            {
+                "value": "Fuhrmann, Timm",
+                "authority": "virtual::16656",
+                "confidence": "-1"
+            }
+        ],
+        "Subject": [
+            {
+                "value": "Inklusiver Unterricht",
+                "qualifier": "topic"
+            },
+            {
+                "value": "Sch\u00fcler",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Perspektive",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Naturwissenschaften",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Unterricht",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Didaktik",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Unterrichtsmaterial",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Veranschaulichung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Unterrichtsmethode",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Unterrichtseinheit",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Wahrnehmung",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Arbeitsprozess",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Lernprozess",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Lernarrangement",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Inklusion",
+                "qualifier": "keyword",
+                "lang": "de"
+            },
+            {
+                "value": "Student",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Perspective",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Science Education",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Didactics",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Teaching Material",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Illustration",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Teaching Method",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Teaching Unit",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Perception",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Work Process",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Learning Process",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Learning Package",
+                "qualifier": "keyword",
+                "lang": "en"
+            },
+            {
+                "value": "Inclusion",
+                "qualifier": "keyword",
+                "lang": "en"
+            }
+        ],
+        "GeoLocation": [
+            {
+                "value": "DEU",
+                "qualifier": "country"
+            },
+            {
+                "value": "Hamburg",
+                "qualifier": "region"
+            }
+        ],
+        "PublishingType": [
+            {
+                "value": "First publication"
+            }
+        ],
+        "CreationContext": [
+            {
+                "value": "Research"
+            }
+        ],
+        "Affiliation": [
+            {
+                "value": "Institut f\u00fcr Nachhaltige Chemie (INSC)",
+                "authority": "virtual::16658",
+                "confidence": "-1"
+            },
+            {
+                "value": "Fakult\u00e4t Nachhaltigkeit",
+                "authority": "virtual::16657",
+                "confidence": "-1"
+            }
+        ],
+        "technical": [
+            {
+                "value": {
+                    "entityType": [
+                        "Person"
+                    ],
+                    "familyName": [
+                        "Fuhrmann"
+                    ],
+                    "givenName": [
+                        "Timm"
+                    ],
+                    "gnd": [
+                        "1048044750"
+                    ]
+                },
+                "qualifier": "dc_contributor_author",
+                "authority": "virtual::16655",
+                "confidence": "-1"
+            }
+        ],
+        "RelatedPubDataResource": [
+            {
+                "value": "DOI: 10.48548/pubdata-3438",
+                "qualifier": "References",
+                "authority": "virtual::16654",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "DataCite": {
+        "Description": [
+            {
+                "value": "F\u00fcr die Gestaltung inklusiven Fachunterrichts ist es bedeutsam, die Perspektiven der Sch\u00fclerinnen und Sch\u00fcler systematisch zu erheben. So gelingt ein Blick darauf, wie fachliche Anforderungen, Unterst\u00fctzungsangebote und M\u00f6glichkeiten zur Partizipation im konkreten Unterricht tats\u00e4chlich erlebt, genutzt und bewertet werden. Die Arbeit folgte einem qualitativ-explorativen Design, in dem ein inklusives naturwissenschaftliches Lernarrangement videografiert, zu einer Videovignette verdichtet und in leitfadengest\u00fctzten Interviews mit Sch\u00fclerinnen und Sch\u00fclern als Erz\u00e4hlimpuls eingesetzt wurde. Auf dieser Grundlage wurden die Perspektiven der Sch\u00fclerinnen und Sch\u00fcler auf den Einsatz von Tippkarten und Hilfekarten rekonstruiert und mithilfe einer inhaltlich-strukturierenden qualitativen Inhaltsanalyse ausgewertet, um sich so Implikationen f\u00fcr die schulische Praxis ableiten zu k\u00f6nnen. Insgesamt wurden 24 Interviews aus insgesamt drei verschiedenen Schulen (zwei verschiedene Schulformen) in Hamburg gef\u00fchrt, transkribiert und ausgewertet. Den Interviews lag ein Gespr\u00e4chsimpuls in Form einer Videovignette sowie ein Interviewleitfaden zu Grunde. Im Datensatz sind alle 24 Transkripte der Interviews in anonymisierter Form sowie der Interviewleitfaden enthalten.",
+                "qualifier": "Abstract",
+                "lang": "de"
+            },
+            {
+                "value": "Interview",
+                "qualifier": "Methods"
+            },
+            {
+                "value": "Transcription",
+                "qualifier": "Methods"
+            }
+        ],
+        "Date": [
+            {
+                "value": "2024-04-10 - 2025-02-21",
+                "qualifier": "Collected"
+            }
+        ],
+        "Language": [
+            {
+                "value": "deu"
+            }
+        ],
+        "PublicationYear": [
+            {
+                "value": "2026"
+            }
+        ],
+        "Publisher": [
+            {
+                "value": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+            }
+        ]
+    },
+    "dspace": {
+        "entity": [
+            {
+                "value": "Publication",
+                "qualifier": "type"
+            }
+        ]
+    },
+    "relation": {
+        "isAuthorOfPublication": [
+            {
+                "value": "e60e76e4-2088-47db-83e3-43541f270367",
+                "authority": "virtual::16655",
+                "confidence": "-1"
+            },
+            {
+                "value": "e60e76e4-2088-47db-83e3-43541f270367",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16655",
+                "confidence": "-1"
+            }
+        ],
+        "isAffiliationOfPublication": [
+            {
+                "value": "9df554d3-9c1e-42bd-97cd-58b4baf51d28",
+                "authority": "virtual::16658",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "authority": "virtual::16657",
+                "confidence": "-1"
+            },
+            {
+                "value": "ae74fec2-edcd-49d1-8508-f9f42cb46807",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16657",
+                "confidence": "-1"
+            },
+            {
+                "value": "9df554d3-9c1e-42bd-97cd-58b4baf51d28",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16658",
+                "confidence": "-1"
+            }
+        ],
+        "isDataCollectorOfPublication": [
+            {
+                "value": "e60e76e4-2088-47db-83e3-43541f270367",
+                "authority": "virtual::16656",
+                "confidence": "-1"
+            },
+            {
+                "value": "e60e76e4-2088-47db-83e3-43541f270367",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16656",
+                "confidence": "-1"
+            }
+        ],
+        "isPOfIR_IsReferencedBy_": [
+            {
+                "value": "9a827936-d9e1-42a2-aa6c-6d7b0d79ba63",
+                "authority": "virtual::16659",
+                "confidence": "-1"
+            },
+            {
+                "value": "9a827936-d9e1-42a2-aa6c-6d7b0d79ba63",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16659",
+                "confidence": "-1"
+            }
+        ],
+        "isIR_References_OfP": [
+            {
+                "value": "9a827936-d9e1-42a2-aa6c-6d7b0d79ba63",
+                "authority": "virtual::16654",
+                "confidence": "-1"
+            },
+            {
+                "value": "9a827936-d9e1-42a2-aa6c-6d7b0d79ba63",
+                "qualifier": "latestForDiscovery",
+                "authority": "virtual::16654",
+                "confidence": "-1"
+            }
+        ]
+    },
+    "others": {
+        "has-open-bitstream-licenses": [
+            {
+                "value": "true"
+            }
+        ],
+        "access-status": [
+            {
+                "value": "restricted"
+            }
+        ]
+    },
+    "doi_metadata": {
+        "doi": "10.48548/pubdata-3422",
+        "title": "Interviewtranskripte zur Studie: Perspektiven von Sch\u00fcler*innen auf Lernunterst\u00fctzungen im inklusiven naturwissenschaftlichen Unterricht",
+        "publisher": {
+            "name": "Medien- und Informationszentrum, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        "publicationYear": 2026,
+        "resourceType": "Collection",
+        "creators": [
+            {
+                "name": "Fuhrmann, Timm",
+                "givenName": "Timm",
+                "familyName": "Fuhrmann",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://d-nb.info/gnd/",
+                        "nameIdentifier": "1048044750",
+                        "nameIdentifierScheme": "GND"
+                    }
+                ],
+                "affiliation": []
+            }
+        ],
+        "contributors": [
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataCurator",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "DataManager",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Medien- und Informationszentrum",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Leuphana Universit\u00e4t L\u00fcneburg",
+                        "affiliationIdentifier": "https://ror.org/02w2y2t16",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "HostingInstitution",
+                "nameIdentifiers": []
+            },
+            {
+                "name": "Technische Informationsbibliothek (TIB) Hannover",
+                "nameType": "Organizational",
+                "affiliation": [
+                    {
+                        "name": "Nieders\u00e4chsische Ministerium f\u00fcr Wissenschaft und Kultur",
+                        "affiliationIdentifier": "https://ror.org/0116z8r77",
+                        "affiliationIdentifierScheme": "ROR"
+                    }
+                ],
+                "contributorType": "RegistrationAgency",
+                "nameIdentifiers": [
+                    {
+                        "schemeUri": "https://ror.org",
+                        "nameIdentifier": "https://ror.org/04aj4c181",
+                        "nameIdentifierScheme": "ROR"
+                    }
+                ]
+            },
+            {
+                "name": "Fuhrmann, Timm",
+                "contributorType": "DataCollector",
+                "affiliation": [],
+                "nameIdentifiers": []
+            }
+        ],
+        "descriptions": [
+            {
+                "lang": "de",
+                "description": "F\u00fcr die Gestaltung inklusiven Fachunterrichts ist es bedeutsam, die Perspektiven der Sch\u00fclerinnen und Sch\u00fcler systematisch zu erheben. So gelingt ein Blick darauf, wie fachliche Anforderungen, Unterst\u00fctzungsangebote und M\u00f6glichkeiten zur Partizipation im konkreten Unterricht tats\u00e4chlich erlebt, genutzt und bewertet werden. Die Arbeit folgte einem qualitativ-explorativen Design, in dem ein inklusives naturwissenschaftliches Lernarrangement videografiert, zu einer Videovignette verdichtet und in leitfadengest\u00fctzten Interviews mit Sch\u00fclerinnen und Sch\u00fclern als Erz\u00e4hlimpuls eingesetzt wurde. Auf dieser Grundlage wurden die Perspektiven der Sch\u00fclerinnen und Sch\u00fcler auf den Einsatz von Tippkarten und Hilfekarten rekonstruiert und mithilfe einer inhaltlich-strukturierenden qualitativen Inhaltsanalyse ausgewertet, um sich so Implikationen f\u00fcr die schulische Praxis ableiten zu k\u00f6nnen. Insgesamt wurden 24 Interviews aus insgesamt drei verschiedenen Schulen (zwei verschiedene Schulformen) in Hamburg gef\u00fchrt, transkribiert und ausgewertet. Den Interviews lag ein Gespr\u00e4chsimpuls in Form einer Videovignette sowie ein Interviewleitfaden zu Grunde. Im Datensatz sind alle 24 Transkripte der Interviews in anonymisierter Form sowie der Interviewleitfaden enthalten.",
+                "descriptionType": "Abstract"
+            },
+            {
+                "description": "Interview",
+                "descriptionType": "Methods"
+            },
+            {
+                "description": "Transcription",
+                "descriptionType": "Methods"
+            }
+        ],
+        "subjects": [
+            {
+                "subject": "Sch\u00fcler"
+            },
+            {
+                "subject": "Perspektive"
+            },
+            {
+                "subject": "Naturwissenschaften"
+            },
+            {
+                "subject": "Unterricht"
+            },
+            {
+                "subject": "Didaktik"
+            },
+            {
+                "subject": "Unterrichtsmaterial"
+            },
+            {
+                "subject": "Veranschaulichung"
+            },
+            {
+                "subject": "Unterrichtsmethode"
+            },
+            {
+                "subject": "Unterrichtseinheit"
+            },
+            {
+                "subject": "Wahrnehmung"
+            },
+            {
+                "subject": "Arbeitsprozess"
+            },
+            {
+                "subject": "Lernprozess"
+            },
+            {
+                "subject": "Lernarrangement"
+            },
+            {
+                "subject": "Inklusion"
+            },
+            {
+                "subject": "Student"
+            },
+            {
+                "subject": "Perspective"
+            },
+            {
+                "subject": "Science Education"
+            },
+            {
+                "subject": "Didactics"
+            },
+            {
+                "subject": "Teaching Material"
+            },
+            {
+                "subject": "Illustration"
+            },
+            {
+                "subject": "Teaching Method"
+            },
+            {
+                "subject": "Teaching Unit"
+            },
+            {
+                "subject": "Perception"
+            },
+            {
+                "subject": "Work Process"
+            },
+            {
+                "subject": "Learning Process"
+            },
+            {
+                "subject": "Learning Package"
+            },
+            {
+                "subject": "Inclusion"
+            }
+        ],
+        "dates": [
+            {
+                "date": "2026-04-21",
+                "dateType": "Accepted"
+            },
+            {
+                "date": "2026-04-21",
+                "dateType": "Issued"
+            },
+            {
+                "date": "2024-04-10/2025-02-21",
+                "dateType": "Collected"
+            }
+        ],
+        "language": "de",
+        "relatedIdentifiers": [
+            {
+                "relationType": "References",
+                "relatedIdentifier": "10.48548/pubdata-3438",
+                "relatedIdentifierType": "DOI"
+            }
+        ],
+        "rightsList": [
+            {
+                "rights": "bitstream_09b4fcdc-b730-4e3b-979f-888be32820c7_access"
+            },
+            {
+                "lang": "en-US",
+                "rightsUri": "https://pubdata.leuphana.de/static/docs/research_data/PubData_UsageLicense_AccessProtected_ResearchData.pdf",
+                "rightsIdentifier": "pubdata-1.0"
+            },
+            {
+                "rights": "Anonymous"
+            },
+            {
+                "lang": "en-US",
+                "rights": "Creative Commons Attribution 4.0 International",
+                "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+                "schemeUri": "https://spdx.org/licenses/",
+                "rightsIdentifier": "cc-by-4.0",
+                "rightsIdentifierScheme": "SPDX"
+            },
+            {
+                "rights": "RegisteredUsers"
+            }
+        ],
+        "geoLocations": [
+            {
+                "geoLocationPlace": "DEU"
+            },
+            {
+                "geoLocationPlace": "Hamburg"
+            }
+        ],
+        "fundingReferences": [],
+        "url": "https://pubdata.leuphana.de/handle/20.500.14123/13572",
+        "schemaVersion": "http://datacite.org/schema/kernel-4",
+        "state": "findable",
+        "created": "2026-04-21T10:15:14.000Z",
+        "registered": "2026-04-21T10:15:34.000Z",
+        "updated": "2026-10-05T10:15:16.000Z"
+    },
+    "doi": "10.48548/pubdata-3422",
+    "license_uri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "license": "Creative Commons Attribution 4.0 International"
+}
