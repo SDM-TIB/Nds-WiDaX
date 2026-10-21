@@ -54,7 +54,7 @@
             }
         },
         {
-            "source_property": "name",
+            "source_property": "identifier",
             "ldm_property": "organization",
             "transformation_function": {
                 "function": "getGoettingenOrganization",
@@ -76,6 +76,10 @@
         {
             "source_property": "license_title",
             "ldm_property": "license_title"
+        },
+                {
+            "source_property": "license_url",
+            "ldm_property": "license_url"
         },
         {
             "source_property": "description",

@@ -19,7 +19,7 @@
             "transformation_function": {
                 "function": "setConstant",
                 "parameters": {
-                    "value": "vdataset"
+                    "value": "dataset"
                 }
             }
         },
