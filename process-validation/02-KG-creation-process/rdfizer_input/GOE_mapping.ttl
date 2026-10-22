@@ -28,7 +28,7 @@
   ];
 
   rr:subjectMap [
-    rr:template "{kg_domain}/{id}";
+    rr:template "{kg_domain}/{name}";
     rr:class dcat:Dataset;
   ];
 
@@ -56,7 +56,7 @@
   rr:predicateObjectMap [
     rr:predicate dct:identifier;
     rr:objectMap [
-      rml:reference "id"
+      rml:reference "name"
     ]
   ];
 
@@ -191,7 +191,7 @@ rr:predicateObjectMap [
   rr:predicateObjectMap [
     rr:predicate dct:temporal;
     rr:objectMap [
-      rr:template "{id}";
+      rr:template "{name}";
       rr:termType rr:BlankNode;
     ]
   ];
@@ -199,7 +199,7 @@ rr:predicateObjectMap [
   rr:predicateObjectMap [
     rr:predicate dct:license;
     rr:objectMap [
-      rml:reference "license_url";
+      rml:reference "license_id";
     ]
   ].
 
@@ -210,7 +210,7 @@ rr:predicateObjectMap [
     rml:iterator "$.[*]";
   ];
   rr:subjectMap [
-    rr:template "{id}";
+    rr:template "{name}";
     rr:termType rr:BlankNode;
     rr:class dct:PeriodOfTime;
   ];
@@ -235,7 +235,7 @@ rr:predicateObjectMap [
   ];
 
   rr:subjectMap [
-    rr:template "{kg_domain}/{id}";
+    rr:template "{kg_domain}/{name}";
     rr:class dcat:Dataset;
     
   ];
@@ -243,7 +243,7 @@ rr:predicateObjectMap [
   rr:predicateObjectMap [
     rr:predicate dcat:contactPoint;
     rr:objectMap [
-      rr:template "{id}";
+      rr:template "{name}";
       rr:termType rr:BlankNode
     ]
   ];
@@ -277,7 +277,7 @@ rr:predicateObjectMap [
   rr:predicateObjectMap [
     rr:predicate dcat:distribution;
     rr:objectMap [
-      rr:template "{kg_domain}/{id}"
+      rr:template "{kg_domain}/{name}"
     ]
   ].
 
@@ -297,7 +297,7 @@ rr:predicateObjectMap [
   rr:predicateObjectMap [
     rr:predicate dcat:keyword;
     rr:objectMap [
-      rr:template "{kg_domain}/{id}"
+      rr:template "{kg_domain}/{name}"
     ]
   ].
 
@@ -309,7 +309,7 @@ rr:predicateObjectMap [
   ];
 
   rr:subjectMap [
-    rr:template "{kg_domain}/{id}";
+    rr:template "{kg_domain}/{name}";
     rr:class skos:Concept;
   ];
 
@@ -342,7 +342,7 @@ rr:predicateObjectMap [
   ];
 
   rr:subjectMap [
-    rr:template "{kg_domain}/{id}";
+    rr:template "{kg_domain}/{name}";
     rr:class dcat:Distribution
   ];
 
@@ -432,7 +432,7 @@ rr:predicateObjectMap [
     rml:iterator "$.[*]";
   ];
   rr:subjectMap [
-    rr:template "{id}";
+    rr:template "{name}";
     rr:termType rr:BlankNode;
     rr:class vcard:Organization
   ];
@@ -487,6 +487,6 @@ rr:predicateObjectMap [
   rr:predicateObjectMap [
     rr:predicate pro:owner;
     rr:objectMap [
-      rr:template "{kg_domain}/{id}";
+      rr:template "{kg_domain}/{name}";
     ]
   ].

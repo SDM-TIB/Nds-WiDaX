@@ -64,7 +64,7 @@
     rr:predicate dct:issued;
     rr:objectMap [
       rr:datatype xsd:dateTime;
-      rml:reference "metadata_created"
+      rml:reference "source_metadata_created"
     ]
   ];
 
@@ -72,7 +72,7 @@
     rr:predicate dct:modified;
     rr:objectMap [
       rr:datatype xsd:dateTime;
-      rml:reference "metadata_modified"
+      rml:reference "source_metadata_modified"
     ]
   ];
 
@@ -199,7 +199,7 @@ rr:predicateObjectMap [
   rr:predicateObjectMap [
     rr:predicate dct:license;
     rr:objectMap [
-      rml:reference "license_url";
+      rml:reference "license_id";
     ]
   ].
 
